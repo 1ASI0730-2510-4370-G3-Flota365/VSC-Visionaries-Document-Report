@@ -369,8 +369,6 @@
 
 <strong>Misión:</strong>
 
-
-
 <strong>Visión:</strong>
 
 <h4 id="teamProfile">1.1.2. Perfiles de integrantes del equipo</h4>
