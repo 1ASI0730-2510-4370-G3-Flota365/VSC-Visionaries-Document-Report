@@ -25,13 +25,13 @@
     <br><br>
     Huamani Sánchez, José Diego - U202110458
     <br><br>
-     - U
+    Calvo Yalan, Renato Guillermo - U202217053
     <br><br>
-     - U
+    Moscoso Bejar, Angelo Stephano - U20211G499
     <br><br>
-     - U
+    Ramirez Carrasco, Ariana Lizeth - U202312932
     <br><br>
-     - U
+    Sanchez Cruz, Raul Roberto - U201518942
     <br><br>
   </p>
   <h3>Abril, 2025</h3>
@@ -55,9 +55,9 @@
     <tbody>
         <tr>
             <td rowspan="14">TB1</td>
-            <td>//2025</td>
-            <td></td>
-            <td></td>
+            <td>10/04/2025</td>
+            <td>José Diego Huamani Sánchez</td>
+            <td>Desarrollo de la descripción del Statup, Antecedentes y problemáticas - Solution Profile y Segmentos Objetivos.</td>
         </tr>
         <tr>
             <td>//2025</td>
@@ -369,6 +369,8 @@
 
 <strong>Misión:</strong>
 
+
+
 <strong>Visión:</strong>
 
 <h4 id="teamProfile">1.1.2. Perfiles de integrantes del equipo</h4>
@@ -388,7 +390,7 @@
                 <img src="" alt="" style="display: block; margin: 50 auto 0 auto;"/>
             </td>
             <td style="width: 70%; border: 1px solid #FFF; padding: 10px; vertical-align: top;">
-                <strong> - (U)</strong> - Ingeniería de Software<br><br>
+                <strong>Renato Guillermo Calvo Yalan - (U202217053)</strong> - Ingeniería de Software<br><br>
             </td>
         </tr>
         <tr>
@@ -396,7 +398,7 @@
                 <img src="" alt="" style="display: block; margin: 50 auto 0 auto;"/>
             </td>
             <td style="width: 70%; border: 1px solid #FFF; padding: 10px; vertical-align: top;">
-                <strong> - (U)</strong> - Ingeniería de Software<br><br>
+                <strong>Angelo Stephano Moscoso Bejar - (U20211G499)</strong> - Ingeniería de Software<br><br>
             </td>
         </tr>
         <tr>
@@ -404,7 +406,7 @@
                 <img src="" alt="" style="display: block; margin: 50 auto 0 auto;"/>
             </td>
             <td style="width: 70%; border: 1px solid #FFF; padding: 10px; vertical-align: top;">
-                <strong> - (U)</strong> - Ingeniería de Software<br><br>
+                <strong>Ariana Lizeth Ramirez Carrasco - (U202312932)</strong> - Ingeniería de Software<br><br>
             </td>
         </tr>
         <tr>
@@ -412,7 +414,7 @@
                 <img src="" alt="" style="display: block; margin: 50 auto 0 auto;"/>
             </td>
             <td style="width: 70%; border: 1px solid #FFF; padding: 10px; vertical-align: top;">
-                <strong> - U</strong> - Ingeniería de Software<br><br>
+                <strong>Raul Roberto Sanchez Cruz - (U201518942)</strong> - Ingeniería de Software<br><br>
             </td>
         </tr>
 </table>
