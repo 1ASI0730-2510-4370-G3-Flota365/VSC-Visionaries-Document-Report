@@ -401,6 +401,8 @@ Ser la empresa líder en soluciones inteligentes para la gestión de flotas a ni
             </td>
             <td style="width: 70%; border: 1px solid #FFF; padding: 10px; vertical-align: top;">
                 <strong>Renato Guillermo Calvo Yalan - (U202217053)</strong> - Ingeniería de Software<br><br>
+              Tengo 21 años me llama la atención la cyberseguridad y la inteligencia artificial , mis principal fortaleza es el poder liderar a los grupos de trabajo además de que soy perseverante manejo
+              algunos lenguajes de programación y quiero seguir aprendiendo.Espero poder hace un gran proyecto con mi grupo de manera exitosa.
             </td>
         </tr>
         <tr>
