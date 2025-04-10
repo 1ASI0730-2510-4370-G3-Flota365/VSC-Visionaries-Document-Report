@@ -25,7 +25,7 @@
     <br><br>
     Huamani Sánchez, José Diego - U202110458
     <br><br>
-     - U
+     Ramírez Carrasco, Ariana Lizeth - U202312932
     <br><br>
      - U
     <br><br>
