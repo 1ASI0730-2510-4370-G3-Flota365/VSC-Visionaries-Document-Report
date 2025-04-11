@@ -607,7 +607,7 @@ Incluye desarrollo de la plataforma web, integración con sistemas GPS y costos 
 
 <h4 id="objectiveSegment">1.3. Segmentos objetivo</h4>
 
-Mediante selección rigurosa, Flota 365 seleccionó a los siguientes segmentos objetivos esto por su enorme relevancia, contribución y monitoreo en el procesos gestión de flotas. Dichos segmentos, incluyen a los *managers* - gerentes de flotas, y los conductores de vehiculos de transporte pesados, que seguidamente, se procederá a describir a cada uno de ellos, detallando sus caractéristicas demográficas y su relevancia del porque en la inclusión en nuesro mercado objetivo:
+Mediante una selección rigurosa, Flota 365 seleccionó a los siguientes segmentos objetivos, esto por su enorme relevancia, contribución y monitoreo en el procesos gestión de flotas. Dichos segmentos, incluyen a los *managers* (gerentes de flotas) y los conductores de vehiculos de transporte pesados que seguidamente, se procederá a describir a cada uno de ellos, detallando sus caractéristicas demográficas y su relevancia del por qué de su inclusión en nuesro marco de mercado objetivo:
 
 **Gestores de flota**:
 
