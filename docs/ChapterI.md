@@ -574,30 +574,77 @@ Incluye desarrollo de la plataforma web, integración con sistemas GPS y costos 
 <br>
 
 **Sabremos que tenido éxito cuando vamos algunos de los siguientes cambios en el comportamiento de nuestros usuarios:**
+- Incremento en el uso diario de la plataforma para registrar servicios y cargar evidencias.
+  
+- Disminución de incidencias por mantenimientos no planificados.
+  
+- Mejora en la puntualidad de las entregas y reducción de reclamos por parte de clientes finales.
+  
+- Uso activo de los reportes inteligentes para la toma de decisiones operativas.
+  
+- Adopción sostenida del sistema por parte de nuevos conductores y gerentes de flota.
 
 <br>
 
 **User Assumptions:**
 
-**¿Quién es el usuario?**
+**1) ¿Quién es el usuario?**
+
+Nuestros usuarios son **gerentes de flotas** y **conductores de transporte pesado**, entre los 25 y 55 años, que trabajan en empresas de logística, distribución o transporte de carga. Los gerentes están enfocados en la eficiencia operativa y el cumplimiento normativo, mientras que los conductores buscan herramientas prácticas para registrar su labor diaria sin complicaciones.
 
 <br>
 
-**¿Dónde encaja nuestro producto? ¿En sus actividades labores o en su vida?**
+**2) ¿Dónde encaja nuestro producto? ¿En sus actividades labores o en su vida?**
+
+Encaja directamente en sus **actividades laborales**. Flota365 se convierte en una herramienta esencial para supervisar, registrar y optimizar las operaciones diarias de transporte. Para los gerentes, es un panel de control completo. Para los conductores, una app funcional y accesible para evidenciar su trabajo diario.
 
 **¿Qué problemas tiene nuestro producto y cómo se pueden resolver?**
 
 **Problemas:**
 
+- Falta de visibilidad en tiempo real de las operaciones.
+
+- Dificultad para hacer seguimiento al mantenimiento preventivo.
+
+- Pérdida de evidencias físicas o registros manuales mal gestionados.
+
+- Comunicación deficiente entre el personal en campo y la oficina administrativa.
+  
 <br>
 
 **Solución:**
 
+Flota365 resuelve estos problemas proporcionando una plataforma digital centralizada que:
+
+- Permite la carga inmediata de evidencias (fotos, kilometraje, ubicación).
+
+- Automatiza la planificación de mantenimientos.
+
+- Ofrece geolocalización en tiempo real.
+
+- Genera reportes inteligentes para mejorar la toma de decisiones.
+
 <br>
 
-**¿Qué características son importantes?**
+**4) ¿Qué características son importantes?**
 
 **Features:**
+
+- Registro de servicios con evidencias fotográficas y geolocalización.
+
+- Planificador automático de mantenimientos.
+
+- Reportes en tiempo real sobre desempeño y eficiencia.
+
+- Panel administrativo intuitivo y accesible desde distintos dispositivos.
+
+- Notificaciones sobre alertas críticas (ej. mantenimiento vencido, falla reportada).
+
+- Integración con sistemas GPS y ERP de la empresa.
+
+**5) ¿Cómo debe verse nuestro producto y cómo comportarse?**
+
+Debe tener una interfaz moderna, limpia y adaptada tanto a escritorio como dispositivos móviles. La experiencia debe ser fluida, con navegación intuitiva, tiempos de carga mínimos y funcionalidades accesibles con pocos clics. Para los conductores, debe ser rápida y sencilla; para los gerentes, debe ofrecer profundidad analítica y control completo.
 
 <br>
 
