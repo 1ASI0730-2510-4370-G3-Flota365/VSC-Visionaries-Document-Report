@@ -656,6 +656,9 @@ Debe tener una interfaz moderna, limpia y adaptada tanto a escritorio como dispo
 
 
 <h4 id="hypohesisStatements">1.2.2.3. Lean UX Hypothesis Statements</h4>
+Creemos que permitir a los conductores registrar fotos, ubicación GPS y kilometraje en tiempo real
+Será usado por conductores de flotas y supervisores operativos.Para lograr una mayor trazabilidad y confianza en el cumplimiento de los servicios de entrega.
+Lo sabremos cuando mas del 50% de los servicios registrados incluyan evidencias completas durante el primer mes de uso.
 
 <h4 id="UXCanvas">1.2.2.4. Lean UX Canvas</h4>
 
