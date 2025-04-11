@@ -418,7 +418,8 @@ Ser la empresa líder en soluciones inteligentes para la gestión de flotas a ni
                 <img src="" alt="" style="display: block; margin: 50 auto 0 auto;"/>
             </td>
             <td style="width: 70%; border: 1px solid #FFF; padding: 10px; vertical-align: top;">
-                <strong>Ariana Lizeth Ramirez Carrasco - (U202312932)</strong> - Ingeniería de Software<br><br>
+                <strong>Ariana Lizeth Ramírez Carrasco (U202312932)</strong> - Ingeniería de Software<br><br>
+                Tengo 21 años y actualmente me estoy formando en la Universidad Peruana de Ciencias Aplicadas. Me considero una persona curiosa, tanto en el ámbito tecnológico como en la gestión y dirección de proyectos. Mis principales experiencias están relacionadas con el liderazgo y el manejo de equipos bajo marcos de trabajo Ágiles, el análisis de datos y el desarrollo con enfoque web. Espero que mi compromiso y mis ganas de enseñar logren hacer que el proyecto tome un direccionamiento hacia el éxito.
             </td>
         </tr>
         <tr>
@@ -648,9 +649,10 @@ Debe tener una interfaz moderna, limpia y adaptada tanto a escritorio como dispo
 
 <br>
 
+
 <h4 id="hypohesisStatements">1.2.2.3. Lean UX Hypothesis Statements</h4>
 
-<h4 id="UXCanvas">1.2.2.4. Lean UX Canvas<h4>
+<h4 id="UXCanvas">1.2.2.4. Lean UX Canvas</h4>
 
 <h4 id="objectiveSegment">1.3. Segmentos objetivo</h4>
 
