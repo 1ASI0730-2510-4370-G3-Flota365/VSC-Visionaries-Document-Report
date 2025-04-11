@@ -567,6 +567,11 @@ Incluye desarrollo de la plataforma web, integración con sistemas GPS y costos 
 <h4 id="leanUXProcess">1.2.2. Lean UX Process</h4>
 
 <h4 id="problemStatement">1.2.2.1. Lean UX Problem Statements</h4>
+En un contexto donde la eficiencia operativa es importante , muchas empresas de transporte y logística aún dependen de procesos manuales para gestionar sus flotas. Esto limita su capacidad para monitorear servicios, coordinar mantenimientos, o tomar decisiones.
+
+Como consecuencia, se presentan problemas como la falta de evidencias sobre las entregas, dificultades en la planificación del mantenimiento, escasa visibilidad del estado mecánico de los vehículos y una comunicación deficiente entre el personal y los administrativos.
+
+¿Cómo podríamos digitalizar y optimizar la gestión operativa de flotas para que las empresas puedan mejorar su productividad , reducir errores , anticipar mantenimientos y tomar decisiones informadas que impulsen su competitividad?
 
 <h4 id="assumptions">1.2.2.2. Lean UX Assumptions</h4>
 
