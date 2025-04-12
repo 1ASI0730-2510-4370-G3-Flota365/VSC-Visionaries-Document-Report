@@ -411,6 +411,7 @@ Ser la empresa líder en soluciones inteligentes para la gestión de flotas a ni
             </td>
             <td style="width: 70%; border: 1px solid #FFF; padding: 10px; vertical-align: top;">
                 <strong>Angelo Stephano Moscoso Bejar - (U20211G499)</strong> - Ingeniería de Software<br><br>
+              Tengo 20 años estoy estudiando actualmente en la Univeridad Peruana de Ciencias Aplicadas. Me ha interasado mucho la creación de paginas web para diversos objetivos. Manejo algunos lenguajes de programación como javascript, C++, C+, Python, entre otros. Considero que tengo las habilidades de comunicación efectiva, organización, proactividad, resolución de problemas, entre otras. Espero aportar de manera satisfactoria en mi grupo para terminar de manera exitosa el proyecto.
             </td>
         </tr>
         <tr>
