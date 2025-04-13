@@ -577,7 +577,6 @@ Como consecuencia, se presentan problemas como la falta de evidencias sobre las 
 <h4 id="assumptions">1.2.2.2. Lean UX Assumptions</h4>
 
 **Business Assumptions:**
-
 <br>
 
 **Sabremos que tenido éxito cuando vamos algunos de los siguientes cambios en el comportamiento de nuestros usuarios:**
@@ -648,13 +647,12 @@ Flota365 resuelve estos problemas proporcionando una plataforma digital centrali
 - Notificaciones sobre alertas críticas (ej. mantenimiento vencido, falla reportada).
 
 - Integración con sistemas GPS y ERP de la empresa.
+<br>
 
 **5) ¿Cómo debe verse nuestro producto y cómo comportarse?**
 
 Debe tener una interfaz moderna, limpia y adaptada tanto a escritorio como dispositivos móviles. La experiencia debe ser fluida, con navegación intuitiva, tiempos de carga mínimos y funcionalidades accesibles con pocos clics. Para los conductores, debe ser rápida y sencilla; para los gerentes, debe ofrecer profundidad analítica y control completo.
-
 <br>
-
 
 <h4 id="hypohesisStatements">1.2.2.3. Lean UX Hypothesis Statements</h4>
 Creemos que permitir a los conductores registrar fotos, ubicación GPS y kilometraje en tiempo real
@@ -662,6 +660,7 @@ Será usado por conductores de flotas y supervisores operativos.Para lograr una 
 Lo sabremos cuando mas del 50% de los servicios registrados incluyan evidencias completas durante el primer mes de uso.
 
 <h4 id="UXCanvas">1.2.2.4. Lean UX Canvas</h4>
+  <img src="../images/Lean_UX _Canvas.jpg" alt="Lean UX Canvas" width="auto" height="430"/>
 
 <h4 id="objectiveSegment">1.3. Segmentos objetivo</h4>
 
