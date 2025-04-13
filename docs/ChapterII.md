@@ -134,6 +134,19 @@ En esta sección se aborda la investigación tomando como base la recolección d
 8:¿Qué funcionalidades consideras indispensables en una solución como esta?
 
 9:¿Qué tan importante es para ti tener reportes automáticos ?¿Pagarías por una plataforma que te de toda la información de tu flota y con ello evitar perdidas monetarias innecesarias?
+<h4 id="interviewDesing">Preguntas para segmento 2:</h4>
+1:¿Qué tan fácil o difícil es para ti completar estos registros manualmente? ¿Qué parte del proceso te resulta más tediosa o complicada?
+
+2:¿Cuánto tiempo pierdes, aproximadamente, al tratar de contactar a tu jefe o al equipo para informar un problema técnico ?
+
+3:¿Alguna vez has experimentado retrasos o problemas en tus rutas debido a la falta de información sobre el estado del vehículo?
+
+4:¿Te gustaría contar con una plataforma  que te permita registrar todos los detalles de manera más rápida y eficiente?
+
+5:Si tuvieras una herramienta que te diga en qué estado está el automóvil, cuánto falta para el mantenimiento, o si hubo un problema mecánico ¿la usarías?
+¿Qué herramientas usas actualmente para registrar cualquier problema o inconveniente ?
+
+6:¿Cuál es tu mayor preocupación cuando presentas  problemas mecánicos durante el viaje? ¿Cómo una app podría ayudarte a prevenir estos problemas?
 
 <h4 id="registerInterview">2.2.2. Registro de entrevistas</h4>
 
