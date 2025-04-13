@@ -1,8 +1,12 @@
 <h2 id="requirementsElicitation">CAPÍTULO 2: REQUIREMENTS ELICITATION & ANALYSIS</h2>
 
 <h3 id="competitors">2.1. Competidores</h3>
+En esta sección se presenta la identificación y descripción de los principales competidores de Flota365, tanto directos como indirectos. Estos actores del mercado cuentan con propuestas basadas en productos digitales similares o con enfoques que abordan parcialmente el mismo problema que nuestra solución. La comparación busca evidenciar las características esenciales de cada alternativa y contextualizar el entorno competitivo en el que se desarrollará Flota365.
 
 <h4 id="competitiveAnalysis">2.1.1. Análisis Competitivo</h4>
+El análisis competitivo tiene como finalidad profundizar en el conocimiento que Flota365 tiene sobre sus competidores. Para ello, se ha elaborado un <em>Competitive Analysis Landscape</em>, el cual organiza de manera estructurada los aspectos clave de cada actor analizado, incluyendo perfil general, estrategia de marketing, características del producto, precios y canales de distribución. Finalmente, se incorpora un análisis FODA que permite visualizar de forma clara las fortalezas, debilidades, oportunidades y amenazas, tanto propias como de los competidores. Esta comparación contribuye a reconocer oportunidades de mejora, validar ventajas competitivas y ajustar el enfoque estratégico del proyecto Flota365.
+<br>
+</br>
 
 <table>
     <tr>
@@ -117,36 +121,36 @@ En esta sección se aborda la investigación tomando como base la recolección d
 <h4 id="interviewDesign">2.2.1. Diseño de entrevistas</h4>
 <h4 id="interviewDesing">Preguntas para segmento 1:</h4>
 
-1:¿Cuál es tu rol actual y qué responsabilidades tienes en la gestión de la flota?
+1: ¿Cuál es tu rol actual y qué responsabilidades tienes en la gestión de la flota?
 
-2:¿Con cuántos vehículos y conductores trabajas actualmente?
+2: ¿Con cuántos vehículos y conductores trabajas actualmente?
 
-3:¿Qué herramientas utilizas hoy para gestionar tu flota?
+3: ¿Qué herramientas utilizas hoy para gestionar tu flota?
 
-4:¿Cómo haces seguimiento a los mantenimientos y registros de cada vehículo?
+4: ¿Cómo haces seguimiento a los mantenimientos y registros de cada vehículo?
 
-5:¿Te ha pasado que no pudiste tomar decisiones a tiempo por falta de datos?
+5: ¿Te ha pasado que no pudiste tomar decisiones a tiempo por falta de datos?
 
-6:¿Qué problemas enfrentas más seguido en la gestión diaria de tus unidades?
+6: ¿Qué problemas enfrentas más seguido en la gestión diaria de tus unidades?
 
-7:¿Has probado algún sistema de gestión de flotas antes? ¿Cuál fue tu experiencia?
+7: ¿Has probado algún sistema de gestión de flotas antes? ¿Cuál fue tu experiencia?
 
-8:¿Qué funcionalidades consideras indispensables en una solución como esta?
+8: ¿Qué funcionalidades consideras indispensables en una solución como esta?
 
-9:¿Qué tan importante es para ti tener reportes automáticos ?¿Pagarías por una plataforma que te de toda la información de tu flota y con ello evitar perdidas monetarias innecesarias?
+9: ¿Qué tan importante es para ti tener reportes automáticos ?¿Pagarías por una plataforma que te de toda la información de tu flota y con ello evitar perdidas monetarias innecesarias?
 <h4 id="interviewDesing">Preguntas para segmento 2:</h4>
-1:¿Qué tan fácil o difícil es para ti completar estos registros manualmente? ¿Qué parte del proceso te resulta más tediosa o complicada?
+1: ¿Qué tan fácil o difícil es para ti completar estos registros manualmente? ¿Qué parte del proceso te resulta más tediosa o complicada?
 
-2:¿Cuánto tiempo pierdes, aproximadamente, al tratar de contactar a tu jefe o al equipo para informar un problema técnico ?
+2: ¿Cuánto tiempo pierdes, aproximadamente, al tratar de contactar a tu jefe o al equipo para informar un problema técnico ?
 
-3:¿Alguna vez has experimentado retrasos o problemas en tus rutas debido a la falta de información sobre el estado del vehículo?
+3: ¿Alguna vez has experimentado retrasos o problemas en tus rutas debido a la falta de información sobre el estado del vehículo?
 
-4:¿Te gustaría contar con una plataforma  que te permita registrar todos los detalles de manera más rápida y eficiente?
+4: ¿Te gustaría contar con una plataforma  que te permita registrar todos los detalles de manera más rápida y eficiente?
 
-5:Si tuvieras una herramienta que te diga en qué estado está el automóvil, cuánto falta para el mantenimiento, o si hubo un problema mecánico ¿la usarías?
+5: Si tuvieras una herramienta que te diga en qué estado está el automóvil, cuánto falta para el mantenimiento, o si hubo un problema mecánico ¿la usarías?
 ¿Qué herramientas usas actualmente para registrar cualquier problema o inconveniente ?
 
-6:¿Cuál es tu mayor preocupación cuando presentas  problemas mecánicos durante el viaje? ¿Cómo una app podría ayudarte a prevenir estos problemas?
+6: ¿Cuál es tu mayor preocupación cuando presentas  problemas mecánicos durante el viaje? ¿Cómo una app podría ayudarte a prevenir estos problemas?
 
 <h4 id="registerInterview">2.2.2. Registro de entrevistas</h4>
 
@@ -228,6 +232,19 @@ Para cada uno de nuestros segmentos objetivos, ...
 En esta sección el equipo explica y presenta los artefactos resultantes del proceso de análisis de la información recolectada. Aquí se incluye secciones internas para User Personas, User Task Matrix, User Journey Maps, Empathy Mapping y As-Is Scenario Mapping:
 
 <h4 id="userPersonas">2.3.1. User Personas</h4>
+A partir del análisis de entrevistas y del estudio de la competencia, se identificaron los principales perfiles de usuarios que interactúan directamente con la solución Flota365. Estos perfiles representan los segmentos objetivo clave para el sistema, ya que concentran las necesidades operativas más críticas dentro de la gestión de flotas. La construcción de los User Persona permite al equipo de desarrollo entender mejor sus motivaciones, frustraciones y hábitos, lo que resulta fundamental para diseñar funcionalidades adecuadas y experiencias de usuario efectivas.
+<br>
+</br>
+
+**1) Gerentes de flotas** 
+
+Este perfil representa a los responsables del control, monitoreo y toma de decisiones sobre el rendimiento de la flota.
+
+
+**2) Conductores de vehículos pesados**
+
+Este perfil incluye a los usuarios operativos encargados de ejecutar las rutas de transporte, cuya experiencia en el campo y necesidades prácticas son clave para una gestión eficiente.
+
 
 <h4 id="userTaskMatrix">2.3.2. User Task Matrix</h4>
 
