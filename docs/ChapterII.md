@@ -115,6 +115,25 @@
 En esta sección se aborda la investigación tomando como base la recolección de información en base a entrevistas a representantes de los segmentos objetivo. Es decir, entrevistaremos a nuestro público objetivo para asi tener más de cerca algunos testimonios y poder trabajar en base a ellos.
 
 <h4 id="interviewDesign">2.2.1. Diseño de entrevistas</h4>
+<h4 id="interviewDesing">Preguntas para segmento 1:</h4>
+
+1:¿Cuál es tu rol actual y qué responsabilidades tienes en la gestión de la flota?
+
+2:¿Con cuántos vehículos y conductores trabajas actualmente?
+
+3:¿Qué herramientas utilizas hoy para gestionar tu flota?
+
+4:¿Cómo haces seguimiento a los mantenimientos y registros de cada vehículo?
+
+5:¿Te ha pasado que no pudiste tomar decisiones a tiempo por falta de datos?
+
+6:¿Qué problemas enfrentas más seguido en la gestión diaria de tus unidades?
+
+7:¿Has probado algún sistema de gestión de flotas antes? ¿Cuál fue tu experiencia?
+
+8:¿Qué funcionalidades consideras indispensables en una solución como esta?
+
+9:¿Qué tan importante es para ti tener reportes automáticos ?¿Pagarías por una plataforma que te de toda la información de tu flota y con ello evitar perdidas monetarias innecesarias?
 
 <h4 id="registerInterview">2.2.2. Registro de entrevistas</h4>
 
