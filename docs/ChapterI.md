@@ -429,6 +429,7 @@ Ser la empresa líder en soluciones inteligentes para la gestión de flotas a ni
             </td>
             <td style="width: 70%; border: 1px solid #FFF; padding: 10px; vertical-align: top;">
                 <strong>Raul Roberto Sanchez Cruz - (U201518942)</strong> - Ingeniería de Software<br><br>
+              Estudiante de la Universidad Peruana de Ciencias Aplicadas. Empecé a trabajar desde los 16 años en soporte técnico y con el pasar de los años me incline por el desarrollo de software, actualmente vengo trabajando en desarrollo de aplicaciones web, implementación de data centers y de soluciones en la nube. Deseo contribuir con mi experiencia y compromiso para sacar adelante los proyectos académicos en los cuales participe.
             </td>
         </tr>
 </table>
