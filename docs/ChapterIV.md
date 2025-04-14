@@ -27,7 +27,11 @@
   La arquitectura está diseñada para permitir escalabilidad futura.
 </p>
 <h4 id="labelSystem">4.2.2. Labeling Systems</h4>
-
+<p>
+  Las etiquetas utilizadas en la interfaz son simples, claras y orientadas a usuarios logísticos: "Pedidos", "Ubicación", "Combustible", "Conductores", etc.<br>
+  Se evita el uso de términos técnicos o ambiguos. El lenguaje está pensado para ser comprendido rápidamente.<br>
+  Se mantiene consistencia terminológica en menús, botones y formularios para fortalecer la experiencia de usuario.
+</p>
 <h4 id="seoTags">4.2.3. SEO Tags and Meta Tags</h4>
 
 <h4 id="searchSystem">4.2.4. Searching Systems</h4>
