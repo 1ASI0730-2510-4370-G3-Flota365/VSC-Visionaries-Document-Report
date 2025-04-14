@@ -21,7 +21,11 @@
 <h3 id="infoArchitecture">4.2. Information Architecture</h3>
 
 <h4 id="orgSystem">4.2.1. Organization Systems</h4>
-
+<p>
+  Se sigue una estructura jerárquica: Inicio, Características, Módulos (Tracking, Mantenimiento, Combustible, Entregas), Contacto.<br>
+  Los módulos agrupan funcionalidades relacionadas en pestañas o secciones.<br>
+  La arquitectura está diseñada para permitir escalabilidad futura.
+</p>
 <h4 id="labelSystem">4.2.2. Labeling Systems</h4>
 
 <h4 id="seoTags">4.2.3. SEO Tags and Meta Tags</h4>
