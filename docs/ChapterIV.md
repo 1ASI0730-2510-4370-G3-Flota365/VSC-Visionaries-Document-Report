@@ -33,7 +33,13 @@
   Se mantiene consistencia terminológica en menús, botones y formularios para fortalecer la experiencia de usuario.
 </p>
 <h4 id="seoTags">4.2.3. SEO Tags and Meta Tags</h4>
-
+<p>
+  <code>&lt;title&gt;FleetControl - Gestión Inteligente de Flotas | VSC-Visionaries&lt;/title&gt;</code><br>
+  <code>&lt;meta name="description" content="Solución moderna para gestión de flotas con seguimiento en tiempo real, mantenimiento, control de entregas y consumo de combustible."&gt;</code><br>
+  <code>&lt;meta name="keywords" content="gestión de flotas, logística, rastreo, mantenimiento, VSC-Visionaries"&gt;</code><br>
+  Implementación de etiquetas <strong>Open Graph</strong> y <strong>Twitter Cards</strong> para correcta visualización en redes sociales.<br>
+  Uso correcto de encabezados (<code>h1</code>, <code>h2</code>, <code>h3</code>) para facilitar la indexación.
+</p>
 <h4 id="searchSystem">4.2.4. Searching Systems</h4>
 
 <h4 id="navigationSystem">4.2.5. Navigation System</h4>
