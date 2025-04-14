@@ -3,7 +3,13 @@
 <h3 id="styleGuidelines">4.1. Style Guidelines</h3>
 
 <h4 id="generalStyleGuidelines">4.1.1. General Style Guidelines</h4>
-
+<p>
+  El diseño visual de la aplicación sigue una estética moderna y minimalista, en coherencia con la identidad de VSC-Visionaries.<br>
+  Se prioriza el uso de fondo negro (#000000) para resaltar los elementos visuales en blanco puro (#ffffff) y acentos celestes (#00bfff).<br>
+  La tipografía utiliza fuentes seguras del sistema como <b>Arial</b>, <b>Verdana</b> o <b>Tahoma</b>, que ofrecen buena legibilidad y un estilo limpio.<br>
+  Se emplean líneas delgadas y elementos horizontales como recurso gráfico de separación, inspirados en el logotipo.<br>
+  Se asegura un diseño responsive adaptable a múltiples resoluciones de pantalla.
+</p>
 <h4 id="webStyleGuidelines">4.1.2. Web Style Guidelines</h4>
 
 <h3 id="infoArchitecture">4.2. Information Architecture</h3>
