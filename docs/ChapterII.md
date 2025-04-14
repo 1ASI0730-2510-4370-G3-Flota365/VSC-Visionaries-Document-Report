@@ -238,13 +238,16 @@ A partir del análisis de entrevistas y del estudio de la competencia, se identi
 
 **1) Gerentes de flotas** 
 
-Este perfil representa a los responsables del control, monitoreo y toma de decisiones sobre el rendimiento de la flota.
+Para los gerentes de flotas se elaboró el User Persona **Carlos Mejia**. Se tomaron en cuenta factores clave como su edad, rol profesional, experiencia en gestión logística y toma de decisiones operativas, así como sus principales frustraciones en torno al control y monitoreo de los vehículos. También se evaluó su familiaridad con herramientas tecnológicas como hojas de cálculo, software de gestión y plataformas de análisis de datos, lo cual permitió definir un perfil completo y representativo del segmento.
 
+  <img src="../images/User_Persona_Segmento1.jpg" alt="User Persona Gerentes" width="auto" height="480"/>
+</br>
 
 **2) Conductores de vehículos pesados**
 
-Este perfil incluye a los usuarios operativos encargados de ejecutar las rutas de transporte, cuya experiencia en el campo y necesidades prácticas son clave para una gestión eficiente.
+Para los conductores de vehículos de transporte pesado se elaboró el User Persona **Juan Torres**. La construcción de este perfil consideró aspectos como su rutina diaria, contexto laboral, grado de exposición a herramientas digitales, y las principales dificultades que enfrenta durante sus recorridos. Asimismo, se identificó su nivel de uso de tecnologías básicas como GPS, aplicaciones móviles y comunicación digital, lo cual fue determinante para ajustar la propuesta de valor de Flota365 a sus necesidades reales.
 
+  <img src="../images/User_Persona_Segmento2.jpg" alt="User Persona Gerentes" width="auto" height="480"/>
 
 <h4 id="userTaskMatrix">2.3.2. User Task Matrix</h4>
 
