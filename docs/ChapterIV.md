@@ -11,7 +11,13 @@
   Se asegura un diseño responsive adaptable a múltiples resoluciones de pantalla.
 </p>
 <h4 id="webStyleGuidelines">4.1.2. Web Style Guidelines</h4>
-
+<p>
+  Estructura basada en etiquetas estándar de HTML como <code>&lt;div&gt;</code>, <code>&lt;table&gt;</code>, <code>&lt;form&gt;</code>.<br>
+  CSS personalizado sin frameworks.<br>
+  Botones: fondo negro, borde celeste y texto blanco. En hover, fondo celeste con texto negro.<br>
+  Formularios claros, inputs con fondo oscuro y texto claro, adaptados a la estética visual.<br>
+  Layout basado en <code>&lt;div&gt;</code> con uso de clases para controlar el diseño visual.
+</p>
 <h3 id="infoArchitecture">4.2. Information Architecture</h3>
 
 <h4 id="orgSystem">4.2.1. Organization Systems</h4>
