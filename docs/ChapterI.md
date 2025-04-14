@@ -667,14 +667,34 @@ Lo sabremos cuando mas del 50% de los servicios registrados incluyan evidencias 
 
 Mediante una selección rigurosa, Flota 365 seleccionó a los siguientes segmentos objetivos, esto por su enorme relevancia, contribución y monitoreo en el procesos gestión de flotas. Dichos segmentos, incluyen a los *managers* (gerentes de flotas) y los conductores de vehiculos de transporte pesados que seguidamente, se procederá a describir a cada uno de ellos, detallando sus caractéristicas demográficas y su relevancia del por qué de su inclusión en nuesro marco de mercado objetivo:
 
-**Gestores de flota**:
+<p><strong>Gestores de flota:</strong></p>
+<ul>
+  <li><strong>Descripción:</strong> Los gestores de flota son los encargados de supervisar y optimizar el uso de los vehículos dentro de una flota. Tienen la responsabilidad de garantizar la eficiencia operativa, el cumplimiento de la normativa, y la maximización de la productividad. Están enfocados en la gestión del mantenimiento preventivo, la planificación de rutas, la supervisión de los conductores y la toma de decisiones basadas en datos operativos y de rendimiento.</li>
+  <li><strong>Características Demográficas:</strong>
+    <ul>
+      <li>Edad: 30 a 55 años</li>
+      <li>Experiencia: De 5 a 20 años en el sector logístico o de transporte</li>
+      <li>Cargo: Gerente de flota, supervisor de logística, responsable de operaciones</li>
+      <li>Nivel educativo: Técnico o universitario en áreas relacionadas con la logística, ingeniería industrial, transporte o afines</li>
+      <li>Ubicación: En áreas urbanas o zonas industriales, donde las operaciones de transporte son esenciales</li>
+      <li>Ingresos: De nivel medio a alto, dependiendo del tamaño de la empresa</li>
+      <li>Principales intereses: Mejora de la eficiencia operativa, reducción de costos, cumplimiento normativo, optimización de rutas</li>
+    </ul>
+  </li>
+</ul>
 
-- **Descripción**:
-
-- **Características Demográficas**:
-
-**Conductores de vehiculos de transporte pesados**:
-
-- **Descripción**:
-
-- **Características Demográficas**:
+<p><strong>Conductores de vehículos de transporte pesados:</strong></p>
+<ul>
+  <li><strong>Descripción:</strong> Los conductores de vehículos de transporte pesado son los encargados de operar las unidades de carga, siguiendo las rutas asignadas y entregando mercancías o servicios de acuerdo con los tiempos establecidos. Además, deben asegurarse de realizar una adecuada documentación de su trabajo, incluyendo la carga de evidencias como fotos, kilometraje y ubicación, como parte de su labor diaria.</li>
+  <li><strong>Características Demográficas:</strong>
+    <ul>
+      <li>Edad: 25 a 50 años</li>
+      <li>Experiencia: De 3 a 15 años en conducción de vehículos pesados</li>
+      <li>Cargo: Conductor de camiones de carga, transportista</li>
+      <li>Nivel educativo: Secundaria completa, con formación adicional en manejo de vehículos pesados</li>
+      <li>Ubicación: Trabajan en diversas regiones, especialmente en zonas urbanas, industriales o en rutas nacionales</li>
+      <li>Ingresos: De nivel medio a medio-alto, con variaciones dependiendo de las rutas y el tipo de transporte</li>
+      <li>Principales intereses: Seguridad vial, facilidad en el registro de su trabajo, optimización de tiempos de entrega, reducción de carga administrativa</li>
+    </ul>
+  </li>
+</ul>
