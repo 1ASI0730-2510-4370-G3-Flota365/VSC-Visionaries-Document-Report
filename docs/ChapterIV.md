@@ -41,7 +41,13 @@
   Uso correcto de encabezados (<code>h1</code>, <code>h2</code>, <code>h3</code>) para facilitar la indexación.
 </p>
 <h4 id="searchSystem">4.2.4. Searching Systems</h4>
-
+<p>
+  Sistema de búsqueda implementado por palabra clave, con filtros por estado, fecha, módulo y tipo de recurso.<br>
+  Se desarrollará con <b>Vue.js</b> como framework principal del frontend y <b>C#</b> en el backend, permitiendo alta integración con datos.<br>
+  Se permitirá el uso de <b>JavaScript clásico</b> para funciones específicas dentro de los componentes o formularios.<br>
+  Se proyecta la incorporación de autocompletado y sugerencias dinámicas.<br>
+  La búsqueda estará optimizada para resultados rápidos y relevantes, dentro de un entorno de interfaz oscura.
+</p>
 <h4 id="navigationSystem">4.2.5. Navigation System</h4>
 
 <h3 id="landingDesign">4.3. Landing Page UI Design</h3>
