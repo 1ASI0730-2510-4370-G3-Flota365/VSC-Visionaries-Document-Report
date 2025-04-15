@@ -57,7 +57,32 @@
             <td rowspan="14">TB1</td>
             <td>10/04/2025</td>
             <td>José Diego Huamani Sánchez</td>
-            <td>Desarrollo de la descripción del Statup, Antecedentes y problemáticas - Solution Profile y Segmentos Objetivos.</td>
+            <td>Desarrollo de la descripción del Statup, Antecedentes y problemáticas - Solution Profile y Segmentos Objetivos (Capítulo 1)</td>
+        </tr>
+        <tr>
+            <td>//2025</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>//2025</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>//2025</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>15/04/2025</td>
+            <td>José Diego Huamani Sánchez</td>
+            <td>Mejoras en la redacción de los Lean UX Problem Statement y Lean UX Hypothesis Statements (Capítulo 1)</td>
+        </tr>
+        <tr>
+            <td>//2025</td>
+            <td></td>
+            <td></td>
         </tr>
         <tr>
             <td>//2025</td>
@@ -397,7 +422,7 @@ Ser la empresa líder en soluciones inteligentes para la gestión de flotas a ni
         </tr>
         <tr>
             <td style="width: 30%; border: 1px solid #FFF; padding: 10px; vertical-align: top;">
-                <img src="" alt="" style="display: block; margin: 50 auto 0 auto;"/>
+                <img src="" alt="Renato Calvo Photo" style="display: block; margin: 50 auto 0 auto;"/>
             </td>
             <td style="width: 70%; border: 1px solid #FFF; padding: 10px; vertical-align: top;">
                 <strong>Renato Guillermo Calvo Yalan - (U202217053)</strong> - Ingeniería de Software<br><br>
@@ -407,7 +432,7 @@ Ser la empresa líder en soluciones inteligentes para la gestión de flotas a ni
         </tr>
         <tr>
             <td style="width: 30%; border: 1px solid #FFF; padding: 10px; vertical-align: top;">
-                <img src="" alt="" style="display: block; margin: 50 auto 0 auto;"/>
+                <img src="" alt="Stephano Moscoso Photo" style="display: block; margin: 50 auto 0 auto;"/>
             </td>
             <td style="width: 70%; border: 1px solid #FFF; padding: 10px; vertical-align: top;">
                 <strong>Angelo Stephano Moscoso Bejar - (U20211G499)</strong> - Ingeniería de Software<br><br>
@@ -416,7 +441,7 @@ Ser la empresa líder en soluciones inteligentes para la gestión de flotas a ni
         </tr>
         <tr>
             <td style="width: 30%; border: 1px solid #FFF; padding: 10px; vertical-align: top;">
-                <img src="" alt="" style="display: block; margin: 50 auto 0 auto;"/>
+                <img src="" alt="Ariana Ramirez Photo" style="display: block; margin: 50 auto 0 auto;"/>
             </td>
             <td style="width: 70%; border: 1px solid #FFF; padding: 10px; vertical-align: top;">
                 <strong>Ariana Lizeth Ramírez Carrasco (U202312932)</strong> - Ingeniería de Software<br><br>
@@ -425,7 +450,7 @@ Ser la empresa líder en soluciones inteligentes para la gestión de flotas a ni
         </tr>
         <tr>
             <td style="width: 30%; border: 1px solid #FFF; padding: 10px; vertical-align: top;">
-                <img src="" alt="" style="display: block; margin: 50 auto 0 auto;"/>
+                <img src="" alt="Raul Sanchez Photo" style="display: block; margin: 50 auto 0 auto;"/>
             </td>
             <td style="width: 70%; border: 1px solid #FFF; padding: 10px; vertical-align: top;">
                 <strong>Raul Roberto Sanchez Cruz - (U201518942)</strong> - Ingeniería de Software<br><br>
@@ -569,11 +594,26 @@ Incluye desarrollo de la plataforma web, integración con sistemas GPS y costos 
 <h4 id="leanUXProcess">1.2.2. Lean UX Process</h4>
 
 <h4 id="problemStatement">1.2.2.1. Lean UX Problem Statements</h4>
-En un contexto donde la eficiencia operativa es importante , muchas empresas de transporte y logística aún dependen de procesos manuales para gestionar sus flotas. Esto limita su capacidad para monitorear servicios, coordinar mantenimientos, o tomar decisiones.
 
-Como consecuencia, se presentan problemas como la falta de evidencias sobre las entregas, dificultades en la planificación del mantenimiento, escasa visibilidad del estado mecánico de los vehículos y una comunicación deficiente entre el personal y los administrativos.
+**Problem Statement 1: Gestor de flota**
 
-¿Cómo podríamos digitalizar y optimizar la gestión operativa de flotas para que las empresas puedan mejorar su productividad , reducir errores , anticipar mantenimientos y tomar decisiones informadas que impulsen su competitividad?
+En la actualidad, los gestores de flota enfrentan grandes dificultades para contar con una visión centralizada y en tiempo real del estado operativo de los vehículos, lo que ocasiona falta de control en el mantenimiento, retrasos en las entregas, duplicación de tareas administrativas y errores en la supervisión diaria.
+
+La ausencia de herramientas ágiles y basadas en datos precisos para evaluar el rendimiento de las unidades y conductores obliga a las empresas a invertir más de lo presupuestado, afectando sus recursos y activos estratégicos.
+
+Por esta razón, se ha identificado como factor crítico la necesidad de una solución tecnológica que centralice los flujos administrativos y de monitoreo, integrando la operación diaria de vehículos y conductores en una plataforma intuitiva, visual y de fácil adopción.
+
+¿Cómo podríamos diseñar una plataforma web que centralice toda la información operativa de la flota y automatice el seguimiento de tareas críticas, para ayudar a los gestores a tomar decisiones eficientes, rápidas y basadas en evidencia?
+
+**Problem Statement 2: Conductor de Vehículos de Transporte**
+
+Los conductores de transporte pesado suelen enfrentarse a procesos manuales, desorganizados y poco claros para reportar recorridos, registrar entregas o informar incidentes. Esto genera frustración, pérdida de tiempo y desmotivación, además de una sensación de que su trabajo no es valorado ni reconocido.
+
+A esto se suma la falta de herramientas intuitivas para cargar evidencias y obtener retroalimentación clara sobre su rendimiento, lo que afecta directamente su confianza y compromiso con la operación.
+
+Por lo tanto, se ha identificado como factor crítico la necesidad de ofrecer una solución digital que simplifique el registro de actividades y recorridos, y que facilite la comunicación directa entre el conductor y sus superiores, promoviendo así la motivación y mejora continua.
+
+¿Cómo podríamos crear una experiencia digital simple, rápida y amigable para que los conductores puedan registrar sus actividades diarias, cargar evidencias de forma efectiva y sentirse parte de un sistema que reconoce y mejora su desempeño?
 
 <h4 id="assumptions">1.2.2.2. Lean UX Assumptions</h4>
 
@@ -605,7 +645,7 @@ Nuestros usuarios son **gerentes de flotas** y **conductores de transporte pesad
 
 Encaja directamente en sus **actividades laborales**. Flota365 se convierte en una herramienta esencial para supervisar, registrar y optimizar las operaciones diarias de transporte. Para los gerentes, es un panel de control completo. Para los conductores, una app funcional y accesible para evidenciar su trabajo diario.
 
-**¿Qué problemas tiene nuestro producto y cómo se pueden resolver?**
+**3) ¿Qué problemas tiene nuestro producto y cómo se pueden resolver?**
 
 **Problemas:**
 
@@ -656,12 +696,28 @@ Debe tener una interfaz moderna, limpia y adaptada tanto a escritorio como dispo
 <br>
 
 <h4 id="hypohesisStatements">1.2.2.3. Lean UX Hypothesis Statements</h4>
-Creemos que permitir a los conductores registrar fotos, ubicación GPS y kilometraje en tiempo real
-Será usado por conductores de flotas y supervisores operativos.Para lograr una mayor trazabilidad y confianza en el cumplimiento de los servicios de entrega.
-Lo sabremos cuando mas del 50% de los servicios registrados incluyan evidencias completas durante el primer mes de uso.
+
+**Creemos que** permitir búsquedas por placa del vehículo o DNI del conductor y filtros por rango de fechas,
+**Para** gestores que necesitan monitorear actividades específicas en diferentes periodos de tiempo y entre múltiples vehículos,
+**Sabremos** que esto funciona **cuando** el número de consultas y generación de reportes aumente progresivamente y los gestores reporten mayor control y visibilidad sobre los recorridos.
+
+**Creemos que** ofrecer opciones para exportar reportes de actividades a PDF o Excel,
+**Para** gestores de flota que deben presentar informes a sus superiores o justificar operaciones ante otras áreas,
+**Sabremos que** esta funcionalidad es valiosa **cuando** el 70% o más de los usuarios activos la utilicen al menos una vez por semana y reporten satisfacción con el formato de los documentos.
+
+**Creemos que** una funcionalidad simple para registrar el kilometraje de inicio y fin de un recorrido, incluyendo la carga de una foto como evidencia,
+**Para** los conductores que desean validar fácilmente su recorrido y evitar disputas sobre sus rutas o consumo de combustible,
+**Sabremos que** esta solución es útil **cuando** más del 80% de los registros diarios incluyan evidencias fotográficas y no se detecten incongruencias frecuentes en los datos.
+
+**Creemos que** ofrecer un formulario sencillo para registrar sus recorridos diarios con campos específicos (origen, destino, actividad realizada),
+**Para** los conductores que buscan cumplir rápidamente con sus obligaciones administrativas sin complicaciones,
+**Sabremos que** el diseño es efectivo **cuando** el tiempo promedio para completar un registro se reduce a menos de 2 minutos y se mantiene un nivel alto de completitud en los datos ingresados.
+
+**Creemos que** establecer un precio accesible **para** nuestro producto será un incentivo clave para diferenciarnos del resto de la competencia.
+**Sabremos que** tuvimos éxito, **cuando** recibamos comentarios positivos y alentadores sobre el precio que tiene nuestro producto tanto en las encuestas como las entrevistas realizadas a nuestros usuarios. 
 
 <h4 id="UXCanvas">1.2.2.4. Lean UX Canvas</h4>
-  <img src="../images/Lean_UX _Canvas.jpg" alt="Lean UX Canvas" width="auto" height="430"/>
+<img src="../images/Lean_UX _Canvas.jpg" alt="Lean UX Canvas" width="auto" height="430"/>
 
 <h4 id="objectiveSegment">1.3. Segmentos objetivo</h4>
 
