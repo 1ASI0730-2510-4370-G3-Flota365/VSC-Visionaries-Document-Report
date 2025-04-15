@@ -1,10 +1,13 @@
 <h2 id="requirementsElicitation">CAPÍTULO 2: REQUIREMENTS ELICITATION & ANALYSIS</h2>
 
 <h3 id="competitors">2.1. Competidores</h3>
+
 En esta sección se presenta la identificación y descripción de los principales competidores de Flota365, tanto directos como indirectos. Estos actores del mercado cuentan con propuestas basadas en productos digitales similares o con enfoques que abordan parcialmente el mismo problema que nuestra solución. La comparación busca evidenciar las características esenciales de cada alternativa y contextualizar el entorno competitivo en el que se desarrollará Flota365.
 
 <h4 id="competitiveAnalysis">2.1.1. Análisis Competitivo</h4>
-El análisis competitivo tiene como finalidad profundizar en el conocimiento que Flota365 tiene sobre sus competidores. Para ello, se ha elaborado un <em>Competitive Analysis Landscape</em>, el cual organiza de manera estructurada los aspectos clave de cada actor analizado, incluyendo perfil general, estrategia de marketing, características del producto, precios y canales de distribución. Finalmente, se incorpora un análisis FODA que permite visualizar de forma clara las fortalezas, debilidades, oportunidades y amenazas, tanto propias como de los competidores. Esta comparación contribuye a reconocer oportunidades de mejora, validar ventajas competitivas y ajustar el enfoque estratégico del proyecto Flota365.
+
+El análisis competitivo tiene como finalidad profundizar en el conocimiento que tiene Flota365 sobre el resto de sus competidores. Para ello, se ha elaborado un *Competitive Analysis Landscape*, el cual organiza de manera estructurada los aspectos clave de cada actor analizado, incluyendo perfil general, estrategia de marketing, características del producto, precios y canales de distribución. Finalmente, se incorpora un análisis FODA que permite visualizar de forma clara las fortalezas, debilidades, oportunidades y amenazas, tanto propias como de los competidores. 
+**Esta matriz se podrá encontrar en la sección de *Anexos – Matriz FODA***
 <br>
 </br>
 
@@ -119,6 +122,7 @@ El análisis competitivo tiene como finalidad profundizar en el conocimiento que
 En esta sección se aborda la investigación tomando como base la recolección de información en base a entrevistas a representantes de los segmentos objetivo. Es decir, entrevistaremos a nuestro público objetivo para asi tener más de cerca algunos testimonios y poder trabajar en base a ellos.
 
 <h4 id="interviewDesign">2.2.1. Diseño de entrevistas</h4>
+
 <h4 id="interviewDesing">Preguntas para segmento 1:</h4>
 
 1: ¿Cuál es tu rol actual y qué responsabilidades tienes en la gestión de la flota?
@@ -138,17 +142,19 @@ En esta sección se aborda la investigación tomando como base la recolección d
 8: ¿Qué funcionalidades consideras indispensables en una solución como esta?
 
 9: ¿Qué tan importante es para ti tener reportes automáticos ?¿Pagarías por una plataforma que te de toda la información de tu flota y con ello evitar perdidas monetarias innecesarias?
+
 <h4 id="interviewDesing">Preguntas para segmento 2:</h4>
+
 1: ¿Qué tan fácil o difícil es para ti completar estos registros manualmente? ¿Qué parte del proceso te resulta más tediosa o complicada?
 
-2: ¿Cuánto tiempo pierdes, aproximadamente, al tratar de contactar a tu jefe o al equipo para informar un problema técnico ?
+2: ¿Cuánto tiempo pierdes, aproximadamente, al tratar de contactar a tu jefe o al equipo para informar un problema técnico?
 
 3: ¿Alguna vez has experimentado retrasos o problemas en tus rutas debido a la falta de información sobre el estado del vehículo?
 
 4: ¿Te gustaría contar con una plataforma  que te permita registrar todos los detalles de manera más rápida y eficiente?
 
 5: Si tuvieras una herramienta que te diga en qué estado está el automóvil, cuánto falta para el mantenimiento, o si hubo un problema mecánico ¿la usarías?
-¿Qué herramientas usas actualmente para registrar cualquier problema o inconveniente ?
+¿Qué herramientas usas actualmente para registrar cualquier problema o inconveniente?
 
 6: ¿Cuál es tu mayor preocupación cuando presentas  problemas mecánicos durante el viaje? ¿Cómo una app podría ayudarte a prevenir estos problemas?
 
@@ -232,29 +238,27 @@ Para cada uno de nuestros segmentos objetivos, ...
 En esta sección el equipo explica y presenta los artefactos resultantes del proceso de análisis de la información recolectada. Aquí se incluye secciones internas para User Personas, User Task Matrix, User Journey Maps, Empathy Mapping y As-Is Scenario Mapping:
 
 <h4 id="userPersonas">2.3.1. User Personas</h4>
-A partir del análisis de entrevistas y del estudio de la competencia, se identificaron los principales perfiles de usuarios que interactúan directamente con la solución Flota365. Estos perfiles representan los segmentos objetivo clave para el sistema, ya que concentran las necesidades operativas más críticas dentro de la gestión de flotas. La construcción de los User Persona permite al equipo de desarrollo entender mejor sus motivaciones, frustraciones y hábitos, lo que resulta fundamental para diseñar funcionalidades adecuadas y experiencias de usuario efectivas.
-<br>
-</br>
+
+A partir del análisis de entrevistas y del estudio de la competencia, se identificaron los principales perfiles de usuarios que interactúan directamente con la solución Flota365. Estos perfiles representan los segmentos objetivo clave para el sistema, ya que concentran las necesidades operativas más **críticas** dentro de la gestión de flotas. La construcción de los *User Persona* permite al equipo de desarrollo entender mejor sus motivaciones, frustraciones y hábitos, lo que resulta fundamental para diseñar funcionalidades adecuadas y experiencias de usuario efectivas.
 
 **1) Gerentes de flotas** 
 
 Para los gerentes de flotas se elaboró el User Persona **Carlos Mejia**. Se tomaron en cuenta factores clave como su edad, rol profesional, experiencia en gestión logística y toma de decisiones operativas, así como sus principales frustraciones en torno al control y monitoreo de los vehículos. También se evaluó su familiaridad con herramientas tecnológicas como hojas de cálculo, software de gestión y plataformas de análisis de datos, lo cual permitió definir un perfil completo y representativo del segmento.
 
-  <img src="../images/User_Persona_Segmento1.jpg" alt="User Persona Gerentes" width="auto" height="480"/>
-</br>
+<img src="../images/User_Persona_Segmento1.jpg" alt="User Persona Gerentes" width="auto" height="480"/>
+
+<br>
 
 **2) Conductores de vehículos pesados**
 
 Para los conductores de vehículos de transporte pesado se elaboró el User Persona **Juan Torres**. La construcción de este perfil consideró aspectos como su rutina diaria, contexto laboral, grado de exposición a herramientas digitales, y las principales dificultades que enfrenta durante sus recorridos. Asimismo, se identificó su nivel de uso de tecnologías básicas como GPS, aplicaciones móviles y comunicación digital, lo cual fue determinante para ajustar la propuesta de valor de Flota365 a sus necesidades reales.
 
-  <img src="../images/User_Persona_Segmento2.jpg" alt="User Persona Gerentes" width="auto" height="480"/>
+<img src="../images/User_Persona_Segmento2.jpg" alt="User Persona Gerentes" width="auto" height="480"/>
 
 <h4 id="userTaskMatrix">2.3.2. User Task Matrix</h4>
 
 <h4 id="userJourneyMapping">2.3.3. User Journey Mapping</h4>
 
-
 <h4 id="empathyMap">2.3.4. Empathy Mapping</h4>
-
 
 <h4 id="asIsScenario">2.3.5. As-is Scenario Mapping</h4>
