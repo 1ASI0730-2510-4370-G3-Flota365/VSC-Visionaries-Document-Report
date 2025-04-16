@@ -241,7 +241,7 @@ En esta sección el equipo explica y presenta los artefactos resultantes del pro
 
 A partir del análisis de entrevistas y del estudio de la competencia, se identificaron los principales perfiles de usuarios que interactúan directamente con la solución Flota365. Estos perfiles representan los segmentos objetivo clave para el sistema, ya que concentran las necesidades operativas más **críticas** dentro de la gestión de flotas. La construcción de los *User Persona* permite al equipo de desarrollo entender mejor sus motivaciones, frustraciones y hábitos, lo que resulta fundamental para diseñar funcionalidades adecuadas y experiencias de usuario efectivas.
 
-**1) Gerentes de flotas** 
+**1) Segmento 1: Gerentes de flotas** 
 
 Para los gerentes de flotas se elaboró el User Persona **Carlos Mejia**. Se tomaron en cuenta factores clave como su edad, rol profesional, experiencia en gestión logística y toma de decisiones operativas, así como sus principales frustraciones en torno al control y monitoreo de los vehículos. También se evaluó su familiaridad con herramientas tecnológicas como hojas de cálculo, software de gestión y plataformas de análisis de datos, lo cual permitió definir un perfil completo y representativo del segmento.
 
@@ -249,13 +249,90 @@ Para los gerentes de flotas se elaboró el User Persona **Carlos Mejia**. Se tom
 
 <br>
 
-**2) Conductores de vehículos pesados**
+**2) Segmento 2: Conductores de vehículos pesados**
 
 Para los conductores de vehículos de transporte pesado se elaboró el User Persona **Juan Torres**. La construcción de este perfil consideró aspectos como su rutina diaria, contexto laboral, grado de exposición a herramientas digitales, y las principales dificultades que enfrenta durante sus recorridos. Asimismo, se identificó su nivel de uso de tecnologías básicas como GPS, aplicaciones móviles y comunicación digital, lo cual fue determinante para ajustar la propuesta de valor de Flota365 a sus necesidades reales.
 
 <img src="../images/User_Persona_Segmento2.jpg" alt="User Persona Gerentes" width="auto" height="480"/>
 
 <h4 id="userTaskMatrix">2.3.2. User Task Matrix</h4>
+
+<table border="1" cellspacing="0" cellpadding="5" style="border-collapse: collapse; text-align: center;">
+    <thead>
+        <tr>
+            <th rowspan="2">User Task Matrix</th>
+            <th colspan="2">Carlos Mejía</th>
+            <th colspan="2">Juan Torres</th>
+        </tr>
+        <tr>
+            <th>Frecuencia</th>
+            <th>Importancia</th>
+            <th>Frecuencia</th>
+            <th>Importancia</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Supervisar el estado y ubicación de los vehículos</td>
+            <td>3</td>
+            <td>3</td>
+            <td>1</td>
+            <td>2</td>
+        </tr>
+        <tr>
+            <td>Organizar rutas y asignar unidades</td>
+            <td>3</td>
+            <td>3</td>
+            <td>2</td>
+            <td>2</td>
+        </tr>
+        <tr>
+            <td>Reportar incidentes o eventos en ruta</td>
+            <td>2</td>
+            <td>2</td>
+            <td>3</td>
+            <td>3</td>
+        </tr>
+        <tr>
+            <td>Realizar seguimiento de mantenimiento preventivo</td>
+            <td>2</td>
+            <td>3</td>
+            <td>1</td>
+            <td>2</td>
+        </tr>
+        <tr>
+            <td>Comunicar novedades al personal de conducción</td>
+            <td>2</td>
+            <td>2</td>
+            <td>1</td>
+            <td>1</td>
+        </tr>
+        <tr>
+            <td>Conducir y cumplir con itinerarios asignados</td>
+            <td>1</td>
+            <td>2</td>
+            <td>3</td>
+            <td>3</td>
+        </tr>
+        <tr>
+            <td>Completar registros manuales de entregas o rutas</td>
+            <td>1</td>
+            <td>1</td>
+            <td>3</td>
+            <td>2</td>
+        </tr>
+        <tr>
+            <td>Revisar reportes de desempeño o consumo de combustible</td>
+            <td>3</td>
+            <td>3</td>
+            <td>1</td>
+            <td>2</td>
+        </tr>
+    </tbody>
+</table>
+
+En este cuadro se utilizan los números del uno al tres para representar cuánta importancia y frecuencia posee una actividad frente al usuario que la realiza. En el caso de la frecuencia, el uno equivale a una actividad poco frecuente; el dos, más o menos frecuente y; el tres, muy frecuente. Por otro lado, en el caso de la importancia, el uno significa que la actividad no tiene mucha importancia para el usuario; el dos, que no es tan importante y; el tres, que es una actividad de suma importancia.
+<br>
 
 <h4 id="userJourneyMapping">2.3.3. User Journey Mapping</h4>
 
