@@ -356,3 +356,11 @@ En este mapa, se abordó la experiencia de Juan Torres, un conductor con mucha e
 
 
 <h4 id="asIsScenario">2.3.5. As-is Scenario Mapping</h4>
+<h4 id="asIsScenario">Segmento 1: Gerentes o administradores.</h4>
+    
+<img src="../images/As-is map segment 1.png" alt="As-is map segment 1" width="auto" height="370"/>
+
+<h4 id="asIsScenario">Segmento 2: Conductores.</h4>
+    
+<img src="../images/As-is map segment 2.png" alt="As-is map segment 2" width="auto" height="370"/>
+
