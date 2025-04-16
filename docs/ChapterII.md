@@ -338,4 +338,21 @@ En este cuadro se utilizan los números del uno al tres para representar cuánta
 
 <h4 id="empathyMap">2.3.4. Empathy Mapping</h4>
 
+Para la elaboración de los Empathy Maps, el equipo partió del conocimiento y observaciones recolectadas durante el análisis de los User Persona. Se colocó al centro de cada mapa al usuario correspondiente (Carlos Mejía y Juan Torres) y se respondieron las preguntas claves sobre su entorno, emociones, comportamientos y necesidades. 
+
+**1) Segmento 1: Gerentes de flotas** 
+
+<img src="../images/Empathy_Mapping_Segmento1.jpg" alt="Empathy Mapping Gerentes" width="auto" height="370"/>
+
+En este mapa, se analizó a Carlos Mejía, un gerente enfocado en optimizar los procesos operativos de la flota. Del cuadro, se concluye que Carlos es muy consciente de los problemas actuales en la gestión logística, especialmente por la falta de integración entre sistemas y la dependencia de tareas manuales. Le preocupa que los errores humanos y la información desactualizada estén afectando su rendimiento y el de su equipo. Busca una solución que le permita tomar decisiones más rápidas y acertadas basadas en datos en tiempo real. Finalmente, Carlos aspira a lograr una operación más eficiente, con menos margen de error, y a consolidar su rol como líder estratégico dentro de la empresa.
+
+<br>
+
+**2) Segmento 2: Conductores de vehículos pesados**
+
+<img src="../images/Empathy_Mapping_Segmento2.jpg" alt="Empathy Mapping Conductores" width="auto" height="370"/>
+
+En este mapa, se abordó la experiencia de Juan Torres, un conductor con mucha experiencia pero que enfrenta obstáculos operativos en su día a día. Del cuadro, se concluye que Juan siente frustración al lidiar con herramientas poco intuitivas y tareas administrativas que le quitan tiempo. Le preocupa no contar con un sistema práctico que le permita enfocarse en lo más importante: conducir con seguridad y eficiencia. Busca una app o sistema que simplifique sus tareas, le dé claridad sobre su ruta y le permita reportar cualquier problema de forma rápida. Finalmente, Juan aspira a sentirse valorado, respaldado tecnológicamente y a trabajar en un entorno que respete su tiempo y esfuerzo.
+
+
 <h4 id="asIsScenario">2.3.5. As-is Scenario Mapping</h4>
