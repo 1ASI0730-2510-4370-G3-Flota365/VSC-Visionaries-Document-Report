@@ -52,12 +52,128 @@
   El diseño responsive se implementa con breakpoints estratégicos a 768px y 992px, asegurando adaptabilidad a dispositivos móviles, tablets y escritorio sin comprometer la experiencia de usuario.
 </p>
 <h4 id="webStyleGuidelines">4.1.2. Web Style Guidelines</h4>
+<h2 id="productDesign">CAPÍTULO 4: PRODUCT DESIGN</h2>
+
+<h3 id="styleGuidelines">4.1. Style Guidelines</h3>
+
+<h4 id="generalStyleGuidelines">4.1.1. General Style Guidelines</h4>
 <p>
-  Estructura basada en etiquetas estándar de HTML como <code>&lt;div&gt;</code>, <code>&lt;table&gt;</code>, <code>&lt;form&gt;</code>.<br>
-  CSS personalizado sin frameworks.<br>
-  Botones: fondo negro, borde celeste y texto blanco. En hover, fondo celeste con texto negro.<br>
-  Formularios claros, inputs con fondo oscuro y texto claro, adaptados a la estética visual.<br>
-  Layout basado en <code>&lt;div&gt;</code> con uso de clases para controlar el diseño visual.
+  El diseño visual de la aplicación FLOTA365 sigue una estética moderna y minimalista, en coherencia con la identidad de VSC-Visionaries, apoyándose en los siguientes principios y elementos de diseño:
+</p>
+
+<h5>Branding</h5>
+<p>
+  Se adopta un sistema de diseño inspirado en Material Design con adaptaciones específicas para la identidad de VSC-Visionaries.<br>
+  El logotipo se presenta consistentemente en todas las secciones, manteniendo una altura de 100px en el header.<br>
+  La imagen de marca proyecta profesionalismo, eficiencia y tecnología, valores fundamentales para una solución de gestión de flotas.<br>
+  Las formas utilizadas son limpias y geométricas, con predominio de líneas rectas y ángulos suaves que transmiten confiabilidad y orden.
+</p>
+
+<h5>Typography</h5>
+<p>
+  La tipografía principal es <b>Arial</b>, seleccionada por su excelente legibilidad en pantallas y su disponibilidad universal.<br>
+  Jerarquía tipográfica clara: títulos principales a 36px, subtítulos a 24px-28px, cuerpo de texto a 16px con interlineado de 1.6.<br>
+  Los pesos tipográficos varían estratégicamente: normal (400) para texto regular, semi-bold (600) para subtítulos y bold (700) para títulos y elementos destacados.<br>
+  Se mantiene alto contraste entre texto y fondo para asegurar accesibilidad (ratio mínimo de 4.5:1 según WCAG 2.1 AA).
+</p>
+
+<h5>Colors</h5>
+<p>
+  <b>Paleta principal</b>: Fondos blancos (#fff) como base para maximizar la legibilidad, turquesa claro (#6CDAE7) como color primario de acento, gris oscuro (#333) para textos principales.<br>
+  <b>Paleta secundaria</b>: Gris claro (#f9f9f9) para secciones alternas, gris medio (#ddd) para bordes y separadores, negro (#121212) para el footer y elementos contrastantes.<br>
+  <b>Colores funcionales</b>: Se reserva el uso de verde (#4CAF50) para indicadores de éxito, rojo (#F44336) para errores y amarillo (#FFC107) para advertencias.<br>
+  Esta combinación cromática refleja los valores de la marca: el turquesa transmite tecnología y confianza, mientras que la base clara aporta modernidad y limpieza visual.
+</p>
+
+<h5>Spacing</h5>
+<p>
+  Sistema de espaciado basado en unidades de 8px para mantener consistencia y ritmo visual en toda la aplicación.<br>
+  Márgenes internos generosos (padding) de 60px en secciones principales y 30px para contenedores secundarios.<br>
+  Separación vertical significativa entre secciones (60px) para mejorar la legibilidad y crear pausas visuales.<br>
+  Espaciado entre elementos relacionados de 15-30px, manteniendo una densidad de información adecuada sin generar sobrecarga visual.
+</p>
+
+<h5>Tono de Comunicación</h5>
+<p>
+  <b>Equilibrio</b>: Formal pero accesible (70% formal, 30% casual) para proyectar profesionalismo sin resultar distante.<br>
+  <b>Actitud</b>: Respetuoso y sereno (90%) con toques entusiastas (10%) en llamados a la acción.<br>
+  <b>Lenguaje</b>: Directo y orientado a beneficios, evitando jerga técnica innecesaria.<br>
+  <b>Voz</b>: Experta y confiable, posicionando FLOTA365 como solución autorizada en gestión de flotas.<br>
+  Este enfoque comunicacional busca conectar con profesionales de logística y gestión de flotas que valoran la eficiencia y resultados concretos.
+</p>
+
+<p>
+  El diseño responsive se implementa con breakpoints estratégicos a 768px y 992px, asegurando adaptabilidad a dispositivos móviles, tablets y escritorio sin comprometer la experiencia de usuario.
+</p>
+
+<h4 id="webStyleGuidelines">4.1.2. Web Style Guidelines</h4>
+<p>
+  FLOTA365 implementa un conjunto de estándares visuales y de interacción cuidadosamente definidos para sus interfaces web responsive:
+</p>
+
+<h5>Estructura y Layout</h5>
+<p>
+  La aplicación utiliza un sistema de layout basado en contenedores flexibles (<code>&lt;div&gt;</code> con display: flex) que proporciona consistencia visual y adaptabilidad.<br>
+  Se emplea una estructura semántica de etiquetas HTML5 como <code>&lt;header&gt;</code>, <code>&lt;section&gt;</code>, <code>&lt;footer&gt;</code> y <code>&lt;nav&gt;</code> para mejorar SEO y accesibilidad.<br>
+  Se mantiene una distribución con container de ancho máximo (1200px) con márgenes automáticos para centrado en pantallas grandes.<br>
+  Grid system personalizado con divisiones en 12 columnas para layouts complejos, implementado con CSS Grid y Flexbox.
+</p>
+
+<h5>Componentes UI</h5>
+<p>
+  <b>Botones:</b> Dos variantes principales, siguiendo patrones de interacción consistentes:<br>
+  &nbsp;&nbsp;• Botón primario: Fondo turquesa (#6CDAE7), sin borde, texto contrastante negro (#121212), padding 8px 16px, border-radius 4px.<br>
+  &nbsp;&nbsp;• Botón secundario (outline): Transparente con borde turquesa (#6CDAE7), texto turquesa, mismo padding y border-radius.<br>
+  &nbsp;&nbsp;• Estados hover: Cambio sutil de opacidad (0.9) para mostrar interactividad sin romper cohesión visual.<br>
+  
+  <b>Formularios:</b> Campos con diseño consistente para mejorar usabilidad:<br>
+  &nbsp;&nbsp;• Inputs: Alto de 40px, border-radius 4px, borde #ddd, padding lateral 12px.<br>
+  &nbsp;&nbsp;• Labels: Posicionados arriba del campo, margen inferior 8px, tamaño 14px.<br>
+  &nbsp;&nbsp;• Validación: Feedback visual inmediato con bordes color #F44336 (error) y mensajes descriptivos.<br>
+  &nbsp;&nbsp;• Estados focus: Borde turquesa (#6CDAE7) para indicar campo activo, con transición suave de 0.3s.<br>
+  
+  <b>Cards:</b> Contenedores para información relacionada:<br>
+  &nbsp;&nbsp;• Fondo blanco con sombra sutil (0 2px 8px rgba(0,0,0,0.1)).<br>
+  &nbsp;&nbsp;• Padding interno consistente de 20px.<br>
+  &nbsp;&nbsp;• Border-radius 8px para consistencia con otros elementos.<br>
+  
+  <b>Tablas:</b> Estructuras para visualización de datos:<br>
+  &nbsp;&nbsp;• Encabezados con fondo #f9f9f9 y texto en negrita.<br>
+  &nbsp;&nbsp;• Bordes horizontales finos (#eee) entre filas.<br>
+  &nbsp;&nbsp;• Hover en filas con cambio sutil de fondo para mejorar seguimiento visual.<br>
+  &nbsp;&nbsp;• Versión responsive con scroll horizontal en móviles.
+</p>
+
+<h5>Navegación y Patrones de Interacción</h5>
+<p>
+  <b>Menú principal:</b> Horizontal en desktop, hamburguesa en móvil (breakpoint 768px).<br>
+  <b>Estados activos:</b> Indicadores visuales sutiles (subrayado turquesa) para ubicación actual.<br>
+  <b>Dropdowns:</b> Desplegables con animación suave (0.3s) y sombra para profundidad visual.<br>
+  <b>Feedback de interacción:</b> Todos los elementos interactivos tienen hover states identificables y transiciones de 0.2-0.3s.<br>
+  <b>Scroll:</b> Suave y sin interferencias, con elementos de "volver arriba" en páginas largas.
+</p>
+
+<h5>Responsive Behavior</h5>
+<p>
+  <b>Enfoque Mobile-first:</b> CSS base para móviles con media queries para pantallas más grandes.<br>
+  <b>Breakpoints estratégicos:</b><br>
+  &nbsp;&nbsp;• Mobile: Base hasta 767px - Layout de una columna, menú hamburguesa, elementos apilados.<br>
+  &nbsp;&nbsp;• Tablet: 768px a 991px - Dos columnas en secciones clave, menú condensado.<br>
+  &nbsp;&nbsp;• Desktop: 992px en adelante - Layout completo, menú horizontal expandido.<br>
+  <b>Imágenes:</b> Optimizadas con atributos srcset para diferentes densidades de píxeles.<br>
+  <b>Touch targets:</b> Mínimo 44px×44px para áreas táctiles en interfaces móviles siguiendo directrices WCAG.
+</p>
+
+<h5>Micro-interacciones y Animaciones</h5>
+<p>
+  Transiciones CSS sutiles para elementos interactivos con duración de 200-300ms para balance entre respuesta y suavidad.<br>
+  Animaciones de carga (loading states) para procesos que demandan tiempo, implementados con CSS o SVG simples.<br>
+  Efectos de hover sutiles para elementos interactivos: escala (1.02-1.05), opacidad o cambios de color.<br>
+  Feedback visual para acciones completadas (success, error, etc.) mediante iconos y mensajes temporales.
+</p>
+
+<p>
+  Todo el CSS está organizado modularmente con nomenclatura descriptiva de clases, evitando el uso de !important y minimizando la especificidad para facilitar mantenimiento y escalabilidad.
 </p>
 <h3 id="infoArchitecture">4.2. Information Architecture</h3>
 
