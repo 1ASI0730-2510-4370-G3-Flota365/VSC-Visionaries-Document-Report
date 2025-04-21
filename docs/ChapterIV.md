@@ -126,9 +126,64 @@
 
 <h4 id="orgSystem">4.2.1. Organization Systems</h4>
 <p>
-  Se sigue una estructura jerárquica: Inicio, Características, Módulos (Tracking, Mantenimiento, Combustible, Entregas), Contacto.<br>
-  Los módulos agrupan funcionalidades relacionadas en pestañas o secciones.<br>
-  La arquitectura está diseñada para permitir escalabilidad futura.
+  FLOTA365 implementa sistemas de organización cuidadosamente seleccionados para diferentes contextos de la plataforma:
+</p>
+
+<h5>Organización Jerárquica (Visual Hierarchy)</h5>
+<p>
+  Se aplica en la estructura general del sitio y aplicación, estableciendo niveles claros de importancia:<br>
+  • Nivel 1: Navegación principal (Home, About, Features, Pricing, Contact) - Siempre visible en el header.<br>
+  • Nivel 2: Categorías de funcionalidades en la sección Features (Mantenimiento, Combustible, Documentos, etc.).<br>
+  • Nivel 3: Elementos específicos dentro de cada módulo funcional.<br>
+  Esta jerarquía se refuerza visualmente mediante tamaños tipográficos, colores y espaciado para crear un recorrido visual intuitivo.
+</p>
+
+<h5>Organización Secuencial (Step-by-Step)</h5>
+<p>
+  Implementada en procesos que requieren completar varios pasos en orden específico:<br>
+  • Proceso de registro y onboarding de nuevos usuarios.<br>
+  • Configuración inicial de la flota de vehículos.<br>
+  • Wizards para creación de reportes personalizados.<br>
+  • Procedimientos de mantenimiento preventivo.<br>
+  Cada secuencia presenta indicadores visuales del progreso actual y pasos restantes.
+</p>
+
+<h5>Organización Matricial</h5>
+<p>
+  Utilizada en las vistas de dashboard y reportes, donde:<br>
+  • El eje vertical representa categorías de datos (vehículos, conductores, rutas).<br>
+  • El eje horizontal representa dimensiones temporales o métricas comparativas.<br>
+  • La intersección permite análisis multidimensional de la información.<br>
+  Esta organización facilita el descubrimiento de patrones y correlaciones en grandes volúmenes de datos.
+</p>
+
+<h5>Esquemas de Categorización</h5>
+<p>
+  <b>Categorización Alfabética:</b> Aplicada en listados de recursos numerosos como:<br>
+  • Directorios de conductores.<br>
+  • Catálogos de repuestos y servicios.<br>
+  • Listados de proveedores.<br>
+  
+  <b>Categorización Cronológica:</b> Implementada en:<br>
+  • Historial de mantenimientos realizados.<br>
+  • Registro de recargas de combustible.<br>
+  • Timelines de actividad de vehículos.<br>
+  • Calendarios de servicios programados.<br>
+  
+  <b>Categorización por Tópicos:</b> Utilizada en:<br>
+  • Agrupación de funcionalidades por módulos temáticos (Tracking, Mantenimiento, Combustible, etc.).<br>
+  • Organización de la documentación de ayuda.<br>
+  • Clasificación de reportes y analíticas.<br>
+  
+  <b>Categorización por Audiencia:</b> Implementada para personalizar vistas según roles:<br>
+  • Administradores: Acceso completo con enfoque en KPIs y administración global.<br>
+  • Gestores de flota: Enfoque en planificación y optimización de recursos.<br>
+  • Mecánicos: Acceso prioritario a información técnica y calendarios de mantenimiento.<br>
+  • Conductores: Vista simplificada orientada a rutas, checklists y reportes diarios.
+</p>
+
+<p>
+  Esta combinación de sistemas organizativos permite a usuarios con diferentes necesidades navegar eficientemente por la plataforma, encontrando rápidamente la información relevante para sus tareas específicas.
 </p>
 <h4 id="labelSystem">4.2.2. Labeling Systems</h4>
 <p>
