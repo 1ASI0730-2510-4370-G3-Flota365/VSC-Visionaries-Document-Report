@@ -52,61 +52,7 @@
   El diseño responsive se implementa con breakpoints estratégicos a 768px y 992px, asegurando adaptabilidad a dispositivos móviles, tablets y escritorio sin comprometer la experiencia de usuario.
 </p>
 <h4 id="webStyleGuidelines">4.1.2. Web Style Guidelines</h4>
-<h2 id="productDesign">CAPÍTULO 4: PRODUCT DESIGN</h2>
 
-<h3 id="styleGuidelines">4.1. Style Guidelines</h3>
-
-<h4 id="generalStyleGuidelines">4.1.1. General Style Guidelines</h4>
-<p>
-  El diseño visual de la aplicación FLOTA365 sigue una estética moderna y minimalista, en coherencia con la identidad de VSC-Visionaries, apoyándose en los siguientes principios y elementos de diseño:
-</p>
-
-<h5>Branding</h5>
-<p>
-  Se adopta un sistema de diseño inspirado en Material Design con adaptaciones específicas para la identidad de VSC-Visionaries.<br>
-  El logotipo se presenta consistentemente en todas las secciones, manteniendo una altura de 100px en el header.<br>
-  La imagen de marca proyecta profesionalismo, eficiencia y tecnología, valores fundamentales para una solución de gestión de flotas.<br>
-  Las formas utilizadas son limpias y geométricas, con predominio de líneas rectas y ángulos suaves que transmiten confiabilidad y orden.
-</p>
-
-<h5>Typography</h5>
-<p>
-  La tipografía principal es <b>Arial</b>, seleccionada por su excelente legibilidad en pantallas y su disponibilidad universal.<br>
-  Jerarquía tipográfica clara: títulos principales a 36px, subtítulos a 24px-28px, cuerpo de texto a 16px con interlineado de 1.6.<br>
-  Los pesos tipográficos varían estratégicamente: normal (400) para texto regular, semi-bold (600) para subtítulos y bold (700) para títulos y elementos destacados.<br>
-  Se mantiene alto contraste entre texto y fondo para asegurar accesibilidad (ratio mínimo de 4.5:1 según WCAG 2.1 AA).
-</p>
-
-<h5>Colors</h5>
-<p>
-  <b>Paleta principal</b>: Fondos blancos (#fff) como base para maximizar la legibilidad, turquesa claro (#6CDAE7) como color primario de acento, gris oscuro (#333) para textos principales.<br>
-  <b>Paleta secundaria</b>: Gris claro (#f9f9f9) para secciones alternas, gris medio (#ddd) para bordes y separadores, negro (#121212) para el footer y elementos contrastantes.<br>
-  <b>Colores funcionales</b>: Se reserva el uso de verde (#4CAF50) para indicadores de éxito, rojo (#F44336) para errores y amarillo (#FFC107) para advertencias.<br>
-  Esta combinación cromática refleja los valores de la marca: el turquesa transmite tecnología y confianza, mientras que la base clara aporta modernidad y limpieza visual.
-</p>
-
-<h5>Spacing</h5>
-<p>
-  Sistema de espaciado basado en unidades de 8px para mantener consistencia y ritmo visual en toda la aplicación.<br>
-  Márgenes internos generosos (padding) de 60px en secciones principales y 30px para contenedores secundarios.<br>
-  Separación vertical significativa entre secciones (60px) para mejorar la legibilidad y crear pausas visuales.<br>
-  Espaciado entre elementos relacionados de 15-30px, manteniendo una densidad de información adecuada sin generar sobrecarga visual.
-</p>
-
-<h5>Tono de Comunicación</h5>
-<p>
-  <b>Equilibrio</b>: Formal pero accesible (70% formal, 30% casual) para proyectar profesionalismo sin resultar distante.<br>
-  <b>Actitud</b>: Respetuoso y sereno (90%) con toques entusiastas (10%) en llamados a la acción.<br>
-  <b>Lenguaje</b>: Directo y orientado a beneficios, evitando jerga técnica innecesaria.<br>
-  <b>Voz</b>: Experta y confiable, posicionando FLOTA365 como solución autorizada en gestión de flotas.<br>
-  Este enfoque comunicacional busca conectar con profesionales de logística y gestión de flotas que valoran la eficiencia y resultados concretos.
-</p>
-
-<p>
-  El diseño responsive se implementa con breakpoints estratégicos a 768px y 992px, asegurando adaptabilidad a dispositivos móviles, tablets y escritorio sin comprometer la experiencia de usuario.
-</p>
-
-<h4 id="webStyleGuidelines">4.1.2. Web Style Guidelines</h4>
 <p>
   FLOTA365 implementa un conjunto de estándares visuales y de interacción cuidadosamente definidos para sus interfaces web responsive:
 </p>
@@ -175,6 +121,7 @@
 <p>
   Todo el CSS está organizado modularmente con nomenclatura descriptiva de clases, evitando el uso de !important y minimizando la especificidad para facilitar mantenimiento y escalabilidad.
 </p>
+
 <h3 id="infoArchitecture">4.2. Information Architecture</h3>
 
 <h4 id="orgSystem">4.2.1. Organization Systems</h4>
