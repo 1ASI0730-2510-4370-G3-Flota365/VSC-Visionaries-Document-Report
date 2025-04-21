@@ -238,14 +238,67 @@
 <p>
   Este sistema de etiquetado permite a los usuarios identificar rápidamente contenidos y funcionalidades, reduciendo la curva de aprendizaje y mejorando la eficiencia en el uso diario de la plataforma.
 </p>
+
 <h4 id="seoTags">4.2.3. SEO Tags and Meta Tags</h4>
+
 <p>
-  <code>&lt;title&gt;FleetControl - Gestión Inteligente de Flotas | VSC-Visionaries&lt;/title&gt;</code><br>
-  <code>&lt;meta name="description" content="Solución moderna para gestión de flotas con seguimiento en tiempo real, mantenimiento, control de entregas y consumo de combustible."&gt;</code><br>
-  <code>&lt;meta name="keywords" content="gestión de flotas, logística, rastreo, mantenimiento, VSC-Visionaries"&gt;</code><br>
-  Implementación de etiquetas <strong>Open Graph</strong> y <strong>Twitter Cards</strong> para correcta visualización en redes sociales.<br>
-  Uso correcto de encabezados (<code>h1</code>, <code>h2</code>, <code>h3</code>) para facilitar la indexación.
+  FLOTA365 implementa una estrategia SEO comprensiva para maximizar visibilidad en motores de búsqueda, diferenciada por secciones:
 </p>
+
+<h5>Landing Page (Sitio Web Estático)</h5>
+<p>
+  <b>Página Principal:</b><br>
+  <code>&lt;title&gt;Flota365 - Gestión Integral de Flotas | VSC-Visionaries&lt;/title&gt;</code><br>
+  <code>&lt;meta name="description" content="Optimiza tus operaciones y reduce costos con nuestra potente solución de gestión de flotas con seguimiento en tiempo real, mantenimiento y control de combustible."&gt;</code><br>
+  <code>&lt;meta name="keywords" content="gestión de flotas, software logístico, seguimiento GPS, mantenimiento de vehículos, control de combustible, VSC-Visionaries"&gt;</code><br>
+  <code>&lt;meta name="author" content="VSC-Visionaries"&gt;</code><br>
+  
+  <b>Página de Características:</b><br>
+  <code>&lt;title&gt;Características y Módulos | Flota365&lt;/title&gt;</code><br>
+  <code>&lt;meta name="description" content="Descubre los módulos y funcionalidades de Flota365: seguimiento GPS en tiempo real, mantenimiento preventivo, control de combustible y gestión documental integrada."&gt;</code><br>
+  <code>&lt;meta name="keywords" content="módulos gestión flotas, seguimiento GPS, mantenimiento preventivo, control combustible, gestión documental, VSC-Visionaries"&gt;</code><br>
+  <code>&lt;meta name="author" content="VSC-Visionaries"&gt;</code><br>
+  
+  <b>Página de Precios:</b><br>
+  <code>&lt;title&gt;Planes y Precios | Flota365&lt;/title&gt;</code><br>
+  <code>&lt;meta name="description" content="Planes flexibles adaptados a flotas de cualquier tamaño. Desde nuestro plan básico hasta soluciones empresariales con funcionalidades avanzadas."&gt;</code><br>
+  <code>&lt;meta name="keywords" content="precios gestión flotas, planes flota365, software logística precios, planes básico premium, VSC-Visionaries"&gt;</code><br>
+  <code>&lt;meta name="author" content="VSC-Visionaries"&gt;</code><br>
+</p>
+
+<h5>Aplicación Web (Secciones Principales)</h5>
+<p>
+  <b>Dashboard Principal:</b><br>
+  <code>&lt;title&gt;Dashboard | Flota365&lt;/title&gt;</code><br>
+  <code>&lt;meta name="description" content="Panel de control centralizado para monitorizar y gestionar todos los aspectos de tu flota."&gt;</code><br>
+  <code>&lt;meta name="robots" content="noindex, nofollow"&gt;</code><br>
+  
+  <b>Módulo de Seguimiento:</b><br>
+  <code>&lt;title&gt;Seguimiento en Tiempo Real | Flota365&lt;/title&gt;</code><br>
+  <code>&lt;meta name="description" content="Visualiza la ubicación y estado de tus vehículos en tiempo real con alertas automáticas y estadísticas de rutas."&gt;</code><br>
+  <code>&lt;meta name="robots" content="noindex, nofollow"&gt;</code><br>
+  
+  <b>Módulo de Mantenimiento:</b><br>
+  <code>&lt;title&gt;Gestión de Mantenimiento | Flota365&lt;/title&gt;</code><br>
+  <code>&lt;meta name="description" content="Programa y registra todas las actividades de mantenimiento de tu flota, con alertas preventivas y reportes detallados."&gt;</code><br>
+  <code>&lt;meta name="robots" content="noindex, nofollow"&gt;</code><br>
+</p>
+
+<h5>Open Graph y Social Media Tags</h5>
+<p>
+  Implementación para mejorar compartición en redes sociales:<br>
+  <code>&lt;meta property="og:title" content="Flota365 - Gestión Integral de Flotas"&gt;</code><br>
+  <code>&lt;meta property="og:description" content="Optimiza tus operaciones y reduce costos con nuestra potente solución de gestión de flotas."&gt;</code><br>
+  <code>&lt;meta property="og:image" content="https://flota365.com/assets/img/og-cover.jpg"&gt;</code><br>
+  <code>&lt;meta property="og:url" content="https://flota365.com"&gt;</code><br>
+  <code>&lt;meta property="og:type" content="website"&gt;</code><br>
+  <code>&lt;meta name="twitter:card" content="summary_large_image"&gt;</code><br>
+</p>
+
+<p>
+  Adicionalmente, se implementa marcado estructurado (schema.org) para mejorar la representación en resultados de búsqueda, y se mantiene una estructura de URLs amigable con palabras clave relevantes para cada sección.
+</p>
+
 <h4 id="searchSystem">4.2.4. Searching Systems</h4>
 <p>
   Sistema de búsqueda implementado por palabra clave, con filtros por estado, fecha, módulo y tipo de recurso.<br>
