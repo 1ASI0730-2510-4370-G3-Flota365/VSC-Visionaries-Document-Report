@@ -187,9 +187,56 @@
 </p>
 <h4 id="labelSystem">4.2.2. Labeling Systems</h4>
 <p>
-  Las etiquetas utilizadas en la interfaz son simples, claras y orientadas a usuarios logísticos: "Pedidos", "Ubicación", "Combustible", "Conductores", etc.<br>
-  Se evita el uso de términos técnicos o ambiguos. El lenguaje está pensado para ser comprendido rápidamente.<br>
-  Se mantiene consistencia terminológica en menús, botones y formularios para fortalecer la experiencia de usuario.
+  El sistema de etiquetado de FLOTA365 está diseñado para maximizar la claridad y minimizar la carga cognitiva, siguiendo estos principios:
+</p>
+
+<h5>Principios de Etiquetado</h5>
+<p>
+  • <b>Concisión:</b> Etiquetas con máximo 1-3 palabras para facilitar escaneo visual y comprensión inmediata.<br>
+  • <b>Consistencia:</b> Mismo término para el mismo concepto en toda la plataforma (ej: siempre "Vehículos", nunca alternar con "Flotilla" o "Autos").<br>
+  • <b>Familiaridad:</b> Uso de terminología estándar en la industria logística y de transporte.<br>
+  • <b>Claridad:</b> Evitar ambigüedades y tecnicismos innecesarios que puedan confundir a usuarios no especializados.
+</p>
+
+<h5>Categorías de Etiquetas</h5>
+<p>
+  <b>Etiquetas de Navegación:</b><br>
+  • Menú principal: "Inicio", "Nosotros", "Características", "Precios", "Contacto".<br>
+  • Navegación contextual: "Volver", "Continuar", "Ver todos", "Más detalles".<br>
+  
+  <b>Etiquetas para Módulos Funcionales:</b><br>
+  • "Seguimiento GPS" (en lugar de "Tracking" o "Monitoreo de Posición").<br>
+  • "Mantenimiento" (en lugar de "Reparaciones y Servicios").<br>
+  • "Combustible" (en lugar de "Gestión de Carburante").<br>
+  • "Documentos" (en lugar de "Gestión Documental").<br>
+  • "Neumáticos" (directamente, en lugar de "Gestión de Neumáticos").<br>
+  • "Inventario" (en lugar de "Gestión de Stock y Repuestos").<br>
+  • "Viajes" (en lugar de "Programación de Desplazamientos").<br>
+  
+  <b>Etiquetas de Acción (Call-to-Action):</b><br>
+  • "INICIAR PRUEBA" (en lugar de "Comenzar Periodo de Evaluación Gratuito").<br>
+  • "ELEGIR PLAN" (en lugar de "Seleccionar Opción de Suscripción").<br>
+  • "ENVIAR" (en lugar de "Procesar Formulario").<br>
+  • "AÑADIR VEHÍCULO" (en lugar de "Crear Nuevo Registro de Unidad").<br>
+  
+  <b>Etiquetas para Datos y Métricas:</b><br>
+  • "Rendimiento" (para eficiencia de combustible).<br>
+  • "Próximo servicio" (para mantenimiento programado).<br>
+  • "Disponibilidad" (para estado operativo).<br>
+  • "Retraso" (para desviaciones en tiempos de entrega).
+</p>
+
+<h5>Asociaciones entre Etiquetas</h5>
+<p>
+  Se establecen relaciones semánticas claras mediante:<br>
+  • Agrupación visual de etiquetas relacionadas en la interfaz.<br>
+  • Uso de iconografía complementaria que refuerza el significado.<br>
+  • Implementación de migas de pan (breadcrumbs) que muestran jerarquías de navegación.<br>
+  • Codificación por colores para reforzar categorías (ej: mantenimiento en naranja, combustible en verde).
+</p>
+
+<p>
+  Este sistema de etiquetado permite a los usuarios identificar rápidamente contenidos y funcionalidades, reduciendo la curva de aprendizaje y mejorando la eficiencia en el uso diario de la plataforma.
 </p>
 <h4 id="seoTags">4.2.3. SEO Tags and Meta Tags</h4>
 <p>
