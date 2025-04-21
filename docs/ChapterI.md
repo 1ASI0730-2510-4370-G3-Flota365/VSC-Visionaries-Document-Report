@@ -422,7 +422,7 @@ Ser la empresa líder en soluciones inteligentes para la gestión de flotas a ni
         </tr>
         <tr>
             <td style="width: 30%; border: 1px solid #FFF; padding: 10px; vertical-align: top;">
-                <img src="" alt="Renato Calvo Photo" style="display: block; margin: 50 auto 0 auto;"/>
+                <img src="../images/WhatsApp Image 2025-04-20 at 11.55.48 PM.jpeg" alt="Renato Calvo Photo" style="display: block; margin: 50 auto 0 auto;"/>
             </td>
             <td style="width: 70%; border: 1px solid #FFF; padding: 10px; vertical-align: top;">
                 <strong>Renato Guillermo Calvo Yalan - (U202217053)</strong> - Ingeniería de Software<br><br>
