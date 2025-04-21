@@ -285,69 +285,82 @@
 
 <h4 id="searchSystem">4.2.4. Searching Systems</h4>
 <p>
-  FLOTA365 implementa un sistema de navegación multicapa que guía intuitivamente a los usuarios a través de la plataforma:
+  FLOTA365 implementa sistemas de búsqueda avanzados para facilitar el acceso rápido a la información en un entorno con grandes volúmenes de datos:
 </p>
 
-<h5>Navegación Global</h5>
+<h5>Componentes del Sistema de Búsqueda</h5>
 <p>
-  <b>Barra de Navegación Principal:</b><br>
-  • Ubicada en la parte superior de todas las páginas, siempre visible.<br>
-  • Contiene enlaces a secciones principales: Inicio, Nosotros, Características, Precios y Contacto.<br>
-  • Incluye acceso prominente a "Iniciar Sesión" y "Registrarse" en el extremo derecho.<br>
-  • En dispositivos móviles se colapsa en un menú hamburguesa con animación suave al expandirse.<br>
+  <b>Barra de Búsqueda Global:</b><br>
+  • Ubicada prominentemente en el header de la aplicación, siempre accesible.<br>
+  • Campo de texto con placeholder descriptivo: "Buscar vehículos, conductores, documentos..."<br>
+  • Icono de lupa como identificador visual universal.<br>
+  • Activación rápida mediante atajo de teclado (Ctrl+K o Cmd+K).<br>
   
-  <b>Navegación de Footer:</b><br>
-  • Repite enlaces principales para acceso rápido al final de la página.<br>
-  • Incluye enlaces adicionales a términos legales, política de privacidad y recursos de ayuda.<br>
-  • Incorpora iconos de redes sociales y datos de contacto.
+  <b>Búsquedas Contextuales:</b><br>
+  • Campos de búsqueda específicos dentro de cada módulo (ej: solo conductores, solo documentos).<br>
+  • Adaptados para filtrar automáticamente según el contexto actual del usuario.<br>
+  
+  <b>Filtros Avanzados:</b><br>
+  • Expansibles desde la barra de búsqueda principal mediante botón "Filtros".<br>
+  • Interfaz de filtros con diseño de acordeón para categorías principales.
 </p>
 
-<h5>Navegación Contextual</h5>
+<h5>Opciones de Filtrado por Módulo</h5>
 <p>
-  <b>Menús Secundarios:</b><br>
-  • En la sección de Características, navegación por pestañas para explorar diferentes módulos.<br>
-  • Dentro de la aplicación, menú lateral izquierdo para acceder a diferentes secciones del módulo actual.<br>
-  • Menús desplegables para opciones relacionadas con funciones específicas.<br>
+  <b>Módulo de Vehículos:</b><br>
+  • Por estado: Activo, En mantenimiento, Inactivo.<br>
+  • Por tipo: Camión, Furgoneta, Turismo, Maquinaria.<br>
+  • Por asignación: Conductor específico, Sin asignar.<br>
+  • Por ubicación: Radio geográfico, Región, Ruta específica.<br>
   
-  <b>Breadcrumbs:</b><br>
-  • Implementados en todas las páginas internas de la aplicación.<br>
-  • Muestran la ruta completa desde la página principal hasta la ubicación actual.<br>
-  • Cada nivel es clickeable para facilitar la navegación hacia atrás.
+  <b>Módulo de Mantenimiento:</b><br>
+  • Por tipo: Preventivo, Correctivo, Revisión.<br>
+  • Por estado: Programado, En proceso, Completado, Cancelado.<br>
+  • Por período: Día actual, Semana, Mes, Personalizado.<br>
+  • Por responsable: Taller interno, Proveedor externo.<br>
+  
+  <b>Módulo de Combustible:</b><br>
+  • Por tipo: Diesel, Gasolina, Eléctrico, Gas.<br>
+  • Por período de repostaje: Últimas 24h, Semana, Mes.<br>
+  • Por consumo: Alto, Medio, Bajo (percentiles).<br>
+  • Por proveedor: Estaciones específicas, Tarjetas de combustible.
 </p>
 
-<h5>Navegación de Utilidad</h5>
+<h5>Funcionalidades Avanzadas</h5>
 <p>
-  <b>Botones Call-to-Action:</b><br>
-  • Estratégicamente ubicados para guiar al usuario hacia acciones principales (ej: "INICIAR PRUEBA GRATIS").<br>
-  • Visualmente destacados con color turquesa (#6CDAE7) y tamaño prominente.<br>
-  • Posicionados en puntos clave del recorrido del usuario (hero section, final de características, etc.).<br>
+  <b>Autocompletado:</b><br>
+  • Sugerencias dinámicas mientras el usuario escribe.<br>
+  • Priorización de resultados basada en relevancia y uso frecuente.<br>
+  • Corrección automática de errores tipográficos comunes.<br>
   
-  <b>Enlaces Contextuales:</b><br>
-  • Integrados en el contenido para facilitar el flujo natural entre páginas relacionadas.<br>
-  • Diferenciados visualmente con subrayado o color distinto al texto normal.<br>
+  <b>Búsqueda Semántica:</b><br>
+  • Comprensión de consultas en lenguaje natural (ej: "camiones con mantenimiento pendiente").<br>
+  • Reconocimiento de sinónimos y términos relacionados dentro del contexto logístico.<br>
   
-  <b>Botón "Volver Arriba":</b><br>
-  • Aparece al desplazarse hacia abajo en páginas largas.<br>
-  • Permite regresar al inicio de la página con un solo clic.
+  <b>Búsqueda por Voz:</b><br>
+  • Activación mediante icono de micrófono en la barra de búsqueda.<br>
+  • Procesamiento de comandos verbales simples para la navegación.
 </p>
 
-<h5>Navegación de Usuario (En Aplicación)</h5>
+<h5>Presentación de Resultados</h5>
 <p>
-  <b>Dashboard personalizado:</b><br>
-  • Página inicial tras el login que presenta accesos directos a las funciones más utilizadas.<br>
-  • Widgets configurables según preferencias y rol del usuario.<br>
+  <b>Interfaz de Resultados:</b><br>
+  • Diseño en formato de lista con elementos seleccionables.<br>
+  • Cada resultado muestra información crítica (título, categoría, fecha relevante) sin sobrecarga visual.<br>
+  • Paginación para conjuntos grandes de resultados (20 elementos por página).<br>
   
-  <b>Menú de Perfil:</b><br>
-  • Accesible desde el avatar del usuario en la esquina superior derecha.<br>
-  • Permite acceder a configuración de cuenta, preferencias y cierre de sesión.<br>
+  <b>Agrupación y Ordenamiento:</b><br>
+  • Resultados agrupados por categoría (Vehículos, Conductores, Documentos, etc.).<br>
+  • Opciones para ordenar por relevancia, fecha, estado o alfabéticamente.<br>
+  • Toggle para cambiar entre vista de lista y vista de tarjetas.<br>
   
-  <b>Navegación por Pestañas:</b><br>
-  • Implementada en módulos complejos para organizar funcionalidades relacionadas.<br>
-  • Permite cambiar entre vistas sin perder el contexto actual.
+  <b>Acciones Rápidas:</b><br>
+  • Menú contextual en cada resultado para acciones frecuentes sin necesidad de abrir el elemento.<br>
+  • Previsualización al pasar el cursor (hover) con datos adicionales relevantes.
 </p>
 
 <p>
-  Esta arquitectura de navegación garantiza que los usuarios puedan moverse eficientemente por la plataforma, manteniendo siempre clara su ubicación actual y las opciones disponibles, reduciendo así la frustración y mejorando la experiencia general.
+  El sistema está implementado con Vue.js en el frontend para garantizar reactividad inmediata y experiencia fluida, mientras que el backend en C# proporciona indexación eficiente y tiempos de respuesta optimizados incluso para grandes volúmenes de datos.
 </p>
 <h4 id="navigationSystem">4.2.5. Navigation System</h4>
 
