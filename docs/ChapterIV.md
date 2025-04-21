@@ -247,41 +247,15 @@
 
 <h5>Landing Page (Sitio Web Estático)</h5>
 <p>
-  <b>Página Principal:</b><br>
+  <b>Tags principales:</b><br>
   <code>&lt;title&gt;Flota365 - Gestión Integral de Flotas | VSC-Visionaries&lt;/title&gt;</code><br>
   <code>&lt;meta name="description" content="Optimiza tus operaciones y reduce costos con nuestra potente solución de gestión de flotas con seguimiento en tiempo real, mantenimiento y control de combustible."&gt;</code><br>
   <code>&lt;meta name="keywords" content="gestión de flotas, software logístico, seguimiento GPS, mantenimiento de vehículos, control de combustible, VSC-Visionaries"&gt;</code><br>
   <code>&lt;meta name="author" content="VSC-Visionaries"&gt;</code><br>
   
-  <b>Página de Características:</b><br>
-  <code>&lt;title&gt;Características y Módulos | Flota365&lt;/title&gt;</code><br>
-  <code>&lt;meta name="description" content="Descubre los módulos y funcionalidades de Flota365: seguimiento GPS en tiempo real, mantenimiento preventivo, control de combustible y gestión documental integrada."&gt;</code><br>
-  <code>&lt;meta name="keywords" content="módulos gestión flotas, seguimiento GPS, mantenimiento preventivo, control combustible, gestión documental, VSC-Visionaries"&gt;</code><br>
-  <code>&lt;meta name="author" content="VSC-Visionaries"&gt;</code><br>
-  
-  <b>Página de Precios:</b><br>
-  <code>&lt;title&gt;Planes y Precios | Flota365&lt;/title&gt;</code><br>
-  <code>&lt;meta name="description" content="Planes flexibles adaptados a flotas de cualquier tamaño. Desde nuestro plan básico hasta soluciones empresariales con funcionalidades avanzadas."&gt;</code><br>
-  <code>&lt;meta name="keywords" content="precios gestión flotas, planes flota365, software logística precios, planes básico premium, VSC-Visionaries"&gt;</code><br>
-  <code>&lt;meta name="author" content="VSC-Visionaries"&gt;</code><br>
-</p>
-
-<h5>Aplicación Web (Secciones Principales)</h5>
-<p>
-  <b>Dashboard Principal:</b><br>
-  <code>&lt;title&gt;Dashboard | Flota365&lt;/title&gt;</code><br>
-  <code>&lt;meta name="description" content="Panel de control centralizado para monitorizar y gestionar todos los aspectos de tu flota."&gt;</code><br>
-  <code>&lt;meta name="robots" content="noindex, nofollow"&gt;</code><br>
-  
-  <b>Módulo de Seguimiento:</b><br>
-  <code>&lt;title&gt;Seguimiento en Tiempo Real | Flota365&lt;/title&gt;</code><br>
-  <code>&lt;meta name="description" content="Visualiza la ubicación y estado de tus vehículos en tiempo real con alertas automáticas y estadísticas de rutas."&gt;</code><br>
-  <code>&lt;meta name="robots" content="noindex, nofollow"&gt;</code><br>
-  
-  <b>Módulo de Mantenimiento:</b><br>
-  <code>&lt;title&gt;Gestión de Mantenimiento | Flota365&lt;/title&gt;</code><br>
-  <code>&lt;meta name="description" content="Programa y registra todas las actividades de mantenimiento de tu flota, con alertas preventivas y reportes detallados."&gt;</code><br>
-  <code>&lt;meta name="robots" content="noindex, nofollow"&gt;</code><br>
+  <b>Tags de viewport y responsividad:</b><br>
+  <code>&lt;meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=5"&gt;</code><br>
+  <code>&lt;meta http-equiv="X-UA-Compatible" content="IE=edge"&gt;</code><br>
 </p>
 
 <h5>Open Graph y Social Media Tags</h5>
@@ -295,8 +269,18 @@
   <code>&lt;meta name="twitter:card" content="summary_large_image"&gt;</code><br>
 </p>
 
+<h5>Optimización para Secciones del Landing</h5>
 <p>
-  Adicionalmente, se implementa marcado estructurado (schema.org) para mejorar la representación en resultados de búsqueda, y se mantiene una estructura de URLs amigable con palabras clave relevantes para cada sección.
+  Al tratarse de un landing page con múltiples secciones (Home, About, Features, Pricing, Contact), se optimiza mediante:<br>
+  • Uso correcto de encabezados jerárquicos (h1, h2, h3) para cada sección.<br>
+  • IDs semánticos en cada sección para navegación por anclas (ej: <code>id="features"</code>, <code>id="pricing"</code>).<br>
+  • Atributos alt descriptivos en todas las imágenes (ej: <code>alt="Dashboard de gestión de flota con indicadores de rendimiento"</code>).<br>
+  • Texto optimizado con palabras clave relevantes distribuidas naturalmente a lo largo del contenido.<br>
+  • Microdata (schema.org) para servicios y productos, mejorando la representación en resultados de búsqueda:
+</p>
+
+<p>
+  Esta implementación SEO garantiza que el landing page sea correctamente indexado y representado en los resultados de búsqueda, maximizando la visibilidad y atrayendo tráfico cualificado a la página.
 </p>
 
 <h4 id="searchSystem">4.2.4. Searching Systems</h4>
