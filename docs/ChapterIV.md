@@ -285,11 +285,69 @@
 
 <h4 id="searchSystem">4.2.4. Searching Systems</h4>
 <p>
-  Sistema de búsqueda implementado por palabra clave, con filtros por estado, fecha, módulo y tipo de recurso.<br>
-  Se desarrollará con <b>Vue.js</b> como framework principal del frontend y <b>C#</b> en el backend, permitiendo alta integración con datos.<br>
-  Se permitirá el uso de <b>JavaScript clásico</b> para funciones específicas dentro de los componentes o formularios.<br>
-  Se proyecta la incorporación de autocompletado y sugerencias dinámicas.<br>
-  La búsqueda estará optimizada para resultados rápidos y relevantes, dentro de un entorno de interfaz oscura.
+  FLOTA365 implementa un sistema de navegación multicapa que guía intuitivamente a los usuarios a través de la plataforma:
+</p>
+
+<h5>Navegación Global</h5>
+<p>
+  <b>Barra de Navegación Principal:</b><br>
+  • Ubicada en la parte superior de todas las páginas, siempre visible.<br>
+  • Contiene enlaces a secciones principales: Inicio, Nosotros, Características, Precios y Contacto.<br>
+  • Incluye acceso prominente a "Iniciar Sesión" y "Registrarse" en el extremo derecho.<br>
+  • En dispositivos móviles se colapsa en un menú hamburguesa con animación suave al expandirse.<br>
+  
+  <b>Navegación de Footer:</b><br>
+  • Repite enlaces principales para acceso rápido al final de la página.<br>
+  • Incluye enlaces adicionales a términos legales, política de privacidad y recursos de ayuda.<br>
+  • Incorpora iconos de redes sociales y datos de contacto.
+</p>
+
+<h5>Navegación Contextual</h5>
+<p>
+  <b>Menús Secundarios:</b><br>
+  • En la sección de Características, navegación por pestañas para explorar diferentes módulos.<br>
+  • Dentro de la aplicación, menú lateral izquierdo para acceder a diferentes secciones del módulo actual.<br>
+  • Menús desplegables para opciones relacionadas con funciones específicas.<br>
+  
+  <b>Breadcrumbs:</b><br>
+  • Implementados en todas las páginas internas de la aplicación.<br>
+  • Muestran la ruta completa desde la página principal hasta la ubicación actual.<br>
+  • Cada nivel es clickeable para facilitar la navegación hacia atrás.
+</p>
+
+<h5>Navegación de Utilidad</h5>
+<p>
+  <b>Botones Call-to-Action:</b><br>
+  • Estratégicamente ubicados para guiar al usuario hacia acciones principales (ej: "INICIAR PRUEBA GRATIS").<br>
+  • Visualmente destacados con color turquesa (#6CDAE7) y tamaño prominente.<br>
+  • Posicionados en puntos clave del recorrido del usuario (hero section, final de características, etc.).<br>
+  
+  <b>Enlaces Contextuales:</b><br>
+  • Integrados en el contenido para facilitar el flujo natural entre páginas relacionadas.<br>
+  • Diferenciados visualmente con subrayado o color distinto al texto normal.<br>
+  
+  <b>Botón "Volver Arriba":</b><br>
+  • Aparece al desplazarse hacia abajo en páginas largas.<br>
+  • Permite regresar al inicio de la página con un solo clic.
+</p>
+
+<h5>Navegación de Usuario (En Aplicación)</h5>
+<p>
+  <b>Dashboard personalizado:</b><br>
+  • Página inicial tras el login que presenta accesos directos a las funciones más utilizadas.<br>
+  • Widgets configurables según preferencias y rol del usuario.<br>
+  
+  <b>Menú de Perfil:</b><br>
+  • Accesible desde el avatar del usuario en la esquina superior derecha.<br>
+  • Permite acceder a configuración de cuenta, preferencias y cierre de sesión.<br>
+  
+  <b>Navegación por Pestañas:</b><br>
+  • Implementada en módulos complejos para organizar funcionalidades relacionadas.<br>
+  • Permite cambiar entre vistas sin perder el contexto actual.
+</p>
+
+<p>
+  Esta arquitectura de navegación garantiza que los usuarios puedan moverse eficientemente por la plataforma, manteniendo siempre clara su ubicación actual y las opciones disponibles, reduciendo así la frustración y mejorando la experiencia general.
 </p>
 <h4 id="navigationSystem">4.2.5. Navigation System</h4>
 
