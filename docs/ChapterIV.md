@@ -431,6 +431,7 @@
 <h3 id="landingDesign">4.3. Landing Page UI Design</h3>
 
 <h4 id="landingWireframe">4.3.1. Landing Page Wireframe</h4>
+<img src="../images/LandingPageWireframe.png" alt="Landing Page Wireframe" style="max-width: 100%; height: auto; border: 2px solid #00bfff;">
 
 <h4 id="landingMockUp">4.3.2. Landing Page Mock-up</h4>
 
