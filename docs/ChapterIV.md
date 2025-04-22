@@ -463,3 +463,8 @@ respectivas propiedades, se detallará en esta sección cada uno de ellos:
 <h3 id="dbDesign">4.8. Database Design</h3>
 
 <h4 id="dbDiagram">4.8.1. Database Diagram</h4>
+Diagrama de base de datos:
+<img src="../images/Database diagram.jpeg" alt="Database diagram" style="display: block; margin: 50 auto 0 auto;"/>
+
+
+
