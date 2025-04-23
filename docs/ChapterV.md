@@ -167,7 +167,114 @@ Para el caso de prueba del software, se empleo las herramienta de desarrollador 
 
 <h4 id="sourceCodeManagement">5.1.2. Source Code Management</h4>
 
+La gestión de todas las actividades que tendrá el startup de Flota365, se llevaran a cabo en dentro de una organización del aplicativo web **Github**.
+
+* **Organization**: <a href="https://github.com/1ASI0730-2510-4370-G3-Flota365">https://github.com/1ASI0730-2510-4370-G3-Flota365</a>
+
+* **Landing Page Repository**: <a href="https://github.com/1ASI0730-2510-4370-G3-Flota365/VSC-Visionaries-Landing-Page">https://github.com/1ASI0730-2510-4370-G3-Flota365/VSC-Visionaries-Landing-Page</a>
+
+Asimismo, para llevar un mejor control de los avances que cada uno de los miembros del equipo vaya ha entregar, se utilizará la convención de *Gitflow* donde procederemos a tener buenas prácticas para crear ramas y realizas cambios manteniendo el código consistente y alcanzar una buena comunicación del avance de los proyectos.
+
+Con esto mencionado, definiremos nuestras 2 ramas principales, de las cuales vendrían a ser *main* y *develop*.
+
+* **Main**.- es la rama donde definiremos las versiones oficiales de nuestro repositorio que ya deben pasar a producción.
+
+* **Develop**.- es la rama que se utilizará como rama de integración para cada uno de los "*features*" branches. Una vez que el *head* alcance un estado estable y el equipo considere que ya esta listo para ser lanzado, se unificará con la rama *release*.
+
+**Ramas complementarias**:
+
+* **feature**: aqui trabajaremos cada uno de los *features* que se unirán a la rama *develop*. Estas mismas segmentarán cada una de las características que piden los usuarios tanto en el landing page como web application.
+
+* **release**: esta rama se utilizará para preparar el lanzamiento de una nueva versión en la rama *main*. Allí mismo, se corregirán pequeños *bugs*; liberando así en la rama *develop* estas preparaciones evitando así el retraso en el desarrollo mientras se prepará un nuevo lanzamiento.
+
+* **hotfix**: se utilizará cuando la útlima versión de la rama *main* necesite actualizarse debido a *bugs* críticos que no puede esperar a un siguiente lanzamiento para resolverse.
+
+**Commit Conventions**:
+
+El formato de nuestros *commits* sigue la estructura de los "*Conventional Commits*" en su versión 1.0.0 (<a href="https://www.conventionalcommits.org/en/v1.0.0/">https://www.conventionalcommits.org/en/v1.0.0/</a>) con el objetivo de proporcionar una lectura simple de los mismo desarrollamos que vayamos indicando. Este seguirá el siguiente formato:
+
+```
+<type>[optional scope]: <description>
+```
+
+Donde:
+
+* **type**: especifica el tipo de cambio realizado (si es **docs**, **feat**, **fix**, entre otros).
+
+* **scope**: define el alcance que tiene nuestro *commit*.
+
+* **description**: se define una breve descripción de los cambios que sufrió o se implementaron en el código.
+
+**Release Versioning Conventions**:
+
+Para el formato de versiones de aplicará "*Semantic Versioning 2.0.0*", donde cada unas de las versiones siguen el formato (X,Y,Z).
+
+A continuación, se derallarán cada uno de estos formatos:
+
+* **X**: representa una versión mayor. Aquí se ubican todos los cambios relacionados que no son compatibles con las versiones anteriores. Empezando desde 0 para el desarrollo inicial y 1 cuando esté disponible al público para ser usado. Por convención Y y Z, estas se reinician a 0 cuando incrementan.
+
+* **Y**: representa una versión menor. Aquí se encuntran los cambios que sí son compatibles con versiones anteriores. Adicional a ello, se incluirán los *commits* desde la rama *realease* cada vez que se integren nuevas funcionalidades. Por convención, Z se reiniciará a 0 cuando este incremente.
+
+* **Z**: representa los parches y correciones menores. Aquí se incluyen los *commits* realizados desde la rama *hotfix* que se acaban haciendo *merge* a la rama *main*.
+
 <h4 id="sourceCodeStyleGuide">5.1.3. Source Code Style Guide & Conventions</h4>
+
+Para lo que respecta el desarrollo de la parte de HTML y CSS se utilizará Google HTML/CSS Style Guide, ya que estos contienen convenciones que se deben tomar en cuenta al momento de trabajar con dichas tecnologías. Para informanos acerca de las buenas prácticas de uso, accederemos mediante el siguiente el enlace: <a href="https://google.github.io/styleguide/htmlcssguide.html">https://google.github.io/styleguide/htmlcssguide.html</a>. Entre algunas de estas convenciones mencionaremos las siguientes:
+
+* Siempre declarar el tipo de documento con <!DOCTYPE html>
+
+* Usar siempre letras en minúsculas para los nombres de los elementos (como ≶h1>, ≶p>, ≶footer>, etc).
+
+* Cerrar siempre con los elementos de HTML (por ejemplo: ≶h1>≶/h1>).
+
+* Siempre colocar entre comillas los atributos dentro de un elemento HTML (≶h1 class="name">≶/h1>).
+
+* Declarar los atributos alt, width and height para imágenes.
+
+* Estandarizar tanto el espaciado y signo de manera igualitaria.
+
+* Evitar líneas de código extensas.
+
+* No olvidar declarar el ≶title>≶/title> en apartado del ≶head>≶/head> (ubicado al inicio del documento HTML).
+
+* Utilizar meta tags al inicio del documento.
+
+Para el caso del lenguaje JavaScript, se usará la guía de estilos brindada por nuestros amigos de Google mediante el siguiente repositorio de Github: <a href="https://google.github.io/styleguide/jsguide.html#file-name">https://google.github.io/styleguide/jsguide.html#file-name</a>. Aquí se presentarán las siguientes convenciones:
+
+* Nombrar las variables y funciones con camelcase.
+
+* Usar espaciados después de una coma o dos puntos.
+
+* Utilizar comillas simples para los tipos de datos String.
+
+* Usar el punto y coma al final de cada sentencia.
+
+* Evitar declarar variables var; en su lugar, utilizar let o const para mitigar errores en variables y valores la momento de acceder a ellos.
+
+Para el lenguaje Gherkin se usará las conveciones Make Your Gherkin Specifications More Readable con el objetivo de utilizar buenas prácticas que nos permitan entender con exactitud lo desarrollado. Los archivos creados tendrán la extensión .feature. Para conocer más acerca de la forma de escribir en el lenguaje Gherkin, utilizaremos el siguiente enlace: <a href="https://specflow.org/gherkin/gherkin-conventions-for-readable-specifications/">https://specflow.org/gherkin/gherkin-conventions-for-readable-specifications/</a>. A continuación, se presentarán las siguientes convenciones:
+
+* Escribir especificaciones en lenguaje simple y fácil de comprender para todos los miembros del equipo.
+
+* Utilizar las palabras reservadas **"Given, When, When y And"** para redactar los pasos del Scenario.
+
+* Usar verbos finitos para las acciones del Scenario.
+
+* Evitar redundancias en el detalle de los pasos en el Scenario.
+
+* Usar un formato consistente en la especificación para todos los Scenarios.
+
+
+Para el uso del lenguaje Java, Google ofrece una guía de estilos bastante completa, la cuál nos permitirá aplicar ciertos estándares para mantener la consistencia y legibilidad nuestros proyectos. Para conocer a detalle cada una de las siguientes convenciones, lo podemos visualizar en el siguiente enlace: <a href="https://google.github.io/styleguide/javaguide.html">https://google.github.io/styleguide/javaguide.html</a>. A continuación, se mencinarán algunas convenciones:
+
+* Declarar clases, estructuras o records nombrandolo en Pascal case.
+
+* Definir parámetros nombrándolos con Camel case y utilizar el prefijo con el guión abajo.
+
+* Realizar comentarios en una nueva línea de código y utilizarlo netamente para especificar comportaminetos un tanto complejos de entender.
+
+* Respetar cada uno de las identaciones y espaciados después de un coma u operador.
+
+* Cada una de las llaves deben ir en una línea nueva, ya sea al momento de declarar una clae, estructura, entre otros.
 
 <h4 id="softwareDeploymentConfig">5.1.4. Software Deployment Configuration</h4>
 
