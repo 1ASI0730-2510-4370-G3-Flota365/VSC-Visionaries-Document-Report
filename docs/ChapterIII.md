@@ -118,155 +118,35 @@ Se presentan los siguientes user stories:
 
 
 <table border="1" cellpadding="5" cellspacing="0">
-    <thead>
-        <tr>
-            <th>Orden</th>
-            <th>User Story ID</th>
-            <th>Título</th>
-            <th>Descripción</th>
-            <th>Story Points</th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td>1</td>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
-        </tr>
-        <tr>
-            <td>2</td>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
-        </tr>
-        <tr>
-            <td>3</td>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
-        </tr>
-        <tr>
-            <td>4</td>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
-        </tr>
-        <tr>
-            <td>5</td>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
-        </tr>
-        <tr>
-            <td>6</td>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
-        </tr>
-        <tr>
-            <td>7</td>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
-        </tr>
-        <tr>
-            <td>8</td>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
-        </tr>
-        <tr>
-            <td>9</td>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
-        </tr>
-        <tr>
-            <td>10</td>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
-        </tr>
-        <tr>
-            <td>11</td>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
-        </tr>
-        <tr>
-            <td>12</td>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
-        </tr>
-        <tr>
-            <td>13</td>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
-        </tr>
-        <tr>
-            <td>14</td>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
-        </tr>
-        <tr>
-            <td>15</td>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
-        </tr>
-        <tr>
-            <td>16</td>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
-        </tr>
-        <tr>
-            <td>17</td>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
-        </tr>
-        <tr>
-            <td>18</td>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
-        </tr>
-        <tr>
-            <td>19</td>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
-        </tr>
-        <tr>
-            <td>20</td>
-            <td></td>
-            <td></td>
-            <td></td>
-            <td></td>
-        </tr>
-    </tbody>
+  <thead>
+    <tr>
+      <th>#Orden</th>
+      <th>User Story ID</th>
+      <th>Título</th>
+      <th>Descripción</th>
+      <th>Story Points</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr><td>1</td><td>US11</td><td>Landing Page informativa</td><td>Como visitante, deseo ver una página informativa sobre Flota365, para conocer sus beneficios.</td><td>2</td></tr>
+    <tr><td>2</td><td>US12</td><td>Comparador de planes</td><td>Como visitante, deseo comparar los planes disponibles, para elegir el que se ajuste a mi empresa.</td><td>3</td></tr>
+    <tr><td>3</td><td>US13</td><td>Registro de nuevo usuario</td><td>Como visitante, deseo registrarme para acceder al panel de pruebas, para evaluar la plataforma.</td><td>3</td></tr>
+    <tr><td>4</td><td>US01</td><td>Asignación de rutas</td><td>Como gestor, deseo asignar rutas a los conductores desde la plataforma, para optimizar la logística diaria.</td><td>3</td></tr>
+    <tr><td>5</td><td>US02</td><td>Consulta de disponibilidad</td><td>Como gestor, deseo ver el estado de pedidos y unidades, para planificar correctamente.</td><td>2</td></tr>
+    <tr><td>6</td><td>US14</td><td>Creación de servicio logístico</td><td>Como gestor, deseo crear un servicio con ruta, unidad y chofer, para organizar una entrega.</td><td>3</td></tr>
+    <tr><td>7</td><td>US07</td><td>Revisión de entregas del día</td><td>Como conductor, deseo revisar mis entregas asignadas al inicio del día, para organizar mi recorrido.</td><td>2</td></tr>
+    <tr><td>8</td><td>US05</td><td>Reporte de fallas</td><td>Como conductor, deseo reportar fallas técnicas desde la app, para recibir soporte inmediato.</td><td>3</td></tr>
+    <tr><td>9</td><td>US10</td><td>Control de checklist vehicular</td><td>Como conductor, deseo verificar el estado del vehículo antes de iniciar el servicio, para operar con seguridad.</td><td>3</td></tr>
+    <tr><td>10</td><td>US06</td><td>Registro de consumo de combustible</td><td>Como conductor, deseo registrar el consumo con foto del odómetro, para controlar gastos.</td><td>3</td></tr>
+    <tr><td>11</td><td>US15</td><td>Visualización de historial</td><td>Como gestor, deseo consultar el historial de servicios pasados, para analizar el desempeño.</td><td>3</td></tr>
+    <tr><td>12</td><td>US08</td><td>Dashboard de indicadores</td><td>Como administrador, deseo ver KPIs de eficiencia y cumplimiento, para tomar decisiones.</td><td>5</td></tr>
+    <tr><td>13</td><td>US16</td><td>Exportación de reportes PDF</td><td>Como gestor, deseo exportar reportes en PDF, para compartirlos con otras áreas.</td><td>3</td></tr>
+    <tr><td>14</td><td>US03</td><td>Geolocalización en tiempo real</td><td>Como gestor, deseo visualizar en tiempo real la ubicación de cada unidad, para detectar desviaciones.</td><td>5</td></tr>
+    <tr><td>15</td><td>US04</td><td>Carga de evidencia de entrega</td><td>Como conductor, deseo registrar fotos y kilometraje, para dejar constancia de las entregas.</td><td>3</td></tr>
+    <tr><td>16</td><td>US09</td><td>Notificaciones por incidencia</td><td>Como gestor, deseo recibir notificaciones de incidencias, para tomar acciones rápidas.</td><td>2</td></tr>
+    <tr><td>17</td><td>US17</td><td>Creación de perfiles de usuario</td><td>Como administrador, deseo crear perfiles con permisos, para controlar el acceso a funcionalidades.</td><td>3</td></tr>
+    <tr><td>18</td><td>US18</td><td>API para consulta de servicios</td><td>Como developer, deseo exponer un endpoint para consultar servicios, para integrarlo con sistemas externos.</td><td>5</td></tr>
+    <tr><td>19</td><td>US19</td><td>API para registrar evidencia</td><td>Como developer, deseo un endpoint para registrar evidencia, para integrarla desde apps externas.</td><td>5</td></tr>
+    <tr><td>20</td><td>US20</td><td>API para incidencias</td><td>Como developer, deseo exponer un endpoint para recibir incidencias, para automatizar su gestión.</td><td>5</td></tr>
+  </tbody>
 </table>
