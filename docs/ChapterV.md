@@ -223,11 +223,11 @@ Para lo que respecta el desarrollo de la parte de HTML y CSS se utilizará Googl
 
 * Siempre declarar el tipo de documento con <!DOCTYPE html>
 
-* Usar siempre letras en minúsculas para los nombres de los elementos (como ≶h1>, ≶p>, ≶footer>, etc).
+* Usar siempre letras en minúsculas para los nombres de los elementos (como &lt;h1&gt;, &lt;p&gt;, &lt;footer&gt;, etc).
 
-* Cerrar siempre con los elementos de HTML (por ejemplo: ≶h1>≶/h1>).
+* Cerrar siempre con los elementos de HTML (por ejemplo: &lt;h1&gt;&lt;/h1&gt;).
 
-* Siempre colocar entre comillas los atributos dentro de un elemento HTML (≶h1 class="name">≶/h1>).
+* Siempre colocar entre comillas los atributos dentro de un elemento HTML (&lt;h1 class="name"&gt;&lt;/h1&gt;).
 
 * Declarar los atributos alt, width and height para imágenes.
 
@@ -235,7 +235,7 @@ Para lo que respecta el desarrollo de la parte de HTML y CSS se utilizará Googl
 
 * Evitar líneas de código extensas.
 
-* No olvidar declarar el ≶title>≶/title> en apartado del ≶head>≶/head> (ubicado al inicio del documento HTML).
+* No olvidar declarar el &lt;title&gt;&lt;title&gt; en apartado del &lt;head&gt;&lt;/head&gt; (ubicado al inicio del documento HTML).
 
 * Utilizar meta tags al inicio del documento.
 
@@ -249,7 +249,7 @@ Para el caso del lenguaje JavaScript, se usará la guía de estilos brindada por
 
 * Usar el punto y coma al final de cada sentencia.
 
-* Evitar declarar variables var; en su lugar, utilizar let o const para mitigar errores en variables y valores la momento de acceder a ellos.
+* Evitar declarar variables var; en su lugar, utilizar **let** o **const** para mitigar errores en variables y valores la momento de acceder a ellos.
 
 Para el lenguaje Gherkin se usará las conveciones Make Your Gherkin Specifications More Readable con el objetivo de utilizar buenas prácticas que nos permitan entender con exactitud lo desarrollado. Los archivos creados tendrán la extensión .feature. Para conocer más acerca de la forma de escribir en el lenguaje Gherkin, utilizaremos el siguiente enlace: <a href="https://specflow.org/gherkin/gherkin-conventions-for-readable-specifications/">https://specflow.org/gherkin/gherkin-conventions-for-readable-specifications/</a>. A continuación, se presentarán las siguientes convenciones:
 
@@ -263,18 +263,50 @@ Para el lenguaje Gherkin se usará las conveciones Make Your Gherkin Specificati
 
 * Usar un formato consistente en la especificación para todos los Scenarios.
 
+Para el desarrollo, utilizaremos Vue JS del cual tiene tomaremos como referencia las convenciones definidas por el equipo de desarrollo de Vue. El objetivo principal que este tiene, el generar el mantenimiento del sistema. Del mismo modo, se puede visualizar dichas convenciones en el siguiente enlace: <a href="https://vuejs.org">https://vuejs.org</a>. A continuación, presentaremos aglunas convenciones esenciales de Vue JS:
 
-Para el uso del lenguaje Java, Google ofrece una guía de estilos bastante completa, la cuál nos permitirá aplicar ciertos estándares para mantener la consistencia y legibilidad nuestros proyectos. Para conocer a detalle cada una de las siguientes convenciones, lo podemos visualizar en el siguiente enlace: <a href="https://google.github.io/styleguide/javaguide.html">https://google.github.io/styleguide/javaguide.html</a>. A continuación, se mencinarán algunas convenciones:
+* Los nombres de los componentes siempre deben tener palabras (Vue.component('todo-item', {...})), excepto en los componentes raíz y los componentes integrados de Vue, como &lt;transition&gt; o &lt;component&gt;.
 
-* Declarar clases, estructuras o records nombrandolo en Pascal case.
+* El componente *data* siempre es una función y retorna valores.
 
-* Definir parámetros nombrándolos con Camel case y utilizar el prefijo con el guión abajo.
+* Definir los detalles de las propiedades como el *status* con sus subdetalles.
 
-* Realizar comentarios en una nueva línea de código y utilizarlo netamente para especificar comportaminetos un tanto complejos de entender.
+* Usar siempre ".key" con "v-for".
 
-* Respetar cada uno de las identaciones y espaciados después de un coma u operador.
+* Evitar juntar "v-if" con "v-for" en un mismo *scope*.
 
-* Cada una de las llaves deben ir en una línea nueva, ya sea al momento de declarar una clae, estructura, entre otros.
+Para el uso de C#, Microsoft provee una guía de estilos bastante completa la cual nos permitirá aplicar estándares que sus propios desarrolladores implementan. Se puede conocer más sobre esto en el siguiente link: <a href="https://learn.microsoft.com/en-us/dotnet/csharp/fundamentals/coding-style/coding-conventions">https://learn.microsoft.com/en-us/dotnet/csharp/fundamentals/coding-style/coding-conventions</a>.
+
+Entre algunas convenciones podemos mencionar:
+
+* Al declarar una clase, estructura o record, hay que nombrarlo mediante el estilo de nombre *Pascal Case*.
+
+* Al declarar parámetros, hay que nombrarlos con *Camel Case* y utilzar el prefijo con el guión abajo "_".
+
+* Realizar comentarios en una nueva línea de código, no al final de una linea. Además, evitar el uso excesivo de comentarios.
+
+* Respetar el espaciado después de una coma y operadores.
+
+* Las llaves deben ir en una nueva línea nueva al declarar una nueva clase, estructura, etc.
+
+Finalmente, para lo que respecta **.NET Framework**, también perteneciente a Microsoft, este provee una guía de estilos bastantes completa de las cúales abarcan varias nociones involucradas en el uso de este *framework*. Se puede acceder a la guía desde el siguiente enlace: <a href="https://github.com/dotnet/aspnetcore/wiki/Engineering-guidelines#coding-guidelines">https://github.com/dotnet/aspnetcore/wiki/Engineering-guidelines#coding-guidelines</a>.
+
+A continuación, se mencionará algunas convenciones:
+
+* Todos los archivos *source* deben tener los comentarios de las licencias de **.NET**:
+
+```
+// Copyright (c) .NET Foundation. All Rights reserved.
+// Licensed under the Apache License, Version 2.0. See License.txt in the project root for license information.
+```
+
+* Evitar ".this" a menos que sea un caso excepcional.
+
+* Siempre especificar la visibilidad de los miembros **(private, public)**.
+
+* Las llaves van en una nueva línea separada dek código.
+
+* Emplear espaciado después de comas y operadores.
 
 <h4 id="softwareDeploymentConfig">5.1.4. Software Deployment Configuration</h4>
 
@@ -283,6 +315,71 @@ Para el uso del lenguaje Java, Google ofrece una guía de estilos bastante compl
 <h4 id="sprint1">5.2.1. Sprint 1</h4>
 
 <h4 id="sprintPlanning1">5.2.1.1. Sprint Planning 1</h4>
+
+En esta sección, se presentará el sprint planning 1 donde se describirá de manera detallada cada una de las evidencias planificadas e implementación del *Landing Page*. Asimismo, se evidenciaron los avances del proyeto e *insights* de colaboración en equipo mediante nuestro organización de Github.
+
+<table>
+    <thead>
+        <tr>
+            <th>Sprint #</th>
+            <th>Sprint 1</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td colspan="2"><b>Sprint Planning Background</b></td>
+        </tr>
+        <tr>
+            <td>Date</td>
+            <td>2025/04/07</td>
+        </tr>
+        <tr>
+            <td>Time</td>
+            <td>11:36 AM</td>
+        </tr>
+        <tr>
+            <td>Location</td>
+            <td>Discord</td>
+        </tr>
+        <tr>
+            <td>Prepared by</td>
+            <td>José Diego Huamani Sánchez</td>
+        </tr>
+        <tr>
+            <td>Atendees (to planning meeting)</td>
+            <td>
+                Todos los miembros del equipo VSC-Visionaries
+            </td>
+        </tr>
+        <tr>
+            <td>Sprint 1 Review Summary</td>
+            <td>
+                Dado que es el primer sprint que se está llevando a cabo, no se está considerando los <em>Review Summary</em> ya que no hemos recibido ninguno en el sprint anterior.
+            </td>
+        </tr>
+        <tr>
+            <td>Sprint 1 Retrospective Summary</td>
+            <td>
+                Al ser el primer Sprint, se planea el desarrollo de nuestra landing page mediante el uso de herramientas web nativas como HTML5, CSS3 y JavaScript. Adicional a ello, se dialogó con todo los miembros del equipo sobre el contenido de los textos que tendrá el landing page así como el diseño que se ha implementando anteriormente a travéz de Figma. Finalizando el desarrollo, se procederá a desplegar el landing page mediante los servicios de <strong>Github Pages</strong> para que cualquier usuario pueda acceder y visualizar la página através del link generado.
+            </td>
+        </tr>
+        <tr>
+            <td colspan="2"><b>Sprint Goal & User Stories</b></td>
+        </tr>
+        <tr>
+            <td>Sprint 1 Velocity</td>
+            <td>
+                2
+            </td>
+        </tr>
+        <tr>
+            <td>Sum of story points</td>
+            <td>
+                2
+            </td>
+        </tr>
+    </tbody>
+</table>
 
 <h4 id="sprintBacklog1">5.2.1.2. Sprint Backlog 1</h4>
 
@@ -293,6 +390,8 @@ Para el uso del lenguaje Java, Google ofrece una guía de estilos bastante compl
 <h4 id="executionEvidenceSprint1">5.2.1.5. Execution Evidence for Sprint Review</h4>
 
 <h4 id="servicesDocumentationSprint1">5.2.1.6. Services Documentation Evidence for Sprint Review</h4>
+
+Al ser, como primer entregable, el landing page de nuestro producto, no hemos requerido emplear **Web Services**.
 
 <h4 id="softwareDeploymentEvidenceSprint1">5.2.1.7. Software Deployment Evidence for Sprint Review</h4>
 
