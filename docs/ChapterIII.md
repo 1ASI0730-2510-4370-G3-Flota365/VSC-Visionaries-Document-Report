@@ -2,6 +2,15 @@
 
 <h3 id="toBeScenario">3.1. To-Be Scenario Mapping</h3>
 
+<h4 id="toBeScenario">Segmento 1: Gerentes o administradores.</h4>
+    
+<img src="../images/To-Be Escenario Segmento 1.jpeg" alt="To-Be map segment 1" width="auto" height="370"/>
+
+<h4 id="toBeScenario">Segmento 2: Conductores.</h4>
+    
+<img src="../images/To-Be Escenario Segmento 2.jpeg" alt="To-Be map segment 2" width="auto" height="370"/>
+
+
 <h3 id="userStories">3.2. User Stories</h3> 
 
 Se presentan los siguientes user stories:
