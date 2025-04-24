@@ -1,4 +1,4 @@
-<h2 id="requirementsSpecification">CAPÍTULO 3: REQUIREMENTS SPECIFICATION</h2>
+![image](https://github.com/user-attachments/assets/f473ce03-46a3-4706-be5d-99dd6ad9ca63)<h2 id="requirementsSpecification">CAPÍTULO 3: REQUIREMENTS SPECIFICATION</h2>
 
 <h3 id="toBeScenario">3.1. To-Be Scenario Mapping</h3>
 
@@ -50,6 +50,69 @@ Se presentan los siguientes user stories:
 </table>
 
 <h3 id="impactMapping">3.3. Impact Mapping</h3>
+
+<table border="1" cellpadding="5" cellspacing="0">
+  <thead>
+    <tr>
+      <th>Business Goal (SMART)</th>
+      <th>Actor / Persona</th>
+      <th>Impact (Cambio de comportamiento)</th>
+      <th>Deliverables (Propuesta funcional)</th>
+      <th>User Stories Relacionadas</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Alcanzar 600 usuarios suscritos al plan B en 8 meses.</td>
+      <td>Visitante del sitio web</td>
+      <td>Investiga beneficios y se registra para usar la plataforma.</td>
+      <td>Landing Page informativa, comparador de planes, formulario de registro.</td>
+      <td>US11, US12, US13</td>
+    </tr>
+    <tr>
+      <td>Reducir en 20% el número de entregas fallidas por incidencias en los primeros 6 meses.</td>
+      <td>Conductor</td>
+      <td>Reporta incidencias y completa checklist preventivo.</td>
+      <td>Módulo de reporte de fallas, checklist vehicular en app.</td>
+      <td>US05, US10</td>
+    </tr>
+    <tr>
+      <td>Disminuir en 15% el consumo mensual de combustible por unidad en 5 meses.</td>
+      <td>Conductor / Gestor</td>
+      <td>Registra consumo y optimiza rutas con datos históricos.</td>
+      <td>Registro de combustible con foto, historial de servicios.</td>
+      <td>US06, US15</td>
+    </tr>
+    <tr>
+      <td>Aumentar la adopción del sistema por parte de gestores reemplazando Excel antes de 4 meses.</td>
+      <td>Gestor logístico</td>
+      <td>Planifica rutas y gestiona servicios desde el panel.</td>
+      <td>Panel web de asignación de rutas, consulta de disponibilidad, creación de servicios.</td>
+      <td>US01, US02, US14</td>
+    </tr>
+    <tr>
+      <td>Mejorar la toma de decisiones con datos en tiempo real antes del tercer mes.</td>
+      <td>Administrador / Gestor</td>
+      <td>Consulta reportes y exporta KPIs con filtros.</td>
+      <td>Dashboard de indicadores, exportación a PDF.</td>
+      <td>US08, US16</td>
+    </tr>
+    <tr>
+      <td>Permitir integraciones con sistemas externos antes del mes 6.</td>
+      <td>Developer</td>
+      <td>Consume y expone endpoints RESTful.</td>
+      <td>Endpoints para servicios, evidencias e incidencias.</td>
+      <td>US18, US19, US20</td>
+    </tr>
+    <tr>
+      <td>Aumentar retención mensual manteniendo churn &lt;5% mediante valor funcional.</td>
+      <td>Todos los usuarios</td>
+      <td>Usan frecuentemente la plataforma y la recomiendan.</td>
+      <td>Interfaz intuitiva, roles diferenciados, funcionalidades clave accesibles.</td>
+      <td>US17, US03, US04</td>
+    </tr>
+  </tbody>
+</table>
 
 <h3 id="productBacklog">3.4. Product Backlog</h3>
 
