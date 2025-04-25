@@ -432,7 +432,7 @@ Ser la empresa líder en soluciones inteligentes para la gestión de flotas a ni
         </tr>
         <tr>
             <td style="width: 30%; border: 1px solid #FFF; padding: 10px; vertical-align: top;">
-                <img src="" alt="Stephano Moscoso Photo" style="display: block; margin: 50 auto 0 auto;"/>
+                <img src="../images/Stephano_Moscoso_Photo.jpeg" alt="Stephano Moscoso Photo" style="display: block; margin: 50 auto 0 auto;"/>
             </td>
             <td style="width: 70%; border: 1px solid #FFF; padding: 10px; vertical-align: top;">
                 <strong>Angelo Stephano Moscoso Bejar - (U20211G499)</strong> - Ingeniería de Software<br><br>
