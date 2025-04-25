@@ -501,8 +501,106 @@ linck del diagrama de clases en plantmul:https://editor.plantuml.com/uml/hLPDJni
 <h4 id="classDictionary">4.7.2. Class Dictionary</h4>
 Para una mejor comprensión acerca del propósito de creación que cada una de las clases con sus 
 respectivas propiedades, se detallará en esta sección cada uno de ellos:
-
 <br>
+<h3>Class Company</h3>
+<table border="1">
+  <tr><th>Attribute</th><th>Type</th><th>Description</th></tr>
+  <tr><td>id</td><td>String</td><td>Company ID</td></tr>
+  <tr><td>name</td><td>String</td><td>Name of the company</td></tr>
+  <tr><td>taxId</td><td>String</td><td>Tax identifier</td></tr>
+  <tr><td>industry</td><td>String</td><td>Industry sector</td></tr>
+</table>
+<table border="1">
+  <tr><th>Method</th><th>Return Type</th><th>Description</th></tr>
+  <tr><td>hasDriver(driver: Driver)</td><td>boolean</td><td>Checks if the driver is employed</td></tr>
+  <tr><td>getFleets()</td><td>List&lt;Fleet&gt;</td><td>Returns all fleets owned</td></tr>
+</table>
+
+<h3>Class Fleet</h3>
+<table border="1">
+  <tr><th>Attribute</th><th>Type</th><th>Description</th></tr>
+  <tr><td>id</td><td>String</td><td>Fleet ID</td></tr>
+  <tr><td>description</td><td>String</td><td>Description of the fleet</td></tr>
+</table>
+<table border="1">
+  <tr><th>Method</th><th>Return Type</th><th>Description</th></tr>
+  <tr><td>addVehicle(vehicle: Vehicle)</td><td>void</td><td>Adds vehicle to fleet</td></tr>
+  <tr><td>calculatePerformance()</td><td>Metric</td><td>Calculates fleet performance</td></tr>
+</table>
+
+<h3>Class Vehicle</h3>
+<table border="1">
+  <tr><th>Attribute</th><th>Type</th><th>Description</th></tr>
+  <tr><td>id</td><td>String</td><td>Vehicle ID</td></tr>
+  <tr><td>plateNumber</td><td>String</td><td>License plate</td></tr>
+  <tr><td>model</td><td>String</td><td>Vehicle model</td></tr>
+  <tr><td>status</td><td>String</td><td>Current vehicle status</td></tr>
+</table>
+<table border="1">
+  <tr><th>Method</th><th>Return Type</th><th>Description</th></tr>
+  <tr><td>reportStatus()</td><td>Report</td><td>Generates vehicle report</td></tr>
+  <tr><td>updateStatus(newStatus: String)</td><td>void</td><td>Updates vehicle status</td></tr>
+</table>
+
+<h3>Class Driver</h3>
+<table border="1">
+  <tr><th>Attribute</th><th>Type</th><th>Description</th></tr>
+  <tr><td>id</td><td>String</td><td>Driver ID</td></tr>
+  <tr><td>name</td><td>String</td><td>Name of the driver</td></tr>
+  <tr><td>license</td><td>String</td><td>Driver license</td></tr>
+</table>
+
+<h3>Class Supervisor</h3>
+<table border="1">
+  <tr><th>Attribute</th><th>Type</th><th>Description</th></tr>
+  <tr><td>id</td><td>String</td><td>Supervisor ID</td></tr>
+  <tr><td>name</td><td>String</td><td>Name of the supervisor</td></tr>
+  <tr><td>position</td><td>String</td><td>Position of supervisor</td></tr>
+</table>
+<table border="1">
+  <tr><th>Method</th><th>Return Type</th><th>Description</th></tr>
+  <tr><td>generateDriverReport(driver: Driver)</td><td>Report</td><td>Creates a report for driver</td></tr>
+  <tr><td>generateFleetReport(fleet: Fleet)</td><td>Report</td><td>Creates a report for fleet</td></tr>
+</table>
+<h3>Class Report</h3>
+<table border="1">
+  <tr><th>Attribute</th><th>Type</th><th>Description</th></tr>
+  <tr><td>id</td><td>String</td><td>Report ID</td></tr>
+  <tr><td>content</td><td>String</td><td>Content of the report</td></tr>
+</table>
+<table border="1">
+  <tr><th>Method</th><th>Return Type</th><th>Description</th></tr>
+  <tr><td>export()</td><td>void</td><td>Exports report</td></tr>
+</table>
+<h3>Class Metric</h3>
+<table border="1">
+  <tr><th>Attribute</th><th>Type</th><th>Description</th></tr>
+  <tr><td>name</td><td>String</td><td>Name of the metric</td></tr>
+  <tr><td>value</td><td>float</td><td>Numeric value</td></tr>
+</table>
+<h3>Class AIAnalytics</h3>
+<table border="1">
+  <tr><th>Method</th><th>Return Type</th><th>Description</th></tr>
+  <tr><td>predictFailures()</td><td>void</td><td>Predicts vehicle failures</td></tr>
+  <tr><td>analyzePatterns()</td><td>void</td><td>Analyzes performance patterns</td></tr>
+</table>
+<h3>Class Reporting</h3>
+<table border="1">
+  <tr><th>Method</th><th>Return Type</th><th>Description</th></tr>
+  <tr><td>generatePDF(report: Report)</td><td>void</td><td>Generates a PDF from report</td></tr>
+</table>
+<h3>Class Monitoring</h3>
+<table border="1">
+  <tr><th>Method</th><th>Return Type</th><th>Description</th></tr>
+  <tr><td>displayStatus(vehicle: Vehicle)</td><td>String</td><td>Shows vehicle status</td></tr>
+</table>
+<h3>Class FleetManagementService</h3>
+<table border="1">
+  <tr><th>Method</th><th>Return Type</th><th>Description</th></tr>
+  <tr><td>assignVehicle(fleet: Fleet, vehicle: Vehicle)</td><td>void</td><td>Assigns a vehicle to fleet</td></tr>
+  <tr><td>generateFleetReport(fleet: Fleet)</td><td>Report</td><td>Generates a fleet report</td></tr>
+  <tr><td>checkVehicleStatus(vehicle: Vehicle)</td><td>String</td><td>Returns vehicle status</td></tr>
+</table>
 
 <h3 id="dbDesign">4.8. Database Design</h3>
 
