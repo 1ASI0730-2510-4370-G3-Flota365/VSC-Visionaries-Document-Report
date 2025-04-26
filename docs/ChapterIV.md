@@ -489,7 +489,10 @@ Esta arquitectura de navegación garantiza que los usuarios puedan moverse efici
 
 <h4 id="webAppUserFlow">4.4.4. Web Applications User Flow Diagrams</h4>
 
+
+
 <h3 id="webAppPrototyping">4.5. Web Applications Prototyping</h3>
+Video de la aplicación web: https://drive.google.com/file/d/1_MWoiid6MOtvUOxqcHGoC-sVwGr-2juM/view?usp=sharing
 
 <h3 id="DDD">4.6. Domain-Driven Software Architecture</h3>
 
