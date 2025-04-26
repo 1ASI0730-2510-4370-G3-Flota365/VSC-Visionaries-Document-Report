@@ -388,8 +388,8 @@ Datos del Entrevistado:
 Link del Video de la Entrevista:
 
 
-- Minuto de Inicio: 
-- Duración:  minutos 6 minutos con 18 segundos
+- Minuto de Inicio: 00:03
+- Duración:  6:18 minutos
 
 <img src="../images/Captura de pantalla 2025-04-26 a la(s) 14.07.45.png" alt="Entrevista 1" width="auto" height="480"/>
 
@@ -412,9 +412,8 @@ Datos del Entrevistado:
   
 Link del Video de la Entrevista:
 
-
-- Minuto de Inicio: 
-- Duración:  minutos
+- Minuto de Inicio: 06:18
+- Duración: 04:32 minutos
 
 <img src="../images/Captura de pantalla 2025-04-26 a la(s) 14.08.32.png" alt="Entrevista 1" width="auto" height="480"/>
 
@@ -423,81 +422,86 @@ Resumen de la Entrevista:
  Nos comenta que varias veces por falta de datos no puede tomar desiciones a tiempo.Nos comenta que tambien tuvo problemas por fallos en comunicación con los conductores. Tambien nos indica
  que si probaron una aplicacion parecida a la nuestra pero lo dejaron por el precio que pedian.
 
-Entrevista: 3 - Segmento Objetivo: 
+Entrevista: 3 - Segmento Objetivo: Conductor
 
 Fecha Entrevista: 
 
-Entrevistador: 
+Entrevistador: Renato Guillermo Calvo Yalan
 
-Entrevistado: 
+Entrevistado: Miguel Angel Roman
 
 Datos del Entrevistado:
 
-- Edad: 
-- Distrito:
+- Edad: 23
+- Distrito: Chorrilos
   
 Link del Video de la Entrevista:
 
 
-- Minuto de Inicio: 
-- Duración:  minutos
+- Minuto de Inicio: 10:50
+- Duración: 04:44 minutos
   
 <img src="../images/Captura de pantalla 2025-04-26 164044.png" alt="Entrevista 3" width="auto" height="480"/>
 
 Resumen de la Entrevista:
+El conducto Miguel Roman nos indica que tienen problemas con el ingreso de datos además nos indica que para contactar con sus superiores tiene que esperar bastante tiempo. Nos indica que tambien tuvo retrasos
+y inconvenientes en las rutas producto de la falta de datos, tambien nos indica que le gustaria tener una aplicacion mas facil y mas rapida como la nuestra sin depender del papel y lapiz.Le gustaria que la 
+aplicacion le de notificaciones a los encargados para el mantenimiento.Teme a que se quede varado y teme por su salud por no tener una aplicacion que le ayude.
 
 
 
-
-Entrevista: 4 - Segmento Objetivo: 
+Entrevista: 4 - Segmento Objetivo: Gestor
 
 Fecha Entrevista: 
 
-Entrevistador: 
+Entrevistador: Renato Guillermo Calvo Yalan
 
-Entrevistado: 
+Entrevistado: Piero Razuri
 
 Datos del Entrevistado:
 
-- Edad: 
-- Distrito:
+- Edad: 20
+- Distrito:Santiago de Surco
   
 Link del Video de la Entrevista:
 
-
-- Minuto de Inicio: 
-- Duración:  minutos
+- Minuto de Inicio: 15:34
+- Duración:  04:25 minutos
   
 <img src="../images/Captura de pantalla 2025-04-26 164236.png" alt="Entrevista 4" width="auto" height="480"/>
 
 
 Resumen de la Entrevista:
+El entrevistado Piero Razuri es gestor de flota y tiene la responsabilidad de optimizar costos, programar y coordinar el uso de los vehiculos entre otros. Trabaja con 30 vehiculos y 30 conductores 
+el actualmente usa solo whatsapp y  un gps, lleva un registro manual acerca de todo los datos . Varias veces le a pasado que por falta de datos no a podido tomar desiones al momento.Su problema es
+que no tiene buena conversacion con sus conductores y que se le olvida algunas veces el mantenimiento de los carros.Nos indica que si pagaria y que seria muy importante además de que ayudaria un monton.
 
 
 
+Entrevista: 5 - Segmento Objetivo:  Gestor 
 
-Entrevista: 5 - Segmento Objetivo: 
+Fecha Entrevista: 25/04/2025
 
-Fecha Entrevista: 
+Entrevistador: Renato Guillermo Calvo Yalan
 
-Entrevistador: 
-
-Entrevistado: 
+Entrevistado: Ingrid Medina
 
 Datos del Entrevistado:
 
-- Edad: 
-- Distrito:
+- Edad: 21
+- Distrito:Cusco
   
 Link del Video de la Entrevista:
 
 
-- Minuto de Inicio: 
-- Duración:  minutos
+  minuto: 19:59
+duracion : 05:00
 
 <img src="../images/Captura de pantalla 2025-04-26 164139.png" alt="Entrevista 5" width="auto" height="480"/>
 
-Resumen de la Entrevista:
+Resumen de la Entrevista: La entrevistada con la gestora Ingrid nos dice que uso algunas plataformas pero que algunas veces tiene problemas.Tambien nos dice que tiene problemas con poder comunicarse 
+con sus conductores. Ella pagaria por una aplicacion que le funciona bien y que sea optimo.
+
 
 
 
