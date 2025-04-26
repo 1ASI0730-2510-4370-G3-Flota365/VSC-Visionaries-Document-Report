@@ -508,6 +508,14 @@ con sus conductores. Ella pagaria por una aplicacion que le funciona bien y que 
 
 <h4 id="analysisInterview">2.2.3. Análisis de entrevistas</h4>
 
+<img src="../images/analicis1.jpeg" alt="analisis 1" width="auto" height="480"/>
+<img src="../images/analicis2.jpeg" alt="analisis 2" width="auto" height="480"/>
+<img src="../images/analicis3.jpeg" alt="analisis 3" width="auto" height="480"/>
+<img src="../images/analicis4.jpeg" alt="analisis 4" width="auto" height="480"/>
+
+
+
+
 <h3 id="needfinding">2.3. Needfinding</h3>
 
 En esta sección el equipo explica y presenta los artefactos resultantes del proceso de análisis de la información recolectada. Aquí se incluye secciones internas para User Personas, User Task Matrix, User Journey Maps, Empathy Mapping y As-Is Scenario Mapping:
