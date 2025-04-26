@@ -372,43 +372,43 @@ En esta sección se aborda la investigación tomando como base la recolección d
 
 <h4 id="registerInterview">2.2.2. Registro de entrevistas</h4>
 
-Entrevista: 1 - Segmento Objetivo: 
+Entrevista: 1 - Segmento Objetivo: Conductores 
 
-Fecha Entrevista: 
+Fecha Entrevista: 23/04/2025
 
-Entrevistador: 
+Entrevistador: Renato Guillermo Calvo Yalan
 
-Entrevistado: 
+Entrevistado: Manuel Molina Vasquez
 
 Datos del Entrevistado:
 
-- Edad: 
-- Distrito:
+- Edad: 27
+- Distrito: San Martin de Porres (SMP)
   
 Link del Video de la Entrevista:
 
 
 - Minuto de Inicio: 
-- Duración:  minutos
+- Duración:  minutos 6 minutos con 18 segundos
 
 <img src="../images/Captura de pantalla 2025-04-26 a la(s) 14.07.45.png" alt="Entrevista 1" width="auto" height="480"/>
 
 Resumen de la Entrevista:
+Nos indica que se le hace tedioso y complicado dibido a que es todo manual al momento de registrar problemas o tratar de comunicar con sus superiores. Además nos indica que tiene miedo a que le pase 
+algo  a el y tambien a los que van con el en el carro debido a que no sabe mucha información con respecto al carro.Tambien se sentiria muy sastifacho si tuviera una aplicacion que le ayude a ver toda la informacio del carro y le agilise contactar con sus superiores.
 
-
-
-Entrevista: 2 - Segmento Objetivo: 
+Entrevista: 2 - Segmento Objetivo: Gestor de flota
 
 Fecha Entrevista: 
 
-Entrevistador: 
+Entrevistador: Renato Guillermo Calvo Yalan
 
-Entrevistado: 
+Entrevistado: Andres Valverde
 
 Datos del Entrevistado:
 
-- Edad: 
-- Distrito:
+- Edad: 26
+- Distrito: Chorrillos 
   
 Link del Video de la Entrevista:
 
@@ -419,10 +419,9 @@ Link del Video de la Entrevista:
 <img src="../images/Captura de pantalla 2025-04-26 a la(s) 14.08.32.png" alt="Entrevista 1" width="auto" height="480"/>
 
 Resumen de la Entrevista:
-
-
-
-
+ El gestor nos comenta que gestiona 50 carros activos y trabajan con 40 conductores. La herramienta que usa actualmente es excel para registros basicos y whatsapp para comunicación rapida.
+ Nos comenta que varias veces por falta de datos no puede tomar desiciones a tiempo.Nos comenta que tambien tuvo problemas por fallos en comunicación con los conductores. Tambien nos indica
+ que si probaron una aplicacion parecida a la nuestra pero lo dejaron por el precio que pedian.
 
 Entrevista: 3 - Segmento Objetivo: 
 
