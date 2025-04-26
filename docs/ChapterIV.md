@@ -469,11 +469,11 @@ Esta arquitectura de navegación garantiza que los usuarios puedan moverse efici
 <h4 id="landingWireframe">4.3.1. Landing Page Wireframe</h4>
 
 <p align="center">
-<img src="../images/LandingPageWireframe.png" alt="Landing Page Wireframe" style="max-width: 100%; height: auto; border: 2px solid #00bfff;">
+<img src="../images/landing_wireframe.png" alt="Landing Page Wireframe" style="max-width: 100%; height: auto; border: 2px solid #00bfff;">
 </p>
 
 <h4 id="landingMockUp">4.3.2. Landing Page Mock-up</h4>
-<img src="../images/LandingPageMockup.jpg" alt="Landing Page Mockup" style="max-width: 100%; height: auto; border: 2px solid #00bfff;">
+<img src="../images/landing_update.png" alt="Landing Page Mockup" style="max-width: 100%; height: auto; border: 2px solid #00bfff;">
 
 <h3 id="webAppDesign">4.4. Web Applications UX/UI Design</h3>
 
