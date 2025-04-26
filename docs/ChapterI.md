@@ -456,7 +456,7 @@ Ser la empresa líder en soluciones inteligentes para la gestión de flotas a ni
         </tr>
         <tr>
             <td style="width: 30%; border: 1px solid #FFF; padding: 10px; vertical-align: top;">
-                <img src="" alt="Raul Sanchez Photo" style="display: block; margin: 50 auto 0 auto;"/>
+                <img src="../images/WhatsApp Image 2025-04-20 at 11.55.48 PM.jpeg" alt="Raul Sanchez Photo" style="display: block; margin: 50 auto 0 auto;"/>
             </td>
             <td style="width: 70%; border: 1px solid #FFF; padding: 10px; vertical-align: top;">
                 <strong>Raul Roberto Sanchez Cruz - (U201518942)</strong> - Ingeniería de Software<br><br>
