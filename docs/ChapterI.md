@@ -60,19 +60,14 @@
             <td>Desarrollo de la descripción del Statup, Antecedentes y problemáticas - Solution Profile y Segmentos Objetivos (Capítulo 1)</td>
         </tr>
         <tr>
-            <td>//2025</td>
-            <td></td>
-            <td></td>
+            <td>12/04/2025</td>
+            <td>Ariana Ramirez Carrasco</td>
+            <td>Desarrollo el Lean-UX Canvas, Lean-UX Assumptions (pertenicientes cal Cap. 1) y los User Profiles.</td>
         </tr>
         <tr>
-            <td>//2025</td>
-            <td></td>
-            <td></td>
-        </tr>
-        <tr>
-            <td>//2025</td>
-            <td></td>
-            <td></td>
+            <td>12/04/2025</td>
+            <td>Renato Calvo Yalan</td>
+            <td>Desarrollo el Hyphosis Statement and Problem Statement del Cap. 1</td>
         </tr>
         <tr>
             <td>15/04/2025</td>
@@ -80,54 +75,49 @@
             <td>Mejoras en la redacción de los Lean UX Problem Statement y Lean UX Hypothesis Statements (Capítulo 1)</td>
         </tr>
         <tr>
-            <td>//2025</td>
-            <td></td>
-            <td></td>
+            <td>23/04/2025</td>
+            <td>Raul Cruz Sanchez</td>
+            <td>Desarrollo del Product Backlog con los User Stories y el Impact Mapping pertenicientes al Capitulo 3.</td>
         </tr>
         <tr>
-            <td>//2025</td>
-            <td></td>
-            <td></td>
+            <td>23/04/2025</td>
+            <td>Stephano Moscoso</td>
+            <td>Desarrollo el To-Be Scenario Mapping para el segmento de gestores de flota y segmento de conductores.</td>
         </tr>
         <tr>
-            <td>//2025</td>
-            <td></td>
-            <td></td>
+            <td>24/04/2025</td>
+            <td>Raul Cruz Sanchez</td>
+            <td>Actualizo el Product Backlog algunas User Stories.</td>
         </tr>
         <tr>
-            <td>//2025</td>
-            <td></td>
-            <td></td>
+            <td>25/04/2025</td>
+            <td>Raul Cruz Sanchez</td>
+            <td>Desarollo el Cap. 4 (Diseño de estilos, Wireframes y MockUps del Landing Page y Web App)</td>
         </tr>
         <tr>
-            <td>//2025</td>
-            <td></td>
-            <td></td>
+            <td>25/04/2025</td>
+            <td>Jose Diego Huamani S.</td>
+            <td>Agrego los puntos de gestion y herramientas a utilizar en el equipo por cada iteracion de los Sprints; Cap. 5</td>
         </tr>
         <tr>
-            <td>//2025</td>
-            <td></td>
-            <td></td>
+            <td>25/04/2025</td>
+            <td>Renato Calvo Yalan</td>
+            <td>Desarrollo el Diagrama de Clases de la Aplicacion así como el Diccinario de Clases (Cap. 4). Adicional, desarrollo las entrevistas a los segmentos objetivos.</td>
         </tr>
         <tr>
-            <td>//2025</td>
-            <td></td>
-            <td></td>
+            <td>26/04/2025</td>
+            <td>Stephano Moscoso</td>
+            <td>Desarrollo los puntos restantes del Cap. 2 y el Jouney Mapping</td>
         </tr>
         <tr>
-            <td>//2025</td>
-            <td></td>
-            <td></td>
+            <td>26/04/2025</td>
+            <td>Jose Diego Huamani S.</td>
+            <td>Desarrollo del diagrama C4 para el Cap. 4</td>
         </tr>
         <tr>
-            <td>//2025</td>
-            <td></td>
-            <td></td>
-        </tr>
-        <tr>
-            <td>//2025</td>
-            <td></td>
-            <td></td>
+            <td>26/06/2025</td>
+            <td>Todos</td>
+            <td>Desarrollo del Cap. 5 (Planificacion y desarrollo de ceremonios del Sprint 1)</td>
         </tr>
     </tbody>
 </table>
@@ -378,10 +368,26 @@
             La capacidad de funcionar efectivamente en un equipo cuyos miembros juntos proporcionan liderazgo, crean un entorno de colaboración e inclusivo, establecen objetivos, planifican tareas y cumplen objetivos.
         </td>
         <td>
+            <strong>Huamani Sánchez, José Diego</strong>
+            <p>Gracias al enorme conocimiento liderando equipos bajando efoque Agile y TSP, hemos podido solventar cada una de las problematicas que nuestros segmentos objetivos necesitan para poder llevar a cabo un producto diferente utilizando tecnologias web modernas. Con mi apoyo al momento de definir las bases del diagrama de Arquitectura de nuestro proyecto, asi como el apoyo constante al momento mejorar el Product Backlog, podemos segmentar clarividentemente nuestros insight y comenzar a elaborar el proyecto.</p>
+            <br>
+            <strong>Calvo Yalan, Renato Guillermo</strong>
+            <p>A través de la realización de entrevistas, la elaboración de diagramas y la participación activa en la planificación de tareas, logramos alcanzar una colaboración efectiva dentro del equipo. Cada integrante pudo asumir roles de liderazgo en distintos momentos, contribuyendo con ideas y soluciones que enriquecieron el proyecto. El uso de herramientas visuales como los diagramas permitió que todos comprendiéramos mejor los objetivos y las responsabilidades, mientras que las entrevistas nos ayudaron a identificar necesidades clave y a establecer prioridades. Gracias a estas acciones, construimos un entorno inclusivo y organizado que nos permitió cumplir exitosamente nuestras metas.</p>
+            <br>
+            <strong>Moscoso Bejar, Angelo Stephano</strong>
+            <p>Mediante la elaboración del to-be y el journey mapping, contribuí a visualizar y mejorar la experiencia del usuario, identificando oportunidades de optimización en cada etapa del proceso. Estas herramientas ayudaron a establecer una ruta clara para el cumplimiento de los objetivos y facilitaron la colaboración entre los miembros del equipo. Además, al involucrarme en otras actividades, reforcé la planificación conjunta y la toma de decisiones, promoviendo un entorno inclusivo y enfocado en el logro de nuestras metas.</p>
+            <br>
+            <strong>Sanchez Cruz, Raul Roberto</strong>
+            <p>Al diseñar el wireframe y desarrollar parte del landing page, pude aportar de manera concreta a la planificación visual y funcional del proyecto. Estas acciones ayudaron a que el equipo tuviera una guía clara para estructurar el contenido y definir mejor los objetivos del producto. Además, participar en otras tareas complementarias fortaleció la colaboración entre los miembros, permitiéndonos organizarnos de forma efectiva y asegurar que cada parte del proyecto avanzara en armonía. Todo esto contribuyó a crear un entorno inclusivo, colaborativo y enfocado en cumplir nuestras metas.</p>
+            <br>
+            <strong>Ramirez Carrasco, Ariana Lizeth</strong>
+            <p>Mediante la creación del user persona, el análisis competitivo, el empathy mapping y la aplicación del Lean UX, logramos establecer una colaboración sólida dentro del equipo. Cada uno de estos pasos nos permitió tener una visión clara de las necesidades de los usuarios y las oportunidades del mercado, lo que facilitó la planificación de tareas y la asignación de responsabilidades. Mi participación activa en la definición de las estrategias y la identificación de prioridades ayudó a consolidar un ambiente de trabajo inclusivo y organizado. Estas acciones contribuyeron a una comunicación fluida, favorecieron la toma de decisiones en conjunto y nos llevaron a alcanzar nuestros objetivos de manera efectiva.</p>
+            <br>
         </td>
         <td>
             TB1: <br>
             <br><br>
+            La capacidad de trabajar de manera efectiva en un equipo que fomenta el liderazgo compartido, la colaboración y la inclusión es esencial para alcanzar objetivos comunes. Esta habilidad es fundamental en enfoques como el Team Software Process (TSP), donde los equipos de desarrollo asumen la responsabilidad conjunta de la planificación, el seguimiento y el logro de metas de calidad y productividad. A través de la autogestión, la definición clara de roles y la colaboración estructurada que promueve TSP, los equipos no solo cumplen sus objetivos, sino que también fortalecen su desempeño individual y colectivo.
         </td>
     </tr>
 </table>
