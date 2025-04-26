@@ -391,6 +391,7 @@ Link del Video de la Entrevista:
 - Minuto de Inicio: 
 - Duración:  minutos
 
+<img src="../images/Captura de pantalla 2025-04-26 a la(s) 14.07.45.png" alt="Entrevista 1" width="auto" height="480"/>
 
 Resumen de la Entrevista:
 
@@ -415,6 +416,7 @@ Link del Video de la Entrevista:
 - Minuto de Inicio: 
 - Duración:  minutos
 
+<img src="../images/Captura de pantalla 2025-04-26 a la(s) 14.08.32.png" alt="Entrevista 1" width="auto" height="480"/>
 
 Resumen de la Entrevista:
 
