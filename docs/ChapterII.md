@@ -522,16 +522,16 @@ con sus conductores. Ella pagaria por una aplicacion que le funciona bien y que 
 
 Entrevista: 6 - Segmento Objetivo:   
 
-Fecha Entrevista: 
+Fecha Entrevista: 20/04/2025
 
 Entrevistador: Renato Guillermo Calvo Yalan
 
-Entrevistado: 
+Entrevistado: Jose Aguirre
 
 Datos del Entrevistado:
 
-- Edad: 
-- Distrito: 
+- Edad: 27
+- Distrito: San Juan de Lurigancho 
   
 Link del Video de la Entrevista:
 
@@ -545,7 +545,7 @@ https://upcedupe-my.sharepoint.com/:v:/g/personal/u202110458_upc_edu_pe/Ede82TDt
 <img src="../images/Captura de pantalla 2025-04-26 164139.png" alt="Entrevista 6" width="auto" height="480"/>
 
 Resumen de la Entrevista: 
-
+Nos indica que tiene varios problemas porque tiene que escribir todo y tambien tiene problemas con el carro.Varias veces lo a dejado varado. Le parece una buena aplicacion y que le ayudaria un monton con sus problemas y miedos.
 
 <h4 id="analysisInterview">2.2.3. Análisis de entrevistas</h4>
 
