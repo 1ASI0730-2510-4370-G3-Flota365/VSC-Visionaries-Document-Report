@@ -487,7 +487,15 @@ Esta arquitectura de navegación garantiza que los usuarios puedan moverse efici
 
 <h4 id="contextDiagram">4.6.1. Software Architecture Context Diagrams</h4>
 
+<p align="center">
+  <img src="../images/C4-Context-Diagram.png" alt="C4 Context Diagram" style="display: block; margin: 50 auto 0 auto;"/>
+</p>
+
 <h4 id="containerDiagram">4.6.2. Software Architecture Container Diagrams</h4>
+
+<p align="center">
+  <img src="../images/C4-Container-Diagram.png" alt="C4 Container Diagram" style="display: block; margin: 50 auto 0 auto;"/>
+</p>
 
 <h4 id="componentDiagram">4.6.3. Software Architecture Components Diagrams</h4>
 
@@ -496,7 +504,8 @@ Esta arquitectura de navegación garantiza que los usuarios puedan moverse efici
 <h4 id="classDiagram">4.7.1. Class Diagrams</h4>
 Diagrama de clases:
 <img src="../images/diagrama clases.png" alt="diagrama clases" style="display: block; margin: 50 auto 0 auto;"/>
-linck del diagrama de clases en plantmul:https://editor.plantuml.com/uml/hLPDJnin4BqZyH-id58W4VIuGX5HQQH8fKL4ukvu9ukBrtRz4GWj_xspzYviDWuaWbms6RyPpvjvCzaBwwXnlXI71_QUIqqDBGaJrDgnSuRFlOCfKtB6du2SRc0cIhfmTFRryE3mG5DsJmiWlKjLKYvxv6zb9VW9QF9DbPhA5Ja_7nU5WO8w83TAkHFoNJhkLgDHvK7gpu3d6PbX4h9e6IKj8M5sz76QWdEPU-lCQlFe-8xQIyENOFfvU6Ga_loIaRbI0gXiWGjm4m7WR1-FVt3hpiFFKOGyh_ESUGrcoQqoIFN3rBIot74b4nGAa62mYZ7n6z3Ak4qsqPvm2nHghqNrFIF1rF7fi8jnFuEPu0oaxPnqRWi9VKWnELXckDvIGfhdjt37cO3-CZupKXkm34l5ynQOKS6ym2IkmIoKAQbaK0dY2Z0iI-PVnzghNBgwugSlvrKRDqvBbOD8s76IdRS9YYRqSXQE-oazU9tZXJL0miDiBT9Q6Jhi8d4aTqk51_9h_XkOwr3SqlnbvP6HXL0qhREOvbw5mqtbGBf43U0ng3pDfTbBlRCU6GpmCHmUzTfJd14ejL0hIqPlUTIJiICwAZiZwa6-8AEjmXsz0Xi9PQJYXukr0nyCHgHt6g1rFn3PAFK5swBJSgYBd15khO_WvxLLFjOQnvHMqxEnpyFrLrGYiCIopwhu3DfjEaOOBsGpOUqbSqBUdxSz5rMSqJjWztN4MjA9Yv8RPmkVgbnD2x5TEgHaYP9hRKZxDKqkmwdTmUErsxRkMAejKxam5F_OF7FUGAip72V0B2W6cqwe5suigLWzeIhRNT46SixSX7A1thQ_MNaQtQwfmt3IRXcSA8FnD5pYEBCuhHor7qZPJWRh0_p9EKGPO4lNxcZqStqvwSSjs0ZcpQMc97VAT8FbtE9YNksfgNPnXiD_eqvHtfL3fuiPyNOd6RqM1DTHM7wxUBMeP-IF1yDRuhi0V9cgtXJ_0m00
+
+* Link del diagrama de clases en plantmul:https://editor.plantuml.com/uml/hLPDJnin4BqZyH-id58W4VIuGX5HQQH8fKL4ukvu9ukBrtRz4GWj_xspzYviDWuaWbms6RyPpvjvCzaBwwXnlXI71_QUIqqDBGaJrDgnSuRFlOCfKtB6du2SRc0cIhfmTFRryE3mG5DsJmiWlKjLKYvxv6zb9VW9QF9DbPhA5Ja_7nU5WO8w83TAkHFoNJhkLgDHvK7gpu3d6PbX4h9e6IKj8M5sz76QWdEPU-lCQlFe-8xQIyENOFfvU6Ga_loIaRbI0gXiWGjm4m7WR1-FVt3hpiFFKOGyh_ESUGrcoQqoIFN3rBIot74b4nGAa62mYZ7n6z3Ak4qsqPvm2nHghqNrFIF1rF7fi8jnFuEPu0oaxPnqRWi9VKWnELXckDvIGfhdjt37cO3-CZupKXkm34l5ynQOKS6ym2IkmIoKAQbaK0dY2Z0iI-PVnzghNBgwugSlvrKRDqvBbOD8s76IdRS9YYRqSXQE-oazU9tZXJL0miDiBT9Q6Jhi8d4aTqk51_9h_XkOwr3SqlnbvP6HXL0qhREOvbw5mqtbGBf43U0ng3pDfTbBlRCU6GpmCHmUzTfJd14ejL0hIqPlUTIJiICwAZiZwa6-8AEjmXsz0Xi9PQJYXukr0nyCHgHt6g1rFn3PAFK5swBJSgYBd15khO_WvxLLFjOQnvHMqxEnpyFrLrGYiCIopwhu3DfjEaOOBsGpOUqbSqBUdxSz5rMSqJjWztN4MjA9Yv8RPmkVgbnD2x5TEgHaYP9hRKZxDKqkmwdTmUErsxRkMAejKxam5F_OF7FUGAip72V0B2W6cqwe5suigLWzeIhRNT46SixSX7A1thQ_MNaQtQwfmt3IRXcSA8FnD5pYEBCuhHor7qZPJWRh0_p9EKGPO4lNxcZqStqvwSSjs0ZcpQMc97VAT8FbtE9YNksfgNPnXiD_eqvHtfL3fuiPyNOd6RqM1DTHM7wxUBMeP-IF1yDRuhi0V9cgtXJ_0m00
 
 <h4 id="classDictionary">4.7.2. Class Dictionary</h4>
 Para una mejor comprensión acerca del propósito de creación que cada una de las clases con sus 
