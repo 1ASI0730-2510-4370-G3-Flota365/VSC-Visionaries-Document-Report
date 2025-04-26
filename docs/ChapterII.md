@@ -382,7 +382,7 @@ Entrevistado: Manuel Molina Vasquez
 
 Datos del Entrevistado:
 
-- Edad: 27
+- Edad: 27 años
 - Distrito: San Martin de Porres (SMP)
   
 Link del Video de la Entrevista: 
@@ -410,7 +410,7 @@ Entrevistado: Andres Valverde
 
 Datos del Entrevistado:
 
-- Edad: 26
+- Edad: 26 años
 - Distrito: Chorrillos 
   
 Link del Video de la Entrevista:
@@ -439,7 +439,7 @@ Entrevistado: Miguel Angel Roman
 
 Datos del Entrevistado:
 
-- Edad: 23
+- Edad: 23 años
 - Distrito: Chorrilos
   
 Link del Video de la Entrevista:
@@ -470,7 +470,7 @@ Entrevistado: Piero Razuri
 
 Datos del Entrevistado:
 
-- Edad: 20
+- Edad: 20 años
 - Distrito:Santiago de Surco
   
 Link del Video de la Entrevista:
@@ -502,8 +502,8 @@ Entrevistado: Ingrid Medina
 
 Datos del Entrevistado:
 
-- Edad: 21
-- Distrito:Cusco
+- Edad: 21 años
+- Distrito: Cusco
   
 Link del Video de la Entrevista:
 
@@ -530,7 +530,7 @@ Entrevistado: Jose Aguirre
 
 Datos del Entrevistado:
 
-- Edad: 27
+- Edad: 27 años
 - Distrito: San Juan de Lurigancho 
   
 Link del Video de la Entrevista:
@@ -542,7 +542,7 @@ https://upcedupe-my.sharepoint.com/:v:/g/personal/u202110458_upc_edu_pe/Ede82TDt
 - Minuto de Inicio: 25:01
 - Duración : 05:01
 
-<img src="../images/Captura de pantalla 2025-04-26 164139.png" alt="Entrevista 6" width="auto" height="480"/>
+<img src="../images/Captura de pantalla 2025-04-26 170122.png" alt="Entrevista 6" width="auto" height="480"/>
 
 Resumen de la Entrevista: 
 Nos indica que tiene varios problemas porque tiene que escribir todo y tambien tiene problemas con el carro.Varias veces lo a dejado varado. Le parece una buena aplicacion y que le ayudaria un monton con sus problemas y miedos.
