@@ -372,71 +372,154 @@ En esta sección se aborda la investigación tomando como base la recolección d
 
 <h4 id="registerInterview">2.2.2. Registro de entrevistas</h4>
 
-Para cada uno de nuestros segmentos objetivos, ...
+Entrevista: 1 - Segmento Objetivo: 
 
-**Segmento 1:**
+Fecha Entrevista: 
 
-<table>
-    <thead>
-        <tr>
-            <th scope="row" colspan="2">Entrevista #1</th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td style="text-align:center">
-                <strong>Nombres</strong>
-            </td>
-            <td></td>
-        </tr>
-        <tr>
-            <td style="text-align:center">
-                <strong>Apellidos</strong>
-                <td></td>
-            </td>
-        </tr>
-       <tr>
-            <td style="text-align:center">
-                <strong>Edad</strong>
-            </td>
-            <td></td>
-        </tr>
-        <tr>
-            <td style="text-align:center">
-                <strong>Distrito</strong>
-            </td>
-            <td></td>
-        </tr>
-        <tr>
-            <td style="text-align:center">
-                <strong>Timing</strong>
-            </td>
-            <td></td>
-        </tr>
-        <tr>
-            <td style="text-align:center">
-                <strong>Duración</strong>
-            </td>
-            <td></td>
-        </tr>
-        <tr>
-            <td style="text-align:center">
-                <strong>URL</strong>
-            </td>
-            <td>
-                <a href="#">
-                    #
-                </a>
-            </td>
-        </tr>
-    </tbody>
-</table>
+Entrevistador: 
 
+Entrevistado: 
+
+Datos del Entrevistado:
+
+- Edad: 
+- Distrito:
+  
+Link del Video de la Entrevista:
+
+
+- Minuto de Inicio: 
+- Duración:  minutos
+
+
+Resumen de la Entrevista:
+
+
+
+Entrevista: 2 - Segmento Objetivo: 
+
+Fecha Entrevista: 
+
+Entrevistador: 
+
+Entrevistado: 
+
+Datos del Entrevistado:
+
+- Edad: 
+- Distrito:
+  
+Link del Video de la Entrevista:
+
+
+- Minuto de Inicio: 
+- Duración:  minutos
+
+
+Resumen de la Entrevista:
+
+
+
+
+
+Entrevista: 3 - Segmento Objetivo: 
+
+Fecha Entrevista: 
+
+Entrevistador: 
+
+Entrevistado: 
+
+Datos del Entrevistado:
+
+- Edad: 
+- Distrito:
+  
+Link del Video de la Entrevista:
+
+
+- Minuto de Inicio: 
+- Duración:  minutos
+
+
+Resumen de la Entrevista:
+
+
+
+
+Entrevista: 4 - Segmento Objetivo: 
+
+Fecha Entrevista: 
+
+Entrevistador: 
+
+Entrevistado: 
+
+Datos del Entrevistado:
+
+- Edad: 
+- Distrito:
+  
+Link del Video de la Entrevista:
+
+
+- Minuto de Inicio: 
+- Duración:  minutos
+
+
+Resumen de la Entrevista:
+
+
+
+
+Entrevista: 5 - Segmento Objetivo: 
+
+Fecha Entrevista: 
+
+Entrevistador: 
+
+Entrevistado: 
+
+Datos del Entrevistado:
+
+- Edad: 
+- Distrito:
+  
+Link del Video de la Entrevista:
+
+
+- Minuto de Inicio: 
+- Duración:  minutos
+
+
+Resumen de la Entrevista:
+
+
+
+
+Entrevista: 6 - Segmento Objetivo: 
+
+Fecha Entrevista: 
+
+Entrevistador: 
+
+Entrevistado: 
+
+Datos del Entrevistado:
+
+- Edad: 
+- Distrito:
+  
+Link del Video de la Entrevista:
+
+
+- Minuto de Inicio: 
+- Duración:  minutos
+
+
+Resumen de la Entrevista:
 <br>
 
-<p style="text-align:center">
-    <img src="" alt="Entrevista#1" style="width:400px"/>
-</p>
 
 **Resumen:**
 <p style="text-align: justify">
