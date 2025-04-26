@@ -385,8 +385,11 @@ Datos del Entrevistado:
 - Edad: 27
 - Distrito: San Martin de Porres (SMP)
   
-Link del Video de la Entrevista:
+Link del Video de la Entrevista: 
 
+
+https://upcedupe-my.sharepoint.com/:v:/g/personal/u202110458_upc_edu_pe/Ede82TDtmpJKu7161WvAJToBrQZtT6ThjJrDnHf1YUjVQg?e=QdZZPn&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+</br>
 
 - Minuto de Inicio: 00:03
 - Duración:  6:18 minutos
@@ -411,6 +414,10 @@ Datos del Entrevistado:
 - Distrito: Chorrillos 
   
 Link del Video de la Entrevista:
+
+
+https://upcedupe-my.sharepoint.com/:v:/g/personal/u202110458_upc_edu_pe/Ede82TDtmpJKu7161WvAJToBrQZtT6ThjJrDnHf1YUjVQg?e=QdZZPn&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+</br>
 
 - Minuto de Inicio: 06:18
 - Duración: 04:32 minutos
@@ -438,6 +445,9 @@ Datos del Entrevistado:
 Link del Video de la Entrevista:
 
 
+https://upcedupe-my.sharepoint.com/:v:/g/personal/u202110458_upc_edu_pe/Ede82TDtmpJKu7161WvAJToBrQZtT6ThjJrDnHf1YUjVQg?e=QdZZPn&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+</br>
+
 - Minuto de Inicio: 10:50
 - Duración: 04:44 minutos
   
@@ -464,6 +474,10 @@ Datos del Entrevistado:
 - Distrito:Santiago de Surco
   
 Link del Video de la Entrevista:
+
+
+https://upcedupe-my.sharepoint.com/:v:/g/personal/u202110458_upc_edu_pe/Ede82TDtmpJKu7161WvAJToBrQZtT6ThjJrDnHf1YUjVQg?e=QdZZPn&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+</br>
 
 - Minuto de Inicio: 15:34
 - Duración:  04:25 minutos
@@ -494,8 +508,11 @@ Datos del Entrevistado:
 Link del Video de la Entrevista:
 
 
-  minuto: 19:59
-duracion : 05:00
+https://upcedupe-my.sharepoint.com/:v:/g/personal/u202110458_upc_edu_pe/Ede82TDtmpJKu7161WvAJToBrQZtT6ThjJrDnHf1YUjVQg?e=QdZZPn&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+</br>
+
+- Minuto de Inicio: 19:59
+- Duración : 05:00
 
 <img src="../images/Captura de pantalla 2025-04-26 164139.png" alt="Entrevista 5" width="auto" height="480"/>
 
@@ -503,7 +520,31 @@ Resumen de la Entrevista: La entrevistada con la gestora Ingrid nos dice que uso
 con sus conductores. Ella pagaria por una aplicacion que le funciona bien y que sea optimo.
 
 
+Entrevista: 6 - Segmento Objetivo:   
 
+Fecha Entrevista: 
+
+Entrevistador: Renato Guillermo Calvo Yalan
+
+Entrevistado: 
+
+Datos del Entrevistado:
+
+- Edad: 
+- Distrito: 
+  
+Link del Video de la Entrevista:
+
+
+https://upcedupe-my.sharepoint.com/:v:/g/personal/u202110458_upc_edu_pe/Ede82TDtmpJKu7161WvAJToBrQZtT6ThjJrDnHf1YUjVQg?e=QdZZPn&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+</br>
+
+- Minuto de Inicio: 25:01
+- Duración : 05:01
+
+<img src="../images/Captura de pantalla 2025-04-26 164139.png" alt="Entrevista 6" width="auto" height="480"/>
+
+Resumen de la Entrevista: 
 
 
 <h4 id="analysisInterview">2.2.3. Análisis de entrevistas</h4>
