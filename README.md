@@ -1,7 +1,7 @@
 # FLOTA 365
 
-Startup Profile
-Descripción de la Startup
+Startup 
+
 En un mundo donde la tecnología avanza a un ritmo vertiginoso, Flota365 nace con una visión clara: transformar la forma en que las empresas gestionan sus flotas mediante soluciones tecnológicas inteligentes, escalables y de alta calidad. Nuestra misión es empoderar a empresas de todos los tamaños —desde pequeños emprendimientos hasta grandes corporaciones— con herramientas que optimizan la operación diaria, incrementan la productividad y reducen significativamente la carga operativa.
 
 Nos diferenciamos por ofrecer sistemas de gestión de flotas dinámicos, centrados en la experiencia del usuario y diseñados para brindar información precisa a supervisores y tomadores de decisiones. Gracias a nuestro enfoque orientado a la calidad, ayudamos a nuestros clientes a obtener una visión clara y accionable del desempeño de sus conductores y activos, lo que se traduce en mayor control, eficiencia y rentabilidad.
