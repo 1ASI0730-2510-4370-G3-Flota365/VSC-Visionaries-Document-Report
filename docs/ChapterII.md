@@ -441,7 +441,8 @@ Link del Video de la Entrevista:
 
 - Minuto de Inicio: 
 - Duración:  minutos
-
+  
+<img src="../images/Captura de pantalla 2025-04-26 164044.png" alt="Entrevista 3" width="auto" height="480"/>
 
 Resumen de la Entrevista:
 
@@ -466,6 +467,8 @@ Link del Video de la Entrevista:
 
 - Minuto de Inicio: 
 - Duración:  minutos
+  
+<img src="../images/Captura de pantalla 2025-04-26 164236.png" alt="Entrevista 4" width="auto" height="480"/>
 
 
 Resumen de la Entrevista:
@@ -492,40 +495,12 @@ Link del Video de la Entrevista:
 - Minuto de Inicio: 
 - Duración:  minutos
 
+<img src="../images/Captura de pantalla 2025-04-26 164139.png" alt="Entrevista 5" width="auto" height="480"/>
 
 Resumen de la Entrevista:
 
 
 
-
-Entrevista: 6 - Segmento Objetivo: 
-
-Fecha Entrevista: 
-
-Entrevistador: 
-
-Entrevistado: 
-
-Datos del Entrevistado:
-
-- Edad: 
-- Distrito:
-  
-Link del Video de la Entrevista:
-
-
-- Minuto de Inicio: 
-- Duración:  minutos
-
-
-Resumen de la Entrevista:
-<br>
-
-
-**Resumen:**
-<p style="text-align: justify">
-    Info
-</p>
 
 <h4 id="analysisInterview">2.2.3. Análisis de entrevistas</h4>
 
