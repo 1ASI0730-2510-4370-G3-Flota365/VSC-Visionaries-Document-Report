@@ -478,10 +478,21 @@ Esta arquitectura de navegación garantiza que los usuarios puedan moverse efici
 <h3 id="webAppDesign">4.4. Web Applications UX/UI Design</h3>
 
 <h4 id="webAppWireframes">4.4.1. Web Applications Wireframes</h4>
+  
+ <img src="../images/index.jpg" alt="Primary Color Palette" width="500px" height="auto"/>
+ <img src="../images/conductor.jpg" alt="Primary Color Palette" width="500px" height="auto"/>
+ <img src="../images/vehiculo.jpg" alt="Primary Color Palette" width="500px" height="auto"/>
+ <img src="../images/flota.jpg" alt="Primary Color Palette" width="500px" height="auto"/>
+ <img src="../images/Analitica.jpg" alt="Primary Color Palette" width="500px" height="auto"/>
+ <img src="../images/monitoreo.jpg" alt="Primary Color Palette" width="500px" height="auto"/>
+ <img src="../images/report.jpg" alt="Primary Color Palette" width="500px" height="auto"/>
 
 <h4 id="webAppUserFlow">4.4.4. Web Applications User Flow Diagrams</h4>
 
+
+
 <h3 id="webAppPrototyping">4.5. Web Applications Prototyping</h3>
+Video de la aplicación web: https://drive.google.com/file/d/1_MWoiid6MOtvUOxqcHGoC-sVwGr-2juM/view?usp=sharing
 
 <h3 id="DDD">4.6. Domain-Driven Software Architecture</h3>
 
