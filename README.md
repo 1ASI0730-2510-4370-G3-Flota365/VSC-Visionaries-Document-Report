@@ -122,6 +122,27 @@
     </tbody>
 </table>
 
+## Project Report Collaboration Insights
+
+**Link del repositorio-Informe**: https://github.com/1ASI0730-2510-4370-G3-Flota365/VSC-Visionaries-Document-Report
+
+**Link de los repositorios de la organización**: https://github.com/1ASI0730-2510-4370-G3-Flota365
+
+<br>
+
+**Reporte de colaboración de la entrega del TB1:**
+
+En esta primera entrega (TB1), nuestro objetivo principal fue la creación de nuestra startup. Todos los miembros del equipo VSC-Visionaries participaron activamente en la elaboración del informe, utilizando herramientas colaborativas como GitHub, Figma, Trello, UXPressia, Miro, entre otros. A continuación, vamos a presentar los diagramas de flujo que representan los *commits* realizados por cada miembro del equipo VSC:
+
+<p style="text-align: center;">
+    <img src="./images/Workflow-Report-VSC Visionaries.png" alt="Workflow Diagram - Report VSC-Visionaries" style="width:500px;" />
+</p>
+
+
+Este gráfico muestra la cantidad de commits realizados por cada integrante durante la elaboración del TB1.
+
+Estas evidencias demuestran una colaboración equilibrada y efectiva, con cada miembro aportando significativamente al desarrollo del informe.
+
 
 ## Contenido
 
