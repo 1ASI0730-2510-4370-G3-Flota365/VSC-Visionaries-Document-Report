@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/f473ce03-46a3-4706-be5d-99dd6ad9ca63)<h2 id="requirementsSpecification">CAPÍTULO 3: REQUIREMENTS SPECIFICATION</h2>
+<h2>id="requirementsSpecification">CAPÍTULO 3: REQUIREMENTS SPECIFICATION</h2>
 
 <h3 id="toBeScenario">3.1. To-Be Scenario Mapping</h3>
 
