@@ -351,9 +351,9 @@ Mediante una selección rigurosa, Flota 365 seleccionó a los siguientes segment
   </li>
 </ul>
 
-<p><strong>Conductores de vehículos de transporte pesados:</strong></p>
+<p><strong>Conductores de vehículos pesados:</strong></p>
 <ul>
-  <li><strong>Descripción:</strong> Los conductores de vehículos de transporte pesado son los encargados de operar las unidades de carga, siguiendo las rutas asignadas y entregando mercancías o servicios de acuerdo con los tiempos establecidos. Además, deben asegurarse de realizar una adecuada documentación de su trabajo, incluyendo la carga de evidencias como fotos, kilometraje y ubicación, como parte de su labor diaria.</li>
+  <li><strong>Descripción:</strong> Los conductores de vehículos pesados son los encargados de operar las unidades de carga, siguiendo las rutas asignadas y entregando mercancías o servicios de acuerdo con los tiempos establecidos. Además, deben asegurarse de realizar una adecuada documentación de su trabajo, incluyendo la carga de evidencias como fotos, kilometraje y ubicación, como parte de su labor diaria.</li>
   <li><strong>Características Demográficas:</strong>
     <ul>
       <li>Edad: 25 a 50 años</li>
