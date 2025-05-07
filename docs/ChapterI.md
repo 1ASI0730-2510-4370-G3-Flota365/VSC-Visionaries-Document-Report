@@ -259,7 +259,7 @@ Nuestros usuarios principales son **gestores de flota** y **conductores de vehí
 
 **2) ¿Dónde encaja nuestro producto en su vida o trabajo?**
 
-Encaja directamente en sus **actividades laborales**. Flota365 se convierte en una herramienta esencial para supervisar, registrar y optimizar las operaciones diarias de transporte. Para los gerentes, es un panel de control completo. Para los conductores, una app funcional y accesible para evidenciar su trabajo diario.
+Encaja directamente en sus **actividades laborales**. Flota365 se convierte en una herramienta esencial para supervisar, registrar y optimizar las operaciones diarias de transporte. Para los gestores, es un panel de control completo. Para los conductores, una app funcional y accesible para evidenciar su trabajo diario.
 
 
 <br>
@@ -346,7 +346,7 @@ Flota365 debe tener una interfaz moderna, limpia y adaptable tanto para escritor
 
 <h4 id="objectiveSegment">1.3. Segmentos objetivo</h4>
 
-Mediante una selección rigurosa, Flota 365 seleccionó a los siguientes segmentos objetivos, esto por su enorme relevancia, contribución y monitoreo en el procesos gestión de flotas. Dichos segmentos, incluyen a los *managers* (gerentes de flotas) y los conductores de vehiculos de transporte pesados que seguidamente, se procederá a describir a cada uno de ellos, detallando sus caractéristicas demográficas y su relevancia del por qué de su inclusión en nuesro marco de mercado objetivo:
+Mediante una selección rigurosa, Flota 365 seleccionó a los siguientes segmentos objetivos, esto por su enorme relevancia, contribución y monitoreo en el procesos gestión de flotas. Dichos segmentos, incluyen a los *managers* (gestores de flotas) y los conductores de vehiculos de transporte pesados que seguidamente, se procederá a describir a cada uno de ellos, detallando sus caractéristicas demográficas y su relevancia del por qué de su inclusión en nuesro marco de mercado objetivo:
 
 <p><strong>Gestores de flota:</strong></p>
 <ul>
@@ -355,7 +355,7 @@ Mediante una selección rigurosa, Flota 365 seleccionó a los siguientes segment
     <ul>
       <li>Edad: 30 a 55 años</li>
       <li>Experiencia: De 5 a 20 años en el sector logístico o de transporte</li>
-      <li>Cargo: Gerente de flota, supervisor de logística, responsable de operaciones</li>
+      <li>Cargo: Gestores de flota, supervisor de logística, responsable de operaciones</li>
       <li>Nivel educativo: Técnico o universitario en áreas relacionadas con la logística, ingeniería industrial, transporte o afines</li>
       <li>Ubicación: En áreas urbanas o zonas industriales, donde las operaciones de transporte son esenciales</li>
       <li>Ingresos: De nivel medio a alto, dependiendo del tamaño de la empresa</li>
