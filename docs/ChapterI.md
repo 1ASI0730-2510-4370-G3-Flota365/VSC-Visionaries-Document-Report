@@ -207,41 +207,40 @@ Incluye desarrollo de la plataforma web, integración con sistemas GPS y costos 
 
 <h4 id="problemStatement">1.2.2.1. Lean UX Problem Statements</h4>
 
-**Problem Statement 1: Gestor de flota**
+**Problem Statement 1: Gestores de flota**
 
-En la actualidad, los gestores de flota enfrentan grandes dificultades para contar con una visión centralizada y en tiempo real del estado operativo de los vehículos, lo que ocasiona falta de control en el mantenimiento, retrasos en las entregas, duplicación de tareas administrativas y errores en la supervisión diaria.
+**[Flota365] fue diseñada para mejorar la eficiencia operativa de las empresas de transporte, facilitando la gestión de flotas y permitiendo tomar decisiones basadas en datos.**
 
-La ausencia de herramientas ágiles y basadas en datos precisos para evaluar el rendimiento de las unidades y conductores obliga a las empresas a invertir más de lo presupuestado, afectando sus recursos y activos estratégicos.
+Hemos observado que los gestores de flota no cuentan con una visión centralizada ni en tiempo real del estado de los vehículos y conductores. Esto ha generado retrasos en entregas, fallas en el mantenimiento preventivo, aumento de tareas administrativas duplicadas y errores en la supervisión. Estos problemas están afectando negativamente la rentabilidad y el control operativo del negocio.
 
-Por esta razón, se ha identificado como factor crítico la necesidad de una solución tecnológica que centralice los flujos administrativos y de monitoreo, integrando la operación diaria de vehículos y conductores en una plataforma intuitiva, visual y de fácil adopción.
+**¿Cómo podríamos mejorar Flota365 para que los gestores de flota puedan tomar decisiones más rápidas, eficientes y basadas en evidencia, como se reflejará en la reducción de tiempos muertos, mejora en el cumplimiento de rutas y disminución de costos operativos?**
 
-¿Cómo podríamos diseñar una plataforma web que centralice toda la información operativa de la flota y automatice el seguimiento de tareas críticas, para ayudar a los gestores a tomar decisiones eficientes, rápidas y basadas en evidencia?
+<br>
 
-**Problem Statement 2: Conductor de Vehículos de Transporte**
+**Problem Statement 2: Conductores de vehículos pesados**
 
-Los conductores de transporte pesado suelen enfrentarse a procesos manuales, desorganizados y poco claros para reportar recorridos, registrar entregas o informar incidentes. Esto genera frustración, pérdida de tiempo y desmotivación, además de una sensación de que su trabajo no es valorado ni reconocido.
+**[Flota365] busca facilitar la operación diaria de los conductores mediante el uso de herramientas digitales que simplifiquen sus tareas rutinarias.**
 
-A esto se suma la falta de herramientas intuitivas para cargar evidencias y obtener retroalimentación clara sobre su rendimiento, lo que afecta directamente su confianza y compromiso con la operación.
+Sin embargo, hemos observado que los conductores siguen lidiando con procesos manuales y poco claros para registrar sus actividades, lo que genera desmotivación, errores en los reportes y poca conexión con el resto del equipo operativo. Esta situación ha disminuido la precisión del seguimiento de entregas y ha incrementado los conflictos en la validación de recorridos y evidencias.
 
-Por lo tanto, se ha identificado como factor crítico la necesidad de ofrecer una solución digital que simplifique el registro de actividades y recorridos, y que facilite la comunicación directa entre el conductor y sus superiores, promoviendo así la motivación y mejora continua.
-
-¿Cómo podríamos crear una experiencia digital simple, rápida y amigable para que los conductores puedan registrar sus actividades diarias, cargar evidencias de forma efectiva y sentirse parte de un sistema que reconoce y mejora su desempeño?
+**¿Cómo podríamos mejorar Flota365 para que los conductores de transporte puedan registrar de forma ágil sus actividades diarias, enviar evidencias fácilmente y sentirse parte de un sistema que reconoce su desempeño, lo cual se evidenciará en mayor puntualidad, disminución de errores en la documentación y aumento en la satisfacción del conductor?**
 
 <h4 id="assumptions">1.2.2.2. Lean UX Assumptions</h4>
 
 **Business Assumptions:**
 <br>
 
-**Sabremos que tenido éxito cuando vamos algunos de los siguientes cambios en el comportamiento de nuestros usuarios:**
-- Incremento en el uso diario de la plataforma para registrar servicios y cargar evidencias.
-  
-- Disminución de incidencias por mantenimientos no planificados.
-  
-- Mejora en la puntualidad de las entregas y reducción de reclamos por parte de clientes finales.
-  
-- Uso activo de los reportes inteligentes para la toma de decisiones operativas.
-  
-- Adopción sostenida del sistema por parte de nuevos conductores y gerentes de flota.
+**Sabremos que hemos tenido éxito cuando observemos los siguientes cambios en el comportamiento de nuestros usuarios:**
+
+- Aumento en el uso diario de la plataforma para registrar servicios y cargar evidencias.
+
+- Reducción de incidencias derivadas de mantenimientos no planificados.
+
+- Mejora en la puntualidad de las entregas y disminución de reclamos por parte de los clientes finales.
+
+- Uso constante de los reportes inteligentes para la toma de decisiones operativas.
+
+- Adopción continua del sistema por parte de nuevos conductores y gestores de flota.
 
 <br>
 
@@ -249,84 +248,98 @@ Por lo tanto, se ha identificado como factor crítico la necesidad de ofrecer un
 
 **1) ¿Quién es el usuario?**
 
-Nuestros usuarios son **gerentes de flotas** y **conductores de transporte pesado**, entre los 25 y 55 años, que trabajan en empresas de logística, distribución o transporte de carga. Los gerentes están enfocados en la eficiencia operativa y el cumplimiento normativo, mientras que los conductores buscan herramientas prácticas para registrar su labor diaria sin complicaciones.
+Nuestros usuarios principales son **gestores de flota** y **conductores de vehículos pesados**, con edades entre 25 y 55 años, que trabajan en empresas de logística, distribución o transporte de carga.
+
+- Los gestores priorizan la eficiencia operativa, el control de mantenimientos y el cumplimiento normativo.
+
+- Los conductores valoran herramientas rápidas, simples y confiables para registrar su trabajo diario sin complicaciones.
+
 
 <br>
 
-**2) ¿Dónde encaja nuestro producto? ¿En sus actividades labores o en su vida?**
+**2) ¿Dónde encaja nuestro producto en su vida o trabajo?**
 
 Encaja directamente en sus **actividades laborales**. Flota365 se convierte en una herramienta esencial para supervisar, registrar y optimizar las operaciones diarias de transporte. Para los gerentes, es un panel de control completo. Para los conductores, una app funcional y accesible para evidenciar su trabajo diario.
 
+
+<br>
+
 **3) ¿Qué problemas tiene nuestro producto y cómo se pueden resolver?**
 
-**Problemas:**
+**Problemas detectados:**
 
-- Falta de visibilidad en tiempo real de las operaciones.
+- Falta de visibilidad en tiempo real de las operaciones de campo.
 
-- Dificultad para hacer seguimiento al mantenimiento preventivo.
+- Seguimiento deficiente del mantenimiento preventivo.
 
-- Pérdida de evidencias físicas o registros manuales mal gestionados.
+- Pérdida o mala gestión de registros y evidencias físicas.
 
-- Comunicación deficiente entre el personal en campo y la oficina administrativa.
-  
-<br>
+- Comunicación fragmentada entre campo y oficina.
 
-**Solución:**
+**Solución propuesta:**
 
-Flota365 resuelve estos problemas proporcionando una plataforma digital centralizada que:
+Flota365 aborda estos desafíos mediante una plataforma digital centralizada que:
 
-- Permite la carga inmediata de evidencias (fotos, kilometraje, ubicación).
+- Permite el registro inmediato de evidencias (fotografías, kilometraje, ubicación).
 
-- Automatiza la planificación de mantenimientos.
+- Automatiza la planificación y seguimiento de mantenimientos.
 
-- Ofrece geolocalización en tiempo real.
+- Proporciona geolocalización en tiempo real.
 
-- Genera reportes inteligentes para mejorar la toma de decisiones.
+- Genera reportes inteligentes para decisiones operativas.
 
 <br>
 
-**4) ¿Qué características son importantes?**
+**4) ¿Qué características son más importantes?**
 
-**Features:**
+Características clave que deben estar presentes:
 
-- Registro de servicios con evidencias fotográficas y geolocalización.
+- Registro de servicios con evidencia fotográfica y ubicación GPS.
 
-- Planificador automático de mantenimientos.
+- Planificador automático de mantenimientos preventivos.
 
-- Reportes en tiempo real sobre desempeño y eficiencia.
+- Reportes en tiempo real sobre desempeño, eficiencia y alertas.
 
-- Panel administrativo intuitivo y accesible desde distintos dispositivos.
+- Panel de administración accesible desde diversos dispositivos.
 
-- Notificaciones sobre alertas críticas (ej. mantenimiento vencido, falla reportada).
+- Notificaciones de alertas críticas (ej. fallas, mantenimientos vencidos).
 
-- Integración con sistemas GPS y ERP de la empresa.
+- Integración con sistemas GPS y ERP existentes en la empresa.
 <br>
 
 **5) ¿Cómo debe verse nuestro producto y cómo comportarse?**
 
-Debe tener una interfaz moderna, limpia y adaptada tanto a escritorio como dispositivos móviles. La experiencia debe ser fluida, con navegación intuitiva, tiempos de carga mínimos y funcionalidades accesibles con pocos clics. Para los conductores, debe ser rápida y sencilla; para los gerentes, debe ofrecer profundidad analítica y control completo.
+Flota365 debe tener una interfaz moderna, limpia y adaptable tanto para escritorio como dispositivos móviles.
+
+- La experiencia debe ser fluida e intuitiva.
+
+- Los conductores deben poder registrar datos en pocos pasos.
+
+- Los gestores deben tener acceso a información analítica y funcionalidades avanzadas para la gestión operativa.
 <br>
 
 <h4 id="hypohesisStatements">1.2.2.3. Lean UX Hypothesis Statements</h4>
 
-**Creemos que** permitir búsquedas por placa del vehículo o DNI del conductor y filtros por rango de fechas,
-**Para** gestores que necesitan monitorear actividades específicas en diferentes periodos de tiempo y entre múltiples vehículos,
-**Sabremos** que esto funciona **cuando** el número de consultas y generación de reportes aumente progresivamente y los gestores reporten mayor control y visibilidad sobre los recorridos.
+1) **Creemos que** permitir búsquedas por placa del vehículo o DNI del conductor, junto con filtros por rango de fechas,
+**para** gestores que necesitan monitorear actividades específicas en diferentes periodos y vehículos,
+**Sabremos que esto funciona** cuando cuando el número de consultas y generación de reportes aumente progresivamente, y los usuarios reporten mayor control y visibilidad.
 
-**Creemos que** ofrecer opciones para exportar reportes de actividades a PDF o Excel,
-**Para** gestores de flota que deben presentar informes a sus superiores o justificar operaciones ante otras áreas,
-**Sabremos que** esta funcionalidad es valiosa **cuando** el 70% o más de los usuarios activos la utilicen al menos una vez por semana y reporten satisfacción con el formato de los documentos.
+2) **Creemos que** ofrecer opciones para exportar reportes de actividades en formatos PDF o Excel,
+**para** gestores de flota que deben presentar informes a superiores o justificar operaciones ante otras áreas,
+**sabremos que esta funcionalidad es valiosa cuando** cuando al menos el 70% de los usuarios activos la utilicen semanalmente y manifiesten satisfacción con el formato de salida.
 
-**Creemos que** una funcionalidad simple para registrar el kilometraje de inicio y fin de un recorrido, incluyendo la carga de una foto como evidencia,
-**Para** los conductores que desean validar fácilmente su recorrido y evitar disputas sobre sus rutas o consumo de combustible,
-**Sabremos que** esta solución es útil **cuando** más del 80% de los registros diarios incluyan evidencias fotográficas y no se detecten incongruencias frecuentes en los datos.
+3) **Creemos que** una funcionalidad simple para registrar el kilometraje de inicio y fin de recorrido, con carga de una foto como evidencia,
+**para** conductores que necesitan validar fácilmente su recorrido y evitar disputas,
+**sabremos que es efectiva** cuando más del 80% de los registros diarios incluyan evidencia fotográfica y se reduzcan inconsistencias en los datos.
 
-**Creemos que** ofrecer un formulario sencillo para registrar sus recorridos diarios con campos específicos (origen, destino, actividad realizada),
-**Para** los conductores que buscan cumplir rápidamente con sus obligaciones administrativas sin complicaciones,
-**Sabremos que** el diseño es efectivo **cuando** el tiempo promedio para completar un registro se reduce a menos de 2 minutos y se mantiene un nivel alto de completitud en los datos ingresados.
+4) **Creemos que** implementar un formulario sencillo para registrar recorridos diarios (con campos como origen, destino, actividad realizada),
+**para** conductores que buscan cumplir con sus reportes de forma rápida,
+**sabremos que el diseño es eficaz** cuando el tiempo promedio de registro sea inferior a 2 minutos y los formularios se completen con datos completos en al menos el 90% de los casos.
 
-**Creemos que** establecer un precio accesible **para** nuestro producto será un incentivo clave para diferenciarnos del resto de la competencia.
-**Sabremos que** tuvimos éxito, **cuando** recibamos comentarios positivos y alentadores sobre el precio que tiene nuestro producto tanto en las encuestas como las entrevistas realizadas a nuestros usuarios. 
+5) **Creemos que** establecer un precio competitivo y accesible,
+**para** diferenciarnos de la competencia y facilitar la adopción,
+**sabremos que la estrategia es exitosa** cuando recibamos comentarios positivos sobre el precio en encuestas y entrevistas, y observemos un crecimiento sostenido de nuevos usuarios.
+
 
 <h4 id="UXCanvas">1.2.2.4. Lean UX Canvas</h4>
 <img src="../images/Lean_UX _Canvas.jpg" alt="Lean UX Canvas" width="auto" height="430"/>
