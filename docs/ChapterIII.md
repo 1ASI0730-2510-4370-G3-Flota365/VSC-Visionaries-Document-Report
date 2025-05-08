@@ -11,6 +11,7 @@
 <img src="../images/To-Be Escenario Segmento 2.jpeg" alt="To-Be map segment 2" width="auto" height="370"/>
 
 
+
 <h3 id="userStories">3.2. User Stories</h3> 
 
 Se presentan los siguientes user stories:
@@ -26,26 +27,193 @@ Se presentan los siguientes user stories:
     </tr>
   </thead>
   <tbody>
-    <tr><td>US01</td><td>Asignación de rutas</td><td>Como gestor, deseo asignar rutas a los conductores desde la plataforma, para optimizar la logística diaria.</td><td>Given que el gestor accede al sistema, When selecciona una unidad y una ruta, Then el sistema asigna la ruta al conductor correspondiente.<br>Given que una ruta está asignada, When se desea reasignar, Then el sistema permite actualizarla sin perder el historial.</td><td>EP01</td></tr>
-    <tr><td>US02</td><td>Consulta de disponibilidad</td><td>Como gestor, deseo ver el estado de pedidos y unidades, para planificar correctamente.</td><td>Given que el sistema está activo, When el gestor accede a la vista de unidades, Then se muestran su estado actual y disponibilidad.<br>Given que una unidad no está disponible, When se consulta, Then el sistema indica la razón de inactividad.</td><td>EP01</td></tr>
-    <tr><td>US03</td><td>Geolocalización en tiempo real</td><td>Como gestor, deseo visualizar en tiempo real la ubicación de cada unidad, para detectar desviaciones.</td><td>Given que el GPS está activo, When la unidad está en movimiento, Then su ubicación se actualiza cada 30 segundos.<br>Given que una unidad se detiene, When permanece inactiva por más de 5 minutos, Then el sistema genera una alerta.</td><td>EP02</td></tr>
-    <tr><td>US04</td><td>Carga de evidencia de entrega</td><td>Como conductor, deseo registrar fotos y kilometraje, para dejar constancia de las entregas.</td><td>Given que una entrega se completa, When el conductor sube una imagen, Then esta se almacena con hora y ubicación.<br>Given que se registra el kilometraje, When se guarda, Then se asocia al servicio correspondiente.</td><td>EP03</td></tr>
-    <tr><td>US05</td><td>Reporte de fallas</td><td>Como conductor, deseo reportar fallas técnicas desde la app, para recibir soporte inmediato.</td><td>Given que ocurre una falla, When se reporta desde la app, Then el sistema notifica al gestor y al soporte técnico.<br>Given que se requiere revisión, When se aprueba el ticket, Then se genera una orden de mantenimiento.</td><td>EP03</td></tr>
-    <tr><td>US06</td><td>Registro de consumo de combustible</td><td>Como conductor, deseo registrar el consumo con foto del odómetro, para controlar gastos.</td><td>Given que se ingresa el tipo de combustible, When se adjunta la foto, Then se guarda la información con fecha y hora.<br>Given que el dato fue registrado, When el gestor lo revisa, Then puede exportarlo en un reporte.</td><td>EP03</td></tr>
-    <tr><td>US07</td><td>Revisión de entregas del día</td><td>Como conductor, deseo revisar mis entregas asignadas al inicio del día, para organizar mi recorrido.</td><td>Given que inicia la jornada, When el conductor accede al sistema, Then se muestra el listado de entregas asignadas.<br>Given que una entrega se realiza, When el conductor la marca como completada, Then se actualiza el estado.</td><td>EP01</td></tr>
-    <tr><td>US08</td><td>Dashboard de indicadores</td><td>Como administrador, deseo ver KPIs de eficiencia y cumplimiento, para tomar decisiones.</td><td>Given que se accede al dashboard, When se selecciona un rango de fechas, Then se muestran indicadores filtrados.<br>Given que se exporta el reporte, When se descarga, Then contiene datos resumidos por unidad y conductor.</td><td>EP04</td></tr>
-    <tr><td>US09</td><td>Notificaciones por incidencia</td><td>Como gestor, deseo recibir notificaciones de incidencias, para tomar acciones rápidas.</td><td>Given que ocurre una incidencia, When es registrada por un conductor, Then el sistema notifica al gestor correspondiente.<br>Given que el gestor recibe la alerta, When la revisa, Then puede asignarla a un técnico.</td><td>EP02</td></tr>
-    <tr><td>US10</td><td>Control de checklist vehicular</td><td>Como conductor, deseo verificar el estado del vehículo antes de iniciar el servicio, para operar con seguridad.</td><td>Given que inicia el día, When se completa el checklist, Then el sistema lo marca como validado.<br>Given que una falla es reportada en checklist, When se aprueba, Then genera una alerta al gestor.</td><td>EP03</td></tr>
-    <tr><td>US11</td><td>Landing Page informativa</td><td>Como visitante, deseo ver una página informativa sobre Co-box Logistic, para conocer sus beneficios.</td><td>Given que accedo a la web, When ingreso a la sección de funcionalidades, Then puedo leer descripciones claras del sistema.<br>Given que estoy interesado, When hago clic en "Contáctanos", Then puedo enviar un mensaje al equipo comercial.</td><td>EP05</td></tr>
-    <tr><td>US12</td><td>Comparador de planes</td><td>Como visitante, deseo comparar los planes disponibles, para elegir el que se ajuste a mi empresa.</td><td>Given que accedo a la sección de precios, When comparo planes, Then veo sus características y costos.<br>Given que selecciono un plan, When hago clic en "Solicitar demo", Then recibo una confirmación por correo.</td><td>EP05</td></tr>
-    <tr><td>US13</td><td>Registro de nuevo usuario</td><td>Como visitante, deseo registrarme para acceder al panel de pruebas, para evaluar la plataforma.</td><td>Given que accedo al formulario, When completo los datos, Then el sistema crea una cuenta temporal.<br>Given que me registro, When inicio sesión, Then puedo acceder al entorno de prueba.</td><td>EP05</td></tr>
-    <tr><td>US14</td><td>Creación de servicio logístico</td><td>Como gestor, deseo crear un servicio con ruta, unidad y chofer, para organizar una entrega.</td><td>Given que el gestor accede al panel, When completa los datos, Then el sistema genera el servicio.<br>Given que se crea el servicio, When se asigna, Then se notifica al conductor.</td><td>EP01</td></tr>
-    <tr><td>US15</td><td>Visualización de historial</td><td>Como gestor, deseo consultar el historial de servicios pasados, para analizar el desempeño.</td><td>Given que ingreso a la sección de historial, When filtro por fecha, Then veo los registros con detalle.<br>Given que selecciono un servicio, When abro el detalle, Then veo conductor, ruta y consumo.</td><td>EP04</td></tr>
-    <tr><td>US16</td><td>Exportación de reportes PDF</td><td>Como gestor, deseo exportar reportes en PDF, para compartirlos con otras áreas.</td><td>Given que accedo al dashboard, When selecciono exportar, Then el sistema genera el archivo PDF.<br>Given que tengo varios servicios, When filtro por unidad, Then el PDF se ajusta a la selección.</td><td>EP04</td></tr>
-    <tr><td>US17</td><td>Creación de perfiles de usuario</td><td>Como administrador, deseo crear perfiles con permisos, para controlar el acceso a funcionalidades.</td><td>Given que accedo a gestión de usuarios, When asigno un rol, Then el sistema restringe funcionalidades según permisos.<br>Given que un perfil es modificado, When se actualiza, Then los cambios se aplican de inmediato.</td><td>EP04</td></tr>
-    <tr><td>US18</td><td>API para consulta de servicios</td><td>Como developer, deseo exponer un endpoint para consultar servicios, para integrarlo con sistemas externos.</td><td>Given que realizo un GET a /api/servicios, When el token es válido, Then recibo el listado en formato JSON.<br>Given que uso un filtro por fecha, When lo agrego a la request, Then el sistema responde solo con datos del rango.</td><td>EP06</td></tr>
-    <tr><td>US19</td><td>API para registrar evidencia</td><td>Como developer, deseo un endpoint para registrar evidencia, para integrarla desde apps externas.</td><td>Given que realizo un POST a /api/evidencia, When el cuerpo es válido, Then se almacena correctamente.<br>Given que falta un dato, When hago la request, Then recibo un error 422 con mensaje descriptivo.</td><td>EP06</td></tr>
-    <tr><td>US20</td><td>API para incidencias</td><td>Como developer, deseo exponer un endpoint para recibir incidencias, para automatizar su gestión.</td><td>Given que realizo un POST a /api/incidencias, When el request contiene unidad y descripción, Then el sistema crea una entrada.<br>Given que se almacena, When se consulta por GET, Then devuelve el estado de resolución.</td><td>EP06</td></tr>
+    <tr><td>US01</td><td>Landing Page informativa</td><td>Como gestor, quiero ver información sobre la empresa, para decidir si la plataforma es confiable.</td><td>Se muestra información clara sobre la empresa (misión, visión, servicios).
+
+El contenido es accesible sin necesidad de iniciar sesión.
+
+El diseño debe transmitir confianza (uso de imágenes, testimonios, logos de clientes).
+
+Al hacer scroll, el usuario encuentra secciones bien diferenciadas.</td><td>1</td></tr>
+<tr><td>US02</td><td>Responsive</td><td>Como gestor o conductor, quiero que la página sea responsive, para usarla cómodamente desde cualquier dispositivo.</td><td>El sitio se adapta correctamente a resoluciones móviles, tabletas y escritorio.
+
+No hay necesidad de desplazamiento horizontal en dispositivos móviles.
+
+Elementos clave (menú, botones, textos) se redistribuyen correctamente por pantalla.
+
+Las pruebas de dispositivos simulados (Chrome DevTools o similares) pasan sin errores visuales.</td><td>1</td></tr>
+<tr><td>US03</td><td>Comparador de planes</td><td>Como gestor, deseo comparar los planes disponibles, para elegir el más adecuado para mi empresa.</td><td>El usuario puede ver al menos 2 o más planes comparados en una tabla o tarjeta.
+
+Cada plan incluye detalles de precio, beneficios y condiciones.
+
+Existe una acción visual clara para seleccionar o contratar un plan.
+
+Si un plan no está disponible, se muestra una indicación (ej. desactivado).</td><td>1</td></tr>
+<tr><td>US04</td><td>switcher idiomas</td><td>Como gestor o conductor, quiero poder cambiar el idioma entre español e inglés, para entender el contenido fácilmente.</td><td>1.Existe un botón o selector visible para cambiar entre español e inglés.
+
+2.Todo el contenido de texto cambia de idioma al instante.
+
+3. El idioma seleccionado se conserva al navegar entre páginas.
+
+4.El idioma por    
+defecto es español si no hay selección previa.</td><td>1</td></tr>
+<tr><td>US05</td><td>tema de colores</td><td>Como gestor o conductor, deseo cambiar el tema de colores, para personalizar la interfaz a mi gusto.</td><td>El usuario puede elegir entre al menos dos temas (ej. claro y oscuro).
+
+Al cambiar de tema, los colores se aplican automáticamente a la interfaz.
+
+La selección de tema se guarda en el navegador (localStorage o similar).
+
+Todos los elementos del sitio respetan el tema seleccionado (no quedan elementos con color incorrecto).</td><td>1</td></tr>
+<tr><td>US06</td><td>vista de developers</td><td>Como gestor, quiero saber quiénes son los desarrolladores, para tener mayor confianza en la plataforma.</td><td>1.
+Existe una sección accesible desde la landing page con información del equipo.
+
+2.
+Se muestran nombres, roles y fotos (opcional) de los desarrolladores.
+
+3.
+La sección tiene diseño consistente con el resto del sitio.</td><td>1</td></tr>
+<tr><td>US07</td><td>Registro de nuevo usuario</td><td>Como gestor, quiero registrarme en la plataforma, para probar las funcionalidades y evaluar su utilidad.</td><td>1.
+El formulario solicita :,nombre o email, contraseña.
+
+2.
+Se validan los campos requeridos y el formato del email.
+
+
+3.
+Al registrarse exitosamente, el usuario recibe una confirmación visual.
+
+4.
+No se permite registrar con un correo ya existente.</td><td>1</td></tr>
+<tr><td>US08</td><td>alerta de cerrar
+sesión</td><td>Como gestor o conductor, deseo recibir una alerta al cerrar sesión, para asegurarse de cerrar correctamente y evitar accesos no deseados.</td><td>Antes de cerrar sesión, se muestra una alerta de confirmación (modal o toast).
+
+Si el usuario confirma, se cierra la sesión y redirige a la landing page.
+
+Si cancela, permanece en la misma vista sin cambios.
+
+La sesión se invalida correctamente en backend (no puede volver atrás con el navegador).</td><td>1</td></tr>
+<tr><td>US09</td><td>Registro de vehiculo</td><td>Como gestor  quiero registrar los vehículos para 
+saber cuántos hay.</td><td>Se puede registrar placa, marca, modelo y tipo de vehículo.
+
+El sistema valida que la placa no esté duplicada.
+
+El nuevo vehículo aparece en el listado automáticamente.
+
+Se muestra un mensaje confirmando el registro exitoso</td><td>&mdash;</td></tr>
+<tr><td>US10</td><td>Delegar de vehiculo</td><td>Como gestor quiero delegar un vehiculo a un conductor para que él pueda usarlo</td><td>El gestor puede seleccionar un conductor y un vehículo.
+
+El sistema registra la asignación correctamente.
+
+Si el vehículo ya está asignado, se muestra una advertencia.
+
+El conductor puede ver su vehículo asignado.</td><td>&mdash;</td></tr>
+<tr><td>US11</td><td>Footer informativo</td><td>Como gestor, quiero ver un footer con información útil, para conocer términos, contactos y redes sociales.</td><td>El footer incluye enlaces a contacto, términos y redes sociales.
+
+Los enlaces funcionan correctamente.
+
+El diseño del footer es coherente con el sitio.
+
+Es visible en todas las páginas.</td><td>&mdash;</td></tr>
+<tr><td>US12</td><td>Información conductor</td><td>Como conductor quiero ver mis datos personales para saber que están correctos</td><td>Se muestran nombre, DNI, correo y teléfono del conductor.
+
+El conductor puede revisar sus datos desde su perfil.
+
+Si hay errores, puede solicitar corrección.
+
+El diseño es claro y organizado.</td><td>&mdash;</td></tr>
+<tr><td>US13</td><td>Reportar incidencia</td><td>Como conductor, quiero reportar un incidente durante el uso del vehículo, para notificar al gestor de cualquier problema.</td><td>El conductor puede registrar tipo de incidencia y descripción.
+
+Se puede adjuntar foto si es necesario.
+
+El sistema notifica al gestor inmediatamente.
+
+La incidencia queda guardada con fecha y hora.</td><td>&mdash;</td></tr>
+<tr><td>US14</td><td>Informacion del vehiculo</td><td>Como conductor, quiero consultar el estado técnico del vehículo antes de usarlo, para asegurarme de que está en condiciones.</td><td>Se muestra el estado técnico del vehículo.
+
+Si hay una falla pendiente, se indica claramente.
+
+El conductor accede a esta info antes del servicio.
+
+El estado se actualiza desde mantenimiento.
+
+</td><td>&mdash;</td></tr>
+<tr><td>US15</td><td>Registro de combustible</td><td>Como conductor, quiero registrar el combustible cargado al vehículo, para llevar control del consumo.</td><td>
+    El conductor puede registrar el tipo y cantidad de combustible cargado.
+
+Se permite subir una foto del ticket o del odómetro.
+
+El sistema guarda el registro con fecha, hora y vehículo.
+
+El gestor puede revisar los registros en un historial de consumo.</td><td>&mdash;</td></tr>
+<tr><td>US16</td><td>Registro de pausas</td><td>Como conductor, quiero registrar descansos o pausas durante el servicio, para que queden reflejados en la asignación.</td><td>El conductor indica inicio y fin de cada pausa.
+
+La duración se calcula automáticamente.
+
+Las pausas se reflejan en el reporte del servicio.
+
+El gestor puede ver todas las pausas registradas.</td><td>&mdash;</td></tr>
+<tr><td>US17</td><td>Confirmación de evidencia</td><td>Como conductor, quiero recibir una confirmación cuando se registra mi evidencia de uso, para asegurarme de que fue enviada correctamente.</td><td>El conductor recibe una notificación tras enviar la evidencia de uso.
+
+La evidencia incluye  hora y contenido.
+
+Si hay error en el envío, el sistema lo notifica .
+
+La confirmación queda registrada en el historial del viaje.</td><td>&mdash;</td></tr>
+<tr><td>US18</td><td>Ver que vehículos están en uso</td><td>Como gestor de flota, quiero ver qué vehículos están en uso, para tomar decisiones rápidamente.</td><td>Se muestra una lista de vehículos activos.
+
+Se indica quién los está usando y desde cuándo.
+
+Se puede filtrar por sede, tipo o conductor.
+
+Vehículos libres aparecen con estado “Disponible”.</td><td>&mdash;</td></tr>
+<tr><td>US19</td><td>Resolver incidencias</td><td>Como gestor de flota, quiero saber  si hay incidencias , para resolverlas lo mas rápido que se pueda.</td><td>El gestor puede ver todas las incidencias registradas.
+
+Se muestra su estado (pendiente, resuelta).
+
+Puede asignar un técnico responsable</td><td>&mdash;</td></tr>
+<tr><td>US20</td><td>Asignar mantenimiento</td><td>Como gestor de flota, quiero asignar mantenimiento preventivo  para evitar fallas futuras.</td><td>El gestor puede programar mantenimientos preventivos.
+
+Se define fecha, vehículo y tipo de servicio.
+
+El sistema notifica al conductor asignado.
+
+El mantenimiento queda registrado en el historial.</td><td>&mdash;</td></tr>
+<tr><td>US21</td><td>Asignar técnico</td><td>Como gestor de flota, quiero asignar técnicos a órdenes de mantenimiento , para asegurar que las tareas se realicen a tiempo.</td><td>El gestor puede elegir un técnico disponible.
+
+Se asigna a una orden de mantenimiento específica.
+
+El técnico recibe una notificación.
+
+</td><td>&mdash;</td></tr>
+<tr><td>US22</td><td>Cambio de contraseña</td><td>Como conductor o gestor , quiero cambiar mi contraseña, para mantener mi cuenta segura.</td><td>El usuario puede cambiar su contraseña desde el perfil.
+
+El sistema valida la contraseña actual antes de cambiarla.
+
+Se muestra confirmación del cambio exitoso.
+
+No se permite usar la misma contraseña anterior.</td><td>&mdash;</td></tr>
+<tr><td>US23</td><td>Estadísticas personales del conductor</td><td>Como conductor, quiero ver mis estadísticas de rendimiento, para mejorar mi desempeño.</td><td>El conductor puede ver sus viajes completados y rendimiento.
+
+
+Puede filtrar por semana, mes o año.
+
+El gestor también puede ver este reporte.</td><td>&mdash;</td></tr>
+<tr><td>US24</td><td>Cambiar foto de perfil</td><td>Como conductor o gestor, quiero cambiar mi foto de perfil, para personalizar mi cuenta.</td><td>1. Elegir foto.<br>2. Solo formatos JPG, PNG.<br>3. Visible para el gestor y conductor.</td><td>&mdash;</td></tr>
+<tr><td>US25</td><td>Solicitud de cambio de turno</td><td>Como conductor, quiero solicitar un cambio de turno, para organizar mejor mi jornada.</td><td>1. Solicitud vía formulario.<br>2. El gestor puede aceptar o rechazar.<br>3. Se guarda en historial de solicitudes.</td><td>&mdash;</td></tr>
+<tr><td>US26</td><td>Visualización de vehículo asignado</td><td>Como conductor, quiero ver claramente cuál es mi vehículo asignado del día, para evitar confusiones.</td><td>Al iniciar sesión, el conductor ve el vehículo asignado del día.
+
+Se muestran placa, tipo y horario asignado.
+
+Si no hay asignación, el sistema lo indica claramente.
+
+El diseño es accesible desde el inicio.
+
+</td><td>&mdash;</td></tr>
+<tr><td>US27</td><td>Visualización de rutas completadas vs planificadas</td><td>Como gestor, quiero ver cuántas rutas fueron completadas frente a las planificadas, para evaluar cumplimiento.</td><td>El gestor puede ver rutas planificadas frente a las realizadas.
+
+Se muestran porcentajes de cumplimiento diario o semanal.
+
+Puede filtrar por conductor, zona o fecha.</td><td>&mdash;</td></tr>
+
   </tbody>
 </table>
 
