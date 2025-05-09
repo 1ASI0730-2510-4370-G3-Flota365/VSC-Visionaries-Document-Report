@@ -514,114 +514,113 @@ Video de la aplicación web: https://drive.google.com/file/d/1_MWoiid6MOtvUOxqcH
 
 <h4 id="classDiagram">4.7.1. Class Diagrams</h4>
 Diagrama de clases:
-<img src="../images/diagrama clases.png" alt="diagrama clases" style="display: block; margin: 50 auto 0 auto;"/>
+<img src="../images/class.jpg" alt="diagrama clases" style="display: block; margin: 50 auto 0 auto;"/>
 
 * Link del diagrama de clases en plantmul:https://editor.plantuml.com/uml/hLPDJnin4BqZyH-id58W4VIuGX5HQQH8fKL4ukvu9ukBrtRz4GWj_xspzYviDWuaWbms6RyPpvjvCzaBwwXnlXI71_QUIqqDBGaJrDgnSuRFlOCfKtB6du2SRc0cIhfmTFRryE3mG5DsJmiWlKjLKYvxv6zb9VW9QF9DbPhA5Ja_7nU5WO8w83TAkHFoNJhkLgDHvK7gpu3d6PbX4h9e6IKj8M5sz76QWdEPU-lCQlFe-8xQIyENOFfvU6Ga_loIaRbI0gXiWGjm4m7WR1-FVt3hpiFFKOGyh_ESUGrcoQqoIFN3rBIot74b4nGAa62mYZ7n6z3Ak4qsqPvm2nHghqNrFIF1rF7fi8jnFuEPu0oaxPnqRWi9VKWnELXckDvIGfhdjt37cO3-CZupKXkm34l5ynQOKS6ym2IkmIoKAQbaK0dY2Z0iI-PVnzghNBgwugSlvrKRDqvBbOD8s76IdRS9YYRqSXQE-oazU9tZXJL0miDiBT9Q6Jhi8d4aTqk51_9h_XkOwr3SqlnbvP6HXL0qhREOvbw5mqtbGBf43U0ng3pDfTbBlRCU6GpmCHmUzTfJd14ejL0hIqPlUTIJiICwAZiZwa6-8AEjmXsz0Xi9PQJYXukr0nyCHgHt6g1rFn3PAFK5swBJSgYBd15khO_WvxLLFjOQnvHMqxEnpyFrLrGYiCIopwhu3DfjEaOOBsGpOUqbSqBUdxSz5rMSqJjWztN4MjA9Yv8RPmkVgbnD2x5TEgHaYP9hRKZxDKqkmwdTmUErsxRkMAejKxam5F_OF7FUGAip72V0B2W6cqwe5suigLWzeIhRNT46SixSX7A1thQ_MNaQtQwfmt3IRXcSA8FnD5pYEBCuhHor7qZPJWRh0_p9EKGPO4lNxcZqStqvwSSjs0ZcpQMc97VAT8FbtE9YNksfgNPnXiD_eqvHtfL3fuiPyNOd6RqM1DTHM7wxUBMeP-IF1yDRuhi0V9cgtXJ_0m00
 
 <h4 id="classDictionary">4.7.2. Class Dictionary</h4>
-Para una mejor comprensión acerca del propósito de creación que cada una de las clases con sus 
-respectivas propiedades, se detallará en esta sección cada uno de ellos:
-<br>
-<h3>Class Company</h3>
-<table border="1">
-  <tr><th>Attribute</th><th>Type</th><th>Description</th></tr>
-  <tr><td>id</td><td>String</td><td>Company ID</td></tr>
-  <tr><td>name</td><td>String</td><td>Name of the company</td></tr>
-  <tr><td>taxId</td><td>String</td><td>Tax identifier</td></tr>
-  <tr><td>industry</td><td>String</td><td>Industry sector</td></tr>
-</table>
-<table border="1">
-  <tr><th>Method</th><th>Return Type</th><th>Description</th></tr>
-  <tr><td>hasDriver(driver: Driver)</td><td>boolean</td><td>Checks if the driver is employed</td></tr>
-  <tr><td>getFleets()</td><td>List&lt;Fleet&gt;</td><td>Returns all fleets owned</td></tr>
-</table>
 
-<h3>Class Fleet</h3>
-<table border="1">
-  <tr><th>Attribute</th><th>Type</th><th>Description</th></tr>
-  <tr><td>id</td><td>String</td><td>Fleet ID</td></tr>
-  <tr><td>description</td><td>String</td><td>Description of the fleet</td></tr>
-</table>
-<table border="1">
-  <tr><th>Method</th><th>Return Type</th><th>Description</th></tr>
-  <tr><td>addVehicle(vehicle: Vehicle)</td><td>void</td><td>Adds vehicle to fleet</td></tr>
-  <tr><td>calculatePerformance()</td><td>Metric</td><td>Calculates fleet performance</td></tr>
-</table>
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Class Documentation</title>
+    <style>
+        body { font-family: Arial, sans-serif; background: #121212; color: white; }
+        h2 { margin-top: 40px; }
+        table { width: 80%; border-collapse: collapse; margin-bottom: 30px; }
+        th, td { border: 1px solid #888; padding: 8px; text-align: left; }
+        th { background-color: #222; color: #0af; }
+        td { background-color: #1e1e1e; }
+    </style>
+</head>
+<body>
 
-<h3>Class Vehicle</h3>
-<table border="1">
-  <tr><th>Attribute</th><th>Type</th><th>Description</th></tr>
-  <tr><td>id</td><td>String</td><td>Vehicle ID</td></tr>
-  <tr><td>plateNumber</td><td>String</td><td>License plate</td></tr>
-  <tr><td>model</td><td>String</td><td>Vehicle model</td></tr>
-  <tr><td>status</td><td>String</td><td>Current vehicle status</td></tr>
-</table>
-<table border="1">
-  <tr><th>Method</th><th>Return Type</th><th>Description</th></tr>
-  <tr><td>reportStatus()</td><td>Report</td><td>Generates vehicle report</td></tr>
-  <tr><td>updateStatus(newStatus: String)</td><td>void</td><td>Updates vehicle status</td></tr>
-</table>
-
-<h3>Class Driver</h3>
-<table border="1">
-  <tr><th>Attribute</th><th>Type</th><th>Description</th></tr>
-  <tr><td>id</td><td>String</td><td>Driver ID</td></tr>
-  <tr><td>name</td><td>String</td><td>Name of the driver</td></tr>
-  <tr><td>license</td><td>String</td><td>Driver license</td></tr>
-</table>
-
-<h3>Class Supervisor</h3>
-<table border="1">
-  <tr><th>Attribute</th><th>Type</th><th>Description</th></tr>
-  <tr><td>id</td><td>String</td><td>Supervisor ID</td></tr>
-  <tr><td>name</td><td>String</td><td>Name of the supervisor</td></tr>
-  <tr><td>position</td><td>String</td><td>Position of supervisor</td></tr>
-</table>
-<table border="1">
-  <tr><th>Method</th><th>Return Type</th><th>Description</th></tr>
-  <tr><td>generateDriverReport(driver: Driver)</td><td>Report</td><td>Creates a report for driver</td></tr>
-  <tr><td>generateFleetReport(fleet: Fleet)</td><td>Report</td><td>Creates a report for fleet</td></tr>
-</table>
-<h3>Class Report</h3>
-<table border="1">
-  <tr><th>Attribute</th><th>Type</th><th>Description</th></tr>
-  <tr><td>id</td><td>String</td><td>Report ID</td></tr>
-  <tr><td>content</td><td>String</td><td>Content of the report</td></tr>
-</table>
-<table border="1">
-  <tr><th>Method</th><th>Return Type</th><th>Description</th></tr>
-  <tr><td>export()</td><td>void</td><td>Exports report</td></tr>
-</table>
-<h3>Class Metric</h3>
-<table border="1">
-  <tr><th>Attribute</th><th>Type</th><th>Description</th></tr>
-  <tr><td>name</td><td>String</td><td>Name of the metric</td></tr>
-  <tr><td>value</td><td>float</td><td>Numeric value</td></tr>
-</table>
-<h3>Class AIAnalytics</h3>
-<table border="1">
-  <tr><th>Method</th><th>Return Type</th><th>Description</th></tr>
-  <tr><td>predictFailures()</td><td>void</td><td>Predicts vehicle failures</td></tr>
-  <tr><td>analyzePatterns()</td><td>void</td><td>Analyzes performance patterns</td></tr>
-</table>
-<h3>Class Reporting</h3>
-<table border="1">
-  <tr><th>Method</th><th>Return Type</th><th>Description</th></tr>
-  <tr><td>generatePDF(report: Report)</td><td>void</td><td>Generates a PDF from report</td></tr>
-</table>
-<h3>Class Monitoring</h3>
-<table border="1">
-  <tr><th>Method</th><th>Return Type</th><th>Description</th></tr>
-  <tr><td>displayStatus(vehicle: Vehicle)</td><td>String</td><td>Shows vehicle status</td></tr>
-</table>
-<h3>Class FleetManagementService</h3>
-<table border="1">
-  <tr><th>Method</th><th>Return Type</th><th>Description</th></tr>
-  <tr><td>assignVehicle(fleet: Fleet, vehicle: Vehicle)</td><td>void</td><td>Assigns a vehicle to fleet</td></tr>
-  <tr><td>generateFleetReport(fleet: Fleet)</td><td>Report</td><td>Generates a fleet report</td></tr>
-  <tr><td>checkVehicleStatus(vehicle: Vehicle)</td><td>String</td><td>Returns vehicle status</td></tr>
-</table>
-
+<h2>Class Company</h2>
+<table><thead><tr><th>Attribute</th><th>Type</th><th>Description</th></tr></thead><tbody>
+<tr><td>id</td><td>String</td><td>Company ID</td></tr>
+<tr><td>name</td><td>String</td><td>Name of the company</td></tr>
+<tr><td>taxId</td><td>String</td><td>Tax identifier</td></tr>
+<tr><td>industry</td><td>String</td><td>Industry sector</td></tr>
+</tbody></table>
+<table><thead><tr><th>Method</th><th>Return Type</th><th>Description</th></tr></thead><tbody>
+<tr><td>hasDriver(driver: Driver)</td><td>boolean</td><td>Checks if the driver is employed</td></tr>
+<tr><td>getFleets()</td><td>List<Fleet></td><td>Returns all fleets owned</td></tr>
+</tbody></table>
+<h2>Class Supervisor</h2>
+<table><thead><tr><th>Attribute</th><th>Type</th><th>Description</th></tr></thead><tbody>
+<tr><td>id</td><td>String</td><td>Supervisor ID</td></tr>
+<tr><td>name</td><td>String</td><td>Full name</td></tr>
+<tr><td>position</td><td>String</td><td>Job title</td></tr>
+</tbody></table>
+<table><thead><tr><th>Method</th><th>Return Type</th><th>Description</th></tr></thead><tbody>
+<tr><td>generateDriverReport(driver: Driver)</td><td>Report</td><td>Generates a report for a driver</td></tr>
+<tr><td>generateFleetReport(fleet: Fleet)</td><td>Report</td><td>Generates a report for a fleet</td></tr>
+</tbody></table>
+<h2>Class Driver</h2>
+<table><thead><tr><th>Attribute</th><th>Type</th><th>Description</th></tr></thead><tbody>
+<tr><td>id</td><td>String</td><td>Driver ID</td></tr>
+<tr><td>name</td><td>String</td><td>Full name</td></tr>
+<tr><td>license</td><td>String</td><td>Driver's license number</td></tr>
+</tbody></table>
+<h2>Class Fleet</h2>
+<table><thead><tr><th>Attribute</th><th>Type</th><th>Description</th></tr></thead><tbody>
+<tr><td>id</td><td>String</td><td>Fleet ID</td></tr>
+<tr><td>description</td><td>String</td><td>Description of the fleet</td></tr>
+</tbody></table>
+<table><thead><tr><th>Method</th><th>Return Type</th><th>Description</th></tr></thead><tbody>
+<tr><td>addVehicle(vehicle: Vehicle)</td><td>void</td><td>Adds vehicle to fleet</td></tr>
+<tr><td>calculatePerformance()</td><td>Metric</td><td>Calculates fleet performance</td></tr>
+</tbody></table>
+<h2>Class Vehicle</h2>
+<table><thead><tr><th>Attribute</th><th>Type</th><th>Description</th></tr></thead><tbody>
+<tr><td>id</td><td>String</td><td>Vehicle ID</td></tr>
+<tr><td>plateNumber</td><td>String</td><td>License plate number</td></tr>
+<tr><td>model</td><td>String</td><td>Vehicle model</td></tr>
+<tr><td>status</td><td>String</td><td>Operational status</td></tr>
+</tbody></table>
+<table><thead><tr><th>Method</th><th>Return Type</th><th>Description</th></tr></thead><tbody>
+<tr><td>reportStatus()</td><td>Report</td><td>Generates a vehicle status report</td></tr>
+<tr><td>updateStatus(newStatus: String)</td><td>void</td><td>Updates the vehicle status</td></tr>
+</tbody></table>
+<h2>Class Metric</h2>
+<table><thead><tr><th>Attribute</th><th>Type</th><th>Description</th></tr></thead><tbody>
+<tr><td>name</td><td>String</td><td>Metric name</td></tr>
+<tr><td>value</td><td>float</td><td>Numeric value</td></tr>
+</tbody></table>
+<h2>Class Report</h2>
+<table><thead><tr><th>Attribute</th><th>Type</th><th>Description</th></tr></thead><tbody>
+<tr><td>id</td><td>String</td><td>Report ID</td></tr>
+<tr><td>content</td><td>String</td><td>Report content</td></tr>
+</tbody></table>
+<table><thead><tr><th>Method</th><th>Return Type</th><th>Description</th></tr></thead><tbody>
+<tr><td>export()</td><td>void</td><td>Exports the report</td></tr>
+</tbody></table>
+<h2>Class FleetManagementService</h2>
+<table><thead><tr><th>Method</th><th>Return Type</th><th>Description</th></tr></thead><tbody>
+<tr><td>assignVehicle(fleet: Fleet, vehicle: Vehicle)</td><td>void</td><td>Assigns vehicle to a fleet</td></tr>
+<tr><td>generateFleetReport(fleet: Fleet)</td><td>Report</td><td>Generates a fleet report</td></tr>
+<tr><td>checkVehicleStatus(vehicle: Vehicle)</td><td>String</td><td>Returns vehicle status</td></tr>
+</tbody></table>
+<h2>Class IFaultAnalyzer</h2>
+<table><thead><tr><th>Method</th><th>Return Type</th><th>Description</th></tr></thead><tbody>
+<tr><td>predictFailures()</td><td>void</td><td>Predicts upcoming failures</td></tr>
+<tr><td>analyzePatterns()</td><td>void</td><td>Analyzes recurring patterns</td></tr>
+</tbody></table>
+<h2>Class AIAnalytics</h2>
+<table><thead><tr><th>Method</th><th>Return Type</th><th>Description</th></tr></thead><tbody>
+<tr><td>predictFailures()</td><td>void</td><td>Predicts upcoming failures</td></tr>
+<tr><td>analyzePatterns()</td><td>void</td><td>Analyzes recurring patterns</td></tr>
+</tbody></table>
+<h2>Class Reporting</h2>
+<table><thead><tr><th>Method</th><th>Return Type</th><th>Description</th></tr></thead><tbody>
+<tr><td>generatePDF(report: Report)</td><td>void</td><td>Generates a PDF file from a report</td></tr>
+</tbody></table>
+<h2>Class Monitoring</h2>
+<table><thead><tr><th>Method</th><th>Return Type</th><th>Description</th></tr></thead><tbody>
+<tr><td>displayStatus(vehicle: Vehicle)</td><td>String</td><td>Displays the current vehicle status</td></tr>
+</tbody></table>
+</body></html>
 <h3 id="dbDesign">4.8. Database Design</h3>
 
 <h4 id="dbDiagram">4.8.1. Database Diagram</h4>
