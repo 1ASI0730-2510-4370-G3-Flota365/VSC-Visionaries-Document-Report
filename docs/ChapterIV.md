@@ -520,107 +520,290 @@ Diagrama de clases:
 
 <h4 id="classDictionary">4.7.2. Class Dictionary</h4>
 
-<!DOCTYPE html>
-<html>
-<head>
-    <meta charset="UTF-8">
-    <title>Class Documentation</title>
-    <style>
-        body { font-family: Arial, sans-serif; background: #121212; color: white; }
-        h2 { margin-top: 40px; }
-        table { width: 80%; border-collapse: collapse; margin-bottom: 30px; }
-        th, td { border: 1px solid #888; padding: 8px; text-align: left; }
-        th { background-color: #222; color: #0af; }
-        td { background-color: #1e1e1e; }
-    </style>
-</head>
-<body>
 
-<h2>Class Company</h2>
-<table><thead><tr><th>Attribute</th><th>Type</th><th>Description</th></tr></thead><tbody>
-<tr><td>id</td><td>String</td><td>Company ID</td></tr>
-<tr><td>name</td><td>String</td><td>Name of the company</td></tr>
-<tr><td>taxId</td><td>String</td><td>Tax identifier</td></tr>
-<tr><td>industry</td><td>String</td><td>Industry sector</td></tr>
-</tbody></table>
-<table><thead><tr><th>Method</th><th>Return Type</th><th>Description</th></tr></thead><tbody>
-<tr><td>hasDriver(driver: Driver)</td><td>boolean</td><td>Checks if the driver is employed</td></tr>
-<tr><td>getFleets()</td><td>List<Fleet></td><td>Returns all fleets owned</td></tr>
-</tbody></table>
-<h2>Class Supervisor</h2>
-<table><thead><tr><th>Attribute</th><th>Type</th><th>Description</th></tr></thead><tbody>
-<tr><td>id</td><td>String</td><td>Supervisor ID</td></tr>
-<tr><td>name</td><td>String</td><td>Full name</td></tr>
-<tr><td>position</td><td>String</td><td>Job title</td></tr>
-</tbody></table>
-<table><thead><tr><th>Method</th><th>Return Type</th><th>Description</th></tr></thead><tbody>
-<tr><td>generateDriverReport(driver: Driver)</td><td>Report</td><td>Generates a report for a driver</td></tr>
-<tr><td>generateFleetReport(fleet: Fleet)</td><td>Report</td><td>Generates a report for a fleet</td></tr>
-</tbody></table>
-<h2>Class Driver</h2>
-<table><thead><tr><th>Attribute</th><th>Type</th><th>Description</th></tr></thead><tbody>
-<tr><td>id</td><td>String</td><td>Driver ID</td></tr>
-<tr><td>name</td><td>String</td><td>Full name</td></tr>
-<tr><td>license</td><td>String</td><td>Driver's license number</td></tr>
-</tbody></table>
-<h2>Class Fleet</h2>
-<table><thead><tr><th>Attribute</th><th>Type</th><th>Description</th></tr></thead><tbody>
-<tr><td>id</td><td>String</td><td>Fleet ID</td></tr>
-<tr><td>description</td><td>String</td><td>Description of the fleet</td></tr>
-</tbody></table>
-<table><thead><tr><th>Method</th><th>Return Type</th><th>Description</th></tr></thead><tbody>
-<tr><td>addVehicle(vehicle: Vehicle)</td><td>void</td><td>Adds vehicle to fleet</td></tr>
-<tr><td>calculatePerformance()</td><td>Metric</td><td>Calculates fleet performance</td></tr>
-</tbody></table>
-<h2>Class Vehicle</h2>
-<table><thead><tr><th>Attribute</th><th>Type</th><th>Description</th></tr></thead><tbody>
-<tr><td>id</td><td>String</td><td>Vehicle ID</td></tr>
-<tr><td>plateNumber</td><td>String</td><td>License plate number</td></tr>
-<tr><td>model</td><td>String</td><td>Vehicle model</td></tr>
-<tr><td>status</td><td>String</td><td>Operational status</td></tr>
-</tbody></table>
-<table><thead><tr><th>Method</th><th>Return Type</th><th>Description</th></tr></thead><tbody>
-<tr><td>reportStatus()</td><td>Report</td><td>Generates a vehicle status report</td></tr>
-<tr><td>updateStatus(newStatus: String)</td><td>void</td><td>Updates the vehicle status</td></tr>
-</tbody></table>
-<h2>Class Metric</h2>
-<table><thead><tr><th>Attribute</th><th>Type</th><th>Description</th></tr></thead><tbody>
-<tr><td>name</td><td>String</td><td>Metric name</td></tr>
-<tr><td>value</td><td>float</td><td>Numeric value</td></tr>
-</tbody></table>
-<h2>Class Report</h2>
-<table><thead><tr><th>Attribute</th><th>Type</th><th>Description</th></tr></thead><tbody>
-<tr><td>id</td><td>String</td><td>Report ID</td></tr>
-<tr><td>content</td><td>String</td><td>Report content</td></tr>
-</tbody></table>
-<table><thead><tr><th>Method</th><th>Return Type</th><th>Description</th></tr></thead><tbody>
-<tr><td>export()</td><td>void</td><td>Exports the report</td></tr>
-</tbody></table>
-<h2>Class FleetManagementService</h2>
-<table><thead><tr><th>Method</th><th>Return Type</th><th>Description</th></tr></thead><tbody>
-<tr><td>assignVehicle(fleet: Fleet, vehicle: Vehicle)</td><td>void</td><td>Assigns vehicle to a fleet</td></tr>
-<tr><td>generateFleetReport(fleet: Fleet)</td><td>Report</td><td>Generates a fleet report</td></tr>
-<tr><td>checkVehicleStatus(vehicle: Vehicle)</td><td>String</td><td>Returns vehicle status</td></tr>
-</tbody></table>
-<h2>Class IFaultAnalyzer</h2>
-<table><thead><tr><th>Method</th><th>Return Type</th><th>Description</th></tr></thead><tbody>
-<tr><td>predictFailures()</td><td>void</td><td>Predicts upcoming failures</td></tr>
-<tr><td>analyzePatterns()</td><td>void</td><td>Analyzes recurring patterns</td></tr>
-</tbody></table>
-<h2>Class AIAnalytics</h2>
-<table><thead><tr><th>Method</th><th>Return Type</th><th>Description</th></tr></thead><tbody>
-<tr><td>predictFailures()</td><td>void</td><td>Predicts upcoming failures</td></tr>
-<tr><td>analyzePatterns()</td><td>void</td><td>Analyzes recurring patterns</td></tr>
-</tbody></table>
-<h2>Class Reporting</h2>
-<table><thead><tr><th>Method</th><th>Return Type</th><th>Description</th></tr></thead><tbody>
-<tr><td>generatePDF(report: Report)</td><td>void</td><td>Generates a PDF file from a report</td></tr>
-</tbody></table>
-<h2>Class Monitoring</h2>
-<table><thead><tr><th>Method</th><th>Return Type</th><th>Description</th></tr></thead><tbody>
-<tr><td>displayStatus(vehicle: Vehicle)</td><td>String</td><td>Displays the current vehicle status</td></tr>
-</tbody></table>
-</body></html>
+## Class `Vehicle`
+
+### Attributes
+
+| Name | Type | Description |
+|------|------|-------------|
+| id | UUID | Vehicle ID |
+| plate | String | Vehicle plate |
+| model | String | Vehicle model |
+| type | VehicleType | Type of vehicle |
+| status | Status | Current status |
+| statusHistory | List<VehicleStatus> | Status history |
+
+### Methods
+
+| Name | Return Type | Description |
+|------|--------------|-------------|
+| updateStatus(newStatus) | void | Updates the vehicle status |
+| registerMaintenance(date) | void | Registers a maintenance event |
+
+## Class `Fleet`
+
+### Attributes
+
+| Name | Type | Description |
+|------|------|-------------|
+| id | UUID | Fleet ID |
+| description | String | Description of the fleet |
+| vehicles | List<UUID> | Vehicle IDs in the fleet |
+
+### Methods
+
+| Name | Return Type | Description |
+|------|--------------|-------------|
+| addVehicle(v) | void | Adds a vehicle to the fleet |
+| calculatePerformance() | PerformanceMetric | Calculates fleet performance |
+
+## Class `PerformanceMetric`
+
+### Attributes
+
+| Name | Type | Description |
+|------|------|-------------|
+| availability | double | Vehicle availability |
+| avgMaintenanceCost | double | Average maintenance cost |
+| otherIndicators | ... | Other performance indicators |
+
+## Class `MaintenanceOrder`
+
+### Attributes
+
+| Name | Type | Description |
+|------|------|-------------|
+| id | UUID | Order ID |
+| vehicleId | UUID | Vehicle related to the order |
+| type | String | Maintenance type |
+| startDate | DateTime | Start date |
+| endDate | DateTime | End date |
+| status | Status | Current status |
+| notes | String | Observations |
+| totalCost | double | Total cost |
+
+### Methods
+
+| Name | Return Type | Description |
+|------|--------------|-------------|
+| addTask(t) | void | Adds a task to the order |
+| closeOrder() | void | Closes the maintenance order |
+
+## Class `Task`
+
+### Attributes
+
+| Name | Type | Description |
+|------|------|-------------|
+| id | UUID | Task ID |
+| description | String | Description of the task |
+| cost | double | Cost of the task |
+| status | Status | Task status |
+| technician | Technician | Assigned technician |
+
+### Methods
+
+| Name | Return Type | Description |
+|------|--------------|-------------|
+| assignTechnician(t) | void | Assigns technician to task |
+| markAsCompleted() | void | Marks task as completed |
+
+## Class `Technician`
+
+### Attributes
+
+| Name | Type | Description |
+|------|------|-------------|
+| id | UUID | Technician ID |
+| name | String | Technician name |
+| specialty | String | Specialty |
+| phone | String | Phone number |
+| email | String | Email address |
+| status | Status | Technician status |
+
+## Class `Part`
+
+### Attributes
+
+| Name | Type | Description |
+|------|------|-------------|
+| id | UUID | Part ID |
+| name | String | Part name |
+| type | String | Part type |
+| price | double | Price of the part |
+| currentStock | int | Current stock |
+| minStock | int | Minimum stock |
+| unit | UnitOfMeasure | Unit of measure |
+
+## Class `MaintenanceHistory`
+
+### Attributes
+
+| Name | Type | Description |
+|------|------|-------------|
+| id | UUID | History ID |
+| orderId | UUID | Related order |
+| events | List<String> | Events list |
+| recordDate | DateTime | Date of registration |
+
+## Class `Driver`
+
+### Attributes
+
+| Name | Type | Description |
+|------|------|-------------|
+| id | UUID | Driver ID |
+| name | String | Driver name |
+| license | License | Driver license |
+| phone | String | Phone number |
+| email | String | Email address |
+| status | Status | Driver status |
+
+### Methods
+
+| Name | Return Type | Description |
+|------|--------------|-------------|
+| updateStatus(newStatus) | void | Updates driver status |
+| checkLicenseValidity() | boolean | Checks license expiration |
+
+## Class `License`
+
+### Attributes
+
+| Name | Type | Description |
+|------|------|-------------|
+| category | String | License category |
+| issueDate | Date | Issue date |
+| expiryDate | Date | Expiration date |
+
+## Class `Assignment`
+
+### Attributes
+
+| Name | Type | Description |
+|------|------|-------------|
+| id | UUID | Assignment ID |
+| vehicleId | UUID | Assigned vehicle |
+| driverId | UUID | Assigned driver |
+| route | Route | Route information |
+| dateTime | DateTime | Assignment time |
+| status | Status | Assignment status |
+| rejectionReason | String | Rejection reason |
+
+### Methods
+
+| Name | Return Type | Description |
+|------|--------------|-------------|
+| startService() | void | Starts the assignment |
+| completeService(evidence) | void | Completes the assignment |
+| reportIncident(desc) | void | Reports an incident |
+
+## Class `Route`
+
+### Attributes
+
+| Name | Type | Description |
+|------|------|-------------|
+| origin | String | Route origin |
+| destination | String | Route destination |
+| distanceKm | double | Route distance in km |
+
+## Class `Incident`
+
+### Attributes
+
+| Name | Type | Description |
+|------|------|-------------|
+| id | UUID | Incident ID |
+| assignmentId | UUID | Related assignment |
+| description | String | Incident description |
+| type | String | Incident type |
+| date | DateTime | Incident date |
+
+## Class `AssignmentService`
+
+### Attributes
+
+| Name | Type | Description |
+|------|------|-------------|
+
+### Methods
+
+| Name | Return Type | Description |
+|------|--------------|-------------|
+| scheduleAssignment(vehicleId, driverId, r, date) | Assignment | Schedules an assignment |
+| checkAvailability(vehicleId, driverId, date) | boolean | Checks availability |
+
+## Class `Report`
+
+### Attributes
+
+| Name | Type | Description |
+|------|------|-------------|
+| id | UUID | Report ID |
+| title | String | Report title |
+| generationDate | DateTime | Date of generation |
+| type | String | Report type |
+| data | String | Report content |
+
+## Class `Indicator`
+
+### Attributes
+
+| Name | Type | Description |
+|------|------|-------------|
+| name | String | Indicator name |
+| value | Float | Indicator value |
+
+## Class `ReportService`
+
+### Attributes
+
+| Name | Type | Description |
+|------|------|-------------|
+
+### Methods
+
+| Name | Return Type | Description |
+|------|--------------|-------------|
+| generateVehicleReport(vehicleId) | Report | Generates report for a vehicle |
+| generateFleetReport(fleetId) | Report | Generates report for a fleet |
+| generateIncidentReport() | Report | Generates incident report |
+| generateDashboardKPIs() | Report | Generates KPI dashboard |
+
+## Class `Manager`
+
+### Attributes
+
+| Name | Type | Description |
+|------|------|-------------|
+| id | UUID | Manager ID |
+| name | String | Manager name |
+| idNumber | String | National ID |
+| email | String | Email address |
+| profile | String | Profile/role |
+| status | Status | Manager status |
+
+### Methods
+
+| Name | Return Type | Description |
+|------|--------------|-------------|
+| authorizeAssignment() | void | Authorizes an assignment |
+| manageMaintenance() | void | Manages maintenance process |
+
+## Class `ManagementLog`
+
+### Attributes
+
+| Name | Type | Description |
+|------|------|-------------|
+| id | UUID | Log ID |
+| managerId | UUID | Related manager |
+| action | String | Action description |
+| date | DateTime | Date of action |
+
+
 <h3 id="dbDesign">4.8. Database Design</h3>
 
 <h4 id="dbDiagram">4.8.1. Database Diagram</h4>
@@ -629,3 +812,4 @@ Diagrama de base de datos:
 <p align="center">
 <img src="../images/Database diagram.jpeg" alt="Database diagram" style="display: block; margin: 50 auto 0 auto;"/>
 </p>
+Link del diagrama de base de datos: https://editor.plantuml.com/uml/pLXDRziu4BqRy7_GRRDO5qYpo1wCegYgC8uGHp9a9rU2fcYRY4IgfEHDqFQ_xr2o8rccbJHsWRqayioG6hxvUjGNdHEL5sdIxwrup1pA5KrOlzVlCP7p_DbPinK7YNQ-ztkEynUFdQ73HUvy-ZIv_VpPoBA4v0oaQwBeYgYpY_C_ZNYkY8WRuijAdCgO9VjYAXEf6kA_Ap4JIouOrannS65_LQ4K-8bJdZ2oD4x4ZFAK96SVpmSNfKb2DEW9kCm44PJXkFBM_3DwmPvszO-fRPj5mHASFsTcAHD5UZOYMYRWsy2v0jTOCd36az70yO9HQG-mveNU6eSJ5BapFmpSyS09mW3l2ExSm1sXEnJCwbTHaX5gyBVuGXK3vsDCSj3cF6NmiZGpcYABhPgVZO0spjeHL0fXse-f9TImvdgpfecYWGetzjtQbEdMZ87niefqR1FdCYU0XjIv3ObTbAVU3Rgw7wEhWUC7U1A5emXDfn2Jy6uoHZCZzzp0Gs1HhfPpoAiroRaKPeySCg444QGsrqy6UmbE1_Q2f4sGFvvNuCTCKyKpusx3szDvfHXbi7s7Oqrh2q2R3NRAn0yUGjz30-UhFuPKZv27_Cbiu8Ip6nHLCMpNziMs8q1jGxxnDTilV5raMSBjSTB5lCmQMyAiYJMF3jeVX-xMomv8vuM69g8rRWNzulAoyemyLMTieKFYMC6oHY9aAobiQSCWQeb5JgN82Srn1lwL6TKsQ8PnEd4ZXE7F3EffYg87Y2ayVOKmMWhHzMR-0p9LM3sTjclXdEZ7zsTfpkXASCg9i6djHRPxl0aAhlnWTAZBRD2rTwpZKAXzxpZ_eaYI_NJwfufJ1WwHf9mhxNZ_QWBzzfYRHlpESugogyFaiDMEaibBOfCuvOBhN95Sge53j8OVHEG3I2C1b09aiO8Mf2g8GF-lLB6bK8yxQZdp4xdiEEvsAhO6P6jGNxvbK2UIobIQphhjrVLfQWe2y5l0UvsTlCx9s681ISm4jMvG20vTIN5gNNkmLNUD1CKMFDdbRs7aZqpzXdu0u-Zw7ernXAxB8LNFfWCCuRXORnWrZYKjKf3z6hLkTh9cWmvTECOCUJU1xxbZx0VJ2V8CmuJEv4VU_RYaczXp8w11HkU35R3GEtzcYdPw7nbgr3pyrZyC-y-PidG0hdMnHwZPKyPL2LbROyovME8D3lir146opS3V4eNcb209KwS9moH23y3ZeV_XEnSo2mKRLFqnzcxSO6IOKEJU8lY5l5k8c1-PGNeLUlSl5u2EoYazRUDwO3e5uSo_zWthXLU4uuSz_diakSc8OZWpTFx_msThfqxbJ-kOjkxItR2s_L3daZvMQwiW2vuMQLjSxYKNE6L45yhcvYa9_xU2A_PA3tg5JZNmiMY_5MHRxCq37WIhYxiVcHbqnUAYyqF6rgHTN--v2zVyV2_DIZfXurChdcLM3LoiU0RpChTchS4UKWLlo47BJTCwEJsahLVRFtiG1Tu2ZR9hrnoQCjNsCGtp5aO14vfP3H8PBs4Os5IdxVT_E55vZOJD063TxxryqVhnuyC7-NttWyYmkXTnOJ7S7zn3PqKiXZMR6vRFtI_TZfzXrTqjndNk3kldVc_7SSk-BnVwZPklsLVtgg6pwGjlUaEZWmmTmLYyksep6WuWdHYwlU3cJSsRJOThK1yBgL9OK5qEx1ilcM10GSo-zHMy6w2IojZicx7SA8rPU_Xj8zMOF-27aaMsO_qM50tlnlFdVkyB4t7vPVO_
