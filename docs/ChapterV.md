@@ -369,13 +369,13 @@ En esta sección, se presentará el sprint planning 1 donde se describirá de ma
         <tr>
             <td>Sprint 1 Velocity</td>
             <td>
-                2
+                8
             </td>
         </tr>
         <tr>
             <td>Sum of story points</td>
             <td>
-                2
+                8
             </td>
         </tr>
     </tbody>
@@ -389,10 +389,20 @@ En esta sección, se presentará el sprint planning 1 donde se describirá de ma
 
 <h4 id="executionEvidenceSprint1">5.2.1.5. Execution Evidence for Sprint Review</h4>
 
+Para lo que respecta esta entrega, VSC-Visionaries logró implementar el *Landing Page*, el cual se presentan las diferentes secciones informativas para que los usuarios conozcan un poco más de la organización, detalles lo que ofrecemos en nuestra aplicación, las opiniones y valoraciones de los usuarios, y los diferentes planes de suscripción de pago.
+
 <h4 id="servicesDocumentationSprint1">5.2.1.6. Services Documentation Evidence for Sprint Review</h4>
 
-Al ser, como primer entregable, el landing page de nuestro producto, no hemos requerido emplear **Web Services**.
+Al ser este nuestro Sprint 1, como primer entregable, se ha desarrollado el landing page de nuestro producto; por lo que, no se evidencia el empleo de **Web Services**.
 
 <h4 id="softwareDeploymentEvidenceSprint1">5.2.1.7. Software Deployment Evidence for Sprint Review</h4>
 
 <h4 id="teamCollaborationInsights">5.2.1.8. Team Collaboration Insights during Sprint</h4>
+
+El equipo de VSC-Visionaries desarrolló el *landing page* segmentado por ramas para construir cada una de la secciones, mejorarlo e inclusive actualizarlo en base a las necesidades de nuestros clientes. La principal ventaja de usar esta metodología de documentación o distribución de ramas, permite actualizar y realizar cambios más legibles, con la capacidad de presentar y corroborar que no haya algún error al unirlo a la rama **main**. A continuación, se presenta el *insight* del progreso que tuvo equipo a través de las siguientes métricas extraidas de la plataforma Github.
+
+<div align="center">
+    <img src="../images/Network-Graph-Sprint1.png" alt="Lading Page - Network graph - Github" style="width:500px;" />
+    <br><br>
+    <img src="../images/Contributors-Graph-Sprint1.png" alt="Landing Page - Contributors Graph - Github" style="width:500px;" />
+</div>
