@@ -1042,11 +1042,13 @@ Nuestro proceso de trabajo se desarrolló mediante *features* donde cada una de 
 A continuación, se presentará una imagen donde se aprecia, como evidencia de este Sprint, el avance que todos los integrantes del team **VSC-Visionaries** aportaron mediante sus *commits* para desarrollar la aplicación web.
 
 <div align="center">
-    <img src="" alt="Web Application - Contributors Graph - Github" style="width:600px;" />
+    <img src="../images//Metric-To-Progress-Web-Application.png" alt="Web Application - Contributors Graph - Github" style="width:500px;" />
 </div>
+
+<br>
 
 Adicional a la información presentada, se compartirá el resumen de nuestro progresos mediante la estructura de *Conventional Commits*, **gitflow** dentro de nuestro respositorio de **Github**.
 
 <div align="center">
-    <img src="" alt="Web Application - Network Graph - Github" style="width:600px;" />
+    <img src="../images/Workflow-Web-Application.png" alt="Web Application - Network Graph - Github" style="width:500px;" />
 </div>
