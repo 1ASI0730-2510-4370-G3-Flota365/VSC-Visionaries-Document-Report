@@ -369,19 +369,146 @@ En esta sección, se presentará el sprint planning 1 donde se describirá de ma
         <tr>
             <td>Sprint 1 Velocity</td>
             <td>
-                8
+                17
             </td>
         </tr>
         <tr>
             <td>Sum of story points</td>
             <td>
-                8
+                17
             </td>
         </tr>
     </tbody>
 </table>
 
 <h4 id="sprintBacklog1">5.2.1.2. Sprint Backlog 1</h4>
+
+En esta sección, se evidencia cada uno de los *taks* que se realizaron en el presente Sprint. Por tal motivo, se adjunta la captura de nuestros **Scrum Board** con su respectivo enlace al **Trello**.
+
+**Link al Scrum Board - Trello**: <a href="https://trello.com/invite/b/68259d1a08942cd86db4be0d/ATTIef5ecb7105d09d77b4ea8488b765dd52040FD3F5/sprint-1-vsc-visionaries">https://trello.com/invite/b/68259d1a08942cd86db4be0d/ATTIef5ecb7105d09d77b4ea8488b765dd52040FD3F5/sprint-1-vsc-visionaries</a>
+
+<table border="1" cellpadding="5" cellspacing="0">
+  <tr>
+    <td><strong>Sprint #</strong></td>
+    <td colspan="7"><strong>Sprint 1</strong></td>
+  </tr>
+  <tr>
+    <td colspan="2"><strong>User Story</strong></td>
+    <td colspan="6"><strong>Work-item/Task</strong></td>
+  </tr>
+  <tr>
+    <td><strong>ID</strong></td>
+    <td><strong>Title</strong></td>
+    <td><strong>ID</strong></td>
+    <td><strong>Title</strong></td>
+    <td><strong>Description</strong></td>
+    <td><strong>Estimation (Hours)</strong></td>
+    <td><strong>Assigned To</strong></td>
+    <td><strong>Status (To-do/In-Process/To-Review/Done)</strong></td>
+  </tr>
+  <tr>
+    <td rowspan="2">US-01</td>
+    <td rowspan="2">Landing Page informativa</td>
+    <td>UT-01</td>
+    <td>Hero Section</td>
+    <td>Implementar el slogan y el boton de redireccionamiento de la aplicación; así como la colocación la captura representativa del vistazo de la apliación web</td>
+    <td>2</td>
+    <td>José Diego Huamani Sánchez</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>UT-02</td>
+    <td>About Section</td>
+    <td>Agregar la descripción detallada e historica de la aplicación de Flota365</td>
+    <td>1</td>
+    <td>José Diego Huamani Sánchez</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td rowspan="1">US-02</td>
+    <td rowspan="1">Responsive Design</td>
+    <td>UT-03</td>
+    <td>Responsive Web Design adaptive in different devices</td>
+    <td>Añadir los media queries necesarios para hacer que el landing page sea adaptativo a dispostivos de cualquier tamaño de resolución de pantalla</td>
+    <td>2</td>
+    <td>José Diego Huamani Sánchez</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td rowspan="1">US-03</td>
+    <td rowspan="1">Comparador de Planes</td>
+    <td>UT-04</td>
+    <td>Choose Plan Section</td>
+    <td>Implementar las cards que definan los diferentes planes que tien la aplicación con los beneficios que ofrece</td>
+    <td>2</td>
+    <td>Renato Guillermo Calvo Yalan</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td rowspan="1">US-04</td>
+    <td rowspan="1">Switcher de idiomas</td>
+    <td>UT-05</td>
+    <td>Botón de cambio de idiomas</td>
+    <td>Implementar el botón de cambio de idioma entre español e Inglés</td>
+    <td>2</td>
+    <td>Raul Roberto Sánchez Cruz</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td rowspan="2">US-05</td>
+    <td rowspan="2">Tema de Colores</td>
+    <td>UT-06</td>
+    <td>Selecion de colores representativos de Flota 365 en la</td>
+    <td>Colocar colores al Landing Page</td>
+    <td>1</td>
+    <td>Arianna Lizeth, Ramirez Carrasco</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>UT-07</td>
+    <td></td>
+    <td>Colocar los colores al Footer Section</td>
+    <td>1</td>
+    <td>Angelo Stephano Moscoso Bejar</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td rowspan="2">US-06</td>
+    <td rowspan="2">Vista de Developers</td>
+    <td>UT-08</td>
+    <td>Development Section</td>
+    <td>Agregar los diferentes roles que el Team de VSC-Visionaries cumplió dentro de la aplicación</td>
+    <td>2</td>
+    <td>Raul Roberto Sánchez Cruz</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>UT-09</td>
+    <td>Developers Images Section</td>
+    <td>Colocar las imagenes de cada uno de los miembros del equipo</td>
+    <td>1</td>
+    <td>Arianna Lizeth, Ramirez Carrasco</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td rowspan="2">US-11</td>
+    <td rowspan="2">Footer informativo</td>
+    <td>UT-10</td>
+    <td>Footer Section</td>
+    <td>Implementar Footer Section con sus respectivos links</td>
+    <td>2</td>
+    <td>Raul Roberto Sánchez Cruz</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>UT-11</td>
+    <td>Responsive Design Footer Section</td>
+    <td>Agregar diseño responsive para las secciones</td>
+    <td>2</td>
+    <td>Angelo Stephano Moscoso Bejar</td>
+    <td>Done</td>
+  </tr>
+</table>
 
 <h4 id="developmentEvidenceSprint1">5.2.1.3. Development Evidence for Sprint Review</h4>
 
@@ -412,6 +539,8 @@ A continuación, se presentarán los cada uno de los *commits* desarrollados den
 | VSC-Visionaries-Landing-Page    | main   | a71a98e1173b86934feeb8f2f918666eecfc5b69  | Update README.md |  | 15/05/2025 |
 
 <h4 id="testSuiteEvidenceSprint1">5.2.1.4. Testing Suite Evidence for Sprint Review</h4>
+
+En el Sprint 1, no se llevó a cabo el proceso de testing para el landing page, ya que la finalidad en este sprint, estaba centralizada en implementar cada una de los features programados para la construcción del mismo - teniendo como enfoque adicional el hecho que sea adaptativo a las diferentes dimensiones de los dispositivos en los que cada uno de los usuarios vaya a interactuar -.
 
 <h4 id="executionEvidenceSprint1">5.2.1.5. Execution Evidence for Sprint Review</h4>
 
