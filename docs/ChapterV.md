@@ -603,3 +603,157 @@ El equipo de VSC-Visionaries desarrolló el *landing page* segmentado por ramas 
 <div align="center">
     <img src="../images/Contributors-Graph-Sprint1.png" alt="Landing Page - Contributors Graph - Github" style="width:600px;" />
 </div>
+
+
+<h4 id="sprint2">5.2.2. Sprint 2</h4>
+
+<h4 id="sprintPlanning2">5.2.2.1. Sprint Planning 2</h4>
+
+<table>
+    <thead>
+        <tr>
+            <th>Sprint #</th>
+            <th>Sprint 2</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td colspan="2"><b>Sprint Planning Background</b></td>
+        </tr>
+        <tr>
+            <td>Date</td>
+            <td>2025/05/04</td>
+        </tr>
+        <tr>
+            <td>Time</td>
+            <td>2:44 PM</td>
+        </tr>
+        <tr>
+            <td>Location</td>
+            <td>Discord</td>
+        </tr>
+        <tr>
+            <td>Prepared by</td>
+            <td>José Diego Huamani Sánchez</td>
+        </tr>
+        <tr>
+            <td>Atendees (to planning meeting)</td>
+            <td>
+                Todos los miembros del equipo VSC-Visionaries
+            </td>
+        </tr>
+        <tr>
+            <td>Sprint 2 Review Summary</td>
+            <td>
+                Dado que es el primer sprint que se está llevando a cabo, no se está considerando los <em>Review Summary</em> ya que no hemos recibido ninguno en el sprint anterior.
+            </td>
+        </tr>
+        <tr>
+            <td>Sprint 2 Retrospective Summary</td>
+            <td>
+                A
+            </td>
+        </tr>
+        <tr>
+            <td colspan="2"><b>Sprint Goal & User Stories</b></td>
+        </tr>
+        <tr>
+            <td>Sprint 2 Velocity</td>
+            <td>
+                17
+            </td>
+        </tr>
+        <tr>
+            <td>Sum of story points</td>
+            <td>
+                17
+            </td>
+        </tr>
+    </tbody>
+</table>
+
+<h4 id="sprintBacklog2">5.2.2.2. Sprint Backlog 1</h4>
+
+<h4 id="developmentEvidenceSprint2">5.2.2.3. Development Evidence for Sprint Review</h4>
+
+<h4 id="testSuiteEvidenceSprint2">5.2.2.4. Testing Suite Evidence for Sprint Review</h4>
+
+<h4 id="executionEvidenceSprint2">5.2.2.5. Execution Evidence for Sprint Review</h4>
+
+<h4 id="servicesDocumentationSprint2">5.2.2.6. Services Documentation Evidence for Sprint Review</h4>
+
+<h4 id="softwareDeploymentEvidenceSprint2">5.2.2.7. Software Deployment Evidence for Sprint Review</h4>
+
+Al igual del enfoque llevado a cabo en el Sprint 1, se describirá el proceso de despliegue llevado acabo para nuestro *deploy* de nuestra aplicación web. En este caso, si varía un poco, ya que utilizamos el servicio de *hosting* de Google llamado **Firebase**. 
+
+De acuerdo a coordinaciones internas dentro del team **VSC-Visionaries**, esta solución se desarrolló por su simpleza en el despliegue y carencia de mucha configuración, lo cual es una solucion ágil para proyectos que cuentan con tiempo muy ajustado para los entregables.
+
+* **Pasos para desplegar el Web App en Firebase**:
+
+1. Creamos un proyecto en **Firebase** en su plataforma web, sección de *Hosting*.
+
+<div align="center">
+    <img src="../images/Firebase-Hosting-Platform.png" alt="Firebase Hosting Web Platform" style="width:600px;" />
+</div>
+
+2. En la terminal del proyecto, utilizamos el comando ```ng build``` para crear la carpeta **dist**, la cual sirve para realizar el *deployment* en Firebase.
+
+<div align="center">
+    <img src="" alt="Web Application Repository - Github" style="width:500px;" />
+</div>
+
+3. Adicionalmente, instalamos **firebase-tools** dentro del proyecto con ```npm install -g firebase-tools```, y luego se iniciareos sesión con **firebase login**.
+
+<div align="center">
+    <img src="../images/dist-Directory.png" alt="Firebase /dist Directory Structure" style="width:500px;" />
+</div>
+
+4. Luego de autenticarnos y seleccioanr el proyecto creado, ejecutaremos el comando de ```firebase init``` y seleccionaremos la opción del servicio de *Hosting*.
+
+<div align="center">
+    <img src="../images/Firebase-Branding-Console.png" alt="Welcome to Firebase - Execute the init command" style="width:600px;" />
+</div>
+
+<div align="center">
+    <img src="../images/Select-FIrebase-Project.png" alt="Configuration of hosting to deploy our Flota365 App" style="width:500px;" />
+</div>
+
+5. Una vez completado este paso, nos generará un archivo **firebase.json** donde se agregará ```/browser``` a la ruta pública de nuestra colección de directorios.
+
+<div align="center">
+    <img src="../images/Firebase-Json.png" alt="Firebase.Json File" style="width:500px;" />
+</div>
+
+6. Como paso final, ejecutaremos el comando ```firebase deploy``` para verificar el despliegue de nuestro aplicación.
+
+<div align="center">
+    <img src="../images/Deploy-App-In-Firebase.png" alt="Messages-to-deploy-with-Success" style="width:500px;" />
+</div>
+
+**Enlace del Front-End desplegado**: <a href="https://flota365-app.web.app/">https://flota365-app.web.app/</a>
+
+<br>
+
+<div align="center">
+    <img src="../images/VSC-Visionaries-Web-App.png" alt="Web Application Repository - Github" style="width:500px;" />
+</div>
+
+<br>
+
+Gracias a este enfoque de despliegue mediante muy pocas lineas de comandos en **Firebase CLI**, podemos reflejar actualizaciones muchos más rápidos con la capacidad de invertir el menor tiempo posible y con la posibilidad de volverlo automatizado para el siguiente Sprint.
+
+<h4 id="teamCollaborationInsights2">5.2.2.8. Team Collaboration Insights during Sprint</h4>
+
+Nuestro proceso de trabajo se desarrolló mediante *features* donde cada una de ellas se asociaba a una *task* en particular asignada para este Sprint; por lo que, en esta oportunidad, se han incluido las vistas de conductores, gestores de flota, vehículos y algunas vistas core para realizar procesos de analytics.
+
+A continuación, se presentará una imagen donde se aprecia, como evidencia de este Sprint, el avance que todos los integrantes del team **VSC-Visionaries** aportaron mediante sus *commits* para desarrollar la aplicación web.
+
+<div align="center">
+    <img src="" alt="Web Application - Contributors Graph - Github" style="width:600px;" />
+</div>
+
+Adicional a la información presentada, se compartirá el resumen de nuestro progresos mediante la estructura de *Conventional Commits*, **gitflow** dentro de nuestro respositorio de **Github**.
+
+<div align="center">
+    <img src="" alt="Web Application - Network Graph - Github" style="width:600px;" />
+</div>
