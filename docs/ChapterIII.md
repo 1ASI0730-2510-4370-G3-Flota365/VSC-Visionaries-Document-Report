@@ -215,6 +215,85 @@ Se muestran porcentajes de cumplimiento diario o semanal.
 Puede filtrar por conductor, zona o fecha.</td><td>6</td></tr>
 
   </tbody>
+  <tbody>
+    <tr>
+      <td>US-28</td>
+      <td>Análisis predictivo con IA</td>
+      <td>Como gestor quiero tener un análisis con IA para poder predecir posibles fallos o problemas.</td>
+      <td>
+        <ul>
+          <li>El sistema muestra predicciones de posibles fallos o problemas.</li>
+          <li>La información está basada en datos históricos del vehículo.</li>
+          <li>Las predicciones pueden visualizarse por cada vehículo.</li>
+        </ul>
+      </td>
+      <td>4</td>
+    </tr>
+    <tr>
+      <td>US-29</td>
+      <td>Historial de análisis de IA</td>
+      <td>Como gestor quiero tener un historial de los análisis hechos por la inteligencia artificial para poder ver a detalle la información.</td>
+      <td>
+        <ul>
+          <li>El sistema almacena los análisis generados por la IA.</li>
+          <li>El gestor puede consultar cada análisis anterior.</li>
+          <li>Se muestra la fecha y detalles del análisis.</li>
+        </ul>
+      </td>
+      <td>4</td>
+    </tr>
+    <tr>
+      <td>US-30</td>
+      <td>Filtros de reportes</td>
+      <td>Como gestor quiero tener filtros de reportes para poder hacer una búsqueda más rápida.</td>
+      <td>
+        <ul>
+          <li>El sistema permite filtrar reportes por fecha, vehículo, tipo de análisis, etc.</li>
+          <li>Los resultados se actualizan dinámicamente según los filtros seleccionados.</li>
+        </ul>
+      </td>
+      <td>6</td>
+    </tr>
+    <tr>
+      <td>US-31</td>
+      <td>Limpieza de filtros</td>
+      <td>Como gestor quiero limpiar el filtro de reportes para poder hacer otra búsqueda por filtro.</td>
+      <td>
+        <ul>
+          <li>El sistema tiene un botón para limpiar los filtros aplicados.</li>
+          <li>Al limpiar, se restablece la vista inicial de los reportes.</li>
+          <li>Se pueden aplicar nuevos filtros tras la limpieza.</li>
+        </ul>
+      </td>
+      <td>6</td>
+    </tr>
+    <tr>
+      <td>US-32</td>
+      <td>Monitoreo de la flota</td>
+      <td>Como gestor quiero monitorear la flota para saber el estado del vehículo.</td>
+      <td>
+        <ul>
+          <li>El sistema muestra el estado actual de cada vehículo en tiempo real.</li>
+          <li>Incluye información como ubicación, fallos detectados, estado operativo, etc.</li>
+          <li>Los vehículos con alertas se destacan visualmente.</li>
+        </ul>
+      </td>
+      <td>3</td>
+    </tr>
+    <tr>
+      <td>US-33</td>
+      <td>Exportar listado de vehículos</td>
+      <td>Como gestor quiero exportar el listado de vehículos para poder tener un reporte en físico.</td>
+      <td>
+        <ul>
+          <li>El sistema permite exportar el listado en formatos PDF o Excel.</li>
+          <li>El reporte incluye detalles clave de cada vehículo.</li>
+          <li>La exportación respeta los filtros aplicados (si los hay).</li>
+        </ul>
+      </td>
+      <td>3</td>
+    </tr>
+  </tbody>
 </table>
 
 <h3 id="impactMapping">3.3. Impact Mapping</h3>
@@ -245,13 +324,13 @@ Puede filtrar por conductor, zona o fecha.</td><td>6</td></tr>
       <td>Control y delegación eficiente de vehículos</td>
       <td>Gestor</td>
       <td>Registrar vehículos, asignarlos y supervisar su estado</td>
-      <td>US09, US10, US14, US18, US20, US21</td>
+      <td>US09, US10, US14, US18, US20, US21,US32,US33</td>
     </tr>
     <tr>
       <td>Gestión de incidencias en flota</td>
       <td>Gestor</td>
       <td>Detectar y atender incidencias, realizar mantenimiento preventivo</td>
-      <td>US13, US17, US19, US20, US21</td>
+      <td>US13, US17, US19, US20, US21,28,29</td>
     </tr>
     <tr>
       <td>Autonomía y eficiencia operativa del conductor</td>
@@ -263,7 +342,7 @@ Puede filtrar por conductor, zona o fecha.</td><td>6</td></tr>
       <td>Control logístico del desempeño</td>
       <td>Gestor</td>
       <td>Evaluar cumplimiento de rutas y eficiencia logística</td>
-      <td>US27</td>
+      <td>US27,US30,US31</td>
     </tr>
   </tbody>
 </table>
@@ -470,6 +549,21 @@ Puede filtrar por conductor, zona o fecha.</td><td>6</td></tr>
       <td>US27</td>
       <td>Rutas completadas vs planificadas</td>
       <td>Como gestor, quiero ver cuántas rutas fueron completadas frente a las planificadas, para evaluar cumplimiento.</td>
+      <td>5</td>
+    </tr>
+      <tr>
+      <td>32</td>
+      <td>US27</td>
+      <td>Monitoreo de la flota	</td>
+      <td>Como gestor quiero monitorear la flota para saber el estado del vehículo.	
+</td>
+      <td>5</td>
+    </tr>
+      <tr>
+      <td>33</td>
+      <td>US27</td>
+      <td>Exportar reporte</td>
+      <td>Como gestor quiero exportar el listado de vehículos para poder tener un reporte en físico.</td>
       <td>5</td>
     </tr>
   </tbody>
