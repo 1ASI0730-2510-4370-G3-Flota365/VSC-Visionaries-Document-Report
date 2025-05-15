@@ -516,111 +516,424 @@ Video de la aplicación web: https://drive.google.com/file/d/1_MWoiid6MOtvUOxqcH
 Diagrama de clases:
 <img src="../images/diagrama clases.png" alt="diagrama clases" style="display: block; margin: 50 auto 0 auto;"/>
 
-* Link del diagrama de clases en plantmul:https://editor.plantuml.com/uml/hLPDJnin4BqZyH-id58W4VIuGX5HQQH8fKL4ukvu9ukBrtRz4GWj_xspzYviDWuaWbms6RyPpvjvCzaBwwXnlXI71_QUIqqDBGaJrDgnSuRFlOCfKtB6du2SRc0cIhfmTFRryE3mG5DsJmiWlKjLKYvxv6zb9VW9QF9DbPhA5Ja_7nU5WO8w83TAkHFoNJhkLgDHvK7gpu3d6PbX4h9e6IKj8M5sz76QWdEPU-lCQlFe-8xQIyENOFfvU6Ga_loIaRbI0gXiWGjm4m7WR1-FVt3hpiFFKOGyh_ESUGrcoQqoIFN3rBIot74b4nGAa62mYZ7n6z3Ak4qsqPvm2nHghqNrFIF1rF7fi8jnFuEPu0oaxPnqRWi9VKWnELXckDvIGfhdjt37cO3-CZupKXkm34l5ynQOKS6ym2IkmIoKAQbaK0dY2Z0iI-PVnzghNBgwugSlvrKRDqvBbOD8s76IdRS9YYRqSXQE-oazU9tZXJL0miDiBT9Q6Jhi8d4aTqk51_9h_XkOwr3SqlnbvP6HXL0qhREOvbw5mqtbGBf43U0ng3pDfTbBlRCU6GpmCHmUzTfJd14ejL0hIqPlUTIJiICwAZiZwa6-8AEjmXsz0Xi9PQJYXukr0nyCHgHt6g1rFn3PAFK5swBJSgYBd15khO_WvxLLFjOQnvHMqxEnpyFrLrGYiCIopwhu3DfjEaOOBsGpOUqbSqBUdxSz5rMSqJjWztN4MjA9Yv8RPmkVgbnD2x5TEgHaYP9hRKZxDKqkmwdTmUErsxRkMAejKxam5F_OF7FUGAip72V0B2W6cqwe5suigLWzeIhRNT46SixSX7A1thQ_MNaQtQwfmt3IRXcSA8FnD5pYEBCuhHor7qZPJWRh0_p9EKGPO4lNxcZqStqvwSSjs0ZcpQMc97VAT8FbtE9YNksfgNPnXiD_eqvHtfL3fuiPyNOd6RqM1DTHM7wxUBMeP-IF1yDRuhi0V9cgtXJ_0m00
-
+* Link del diagrama de clases en plantmul:https://editor.plantuml.com/uml/jLbVSnet47zdXk-WuIKqjJt9wmt3v0B4kOa13s3Fz2aZxcHGVITHIKT3cdwnllQBTQNJ7U9EOEouVQWFQNUrsZ-_tLK-I8M5ohEqtPAFb6smm1dQuFWHhyXSxLA218aLPgkKk1HnYgL4VxLR2FuBbH9qcIiInPnzuamDUCe5MgOWnaCnfzy9UjTk_TrkjLjlq8Zb6H5OKSuaqj9HBZcAUVRlFwpT8h2BvWght1uN3XRH_KX_HPFzzzraE9fz7OVHP36QX9E1MPpUBRvEFtsTZsRtKR4IpkVHzMGqDD_tONGJVhmn6uFf-FPcj2XsRaUJOJIvjXeQ3Ux9ciOfMUmsf53Z9hh-lD0VdqVX_Mz6H3YxdXfsE6KqkHxDvgw4EqRLz65CiCo5bN4tYHQ5hCLefZ--H3VJwrauDbAYaTRP2B3-G1sh1Xg0aSatrK6ztaUUiuGaTgNVBvrIUAXawFL6J56rkq3XQYN82YiouzmXH-WIqIH0TtVHSB-oIO4m0FiBobRxvOmd96qkAx1Eu9fgloMD1mFhoVhwPoeL5xi0tS17pmeeIFiLxMNvzIlADmdeLH1q6VbpVY3zbm1jEKtsv71Va4l465Cm4iCi9jt4N6m8_r_GZ1om69CtJ6XZiDUxnsbEfilV8IqEpNViZl4QqeSaeTgVrzZyk2jCZzwCCGDN2mG9DD-1rjaRhrQVKaBKIzsQ41aBkj4fr_JYjhYlFFI6rmyuIUnsTrivtcF-Z6z9HLZyZQnI3UeOft6km-wMY0SkCkCje79-ZWce77lDqg0wxZ1GVujfYfSq1Gi6AE7vCYNkxie9c06Ngad3rPg8Y2KqnX30OB8ntlGAWrvOudvDpp8ZE-yxOCi-whpjr48iG9qrbcXT94MdO2lyhPduvQNBfCa1L1MeAZjrl70kS3vcE4nJaK0elZ3AQfwkuqGzxamX6XwavNwJiEJOrh6qOrmHwG4fhd3gysOji1TOFdQ1IFzj1cdAPM6Sxl40NfGdQHhth5hCwXCg6_zKwiQ-Qnqra2Bncj6OOjPmaMiAAUcABIfQOvFgL-Fs6HQFeHpmR9CIHPBkAMJTYtbfY36S-I9fGq1egfEwlhLPS-RX81aWWJSaVPPph4DbM818Qa1goNbACFD34uJtwzxJdqSRG3tIZ88u5u8mDLSyVWmGPBXJpYdpBUVGiGI7VOlF188aUKoCW2xE05cKaUCf0_8aJSrS3WhPzk3i7E4wCPkmGxPm_xAi5LRRLpNTvWAV3sGgnHh0gE7uhORZzrTNWCWcaG6EAOlJ71BLGhTPreXTmhs91A3BPOtctTMLhGfEQW1XaOCa0V3g7555CxbXwjLL4tdi2YSKjsyMaA6WMs0-ktPO-bSDynJYcKcY7MS-_hziVcPV6Qz9_6YLWYQ39d3Zfr30af_g8w6N82lJ3jTlGANCoJv4dHj_sr2ny-mSG9NHyRY2rdSwI2fB7qP3QE8mWpGwFo8SdjVk8nAZS7DTy5mROgR_EDGsgP_JGmYYtGErTWRuvwcuZdbD-p8dOakBVhKMAhOWbWHaInF2uYfuFMYvuK95BDPqgglBlfUs5bxcpgU2YmkwefxM0GvGb65_Nv40K6Z0-9ATR6HARSy6Qbp5XiUvfneTV-LBJe5tFHgj9q3N8GUyOFRtuOGW8SMJF2LxjlhySb6BmWiaREHTeCQCkHTJ0v7GcKIUFg4Xrv_FJkRfd7RIeRRZHhspvKuebMkXLcHuPyEpqpogDElLLT-L5Q1O452uSOfBNt_U20Axq07-Ft8Yw1FyXzKg28hV1zo7W3OprpWVp2pz2u4CM59FsAu8i-zVnqQSe-6EJo4I337LQDgb0Qf-d0AGYkWKYFZhz5QJ1p2fSgpyu6IiTrRYMPkKhmO5f-VjeDXeyfbnsN8zwEypUCeOjsmdA8TOhfSSY-JBRIJhXDMbRR3iKyXQzd3_x0GG-Zq3UbXf77zKX6Va3u9wD_WCUSsQ7mJxjPyKL9hS9wR-ab4yYptZ5QDWUDLMb2QJF5iISNRFkH7yWVgI_kbc5ETg3TNwkrjyFEEslgNxi7bwfjBKMj8DNvrTfOipF7qMZe-q2wU7gC8lpO6bM7Uhpg6-K7fIlgfcb3S8y8Cooj583tPSegwaq6NH1qYpXCjVsYtF0-wWU6-jqCVmbXRmzfhGCwN9lE4k297wW62fOpDg9rFcsi2ex7zV6-Z7fACQDORPo-BroIU_X8_BonzzxxNRBS_W-AD_H2KjyWDXYVdNeVy0
 <h4 id="classDictionary">4.7.2. Class Dictionary</h4>
 Para una mejor comprensión acerca del propósito de creación que cada una de las clases con sus 
 respectivas propiedades, se detallará en esta sección cada uno de ellos:
-<br>
-<h3>Class Company</h3>
-<table border="1">
-  <tr><th>Attribute</th><th>Type</th><th>Description</th></tr>
-  <tr><td>id</td><td>String</td><td>Company ID</td></tr>
-  <tr><td>name</td><td>String</td><td>Name of the company</td></tr>
-  <tr><td>taxId</td><td>String</td><td>Tax identifier</td></tr>
-  <tr><td>industry</td><td>String</td><td>Industry sector</td></tr>
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8" />
+<title>Documentación de Clases - Sistema de Gestión de Flotas</title>
+</head>
+<body>
+
+<h1>Documentación de Clases - Sistema de Gestión de Flotas</h1>
+
+<h2>Clase Vehicle</h2>
+<table border="1" cellspacing="0" cellpadding="5">
+  <caption><strong>Atributos</strong></caption>
+  <thead>
+    <tr><th>Atributo</th><th>Tipo</th><th>Descripción</th></tr>
+  </thead>
+  <tbody>
+    <tr><td>id</td><td>UUID</td><td>Identificador único del vehículo</td></tr>
+    <tr><td>plate</td><td>String</td><td>Número de placa</td></tr>
+    <tr><td>model</td><td>String</td><td>Modelo del vehículo</td></tr>
+    <tr><td>type</td><td>VehicleType</td><td>Tipo de vehículo (enumeración)</td></tr>
+    <tr><td>status</td><td>Status</td><td>Estado actual del vehículo</td></tr>
+    <tr><td>statusHistory</td><td>List&lt;VehicleStatus&gt;</td><td>Historial de cambios de estado</td></tr>
+  </tbody>
 </table>
-<table border="1">
-  <tr><th>Method</th><th>Return Type</th><th>Description</th></tr>
-  <tr><td>hasDriver(driver: Driver)</td><td>boolean</td><td>Checks if the driver is employed</td></tr>
-  <tr><td>getFleets()</td><td>List&lt;Fleet&gt;</td><td>Returns all fleets owned</td></tr>
+<table border="1" cellspacing="0" cellpadding="5">
+  <caption><strong>Métodos</strong></caption>
+  <thead>
+    <tr><th>Método</th><th>Tipo de Retorno</th><th>Descripción</th></tr>
+  </thead>
+  <tbody>
+    <tr><td>updateStatus(newStatus)</td><td>void</td><td>Actualiza el estado del vehículo</td></tr>
+    <tr><td>registerMaintenance(date)</td><td>void</td><td>Registra la fecha de mantenimiento</td></tr>
+  </tbody>
 </table>
 
-<h3>Class Fleet</h3>
-<table border="1">
-  <tr><th>Attribute</th><th>Type</th><th>Description</th></tr>
-  <tr><td>id</td><td>String</td><td>Fleet ID</td></tr>
-  <tr><td>description</td><td>String</td><td>Description of the fleet</td></tr>
-</table>
-<table border="1">
-  <tr><th>Method</th><th>Return Type</th><th>Description</th></tr>
-  <tr><td>addVehicle(vehicle: Vehicle)</td><td>void</td><td>Adds vehicle to fleet</td></tr>
-  <tr><td>calculatePerformance()</td><td>Metric</td><td>Calculates fleet performance</td></tr>
-</table>
-
-<h3>Class Vehicle</h3>
-<table border="1">
-  <tr><th>Attribute</th><th>Type</th><th>Description</th></tr>
-  <tr><td>id</td><td>String</td><td>Vehicle ID</td></tr>
-  <tr><td>plateNumber</td><td>String</td><td>License plate</td></tr>
-  <tr><td>model</td><td>String</td><td>Vehicle model</td></tr>
-  <tr><td>status</td><td>String</td><td>Current vehicle status</td></tr>
-</table>
-<table border="1">
-  <tr><th>Method</th><th>Return Type</th><th>Description</th></tr>
-  <tr><td>reportStatus()</td><td>Report</td><td>Generates vehicle report</td></tr>
-  <tr><td>updateStatus(newStatus: String)</td><td>void</td><td>Updates vehicle status</td></tr>
+<h2>Clase VehicleStatus (Value Object)</h2>
+<table border="1" cellspacing="0" cellpadding="5">
+  <caption><strong>Atributos</strong></caption>
+  <thead>
+    <tr><th>Atributo</th><th>Tipo</th><th>Descripción</th></tr>
+  </thead>
+  <tbody>
+    <tr><td>status</td><td>Status</td><td>Estado del vehículo</td></tr>
+    <tr><td>changedAt</td><td>DateTime</td><td>Fecha y hora del cambio de estado</td></tr>
+    <tr><td>changedBy</td><td>UUID</td><td>ID del responsable del cambio (gerente o sistema)</td></tr>
+  </tbody>
 </table>
 
-<h3>Class Driver</h3>
-<table border="1">
-  <tr><th>Attribute</th><th>Type</th><th>Description</th></tr>
-  <tr><td>id</td><td>String</td><td>Driver ID</td></tr>
-  <tr><td>name</td><td>String</td><td>Name of the driver</td></tr>
-  <tr><td>license</td><td>String</td><td>Driver license</td></tr>
+<h2>Clase Fleet</h2>
+<table border="1" cellspacing="0" cellpadding="5">
+  <caption><strong>Atributos</strong></caption>
+  <thead>
+    <tr><th>Atributo</th><th>Tipo</th><th>Descripción</th></tr>
+  </thead>
+  <tbody>
+    <tr><td>id</td><td>UUID</td><td>Identificador único de la flota</td></tr>
+    <tr><td>description</td><td>String</td><td>Descripción de la flota</td></tr>
+    <tr><td>vehicles</td><td>List&lt;Vehicle&gt;</td><td>Lista de vehículos en la flota</td></tr>
+  </tbody>
+</table>
+<table border="1" cellspacing="0" cellpadding="5">
+  <caption><strong>Métodos</strong></caption>
+  <thead>
+    <tr><th>Método</th><th>Tipo de Retorno</th><th>Descripción</th></tr>
+  </thead>
+  <tbody>
+    <tr><td>addVehicle(v)</td><td>void</td><td>Agrega un vehículo a la flota</td></tr>
+    <tr><td>removeVehicle(vehicleId)</td><td>void</td><td>Remueve un vehículo de la flota por ID</td></tr>
+    <tr><td>calculatePerformance()</td><td>PerformanceMetric</td><td>Calcula métricas de desempeño de la flota</td></tr>
+  </tbody>
 </table>
 
-<h3>Class Supervisor</h3>
-<table border="1">
-  <tr><th>Attribute</th><th>Type</th><th>Description</th></tr>
-  <tr><td>id</td><td>String</td><td>Supervisor ID</td></tr>
-  <tr><td>name</td><td>String</td><td>Name of the supervisor</td></tr>
-  <tr><td>position</td><td>String</td><td>Position of supervisor</td></tr>
+<h2>Clase PerformanceMetric (Value Object)</h2>
+<table border="1" cellspacing="0" cellpadding="5">
+  <caption><strong>Atributos</strong></caption>
+  <thead>
+    <tr><th>Atributo</th><th>Tipo</th><th>Descripción</th></tr>
+  </thead>
+  <tbody>
+    <tr><td>availability</td><td>double</td><td>Porcentaje de disponibilidad</td></tr>
+    <tr><td>avgMaintenanceCost</td><td>double</td><td>Costo promedio de mantenimiento</td></tr>
+    <tr><td>otherIndicators</td><td>Map&lt;String, double&gt;</td><td>Otros indicadores</td></tr>
+  </tbody>
 </table>
-<table border="1">
-  <tr><th>Method</th><th>Return Type</th><th>Description</th></tr>
-  <tr><td>generateDriverReport(driver: Driver)</td><td>Report</td><td>Creates a report for driver</td></tr>
-  <tr><td>generateFleetReport(fleet: Fleet)</td><td>Report</td><td>Creates a report for fleet</td></tr>
+
+<h2>Clase MaintenanceOrder</h2>
+<table border="1" cellspacing="0" cellpadding="5">
+  <caption><strong>Atributos</strong></caption>
+  <thead>
+    <tr><th>Atributo</th><th>Tipo</th><th>Descripción</th></tr>
+  </thead>
+  <tbody>
+    <tr><td>id</td><td>UUID</td><td>Identificador del pedido de mantenimiento</td></tr>
+    <tr><td>vehicleId</td><td>UUID</td><td>Vehículo asociado al pedido</td></tr>
+    <tr><td>type</td><td>String</td><td>Tipo de mantenimiento</td></tr>
+    <tr><td>startDate</td><td>DateTime</td><td>Fecha inicio</td></tr>
+    <tr><td>endDate</td><td>DateTime</td><td>Fecha fin</td></tr>
+    <tr><td>status</td><td>Status</td><td>Estado actual del pedido</td></tr>
+    <tr><td>notes</td><td>String</td><td>Notas adicionales</td></tr>
+    <tr><td>totalCost</td><td>double</td><td>Costo total</td></tr>
+  </tbody>
 </table>
-<h3>Class Report</h3>
-<table border="1">
-  <tr><th>Attribute</th><th>Type</th><th>Description</th></tr>
-  <tr><td>id</td><td>String</td><td>Report ID</td></tr>
-  <tr><td>content</td><td>String</td><td>Content of the report</td></tr>
+<table border="1" cellspacing="0" cellpadding="5">
+  <caption><strong>Métodos</strong></caption>
+  <thead>
+    <tr><th>Método</th><th>Tipo de Retorno</th><th>Descripción</th></tr>
+  </thead>
+  <tbody>
+    <tr><td>addTask(t)</td><td>void</td><td>Agrega una tarea de mantenimiento</td></tr>
+    <tr><td>closeOrder()</td><td>void</td><td>Cierra el pedido</td></tr>
+    <tr><td>calculateTotalCost()</td><td>double</td><td>Calcula el costo total del pedido</td></tr>
+  </tbody>
 </table>
-<table border="1">
-  <tr><th>Method</th><th>Return Type</th><th>Description</th></tr>
-  <tr><td>export()</td><td>void</td><td>Exports report</td></tr>
+
+<h2>Clase Task</h2>
+<table border="1" cellspacing="0" cellpadding="5">
+  <caption><strong>Atributos</strong></caption>
+  <thead>
+    <tr><th>Atributo</th><th>Tipo</th><th>Descripción</th></tr>
+  </thead>
+  <tbody>
+    <tr><td>id</td><td>UUID</td><td>Identificador de la tarea</td></tr>
+    <tr><td>description</td><td>String</td><td>Descripción de la tarea</td></tr>
+    <tr><td>cost</td><td>double</td><td>Costo de la tarea</td></tr>
+    <tr><td>status</td><td>Status</td><td>Estado de la tarea</td></tr>
+    <tr><td>technicianId</td><td>UUID</td><td>Técnico asignado</td></tr>
+  </tbody>
 </table>
-<h3>Class Metric</h3>
-<table border="1">
-  <tr><th>Attribute</th><th>Type</th><th>Description</th></tr>
-  <tr><td>name</td><td>String</td><td>Name of the metric</td></tr>
-  <tr><td>value</td><td>float</td><td>Numeric value</td></tr>
+<table border="1" cellspacing="0" cellpadding="5">
+  <caption><strong>Métodos</strong></caption>
+  <thead>
+    <tr><th>Método</th><th>Tipo de Retorno</th><th>Descripción</th></tr>
+  </thead>
+  <tbody>
+    <tr><td>assignTechnician(t)</td><td>void</td><td>Asigna técnico a la tarea</td></tr>
+    <tr><td>markAsCompleted()</td><td>void</td><td>Marca tarea como completada</td></tr>
+  </tbody>
 </table>
-<h3>Class AIAnalytics</h3>
-<table border="1">
-  <tr><th>Method</th><th>Return Type</th><th>Description</th></tr>
-  <tr><td>predictFailures()</td><td>void</td><td>Predicts vehicle failures</td></tr>
-  <tr><td>analyzePatterns()</td><td>void</td><td>Analyzes performance patterns</td></tr>
+
+<h2>Clase Technician</h2>
+<table border="1" cellspacing="0" cellpadding="5">
+  <caption><strong>Atributos</strong></caption>
+  <thead>
+    <tr><th>Atributo</th><th>Tipo</th><th>Descripción</th></tr>
+  </thead>
+  <tbody>
+    <tr><td>id</td><td>UUID</td><td>Identificador técnico</td></tr>
+    <tr><td>name</td><td>String</td><td>Nombre</td></tr>
+    <tr><td>specialty</td><td>String</td><td>Especialidad</td></tr>
+    <tr><td>phone</td><td>String</td><td>Teléfono</td></tr>
+    <tr><td>email</td><td>String</td><td>Correo electrónico</td></tr>
+    <tr><td>status</td><td>Status</td><td>Estado actual</td></tr>
+  </tbody>
 </table>
-<h3>Class Reporting</h3>
-<table border="1">
-  <tr><th>Method</th><th>Return Type</th><th>Description</th></tr>
-  <tr><td>generatePDF(report: Report)</td><td>void</td><td>Generates a PDF from report</td></tr>
+<table border="1" cellspacing="0" cellpadding="5">
+  <caption><strong>Métodos</strong></caption>
+  <thead>
+    <tr><th>Método</th><th>Tipo de Retorno</th><th>Descripción</th></tr>
+  </thead>
+  <tbody>
+    <tr><td>isAvailable()</td><td>boolean</td><td>Indica si está disponible</td></tr>
+  </tbody>
 </table>
-<h3>Class Monitoring</h3>
-<table border="1">
-  <tr><th>Method</th><th>Return Type</th><th>Description</th></tr>
-  <tr><td>displayStatus(vehicle: Vehicle)</td><td>String</td><td>Shows vehicle status</td></tr>
+
+<h2>Clase Part</h2>
+<table border="1" cellspacing="0" cellpadding="5">
+  <caption><strong>Atributos</strong></caption>
+  <thead>
+    <tr><th>Atributo</th><th>Tipo</th><th>Descripción</th></tr>
+  </thead>
+  <tbody>
+    <tr><td>id</td><td>UUID</td><td>Identificador de pieza</td></tr>
+    <tr><td>name</td><td>String</td><td>Nombre de la pieza</td></tr>
+    <tr><td>type</td><td>String</td><td>Tipo o categoría</td></tr>
+    <tr><td>price</td><td>double</td><td>Precio unitario</td></tr>
+    <tr><td>currentStock</td><td>int</td><td>Stock actual</td></tr>
+    <tr><td>minStock</td><td>int</td><td>Stock mínimo requerido</td></tr>
+    <tr><td>unit</td><td>UnitOfMeasure</td><td>Unidad de medida</td></tr>
+  </tbody>
 </table>
-<h3>Class FleetManagementService</h3>
-<table border="1">
-  <tr><th>Method</th><th>Return Type</th><th>Description</th></tr>
-  <tr><td>assignVehicle(fleet: Fleet, vehicle: Vehicle)</td><td>void</td><td>Assigns a vehicle to fleet</td></tr>
-  <tr><td>generateFleetReport(fleet: Fleet)</td><td>Report</td><td>Generates a fleet report</td></tr>
-  <tr><td>checkVehicleStatus(vehicle: Vehicle)</td><td>String</td><td>Returns vehicle status</td></tr>
+<table border="1" cellspacing="0" cellpadding="5">
+  <caption><strong>Métodos</strong></caption>
+  <thead>
+    <tr><th>Método</th><th>Tipo de Retorno</th><th>Descripción</th></tr>
+  </thead>
+  <tbody>
+    <tr><td>reduceStock(amount)</td><td>void</td><td>Reduce stock en cantidad indicada</td></tr>
+    <tr><td>restock(amount)</td><td>void</td><td>Aumenta stock en cantidad indicada</td></tr>
+  </tbody>
 </table>
+
+<h2>Clase MaintenanceHistory</h2>
+<table border="1" cellspacing="0" cellpadding="5">
+  <caption><strong>Atributos</strong></caption>
+  <thead>
+    <tr><th>Atributo</th><th>Tipo</th><th>Descripción</th></tr>
+  </thead>
+  <tbody>
+    <tr><td>id</td><td>UUID</td><td>Identificador del registro</td></tr>
+    <tr><td>orderId</td><td>UUID</td><td>Pedido relacionado</td></tr>
+    <tr><td>events</td><td>List&lt;String&gt;</td><td>Eventos o notas del mantenimiento</td></tr>
+    <tr><td>recordDate</td><td>DateTime</td><td>Fecha de registro</td></tr>
+  </tbody>
+</table>
+
+<h2>Clase Driver</h2>
+<table border="1" cellspacing="0" cellpadding="5">
+  <caption><strong>Atributos</strong></caption>
+  <thead>
+    <tr><th>Atributo</th><th>Tipo</th><th>Descripción</th></tr>
+  </thead>
+  <tbody>
+    <tr><td>id</td><td>UUID</td><td>Identificador conductor</td></tr>
+    <tr><td>name</td><td>String</td><td>Nombre</td></tr>
+    <tr><td>license</td><td>License (Value Object)</td><td>Licencia</td></tr>
+    <tr><td>phone</td><td>String</td><td>Teléfono</td></tr>
+    <tr><td>email</td><td>String</td><td>Correo electrónico</td></tr>
+    <tr><td>status</td><td>Status</td><td>Estado actual</td></tr>
+  </tbody>
+</table>
+<table border="1" cellspacing="0" cellpadding="5">
+  <caption><strong>Métodos</strong></caption>
+  <thead>
+    <tr><th>Método</th><th>Tipo de Retorno</th><th>Descripción</th></tr>
+  </thead>
+  <tbody>
+    <tr><td>updateStatus(newStatus)</td><td>void</td><td>Actualiza estado del conductor</td></tr>
+    <tr><td>checkLicenseValidity()</td><td>boolean</td><td>Verifica validez de licencia</td></tr>
+  </tbody>
+</table>
+
+<h2>Clase License (Value Object)</h2>
+<table border="1" cellspacing="0" cellpadding="5">
+  <caption><strong>Atributos</strong></caption>
+  <thead>
+    <tr><th>Atributo</th><th>Tipo</th><th>Descripción</th></tr>
+  </thead>
+  <tbody>
+    <tr><td>category</td><td>String</td><td>Categoría de licencia</td></tr>
+    <tr><td>issueDate</td><td>Date</td><td>Fecha de emisión</td></tr>
+    <tr><td>expiryDate</td><td>Date</td><td>Fecha de expiración</td></tr>
+  </tbody>
+</table>
+<table border="1" cellspacing="0" cellpadding="5">
+  <caption><strong>Métodos</strong></caption>
+  <thead>
+    <tr><th>Método</th><th>Tipo de Retorno</th><th>Descripción</th></tr>
+  </thead>
+  <tbody>
+    <tr><td>isValid()</td><td>boolean</td><td>Verifica si la licencia está vigente</td></tr>
+  </tbody>
+</table>
+
+<h2>Clase Assignment</h2>
+<table border="1" cellspacing="0" cellpadding="5">
+  <caption><strong>Atributos</strong></caption>
+  <thead>
+    <tr><th>Atributo</th><th>Tipo</th><th>Descripción</th></tr>
+  </thead>
+  <tbody>
+    <tr><td>id</td><td>UUID</td><td>Identificador de la asignación</td></tr>
+    <tr><td>vehicleId</td><td>UUID</td><td>Vehículo asignado</td></tr>
+    <tr><td>driverId</td><td>UUID</td><td>Conductor asignado</td></tr>
+    <tr><td>route</td><td>Route (Value Object)</td><td>Ruta asignada</td></tr>
+    <tr><td>dateTime</td><td>DateTime</td><td>Fecha y hora de la asignación</td></tr>
+    <tr><td>status</td><td>Status</td><td>Estado de la asignación</td></tr>
+    <tr><td>rejectionReason</td><td>String</td><td>Motivo de rechazo (si aplica)</td></tr>
+  </tbody>
+</table>
+<table border="1" cellspacing="0" cellpadding="5">
+  <caption><strong>Métodos</strong></caption>
+  <thead>
+    <tr><th>Método</th><th>Tipo de Retorno</th><th>Descripción</th></tr>
+  </thead>
+  <tbody>
+    <tr><td>startService()</td><td>void</td><td>Marca la asignación como iniciada</td></tr>
+    <tr><td>completeService(evidence)</td><td>void</td><td>Completa la asignación con evidencia</td></tr>
+    <tr><td>reportIncident(desc)</td><td>void</td><td>Reporta un incidente</td></tr>
+  </tbody>
+</table>
+
+<h2>Clase Route (Value Object)</h2>
+<table border="1" cellspacing="0" cellpadding="5">
+  <caption><strong>Atributos</strong></caption>
+  <thead>
+    <tr><th>Atributo</th><th>Tipo</th><th>Descripción</th></tr>
+  </thead>
+  <tbody>
+    <tr><td>origin</td><td>String</td><td>Origen de la ruta</td></tr>
+    <tr><td>destination</td><td>String</td><td>Destino de la ruta</td></tr>
+    <tr><td>distanceKm</td><td>double</td><td>Distancia en kilómetros</td></tr>
+  </tbody>
+</table>
+
+<h2>Clase Incident</h2>
+<table border="1" cellspacing="0" cellpadding="5">
+  <caption><strong>Atributos</strong></caption>
+  <thead>
+    <tr><th>Atributo</th><th>Tipo</th><th>Descripción</th></tr>
+  </thead>
+  <tbody>
+    <tr><td>id</td><td>UUID</td><td>Identificador de incidente</td></tr>
+    <tr><td>assignmentId</td><td>UUID</td><td>ID de asignación relacionada</td></tr>
+    <tr><td>description</td><td>String</td><td>Descripción del incidente</td></tr>
+    <tr><td>type</td><td>String</td><td>Tipo de incidente</td></tr>
+    <tr><td>date</td><td>DateTime</td><td>Fecha del incidente</td></tr>
+  </tbody>
+</table>
+
+<h2>Clase AssignmentService (Domain Service)</h2>
+<table border="1" cellspacing="0" cellpadding="5">
+  <caption><strong>Métodos</strong></caption>
+  <thead>
+    <tr><th>Método</th><th>Tipo de Retorno</th><th>Descripción</th></tr>
+  </thead>
+  <tbody>
+    <tr><td>scheduleAssignment(vehicleId, driverId, route, date)</td><td>Assignment</td><td>Programa una nueva asignación</td></tr>
+    <tr><td>checkAvailability(vehicleId, driverId, date)</td><td>boolean</td><td>Verifica disponibilidad de vehículo y conductor</td></tr>
+  </tbody>
+</table>
+
+<h2>Clase Report</h2>
+<table border="1" cellspacing="0" cellpadding="5">
+  <caption><strong>Atributos</strong></caption>
+  <thead>
+    <tr><th>Atributo</th><th>Tipo</th><th>Descripción</th></tr>
+  </thead>
+  <tbody>
+    <tr><td>id</td><td>UUID</td><td>Identificador del reporte</td></tr>
+    <tr><td>title</td><td>String</td><td>Título del reporte</td></tr>
+    <tr><td>generationDate</td><td>DateTime</td><td>Fecha de generación</td></tr>
+    <tr><td>type</td><td>String</td><td>Tipo de reporte</td></tr>
+    <tr><td>data</td><td>String</td><td>Contenido del reporte</td></tr>
+  </tbody>
+</table>
+<table border="1" cellspacing="0" cellpadding="5">
+  <caption><strong>Métodos</strong></caption>
+  <thead>
+    <tr><th>Método</th><th>Tipo de Retorno</th><th>Descripción</th></tr>
+  </thead>
+  <tbody>
+    <tr><td>addIndicator(i)</td><td>void</td><td>Añade un indicador al reporte</td></tr>
+  </tbody>
+</table>
+
+<h2>Clase Indicator (Value Object)</h2>
+<table border="1" cellspacing="0" cellpadding="5">
+  <caption><strong>Atributos</strong></caption>
+  <thead>
+    <tr><th>Atributo</th><th>Tipo</th><th>Descripción</th></tr>
+  </thead>
+  <tbody>
+    <tr><td>name</td><td>String</td><td>Nombre del indicador</td></tr>
+    <tr><td>value</td><td>Float</td><td>Valor numérico del indicador</td></tr>
+  </tbody>
+</table>
+
+<h2>Clase ReportService (Domain Service)</h2>
+<table border="1" cellspacing="0" cellpadding="5">
+  <caption><strong>Métodos</strong></caption>
+  <thead>
+    <tr><th>Método</th><th>Tipo de Retorno</th><th>Descripción</th></tr>
+  </thead>
+  <tbody>
+    <tr><td>generateVehicleReport(vehicleId)</td><td>Report</td><td>Genera reporte para vehículo</td></tr>
+    <tr><td>generateFleetReport(fleetId)</td><td>Report</td><td>Genera reporte para flota</td></tr>
+    <tr><td>generateIncidentReport()</td><td>Report</td><td>Genera reporte de incidentes</td></tr>
+    <tr><td>generateDashboardKPIs()</td><td>Report</td><td>Genera reporte de KPIs</td></tr>
+  </tbody>
+</table>
+
+<h2>Clase Manager</h2>
+<table border="1" cellspacing="0" cellpadding="5">
+  <caption><strong>Atributos</strong></caption>
+  <thead>
+    <tr><th>Atributo</th><th>Tipo</th><th>Descripción</th></tr>
+  </thead>
+  <tbody>
+    <tr><td>id</td><td>UUID</td><td>Identificador del gerente</td></tr>
+    <tr><td>name</td><td>String</td><td>Nombre completo</td></tr>
+    <tr><td>idNumber</td><td>String</td><td>Número de identificación</td></tr>
+    <tr><td>email</td><td>String</td><td>Correo electrónico</td></tr>
+    <tr><td>profile</td><td>String</td><td>Perfil o rol</td></tr>
+    <tr><td>status</td><td>Status</td><td>Estado actual</td></tr>
+  </tbody>
+</table>
+<table border="1" cellspacing="0" cellpadding="5">
+  <caption><strong>Métodos</strong></caption>
+  <thead>
+    <tr><th>Método</th><th>Tipo de Retorno</th><th>Descripción</th></tr>
+  </thead>
+  <tbody>
+    <tr><td>authorizeAssignment()</td><td>void</td><td>Autoriza asignaciones</td></tr>
+    <tr><td>manageMaintenance()</td><td>void</td><td>Gestiona mantenimiento</td></tr>
+  </tbody>
+</table>
+
+<h2>Clase ManagementLog</h2>
+<table border="1" cellspacing="0" cellpadding="5">
+  <caption><strong>Atributos</strong></caption>
+  <thead>
+    <tr><th>Atributo</th><th>Tipo</th><th>Descripción</th></tr>
+  </thead>
+  <tbody>
+    <tr><td>id</td><td>UUID</td><td>Identificador del log</td></tr>
+    <tr><td>managerId</td><td>UUID</td><td>ID del gerente asociado</td></tr>
+    <tr><td>action</td><td>String</td><td>Acción registrada</td></tr>
+    <tr><td>date</td><td>DateTime</td><td>Fecha y hora del registro</td></tr>
+  </tbody>
+</table>
+
+</body>
+</html>
 
 <h3 id="dbDesign">4.8. Database Design</h3>
 
@@ -629,4 +942,6 @@ Diagrama de base de datos:
 
 <p align="center">
 <img src="../images/Database diagram.jpeg" alt="Database diagram" style="display: block; margin: 50 auto 0 auto;"/>
+  link del diagrama: https://editor.plantuml.com/uml/pLXDRziu4BqRy7_GRRDO5qYpo1wCegYgC8uGHp9a9rU2fcYR24MffEHDqFQ_xr2o8rccbJHsWRqayioG6hxvUjGNdHEL5udezrOyPWxbYWhMx_LxJEOyVtRMRCL1eftl_PxZ_CLZP-XmcJkVFarkFtysiaoGd85qJHHT4NLsSVwd4SyLaN53V5c9apHcObzCKv6gXlZlIipaaak6DLCSNDXVLIW5VkA42qQMnecOKPuGSVRnV71HcWYYGK_0PIQ9f0p7bRVcdz5BzhIhVqnisomA9d3-d9cbJ1R9sOZeL81l0-SAN6DYu8mdeu7Z1QFI7c3D2xqr3YSeScT-6BZZWHE40TuHtBc1Eq9tA9ZLhw8a8zJWR_65AWREnvZaeCrvmk1bIMOqHHPRDJyR0MsSjIEe5CAq7rDBg67DzMPD4qK35MxikxKfqwqP0-Db5UdO9ixJd00QgSvjIEoYFFLkqDNz65qD73_0aoWSHMWwXPY4TvCncXcvvmOU0ejoTJg7l5gJdAVIx9539fGWWjJc-ibWBy7fm5wIf0don_CA_9XfgdXct6ruUpgl5ACCjkzmh6bj0MYpmKwP-C53w7jeu7prnv3g4VAGFvaDd71sWw8gXktQljXs1AXjo3U-Plk5huii4zmU9rtCowon9SoQMFFeeFrnw6wzx81qNcXe8bhZLj0lBYyhpyXJTSOMEYIE5Inh94AsIgKjRHX4JLZaD9KveJdEmByoeze6pJ1E9sw4CFoPGJrDKVG0COMdhn16Io6wtin_GAOAgwVJTYsS4_tu_YpD6Lr9JZcHDgszo7QFDq71bH-C3dMP3RhsZdKS2hNl7UTV54BifzC_LPmoS8Y8Sgwqu_sh2VJROsuQyJlFASkk3fF3LZig5I-9JUA4IwvpHV9K3HoYDVmWCXz06acW522B5RGWLK44-dzJ5LiAzRYZbZDVfCkEuswdOcj0jWRrvLi6jKXfcgIcisvxTNsQce80_1RmNcSdhtCojbX04ZD9hHiKaaDNKfnQrnvirLqZGR455xlyBOpyaQdVq0zW75tVep6Eq7KvfEhPT80X71Vh3QF6SKgB16I_HgsRdQpPe4CNZZ53tatWU-uO-y5qWZp3CA4p-P5tFoxf9lRS26YGqVbW1Ipqpf-PeftUHuOQDG-_zG_3_dEcB1s0Qrti4Mhsb75LGjRM67CkbtY3mtuDGP1iC_2tHA4v9OXWwZHXc4Je0NWyz3zyvq9ceM23gZ_6teqRZ0mJYjnR1B-GTmiHyoCpIAz2x_xb0j1HEQMdRLmFJASWdFdNlc6zy8fm_B37VuyaDnbH36U6plz_-6pjrAdyQHtJrbsw6zQs7-eyfO_LsYh8aYT5qXQNUwKBd32Y2sLpyvI4_rl15Nkb1xr2fnhuMBJV2h8jzkO13uBLnTsFp0owOd7H-I5ZQzAkh_VSXMj-lfTc9PsmyQaLppAh1YvMF8DvcLkprc0FgO8tvA3bfccTd1xIrgljdps80c-1HjcrQmvDcMhxc8Pv2wE0ISsi1YADbp0CRAhJzli_dAYyHi9c0B3kzrw-QFtuyU53-dttWyYmkXTnQJ7S7zn3PqKiXZMR6vRFtI_TZfzXrTqjndNk3kldVc_7SSk-BnVwZPklsLVtgg6pwGjlUaEZWmmToLYyksep6WuWBGpTNd3pfkRDfiCrg8z5gX9OK5qEx1ilcMH0GSo-zHMy6w2IojZicx7SA8rPU_Xj8zMOF-27Iejin_ejA1hUZUVF_TuN9kCY4Vy1
 </p>
+
