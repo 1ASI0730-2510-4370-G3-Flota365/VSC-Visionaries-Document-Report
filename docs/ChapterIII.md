@@ -1,4 +1,4 @@
-<h2>id="requirementsSpecification">CAPÍTULO 3: REQUIREMENTS SPECIFICATION</h2>
+<h2 id="requirementsSpecification">CAPÍTULO 3: REQUIREMENTS SPECIFICATION</h2>
 
 <h3 id="toBeScenario">3.1. To-Be Scenario Mapping</h3>
 
