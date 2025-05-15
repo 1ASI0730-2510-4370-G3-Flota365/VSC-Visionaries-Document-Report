@@ -385,6 +385,32 @@ En esta sección, se presentará el sprint planning 1 donde se describirá de ma
 
 <h4 id="developmentEvidenceSprint1">5.2.1.3. Development Evidence for Sprint Review</h4>
 
+A continuación, se presentarán los cada uno de los *commits* desarrollados dentro del repositorio de *Landing Page* que tiene destinado el producto de **Flota365**.
+
+**Link del repositorio - Landing Page**: <a href="https://github.com/1ASI0730-2510-4370-G3-Flota365/VSC-Visionaries-Landing-Page">https://github.com/1ASI0730-2510-4370-G3-Flota365/VSC-Visionaries-Landing-Page</a>
+
+| Repository           | Branch             | Commit Id | Commit Message                                               | Commit Message Body                   | Committed on (Date)    |
+|----------------------|-----------|----------|--------------------------------------------------|-------------------------------------------------------------|------------------------|
+| VSC-Visionaries-Landing-Page      | develop   | 0118821835d59608e83301c2342a48c1beb3c4c4  | Initial commit    |  | 05/04/2025  |
+| VSC-Visionaries-Landing-Page     | develop   | f5c255d370c14eb0f1daea11b0a7f07d73885fc2  | chore(init): initialize project with Vite and base structure for landing page   |   | 06/04/2025  |
+| VSC-Visionaries-Landing-Page      | feature/documentation   | 567053f243a1fd279bc709f6831cb07fbbbb6adf  | docs: add the specification and details about Flota365 Landing Page |  | 09/05/2025 |
+| VSC-Visionaries-Landing-Page      | feature/documentation   | d819c65710096cc5fedaeeba55538c743edf1f61  | chore: modify the description of **About the proyect** & **Main Components** |  | 09/05/2025 |
+| VSC-Visionaries-Landing-Page      | feature/header   | e33a641381c8b1f172814ab53c37e121ed1f5a09  | feat(header): add the structure and style of Hero section of Flota365 Landing Page |  | 09/05/2025 |
+| VSC-Visionaries-Landing-Page      | feature/hero-Section   | 2d11bcc13c571a4c0aa7d3c0d1367b0f146240b5  | feat(hero): add structure and style of Hero section |  | 09/05/2025 |
+| VSC-Visionaries-Landing-Page      | feature/about-Section   | 91ff46c0e0ad63d9a8d426232846aa6493fa117c  | feat(about): add about-Section of the Flota365 Landing Page |  | 09/05/2025 |
+| VSC-Visionaries-Landing-Page      | feature/Develop-Team-Section   | f5b39f0ec6b32ba678b004cc3c21abc243dde985  | feat(about): add Develop Team-Section of the Flota365 Landing Page |  | 09/05/2025 |
+| VSC-Visionaries-Landing-Page         | feature/Benefits-Section   | f53aff39b723a8d91da17cadfaca370550c4a00b  | feed: Benefits Section | | 10/05/2025 |
+| VSC-Visionaries-Landing-Page         | feature/stats-Section   | 2fe14150ef1aef7ed57540fd282a2c6da62b6163  | feat(state): add stast section into the Landing Page |  | 12/05/2025 |
+| VSC-Visionaries-Landing-Page         | feature/benefits-Section   | f9f164a87bd192e11a09ad1b771cfdc01a9e8f3c  | feat(benefits): add Benefits Section into the Landing Page |  | 12/05/2025 |
+| VSC-Visionaries-Landing-Page    | feature/features-Section   | 540101e8efe3e0d905727f133f73c09fd90e7190  | feat(features): add Features Sections into the Landing Page |  | 12/05/2025 |
+| VSC-Visionaries-Landing-Page    | feature/pricing-Section   | 907cdee94db9281aed979a92fab21b9eca95353d  | feat(pricing): add Pricing Section into the Landing Page |  | 12/05/2025 |
+| VSC-Visionaries-Landing-Page    | feature/benefits-Section   | 96a3abcf3d9ff91fd0a19f50169444fe0100297a  | feat(benefits): add Contact Section |  | 15/05/2025 |
+| VSC-Visionaries-Landing-Page    | main   | 43cb41bbc77eb385f6383420879f600c6a7d89fb  | feat(footer): add footer into the Landing Page |  | 15/05/2025 |
+| VSC-Visionaries-Landing-Page    | main   | 58b3c88b2005756212eebc2c02688df15b80e22a  | feat(scripts): add scripts into the Landing Page |  | 15/05/2025 |
+| VSC-Visionaries-Landing-Page    | main   | 1cefb4269df81d5130e5925908a572441bb9779d  | fix(scripts): fix scripts |  | 15/05/2025 |
+| VSC-Visionaries-Landing-Page    | main   | 2b47255732ebebc278e2d0837a218fdc1a1dc51a  | Added translations, reordered the directory and made corrections |  | 15/05/2025 |
+| VSC-Visionaries-Landing-Page    | main   | a71a98e1173b86934feeb8f2f918666eecfc5b69  | Update README.md |  | 15/05/2025 |
+
 <h4 id="testSuiteEvidenceSprint1">5.2.1.4. Testing Suite Evidence for Sprint Review</h4>
 
 <h4 id="executionEvidenceSprint1">5.2.1.5. Execution Evidence for Sprint Review</h4>
