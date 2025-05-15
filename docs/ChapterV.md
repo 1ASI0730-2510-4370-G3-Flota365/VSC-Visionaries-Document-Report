@@ -603,3 +603,85 @@ El equipo de VSC-Visionaries desarrolló el *landing page* segmentado por ramas 
 <div align="center">
     <img src="../images/Contributors-Graph-Sprint1.png" alt="Landing Page - Contributors Graph - Github" style="width:600px;" />
 </div>
+
+
+<h4 id="sprint2">5.2.2. Sprint 2</h4>
+
+<h4 id="sprintPlanning2">5.2.2.1. Sprint Planning 2</h4>
+
+<table>
+    <thead>
+        <tr>
+            <th>Sprint #</th>
+            <th>Sprint 2</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td colspan="2"><b>Sprint Planning Background</b></td>
+        </tr>
+        <tr>
+            <td>Date</td>
+            <td>2025/05/04</td>
+        </tr>
+        <tr>
+            <td>Time</td>
+            <td>2:44 PM</td>
+        </tr>
+        <tr>
+            <td>Location</td>
+            <td>Discord</td>
+        </tr>
+        <tr>
+            <td>Prepared by</td>
+            <td>José Diego Huamani Sánchez</td>
+        </tr>
+        <tr>
+            <td>Atendees (to planning meeting)</td>
+            <td>
+                Todos los miembros del equipo VSC-Visionaries
+            </td>
+        </tr>
+        <tr>
+            <td>Sprint 2 Review Summary</td>
+            <td>
+                Dado que es el primer sprint que se está llevando a cabo, no se está considerando los <em>Review Summary</em> ya que no hemos recibido ninguno en el sprint anterior.
+            </td>
+        </tr>
+        <tr>
+            <td>Sprint 2 Retrospective Summary</td>
+            <td>
+                A
+            </td>
+        </tr>
+        <tr>
+            <td colspan="2"><b>Sprint Goal & User Stories</b></td>
+        </tr>
+        <tr>
+            <td>Sprint 2 Velocity</td>
+            <td>
+                17
+            </td>
+        </tr>
+        <tr>
+            <td>Sum of story points</td>
+            <td>
+                17
+            </td>
+        </tr>
+    </tbody>
+</table>
+
+<h4 id="sprintBacklog2">5.2.2.2. Sprint Backlog 1</h4>
+
+<h4 id="developmentEvidenceSprint2">5.2.2.3. Development Evidence for Sprint Review</h4>
+
+<h4 id="testSuiteEvidenceSprint2">5.2.2.4. Testing Suite Evidence for Sprint Review</h4>
+
+<h4 id="executionEvidenceSprint2">5.2.2.5. Execution Evidence for Sprint Review</h4>
+
+<h4 id="servicesDocumentationSprint2">5.2.2.6. Services Documentation Evidence for Sprint Review</h4>
+
+<h4 id="softwareDeploymentEvidenceSprint2">5.2.2.7. Software Deployment Evidence for Sprint Review</h4>
+
+<h4 id="teamCollaborationInsights2">5.2.2.8. Team Collaboration Insights during Sprint</h4>
