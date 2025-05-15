@@ -673,10 +673,114 @@ El equipo de VSC-Visionaries desarrolló el *landing page* segmentado por ramas 
 </table>
 
 <h4 id="sprintBacklog2">5.2.2.2. Sprint Backlog 1</h4>
+<table border="1">
+  <caption>Sprint # - Sprint n</caption>
+  <thead>
+    <tr>
+      <th colspan="2">User Story</th>
+      <th colspan="5">Work-Item / Task</th>
+    </tr>
+    <tr>
+      <th>Id</th>
+      <th>Title</th>
+      <th>Id</th>
+      <th>Title</th>
+      <th>Description</th>
+      <th>Estimation (Hours)</th>
+      <th>Assigned To</th>
+      <th>Status (To-do / In-Process / To-Review / Done)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+      <td></td>
+    </tr>
+  </tbody>
+</table>
+
 
 <h4 id="developmentEvidenceSprint2">5.2.2.3. Development Evidence for Sprint Review</h4>
+<table border="1">
+  <thead>
+    <tr>
+      <th>Repository</th>
+      <th>Branch</th>
+      <th>Commit Id</th>
+      <th>Commit Message</th>
+      <th>Commit Message Body</th>
+      <th>Commited on (Date)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>user/repositoryname</td>
+      <td>feature/loremipsum</td>
+      <td>14ca4e3</td>
+      <td>feat: consectetur adipiscing elit</td>
+      <td>
+        Curabitur quis placerat nulla.<br>
+        Fusce malesuada faucibus quam, ut condimentum velit rutrum ut.
+      </td>
+      <td>04/09/2021</td>
+    </tr>
+  </tbody>
+</table>
+
 
 <h4 id="testSuiteEvidenceSprint2">5.2.2.4. Testing Suite Evidence for Sprint Review</h4>
+<table border="1">
+  <thead>
+    <tr>
+      <th>Repository</th>
+      <th>Branch</th>
+      <th>Commit Id</th>
+      <th>Commit Message</th>
+      <th>Commit Message Body</th>
+      <th>Commited on (Date)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>user/repositoryname</td>
+      <td>feature/loremipsum</td>
+      <td>14ca4e3</td>
+      <td>feat: consectetur adipiscing elit</td>
+      <td>
+        Curabitur quis placerat nulla.<br>
+        Fusce malesuada faucibus quam, ut condimentum velit rutrum ut.
+      </td>
+      <td>04/09/2021</td>
+    </tr>
+  </tbody>
+</table>
+
 
 <h4 id="executionEvidenceSprint2">5.2.2.5. Execution Evidence for Sprint Review</h4>
 
