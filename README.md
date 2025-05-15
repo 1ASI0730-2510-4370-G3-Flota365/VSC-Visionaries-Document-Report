@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Universidad Peruana de Ciencias Aplicadas</h1>
   <br>
-  <img src="../images/UPC-Logo.png" alt="UPC Logo" width="auto" height="120"/>
+  <img src="./images/UPC.png" alt="UPC Logo" width="auto" height="120"/>
   <p>
     <br>
     <strong>Carrera:</strong> Ingeniería de Software
@@ -114,11 +114,34 @@
             <td>Jose Diego Huamani S.</td>
             <td>Desarrollo del diagrama C4 para el Cap. 4</td>
         </tr>
+    </tbody>
+    <tbody>
         <tr>
-            <td>26/06/2025</td>
-            <td>Todos</td>
-            <td>Desarrollo del Cap. 5 (Planificacion y desarrollo de ceremonios del Sprint 1)</td>
+            <td rowspan="14">TB2</td>
+            <td>09/05/2025</td>
+            <td>José Diego Huamani Sánchez</td>
+            <td>Desarrollo del Sprint Planning, descripción del Team Collaboration Insights</td>
         </tr>
+        <tr>
+            <td>11/05/2025</td>
+            <td>Ariana Ramirez Carrasco</td>
+            <td>Desarrollo del Sprint Backlog 2 & Development Evidence for Sprint Review </td>
+        </tr>
+        <tr>
+            <td>11/05/2025</td>
+            <td>Renato Calvo Yalan</td>
+            <td>Desarrollo del Testing Evidence for Sprint Review & Execution Evidence</td>
+        </tr>
+        <tr>
+            <td>13/05/2025</td>
+            <td>Raul Cruz Sanchez</td>
+            <td>Desarrollo del Deployment Evidence for Sprint Review.</td>
+        </tr>
+        <tr>
+            <td>23/04/2025</td>
+            <td>Stephano Moscoso</td>
+            <td>Colocar las imagenes de las métricas el Team Collaboration Insights.</td>
+        </tr> 
     </tbody>
 </table>
 
@@ -138,11 +161,25 @@ En esta primera entrega (TB1), nuestro objetivo principal fue la creación de nu
     <img src="./images/Workflow-Report-VSC Visionaries.png" alt="Workflow Diagram - Report VSC-Visionaries" style="width:500px;" />
 </p>
 
+<br>
 
-Este gráfico muestra la cantidad de commits realizados por cada integrante durante la elaboración del TB1.
+**Reporte de colaboración de la entrega del TP:**
+
+Para esta segunda entrega (TP), nuestro objetivo principal fue el desarrollo e implementación de nuestra primera versión de nuestro **Web Application**. Todos los miembros del equipo VSC-Visionaries participaron activamente en la elaboración del informe; lo cual, mediante el siguiente organigrama, veremos el progreso obtenido hasta la fecha del día de hoy:
+
+<p style="text-align: center;">
+    <img src="./images/Metrics-Report-Sprint2-VSC-Visionaries.png" alt="Workflow Diagram - Report VSC-Visionaries - Sprint 2" style="width:500px;" />
+</p>
+
+<br>
+
+<p style="text-align: center;">
+    <img src="./images/Indicators-Team-Progress-Report-Sprint2.png" alt="Indicators progress - Report VSC-Visionaries - Sprint 2" style="width:500px;" />
+</p>
+
+Este gráfico muestra la cantidad de *commits* realizados por cada integrante durante la elaboración del TB2.
 
 Estas evidencias demuestran una colaboración equilibrada y efectiva, con cada miembro aportando significativamente al desarrollo del informe.
-
 
 ## Contenido
 
