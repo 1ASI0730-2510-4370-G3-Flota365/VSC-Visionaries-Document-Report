@@ -630,14 +630,14 @@ El equipo de VSC-Visionaries desarrolló el *landing page* segmentado por ramas 
         </tr>
         <tr>
             <td>Location</td>
-            <td>Discord</td>
+            <td>Remoto - Discord</td>
         </tr>
         <tr>
             <td>Prepared by</td>
             <td>José Diego Huamani Sánchez</td>
         </tr>
         <tr>
-            <td>Atendees (to planning meeting)</td>
+            <td>Attendees (to planning meeting)</td>
             <td>
                 Todos los miembros del equipo VSC-Visionaries
             </td>
@@ -645,13 +645,13 @@ El equipo de VSC-Visionaries desarrolló el *landing page* segmentado por ramas 
         <tr>
             <td>Sprint 2 Review Summary</td>
             <td>
-                Dado que es el primer sprint que se está llevando a cabo, no se está considerando los <em>Review Summary</em> ya que no hemos recibido ninguno en el sprint anterior.
+                Se implementó el desarrolló del <em>Landing Page</em> y se logró desplegar en <strong>Github Pages</strong>. Sin embargo, faltó incluir funcionalidades tales como el cambio de idioma y la sección de todos los desarrolladores que hicieron este proyecto realidad. Por lo tanto, se tiene que desarrollar esos puntos para este Sprint.
             </td>
         </tr>
         <tr>
             <td>Sprint 2 Retrospective Summary</td>
             <td>
-                A
+                Se planea desarrollar para este sprint las vistas para el Front-end de nuestra aplicación web <strong>Flota365</strong>, donde e incluiran las vistas para la autenticación del usuario, vistas del usuario que accede así como a del gestor de vehículos. Adicional, se planea implementar la configuración del idioma en el Landing Page mediante uso del <em>Attribute</em> i18n para que sea adaptativo a cualquier tipo de idioma. Asimimo, hemos organizado cada una de las tareas a elaborar para la segmentación de las vistas de nuestras aplicación en un Trello. Al finalizar este Sprint, el Lading Page debe tener un versión mejorada que el Sprint anteiror y una demo funcional de la aplicaicón Front-End, lo cual esta última va estar siendo desplegada en <strong>Firebase</strong>.
             </td>
         </tr>
         <tr>
@@ -660,13 +660,13 @@ El equipo de VSC-Visionaries desarrolló el *landing page* segmentado por ramas 
         <tr>
             <td>Sprint 2 Velocity</td>
             <td>
-                17
+                43
             </td>
         </tr>
         <tr>
             <td>Sum of story points</td>
             <td>
-                17
+                43
             </td>
         </tr>
     </tbody>
@@ -680,7 +680,105 @@ El equipo de VSC-Visionaries desarrolló el *landing page* segmentado por ramas 
 
 <h4 id="executionEvidenceSprint2">5.2.2.5. Execution Evidence for Sprint Review</h4>
 
+A continuación, se presentarán las capturas de cada una de las vistas más relevantes que se llevaron a cabo dentro de este Sprint 2. La finalidad, está en que se muestre todo el progreso que el team **VSC-Visionaries** ofrecerá al momento de que el usuario interactue con la UI y como sería ese primer vistazo de las necesidades hechas proyecto para este entregable.
+
+Estas vendrías a ser las siguientes:
+
+* **Login**:
+
+<div align="center">
+    <img src="../images/Login-Page.png" alt="Login Page - Flota365" style="width:500px;" />
+</div>
+
+<br>
+
+* **Pantalla Principal**:
+
+<div align="center">
+    <img src="../images/Main-Application-Page.png" alt="Main Content Application - Flota365" style="width:500px;" />
+</div>
+
+<br>
+
+* **Pantalla de Gestión de Vehículos**:
+
+<div align="center">
+    <img src="../images/Driver-Management-Page.png" alt="Driver Management Page - Flota365" style="width:500px;" />
+</div>
+
+<br>
+
+* **Pantalla de Gestión de Flotas**:
+
+<div align="center">
+    <img src="../images/Floot-Management-Page.png" alt="Floot Management Page - Flota365" style="width:500px;" />
+</div>
+
+<br>
+
+* **Dashboard**:
+
+<div align="center">
+    <img src="../images/Dashborad-Page.png" alt="Dashboard Page - Flota365" style="width:500px;" />
+</div>
+
+<br>
+
+* **Reports**:
+
+<div align="center">
+    <img src="../images/Reports-Page.png" alt="Report Page - Flota365" style="width:500px;" />
+</div>
+
+<br>
+
+* **Pantalla de Monitoreo de Vehículos**:
+
+<div align="center">
+    <img src="../images/Monitoring-Page.png" alt="Monitoring Page - Flota365" style="width:500px;" />
+</div>
+
+<br>
+
+* **Pantalla de Analytics & AI**:
+
+<div align="center">
+    <img src="../images/Analytics-AI-Page.png" alt="Analytics & AI Page - Flota365" style="width:500px;" />
+</div>
+
 <h4 id="servicesDocumentationSprint2">5.2.2.6. Services Documentation Evidence for Sprint Review</h4>
+
+En esta sección, se presentará el detalle de la documentación de los servicios utilizados dentro de la aplicación web de **Flota365**. Únicamente se ha utilizado un *fake-api* donde estaremos extrayendo cada uno de los datos recopilados para las diferentes vistas que se mostrarán al usuario dentro de la aplicación.
+
+**Fake API - Flota 365**
+
+* Ruta base para poder acceder a los servicios dentro del JSON del Web Application
+
+<div align="center">
+    <img src="../images/Request-To-FakeAPI-Flota365.png" alt="Request to Fake API" style="width:400px; height:400px" />
+</div>
+
+<br>
+
+* En esta parte, se crearon objetos donde cada uno actua como un servicio donde bien retornará un valor acorde a la vista e interacción que tenga el usuario dentro del Web Application.
+
+<br>
+
+<div align="center">
+    <img src="../images/Get-Reponse-Data-Flota365.png" alt="" style="width:500px;" />
+</div>
+
+<br>
+
+<div align="center">
+    <img src="../images/Get-Reponse-Data-Flota365_part2.png" alt="" style="width:500px;" />
+</div>
+
+<br>
+
+<div align="center">
+    <img src="../images/Get-Reponse-Data-Flota365_part3.png" alt="" style="width:500px;" />
+</div>
 
 <h4 id="softwareDeploymentEvidenceSprint2">5.2.2.7. Software Deployment Evidence for Sprint Review</h4>
 
