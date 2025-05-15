@@ -630,4 +630,3 @@ En este mapa, se abordó la experiencia de Juan Torres, un conductor con mucha e
 <h4 id="asIsScenario">Segmento 2: Conductores de vehículos pesados</h4>
     
 <img src="../images/As-is map segment 2.png" alt="As-is map segment 2" width="auto" height="370"/>
-

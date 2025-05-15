@@ -499,16 +499,19 @@ Video de la aplicación web: https://drive.google.com/file/d/1_MWoiid6MOtvUOxqcH
 <h4 id="contextDiagram">4.6.1. Software Architecture Context Diagrams</h4>
 
 <p align="center">
-  <img src="../images/C4-Context-Diagram.png" alt="C4 Context Diagram" style="display: block; margin: 50 auto 0 auto;"/>
+  <img src="../images/context_diagram.png" alt="C4 Context Diagram" style="display: block; margin: 50 auto 0 auto;"/>
 </p>
 
 <h4 id="containerDiagram">4.6.2. Software Architecture Container Diagrams</h4>
 
 <p align="center">
-  <img src="../images/C4-Container-Diagram.png" alt="C4 Container Diagram" style="display: block; margin: 50 auto 0 auto;"/>
+  <img src="../images/container_diagram.png" alt="C4 Container Diagram" style="display: block; margin: 50 auto 0 auto;"/>
 </p>
 
 <h4 id="componentDiagram">4.6.3. Software Architecture Components Diagrams</h4>
+<p align="center">
+  <img src="../images/component_diagram.png" alt="C4 component diagram " style="display: block; margin: 50 auto 0 auto;"/>
+</p>
 
 <h3 id="softwareObjectOrientedDesign">4.7. Software Object-Oriented Design</h3>
 
