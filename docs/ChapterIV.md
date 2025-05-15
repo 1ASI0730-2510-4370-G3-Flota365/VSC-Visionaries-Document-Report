@@ -509,6 +509,9 @@ Video de la aplicación web: https://drive.google.com/file/d/1_MWoiid6MOtvUOxqcH
 </p>
 
 <h4 id="componentDiagram">4.6.3. Software Architecture Components Diagrams</h4>
+<p align="center">
+  <img src="../images/component_diagram.png" alt="C4 component diagram " style="display: block; margin: 50 auto 0 auto;"/>
+</p>
 
 <h3 id="softwareObjectOrientedDesign">4.7. Software Object-Oriented Design</h3>
 
