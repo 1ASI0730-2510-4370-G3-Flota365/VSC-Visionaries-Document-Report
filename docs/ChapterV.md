@@ -672,13 +672,13 @@ El equipo de VSC-Visionaries desarrolló el *landing page* segmentado por ramas 
     </tbody>
 </table>
 
-<h4 id="sprintBacklog2">5.2.2.2. Sprint Backlog 1</h4>
+<h4 id="sprintBacklog1">5.2.2.2. Sprint Backlog 1</h4>
 <table border="1">
-  <caption>Sprint # - Sprint n</caption>
+  <caption>Sprint #1 </caption>
   <thead>
     <tr>
       <th colspan="2">User Story</th>
-      <th colspan="5">Work-Item / Task</th>
+      <th colspan="6">Work-Item / Task</th>
     </tr>
     <tr>
       <th>Id</th>
@@ -693,37 +693,128 @@ El equipo de VSC-Visionaries desarrolló el *landing page* segmentado por ramas 
   </thead>
   <tbody>
     <tr>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td>US01</td>
+      <td>Visualizar información de la empresa</td>
+      <td>UT01</td>
+      <td>Redactar contenido institucional</td>
+      <td>Redactar misión, visión y propuesta de valor de InteLLi Idea.</td>
+      <td>2h</td>
+      <td>Gabriel Rivera</td>
+      <td>Done</td>
     </tr>
     <tr>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td>US01</td>
+      <td>Visualizar información de la empresa</td>
+      <td>UT02</td>
+      <td>Implementar sección "Sobre Nosotros"</td>
+      <td>Diseñar e integrar el contenido informativo en el landing page.</td>
+      <td>2h</td>
+      <td>Gabriel Rivera</td>
+      <td>Done</td>
     </tr>
     <tr>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
-      <td></td>
+      <td>US02</td>
+      <td>Mostrar imagen representativa</td>
+      <td>UT03</td>
+      <td>Seleccionar imagen representativa</td>
+      <td>Buscar y optimizar una imagen simbólica de la empresa.</td>
+      <td>1h</td>
+      <td>Camila</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>US02</td>
+      <td>Mostrar imagen representativa</td>
+      <td>UT04</td>
+      <td>Integrar imagen en la landing page</td>
+      <td>Ubicar la imagen en una sección destacada respetando el estilo visual.</td>
+      <td>1h</td>
+      <td>Camila</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>US03</td>
+      <td>Mostrar ideas destacadas</td>
+      <td>UT05</td>
+      <td>Redactar descripciones de ideas destacadas</td>
+      <td>Preparar ejemplos de ideas subidas por usuarios, con texto atractivo.</td>
+      <td>2h</td>
+      <td>Camila</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>US03</td>
+      <td>Mostrar ideas destacadas</td>
+      <td>UT06</td>
+      <td>Implementar componente de ideas destacadas</td>
+      <td>Sección tipo "card grid" para mostrar ideas con métricas.</td>
+      <td>3h</td>
+      <td>Camila</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>US04</td>
+      <td>Registro de ideas</td>
+      <td>UT07</td>
+      <td>Crear formulario para subir ideas</td>
+      <td>Formulario con campos para título, descripción, categoría, adjuntos.</td>
+      <td>3h</td>
+      <td>Stephano</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>US04</td>
+      <td>Registro de ideas</td>
+      <td>UT08</td>
+      <td>Conectar backend para guardar ideas</td>
+      <td>Integrar el formulario con una base de datos simulada.</td>
+      <td>3h</td>
+      <td>Stephano</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>US05</td>
+      <td>Comparar categorías</td>
+      <td>UT09</td>
+      <td>Diseñar comparador de categorías</td>
+      <td>Mostrar popularidad, ideas y actividad por categoría.</td>
+      <td>2h</td>
+      <td>Romina</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>US05</td>
+      <td>Comparar categorías</td>
+      <td>UT10</td>
+      <td>Implementar lógica de comparación</td>
+      <td>Visualización con gráficos o tabla interactiva.</td>
+      <td>3h</td>
+      <td>Romina</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>US06</td>
+      <td>Preguntas frecuentes (FAQs)</td>
+      <td>UT11</td>
+      <td>Redactar preguntas y respuestas frecuentes</td>
+      <td>Preguntas comunes sobre InteLLi Idea y su funcionamiento.</td>
+      <td>2h</td>
+      <td>Gabriel Mamani</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>US06</td>
+      <td>Preguntas frecuentes (FAQs)</td>
+      <td>UT12</td>
+      <td>Implementar sección de FAQs con acordeón</td>
+      <td>Diseño colapsable para mejor experiencia del usuario.</td>
+      <td>2h</td>
+      <td>Gabriel Mamani</td>
+      <td>Done</td>
     </tr>
   </tbody>
 </table>
+
 
 
 <h4 id="developmentEvidenceSprint2">5.2.2.3. Development Evidence for Sprint Review</h4>
