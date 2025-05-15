@@ -391,18 +391,60 @@ En esta sección, se presentará el sprint planning 1 donde se describirá de ma
 
 Para lo que respecta esta entrega, VSC-Visionaries logró implementar el *Landing Page*, el cual se presentan las diferentes secciones informativas para que los usuarios conozcan un poco más de la organización, detalles lo que ofrecemos en nuestra aplicación, las opiniones y valoraciones de los usuarios, y los diferentes planes de suscripción de pago.
 
+<div align="center">
+    <img src="../images/LandingPage-HeroSection.png" alt="Lading Page - Hero Section" style="width:600px;" /> 
+</div>
+
+<div align="center">
+    <img src="../images/LandingPage-About&Development.png" alt="Lading Page - About Section & Development Team" style="width:600px;" /> 
+</div>
+
+<div align="center">
+    <img src="../images/LandingPage-Features.png" alt="Lading Page - Features Section" style="width:600px;" /> 
+</div>
+
+<div align="center">
+    <img src="../images/LandingPage-Benefits.png" alt="Lading Page - Benefits Section" style="width:600px;" /> 
+</div>
+
+<div align="center">
+    <img src="../images/LandingPage-ChoosePlan.png" alt="Lading Page - Choose Plan Section" style="width:600px;" /> 
+</div>
+
+<div align="center">
+    <img src="../images/LandingPage-Contact&Footer.png" alt="Lading Page - Contacts & Footer Section" style="width:600px;" /> 
+</div>
+
 <h4 id="servicesDocumentationSprint1">5.2.1.6. Services Documentation Evidence for Sprint Review</h4>
 
 Al ser este nuestro Sprint 1, como primer entregable, se ha desarrollado el landing page de nuestro producto; por lo que, no se evidencia el empleo de **Web Services**.
 
 <h4 id="softwareDeploymentEvidenceSprint1">5.2.1.7. Software Deployment Evidence for Sprint Review</h4>
 
+Para poder llevar acabo el despliegue de nuestro *Landing Page*, en este Sprint 1, se utilizó las siguientes herramientas:
+
+* **Git**: Sistema de control de versiones que nos ayudó a trabajar de manera colaborativa el *Landing Page*.
+
+* **Gitflow**: Flujo de trabajo que nos ayudó a controlar el progreso de cada uno de los miembros del equipo en el desarrollo del *Landing Page*.
+
+* **Github**: Plataforma que nos brindó el apoyo para almacenar nuestras versiones del proyecto.
+
+* **Github Pages**: Servicio de hosting gratutio que nos permitó desplegar nuestro *Landing Page* desde nuestro repositorio de **Github** donde el proyecto se encuentra ubicado.
+
+De esta manera, se decidió por emplear este servicio por su simpleza y fácil integración diversas tecnologías webs, lo cual lo vuelve un gran candidato cuando se trata de desplegar y no quieres invertir mucho tiempo en su configuración.
+
+Para un vistazo más general de lo desarrollado, se compartirá el *link* del despliegue para que puedan interactuar lo desarrollado: 
+
 <h4 id="teamCollaborationInsights">5.2.1.8. Team Collaboration Insights during Sprint</h4>
 
 El equipo de VSC-Visionaries desarrolló el *landing page* segmentado por ramas para construir cada una de la secciones, mejorarlo e inclusive actualizarlo en base a las necesidades de nuestros clientes. La principal ventaja de usar esta metodología de documentación o distribución de ramas, permite actualizar y realizar cambios más legibles, con la capacidad de presentar y corroborar que no haya algún error al unirlo a la rama **main**. A continuación, se presenta el *insight* del progreso que tuvo equipo a través de las siguientes métricas extraidas de la plataforma Github.
 
 <div align="center">
-    <img src="../images/Network-Graph-Sprint1.png" alt="Lading Page - Network graph - Github" style="width:500px;" />
-    <br><br>
-    <img src="../images/Contributors-Graph-Sprint1.png" alt="Landing Page - Contributors Graph - Github" style="width:500px;" />
+    <img src="../images/Network-Graph-Sprint1.png" alt="Lading Page - Network graph - Github" style="width:600px;" /> 
+</div>
+
+<br>
+
+<div align="center">
+    <img src="../images/Contributors-Graph-Sprint1.png" alt="Landing Page - Contributors Graph - Github" style="width:600px;" />
 </div>
