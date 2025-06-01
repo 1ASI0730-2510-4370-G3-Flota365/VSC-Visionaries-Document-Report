@@ -489,6 +489,103 @@ Esta arquitectura de navegación garantiza que los usuarios puedan moverse efici
 
 <h4 id="webAppUserFlow">4.4.4. Web Applications User Flow Diagrams</h4>
 
+Esta sección presenta los diagramas de flujo de usuario (User Flows) desarrollados para la aplicación web Flota365. Cada diagrama corresponde a un objetivo específico de usuario (User Goal) identificado a partir de los perfiles de usuario definidos (User Persona). Los flujos ilustran tanto las rutas principales (happy paths) como las alternativas (unhappy paths), y están alineados con los wireframes previamente diseñados.
+
+**- User Persona 1: Conductor**
+
+**User Goal: El conductor desea reportar una incidencia surgida durante su turno y subir evidencia (foto) para notificar al gestor.**
+
+
+<ul><li>Happy Path – Reportar Incidencia</li>
+El conductor desea reportar un incidente durante su recorrido y subir evidencia.
+<br>
+</br>
+
+  
+<li>Explicación del flujo:</li>
+
+El flujo inicia con el conductor ingresando a la aplicación mediante la pantalla de login. Si las credenciales son válidas, accede a su dashboard principal. Desde allí, selecciona la opción de "Reportar Incidencia", lo cual lo redirige a un formulario donde debe ingresar los detalles del incidente y subir una imagen como evidencia. Una vez completado el formulario, al hacer clic en "Enviar", el sistema valida los datos y muestra un mensaje de confirmación de éxito.
+
+  
+<li>Condiciones y validaciones:</li>
+
+Si las credenciales ingresadas no son válidas, se muestra un mensaje de error, permitiendo reintentar (unhappy path).
+Si el formulario se intenta enviar sin evidencia (imagen), el sistema bloquea el envío y solicita subir una imagen antes de continuar.
+</ul>
+
+
+<img src="../images/User flow diagram - Happy Path User 1.jpeg" alt="User flow diagram - Happy Path User 1" width="auto" height="490"/>
+
+
+**User Goal: El conductor intenta reportar una incidencia, pero encuentra errores en el proceso.**
+
+
+<ul><li>Unhappy Path – Reportar Incidencia</li>
+
+
+<li>Explicación del flujo:</li>
+
+El conductor intenta iniciar sesión con credenciales incorrectas, lo cual genera un mensaje de error. Luego, al acceder correctamente, intenta reportar una incidencia, pero no sube una imagen como evidencia. Al hacer clic en "Enviar", el sistema bloquea la acción y solicita al conductor completar el paso obligatorio.
+
+  
+<li>Condiciones y validaciones:</li>
+
+Validación de credenciales.
+Verificación de que se suba al menos una imagen como evidencia del incidente.
+</ul>
+
+
+<img src="../images/User flow diagram - Unhappy Path User 1.jpeg" alt="User flow diagram - Unhappy Path User 1" width="auto" height="490"/>
+
+
+**- User Persona 2: Gestor**
+
+**User Goal: El gestor desea asignar un vehículo a un conductor disponible para que pueda operar durante su jornada.**
+
+
+<ul><li>Happy Path – Asignar Vehículo</li>
+El gestor quiere asignar un vehículo a un conductor sin vehículo asignado.
+<br>
+</br>
+
+  
+<li>Explicación del flujo:</li>
+
+El gestor inicia sesión en la aplicación mediante la pantalla de login. Si las credenciales son correctas, accede al dashboard de gestor. Allí selecciona la opción "Asignar vehículo", y se despliega una lista de conductores disponibles junto con los vehículos disponibles. El gestor selecciona un conductor y un vehículo, y confirma la asignación. El sistema procesa la solicitud y muestra una confirmación exitosa.
+
+  
+<li>Condiciones y validaciones:</li>
+
+Si las credenciales ingresadas son incorrectas, el sistema muestra un mensaje de error (unhappy path).
+Si no hay vehículos disponibles al momento de la asignación, el sistema informa la situación y sugiere registrar un nuevo vehículo.
+Si el conductor seleccionado ya tiene un vehículo asignado, se muestra un mensaje de advertencia y se impide completar la asignación.
+</ul>
+
+
+<img src="../images/User flow diagram - Happy Path User 2.jpeg" alt="User flow diagram - Happy Path User 2" width="auto" height="490"/>
+
+
+**User Goal: El gestor intenta asignar un vehículo, pero el proceso presenta bloqueos o restricciones.**
+
+
+<ul><li>Unhappy Path – Error al asignar vehículo</li>
+
+
+<li>Explicación del flujo:</li>
+
+El gestor accede a la aplicación con credenciales válidas, navega al módulo de asignación de vehículos y selecciona un conductor. Sin embargo, el conductor ya tiene un vehículo asignado, por lo que el sistema muestra una advertencia y bloquea la asignación. En otro caso, si no hay vehículos disponibles, el sistema notifica la situación y sugiere registrar un nuevo vehículo.
+
+  
+<li>Condiciones y validaciones:</li>
+
+Validación de disponibilidad del vehículo.
+Verificación de que el conductor no tenga una asignación activa.
+Mensajes de advertencia y sugerencias para resolver la situación.
+</ul>
+
+
+<img src="../images/User flow diagram - Unhappy Path User 2.jpeg" alt="User flow diagram - Unhappy Path User 2" width="auto" height="490"/>
+
 
 
 <h3 id="webAppPrototyping">4.5. Web Applications Prototyping</h3>
