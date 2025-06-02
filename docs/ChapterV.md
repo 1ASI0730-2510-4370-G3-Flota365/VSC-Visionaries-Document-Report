@@ -449,7 +449,7 @@ En esta sección, se evidencia cada uno de los *taks* que se realizaron en el pr
     <td rowspan="1">Switcher de idiomas</td>
     <td>UT-05</td>
     <td>Botón de cambio de idiomas</td>
-    <td>Implementar el botón de cambio de idioma entre español e Inglés</td>
+    <td>Implementar el botón para realizar el cambio de idioma entre español e Inglés</td>
     <td>2</td>
     <td>Raul Roberto Sánchez Cruz</td>
     <td>Done</td>
