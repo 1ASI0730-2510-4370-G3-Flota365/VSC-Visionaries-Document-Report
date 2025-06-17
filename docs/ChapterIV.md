@@ -489,6 +489,124 @@ Esta arquitectura de navegación garantiza que los usuarios puedan moverse efici
 
 <h4 id="webAppUserFlow">4.4.4. Web Applications User Flow Diagrams</h4>
 
+Esta sección presenta los diagramas de flujo de usuario (User Flows) desarrollados para la aplicación web Flota365. Cada diagrama corresponde a un objetivo específico de usuario (User Goal) identificado a partir de los perfiles de usuario definidos (User Persona). Los flujos ilustran tanto las rutas principales (happy paths) como las alternativas (unhappy paths), y están alineados con los wireframes previamente diseñados.
+
+**- User Persona 1: Conductores de vehículos pesados**
+
+**User Goal 1: Reportar una incidencia durante el turno.**
+
+
+<ul><li>Happy Path – Reporte exitoso</li></ul>
+<br>
+
+<img src="../images/User flow diagram - 1 Happy Path User Goal 1.jpeg" alt="User flow diagram - 1 Happy Path User Goal 1" width="auto" height="490"/>
+
+  
+<ul><li>Unhappy Path – Falla al enviar reporte</li></ul>
+<br>
+
+<img src="../images/User flow diagram - 1 Unhappy Path User Goal 1.jpeg" alt="User flow diagram - 1 Unhappy Path User Goal 1" width="auto" height="490"/>
+
+  
+**Explicación del flujo:**
+
+El flujo inicia con el conductor ingresando a la aplicación mediante la pantalla de login. Si las credenciales son válidas, accede a su dashboard principal. Desde allí, selecciona la opción de "Reportar Incidencia", lo cual lo redirige a un formulario donde debe ingresar los detalles del incidente y subir una imagen como evidencia. Si todo está correcto, el reporte se envía. En caso contrario, el sistema bloquea el proceso hasta completarlo correctamente.
+
+  
+**Condiciones y validaciones:**
+
+- Credenciales válidas.
+- Formulario con campos obligatorios llenos.
+- Subida obligatoria de imagen.
+
+
+
+**User Goal 2: Ver el estado de su vehículo asignado.**
+
+
+<ul><li>Happy Path – Consulta exitosa</li></ul>
+<br>
+
+<img src="../images/User flow diagram - 1 Happy Path User Goal 2.jpeg" alt="User flow diagram - 1 Happy Path User Goal 2" width="auto" height="490"/>
+
+  
+<ul><li>Unhappy Path – Vehículo no asignado o error</li></ul>
+<br>
+
+<img src="../images/User flow diagram - 1 Unhappy Path User Goal 2.jpeg" alt="User flow diagram - 1 Unhappy Path User Goal 2" width="auto" height="490"/>
+
+  
+**Explicación del flujo:**
+
+El flujo inicia con el conductor ingresando a la aplicación mediante la pantalla de login. Si las credenciales son válidas, accede a su dashboard principal. El conductor consulta los datos de su vehículo asignado. Si no tiene uno asignado, el sistema lo notifica.
+
+  
+**Condiciones y validaciones:**
+
+- Usuario debe estar logueado correctamente.
+- El conductor debe tener un vehículo asignado.
+- Verificación de carga de datos desde base de datos.
+
+<br>
+</br>
+
+**- User Persona 2: Gestores de flota**
+
+
+**User Goal 1: Asignar un vehículo a un conductor disponible.**
+
+
+<ul><li>Happy Path – Asignación exitosa</li></ul>
+<br>
+
+<img src="../images/User flow diagram - 2 Happy Path User Goal 1.jpeg" alt="User flow diagram - 2 Happy Path User Goal 1" width="auto" height="490"/>
+
+  
+Unhappy Path – Error en la asignación
+<br>
+
+<img src="../images/User flow diagram - 2 Unhappy Path User Goal 1.jpeg" alt="User flow diagram - 2 Unhappy Path User Goal 1" width="auto" height="490"/>
+
+  
+**Explicación del flujo:**
+
+El flujo inicia con el gestor de flota ingresando a la aplicación mediante la pantalla de login. El gestor de flota accede al sistema y asigna vehículos a conductores disponibles. Si alguno ya tiene asignación o no hay disponibilidad, se detiene el proceso.
+
+  
+**Condiciones y validaciones:**
+
+- Validación de credenciales.
+- Verificación de asignación previa del conductor.
+- Estado del vehículo (activo, en mantenimiento, ya asignado).
+
+
+
+**User Goal 2: Consultar reportes de incidencias enviadas por conductores.**
+
+<ul><li>Happy Path – Revisión exitosa</li></ul>
+<br>
+
+<img src="../images/User flow diagram - 2 Happy Path User Goal 2.jpeg" alt="User flow diagram - 2 Happy Path User Goal 2" width="auto" height="490"/>
+
+  
+<ul><li>Unhappy Path – Reporte inaccesible</li></ul>
+<br>
+
+<img src="../images/User flow diagram - 2 Unhappy Path User Goal 2.jpeg" alt="User flow diagram - 2 Unhappy Path User Goal 2" width="auto" height="490"/>
+
+  
+**Explicación del flujo:**
+
+El flujo inicia con el gestor de flota ingresando a la aplicación mediante la pantalla de login. El gestor revisa los reportes de incidencias enviados por los conductores. Si hay problemas como falta de evidencia o ningún reporte cargado, el sistema lo indica.
+
+
+**Condiciones y validaciones:**
+
+- Usuario autenticado como gestor.
+- Existencia de reportes en el sistema.
+- Validación de integridad de cada reporte.
+</ul>
+
 
 
 <h3 id="webAppPrototyping">4.5. Web Applications Prototyping</h3>
