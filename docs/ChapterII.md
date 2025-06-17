@@ -335,7 +335,7 @@ En esta sección se aborda la investigación tomando como base la recolección d
 
 <h4 id="interviewDesign">2.2.1. Diseño de entrevistas</h4>
 
-<h4 id="interviewDesing">Preguntas para segmento 1:</h4>
+<h4 id="interviewDesing">Preguntas para segmento 1 - Gestores de flota:</h4>
 
 1: ¿Cuál es tu rol actual y qué responsabilidades tienes en la gestión de la flota?
 
@@ -355,7 +355,7 @@ En esta sección se aborda la investigación tomando como base la recolección d
 
 9: ¿Qué tan importante es para ti tener reportes automáticos ?¿Pagarías por una plataforma que te de toda la información de tu flota y con ello evitar perdidas monetarias innecesarias?
 
-<h4 id="interviewDesing">Preguntas para segmento 2:</h4>
+<h4 id="interviewDesing">Preguntas para segmento 2 - Conductores de vehículos pesados:</h4>
 
 1: ¿Qué tan fácil o difícil es para ti completar estos registros manualmente? ¿Qué parte del proceso te resulta más tediosa o complicada?
 
@@ -372,7 +372,7 @@ En esta sección se aborda la investigación tomando como base la recolección d
 
 <h4 id="registerInterview">2.2.2. Registro de entrevistas</h4>
 
-Entrevista: 1 - Segmento Objetivo: Conductores 
+Entrevista 1 - Segmento Objetivo: Conductores de vehículos pesados 
 
 Fecha Entrevista: 23/04/2025
 
@@ -400,7 +400,7 @@ Resumen de la Entrevista:
 Nos indica que se le hace tedioso y complicado dibido a que es todo manual al momento de registrar problemas o tratar de comunicar con sus superiores. Además nos indica que tiene miedo a que le pase 
 algo  a el y tambien a los que van con el en el carro debido a que no sabe mucha información con respecto al carro.Tambien se sentiria muy sastifacho si tuviera una aplicacion que le ayude a ver toda la informacio del carro y le agilise contactar con sus superiores.
 
-Entrevista: 2 - Segmento Objetivo: Gestor de flota
+Entrevista 2 - Segmento Objetivo: Gestores de flota
 
 Fecha Entrevista: 
 
@@ -429,7 +429,7 @@ Resumen de la Entrevista:
  Nos comenta que varias veces por falta de datos no puede tomar desiciones a tiempo.Nos comenta que tambien tuvo problemas por fallos en comunicación con los conductores. Tambien nos indica
  que si probaron una aplicacion parecida a la nuestra pero lo dejaron por el precio que pedian.
 
-Entrevista: 3 - Segmento Objetivo: Conductor
+Entrevista 3 - Segmento Objetivo: Conductores de vehículos pesados
 
 Fecha Entrevista: 
 
@@ -460,7 +460,7 @@ aplicacion le de notificaciones a los encargados para el mantenimiento.Teme a qu
 
 
 
-Entrevista: 4 - Segmento Objetivo: Gestor
+Entrevista 4 - Segmento Objetivo: Gestores de flota
 
 Fecha Entrevista: 
 
@@ -492,7 +492,7 @@ que no tiene buena conversacion con sus conductores y que se le olvida algunas v
 
 
 
-Entrevista: 5 - Segmento Objetivo:  Gestor 
+Entrevista 5 - Segmento Objetivo:  Gestores de flota 
 
 Fecha Entrevista: 25/04/2025
 
@@ -520,7 +520,7 @@ Resumen de la Entrevista: La entrevistada con la gestora Ingrid nos dice que uso
 con sus conductores. Ella pagaria por una aplicacion que le funciona bien y que sea optimo.
 
 
-Entrevista: 6 - Segmento Objetivo:   
+Entrevista 6 - Segmento Objetivo: Conductores de vehículos pesados
 
 Fecha Entrevista: 20/04/2025
 
@@ -545,7 +545,7 @@ https://upcedupe-my.sharepoint.com/:v:/g/personal/u202110458_upc_edu_pe/Ede82TDt
 <img src="../images/Captura de pantalla 2025-04-26 170122.png" alt="Entrevista 6" width="auto" height="480"/>
 
 Resumen de la Entrevista: 
-Nos indica que tiene varios problemas porque tiene que escribir todo y tambien tiene problemas con el carro.Varias veces lo a dejado varado. Le parece una buena aplicacion y que le ayudaria un monton con sus problemas y miedos.
+Nos indica que tiene varios problemas porque tiene que escribir todo y tambien tiene problemas con el carro. Varias veces lo a dejado varado. Le parece una buena aplicacion y que le ayudaria un monton con sus problemas y miedos.
 
 <h4 id="analysisInterview">2.2.3. Análisis de entrevistas</h4>
 
@@ -565,106 +565,34 @@ En esta sección el equipo explica y presenta los artefactos resultantes del pro
 
 A partir del análisis de entrevistas y del estudio de la competencia, se identificaron los principales perfiles de usuarios que interactúan directamente con la solución Flota365. Estos perfiles representan los segmentos objetivo clave para el sistema, ya que concentran las necesidades operativas más **críticas** dentro de la gestión de flotas. La construcción de los *User Persona* permite al equipo de desarrollo entender mejor sus motivaciones, frustraciones y hábitos, lo que resulta fundamental para diseñar funcionalidades adecuadas y experiencias de usuario efectivas.
 
-**1) Segmento 1: Gerentes de flotas** 
+**1) Segmento 1: Gestores de flota** 
 
-Para los gerentes de flotas se elaboró el User Persona **Carlos Mejia**. Se tomaron en cuenta factores clave como su edad, rol profesional, experiencia en gestión logística y toma de decisiones operativas, así como sus principales frustraciones en torno al control y monitoreo de los vehículos. También se evaluó su familiaridad con herramientas tecnológicas como hojas de cálculo, software de gestión y plataformas de análisis de datos, lo cual permitió definir un perfil completo y representativo del segmento.
+Para los gestores de flotas se elaboró el User Persona **Carlos Mejia**. Se tomaron en cuenta factores clave como su edad, rol profesional, experiencia en gestión logística y toma de decisiones operativas, así como sus principales frustraciones en torno al control y monitoreo de los vehículos. También se evaluó su familiaridad con herramientas tecnológicas como hojas de cálculo, software de gestión y plataformas de análisis de datos, lo cual permitió definir un perfil completo y representativo del segmento.
 
-<img src="../images/User_Persona_Segmento1.jpg" alt="User Persona Gerentes" width="auto" height="480"/>
+<img src="../images/User_Persona_Segmento1.jpg" alt="User Persona gestores" width="auto" height="480"/>
 
 <br>
 
 **2) Segmento 2: Conductores de vehículos pesados**
 
-Para los conductores de vehículos de transporte pesado se elaboró el User Persona **Juan Torres**. La construcción de este perfil consideró aspectos como su rutina diaria, contexto laboral, grado de exposición a herramientas digitales, y las principales dificultades que enfrenta durante sus recorridos. Asimismo, se identificó su nivel de uso de tecnologías básicas como GPS, aplicaciones móviles y comunicación digital, lo cual fue determinante para ajustar la propuesta de valor de Flota365 a sus necesidades reales.
+Para los conductores de vehículos pesados se elaboró el User Persona **Juan Torres**. La construcción de este perfil consideró aspectos como su rutina diaria, contexto laboral, grado de exposición a herramientas digitales, y las principales dificultades que enfrenta durante sus recorridos. Asimismo, se identificó su nivel de uso de tecnologías básicas como GPS, aplicaciones móviles y comunicación digital, lo cual fue determinante para ajustar la propuesta de valor de Flota365 a sus necesidades reales.
 
-<img src="../images/User_Persona_Segmento2.jpg" alt="User Persona Gerentes" width="auto" height="480"/>
+<img src="../images/User_Persona_Segmento2.jpg" alt="User Persona Gestores" width="auto" height="480"/>
 
 <h4 id="userTaskMatrix">2.3.2. User Task Matrix</h4>
 
-<table border="1" cellspacing="0" cellpadding="5" style="border-collapse: collapse; text-align: center;">
-    <thead>
-        <tr>
-            <th rowspan="2">User Task Matrix</th>
-            <th colspan="2">Carlos Mejía</th>
-            <th colspan="2">Juan Torres</th>
-        </tr>
-        <tr>
-            <th>Frecuencia</th>
-            <th>Importancia</th>
-            <th>Frecuencia</th>
-            <th>Importancia</th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td>Supervisar el estado y ubicación de los vehículos</td>
-            <td>3</td>
-            <td>3</td>
-            <td>1</td>
-            <td>2</td>
-        </tr>
-        <tr>
-            <td>Organizar rutas y asignar unidades</td>
-            <td>3</td>
-            <td>3</td>
-            <td>2</td>
-            <td>2</td>
-        </tr>
-        <tr>
-            <td>Reportar incidentes o eventos en ruta</td>
-            <td>2</td>
-            <td>2</td>
-            <td>3</td>
-            <td>3</td>
-        </tr>
-        <tr>
-            <td>Realizar seguimiento de mantenimiento preventivo</td>
-            <td>2</td>
-            <td>3</td>
-            <td>1</td>
-            <td>2</td>
-        </tr>
-        <tr>
-            <td>Comunicar novedades al personal de conducción</td>
-            <td>2</td>
-            <td>2</td>
-            <td>1</td>
-            <td>1</td>
-        </tr>
-        <tr>
-            <td>Conducir y cumplir con itinerarios asignados</td>
-            <td>1</td>
-            <td>2</td>
-            <td>3</td>
-            <td>3</td>
-        </tr>
-        <tr>
-            <td>Completar registros manuales de entregas o rutas</td>
-            <td>1</td>
-            <td>1</td>
-            <td>3</td>
-            <td>2</td>
-        </tr>
-        <tr>
-            <td>Revisar reportes de desempeño o consumo de combustible</td>
-            <td>3</td>
-            <td>3</td>
-            <td>1</td>
-            <td>2</td>
-        </tr>
-    </tbody>
-</table>
+<table border="1" cellspacing="0" cellpadding="5" style="border-collapse: collapse; text-align: center;"> <thead> <tr> <th rowspan="2">User Task Matrix</th> <th colspan="2">Carlos Mejía - Gestor de flota</th> <th colspan="2">Juan Torres - Conductor de vehículos pesados</th> </tr> <tr> <th>Frecuencia</th> <th>Importancia</th> <th>Frecuencia</th> <th>Importancia</th> </tr> </thead> <tbody> <tr> <td>Supervisar el estado y ubicación de los vehículos</td> <td>3</td> <td>3</td> <td>1</td> <td>2</td> </tr> <tr> <td>Organizar rutas y asignar unidades</td> <td>3</td> <td>3</td> <td>2</td> <td>2</td> </tr> <tr> <td>Reportar incidentes o eventos en ruta</td> <td>2</td> <td>2</td> <td>3</td> <td>3</td> </tr> <tr> <td>Realizar seguimiento de mantenimiento preventivo</td> <td>2</td> <td>3</td> <td>1</td> <td>2</td> </tr> <tr> <td>Comunicar novedades al personal de conducción</td> <td>2</td> <td>2</td> <td>1</td> <td>1</td> </tr> <tr> <td>Conducir y cumplir con itinerarios asignados</td> <td>1</td> <td>2</td> <td>3</td> <td>3</td> </tr> <tr> <td>Completar registros manuales de entregas o rutas</td> <td>1</td> <td>1</td> <td>3</td> <td>2</td> </tr> <tr> <td>Revisar reportes de desempeño o consumo de combustible</td> <td>3</td> <td>3</td> <td>1</td> <td>2</td> </tr> <tr> <td>Validar cumplimiento de rutas y horarios</td> <td>3</td> <td>3</td> <td>2</td> <td>2</td> </tr> <tr> <td>Generar informes para la gerencia</td> <td>2</td> <td>3</td> <td>1</td> <td>1</td> </tr> <tr> <td>Revisar alertas de eventos críticos (exceso de velocidad, paradas no autorizadas)</td> <td>3</td> <td>3</td> <td>2</td> <td>2</td> </tr> <tr> <td>Configurar y personalizar alertas o notificaciones</td> <td>2</td> <td>2</td> <td>1</td> <td>1</td> </tr> <tr> <td>Capacitar al personal en uso del sistema</td> <td>1</td> <td>2</td> <td>1</td> <td>1</td> </tr> <tr> <td>Revisar historial de recorridos (playback GPS)</td> <td>2</td> <td>2</td> <td>1</td> <td>1</td> </tr> <tr> <td>Reportar fallas del vehículo desde la app</td> <td>1</td> <td>1</td> <td>3</td> <td>3</td> </tr> <tr> <td>Realizar checklist antes de salir a ruta</td> <td>1</td> <td>1</td> <td>3</td> <td>3</td> </tr> </tbody> </table>
 
 En este cuadro se utilizan los números del uno al tres para representar cuánta importancia y frecuencia posee una actividad frente al usuario que la realiza. En el caso de la frecuencia, el uno equivale a una actividad poco frecuente; el dos, más o menos frecuente y; el tres, muy frecuente. Por otro lado, en el caso de la importancia, el uno significa que la actividad no tiene mucha importancia para el usuario; el dos, que no es tan importante y; el tres, que es una actividad de suma importancia.
 <br>
 
 <h4 id="userJourneyMapping">2.3.3. User Journey Mapping</h4>
 
-**1) Segmento 1: Gerentes de flotas** 
+**1) Segmento 1: Gestores de flota** 
 
-Para la elaboración del Journey Mapping, el equipo basó su análisis en las observaciones y el conocimiento adquirido a partir de los User Persona previamente creados. Se colocó al centro de cada mapa al usuario correspondiente, Carlos Mejía (Gerente de Flotas) y Juan Torres (Conductor de Vehículos Pesados), y se respondió a las preguntas clave sobre su experiencia, emociones, comportamientos y necesidades a lo largo de las distintas fases de interacción con la plataforma.
+Para la elaboración del Journey Mapping, el equipo basó su análisis en las observaciones y el conocimiento adquirido a partir de los User Persona previamente creados. Se colocó al centro de cada mapa al usuario correspondiente, Carlos Mejía (Gestor de Flota) y Juan Torres (Conductor de Vehículos Pesados), y se respondió a las preguntas clave sobre su experiencia, emociones, comportamientos y necesidades a lo largo de las distintas fases de interacción con la plataforma.
 
-<img src="../images/User Journey Mapping Segmento 1.png" alt="User Journey Mapping Gerentes" width="auto" height="670"/>
+<img src="../images/User Journey Mapping Segmento 1.png" alt="User Journey Mapping Gestores" width="auto" height="670"/>
 
 Carlos es consciente de los problemas en la gestión logística, como la falta de integración entre sistemas y la dependencia de tareas manuales. Está buscando una solución que le permita tomar decisiones rápidas y basadas en datos en tiempo real. Se registra en la plataforma con la esperanza de optimizar el control de la flota. Aunque al principio se siente frustrado debido a la falta de integración con otros sistemas, rápidamente ajusta los procesos y empieza a ver mejoras en la eficiencia. Si la plataforma no le proporciona la visibilidad que necesita o no mejora su rendimiento, consideraría abandonarla. Su objetivo es lograr una operación más eficiente y consolidarse como un líder estratégico. <br>
 
@@ -679,11 +607,11 @@ Juan enfrenta problemas operativos diarios, como el uso de herramientas poco int
 
 Para la elaboración de los Empathy Maps, el equipo partió del conocimiento y observaciones recolectadas durante el análisis de los User Persona. Se colocó al centro de cada mapa al usuario correspondiente (Carlos Mejía y Juan Torres) y se respondieron las preguntas claves sobre su entorno, emociones, comportamientos y necesidades. 
 
-**1) Segmento 1: Gerentes de flotas** 
+**1) Segmento 1: Gestores de flota** 
 
-<img src="../images/Empathy_Mapping_Segmento1.jpg" alt="Empathy Mapping Gerentes" width="auto" height="370"/>
+<img src="../images/Empathy_Mapping_Segmento1.jpg" alt="Empathy Mapping Gestores" width="auto" height="370"/>
 
-En este mapa, se analizó a Carlos Mejía, un gerente enfocado en optimizar los procesos operativos de la flota. Del cuadro, se concluye que Carlos es muy consciente de los problemas actuales en la gestión logística, especialmente por la falta de integración entre sistemas y la dependencia de tareas manuales. Le preocupa que los errores humanos y la información desactualizada estén afectando su rendimiento y el de su equipo. Busca una solución que le permita tomar decisiones más rápidas y acertadas basadas en datos en tiempo real. Finalmente, Carlos aspira a lograr una operación más eficiente, con menos margen de error, y a consolidar su rol como líder estratégico dentro de la empresa.
+En este mapa, se analizó a Carlos Mejía, un gestor enfocado en optimizar los procesos operativos de la flota. Del cuadro, se concluye que Carlos es muy consciente de los problemas actuales en la gestión logística, especialmente por la falta de integración entre sistemas y la dependencia de tareas manuales. Le preocupa que los errores humanos y la información desactualizada estén afectando su rendimiento y el de su equipo. Busca una solución que le permita tomar decisiones más rápidas y acertadas basadas en datos en tiempo real. Finalmente, Carlos aspira a lograr una operación más eficiente, con menos margen de error, y a consolidar su rol como líder estratégico dentro de la empresa.
 
 <br>
 
@@ -695,11 +623,10 @@ En este mapa, se abordó la experiencia de Juan Torres, un conductor con mucha e
 
 
 <h4 id="asIsScenario">2.3.5. As-is Scenario Mapping</h4>
-<h4 id="asIsScenario">Segmento 1: Gerentes o administradores.</h4>
+<h4 id="asIsScenario">Segmento 1: Gestores de flota</h4>
     
 <img src="../images/As-is map segment 1.png" alt="As-is map segment 1" width="auto" height="370"/>
 
-<h4 id="asIsScenario">Segmento 2: Conductores.</h4>
+<h4 id="asIsScenario">Segmento 2: Conductores de vehículos pesados</h4>
     
 <img src="../images/As-is map segment 2.png" alt="As-is map segment 2" width="auto" height="370"/>
-

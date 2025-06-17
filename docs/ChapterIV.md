@@ -499,128 +499,312 @@ Video de la aplicación web: https://drive.google.com/file/d/1_MWoiid6MOtvUOxqcH
 <h4 id="contextDiagram">4.6.1. Software Architecture Context Diagrams</h4>
 
 <p align="center">
-  <img src="../images/C4-Context-Diagram.png" alt="C4 Context Diagram" style="display: block; margin: 50 auto 0 auto;"/>
+  <img src="../images/context_diagram.png" alt="C4 Context Diagram" style="display: block; margin: 50 auto 0 auto;"/>
 </p>
 
 <h4 id="containerDiagram">4.6.2. Software Architecture Container Diagrams</h4>
 
 <p align="center">
-  <img src="../images/C4-Container-Diagram.png" alt="C4 Container Diagram" style="display: block; margin: 50 auto 0 auto;"/>
+  <img src="../images/container_diagram.png" alt="C4 Container Diagram" style="display: block; margin: 50 auto 0 auto;"/>
 </p>
 
 <h4 id="componentDiagram">4.6.3. Software Architecture Components Diagrams</h4>
+<p align="center">
+  <img src="../images/component_diagram.png" alt="C4 component diagram " style="display: block; margin: 50 auto 0 auto;"/>
+</p>
 
 <h3 id="softwareObjectOrientedDesign">4.7. Software Object-Oriented Design</h3>
 
 <h4 id="classDiagram">4.7.1. Class Diagrams</h4>
 Diagrama de clases:
-<img src="../images/diagrama clases.png" alt="diagrama clases" style="display: block; margin: 50 auto 0 auto;"/>
+<img src="../images/class.jpg" alt="diagrama clases" style="display: block; margin: 50 auto 0 auto;"/>
 
-* Link del diagrama de clases en plantmul:https://editor.plantuml.com/uml/hLPDJnin4BqZyH-id58W4VIuGX5HQQH8fKL4ukvu9ukBrtRz4GWj_xspzYviDWuaWbms6RyPpvjvCzaBwwXnlXI71_QUIqqDBGaJrDgnSuRFlOCfKtB6du2SRc0cIhfmTFRryE3mG5DsJmiWlKjLKYvxv6zb9VW9QF9DbPhA5Ja_7nU5WO8w83TAkHFoNJhkLgDHvK7gpu3d6PbX4h9e6IKj8M5sz76QWdEPU-lCQlFe-8xQIyENOFfvU6Ga_loIaRbI0gXiWGjm4m7WR1-FVt3hpiFFKOGyh_ESUGrcoQqoIFN3rBIot74b4nGAa62mYZ7n6z3Ak4qsqPvm2nHghqNrFIF1rF7fi8jnFuEPu0oaxPnqRWi9VKWnELXckDvIGfhdjt37cO3-CZupKXkm34l5ynQOKS6ym2IkmIoKAQbaK0dY2Z0iI-PVnzghNBgwugSlvrKRDqvBbOD8s76IdRS9YYRqSXQE-oazU9tZXJL0miDiBT9Q6Jhi8d4aTqk51_9h_XkOwr3SqlnbvP6HXL0qhREOvbw5mqtbGBf43U0ng3pDfTbBlRCU6GpmCHmUzTfJd14ejL0hIqPlUTIJiICwAZiZwa6-8AEjmXsz0Xi9PQJYXukr0nyCHgHt6g1rFn3PAFK5swBJSgYBd15khO_WvxLLFjOQnvHMqxEnpyFrLrGYiCIopwhu3DfjEaOOBsGpOUqbSqBUdxSz5rMSqJjWztN4MjA9Yv8RPmkVgbnD2x5TEgHaYP9hRKZxDKqkmwdTmUErsxRkMAejKxam5F_OF7FUGAip72V0B2W6cqwe5suigLWzeIhRNT46SixSX7A1thQ_MNaQtQwfmt3IRXcSA8FnD5pYEBCuhHor7qZPJWRh0_p9EKGPO4lNxcZqStqvwSSjs0ZcpQMc97VAT8FbtE9YNksfgNPnXiD_eqvHtfL3fuiPyNOd6RqM1DTHM7wxUBMeP-IF1yDRuhi0V9cgtXJ_0m00
-
+* Link del diagrama de clases en plantmul:https://editor.plantuml.com/uml/jLbVSnet47zdXk-WuIKqjJt9wmt3v0B4kOa13s3Fz2aZxcHGVITHIKT3cdwnllQBTQNJ7U9EOEouVQWFQNUrsZ-_tLK-I8M5ohEqtPAFb6smm1dQuFWHhyXSxLA218aLPgkKk1HnYgL4VxLR2FuBbH9qcIiInPnzuamDUCe5MgOWnaCnfzy9UjTk_TrkjLjlq8Zb6H5OKSuaqj9HBZcAUVRlFwpT8h2BvWght1uN3XRH_KX_HPFzzzraE9fz7OVHP36QX9E1MPpUBRvEFtsTZsRtKR4IpkVHzMGqDD_tONGJVhmn6uFf-FPcj2XsRaUJOJIvjXeQ3Ux9ciOfMUmsf53Z9hh-lD0VdqVX_Mz6H3YxdXfsE6KqkHxDvgw4EqRLz65CiCo5bN4tYHQ5hCLefZ--H3VJwrauDbAYaTRP2B3-G1sh1Xg0aSatrK6ztaUUiuGaTgNVBvrIUAXawFL6J56rkq3XQYN82YiouzmXH-WIqIH0TtVHSB-oIO4m0FiBobRxvOmd96qkAx1Eu9fgloMD1mFhoVhwPoeL5xi0tS17pmeeIFiLxMNvzIlADmdeLH1q6VbpVY3zbm1jEKtsv71Va4l465Cm4iCi9jt4N6m8_r_GZ1om69CtJ6XZiDUxnsbEfilV8IqEpNViZl4QqeSaeTgVrzZyk2jCZzwCCGDN2mG9DD-1rjaRhrQVKaBKIzsQ41aBkj4fr_JYjhYlFFI6rmyuIUnsTrivtcF-Z6z9HLZyZQnI3UeOft6km-wMY0SkCkCje79-ZWce77lDqg0wxZ1GVujfYfSq1Gi6AE7vCYNkxie9c06Ngad3rPg8Y2KqnX30OB8ntlGAWrvOudvDpp8ZE-yxOCi-whpjr48iG9qrbcXT94MdO2lyhPduvQNBfCa1L1MeAZjrl70kS3vcE4nJaK0elZ3AQfwkuqGzxamX6XwavNwJiEJOrh6qOrmHwG4fhd3gysOji1TOFdQ1IFzj1cdAPM6Sxl40NfGdQHhth5hCwXCg6_zKwiQ-Qnqra2Bncj6OOjPmaMiAAUcABIfQOvFgL-Fs6HQFeHpmR9CIHPBkAMJTYtbfY36S-I9fGq1egfEwlhLPS-RX81aWWJSaVPPph4DbM818Qa1goNbACFD34uJtwzxJdqSRG3tIZ88u5u8mDLSyVWmGPBXJpYdpBUVGiGI7VOlF188aUKoCW2xE05cKaUCf0_8aJSrS3WhPzk3i7E4wCPkmGxPm_xAi5LRRLpNTvWAV3sGgnHh0gE7uhORZzrTNWCWcaG6EAOlJ71BLGhTPreXTmhs91A3BPOtctTMLhGfEQW1XaOCa0V3g7555CxbXwjLL4tdi2YSKjsyMaA6WMs0-ktPO-bSDynJYcKcY7MS-_hziVcPV6Qz9_6YLWYQ39d3Zfr30af_g8w6N82lJ3jTlGANCoJv4dHj_sr2ny-mSG9NHyRY2rdSwI2fB7qP3QE8mWpGwFo8SdjVk8nAZS7DTy5mROgR_EDGsgP_JGmYYtGErTWRuvwcuZdbD-p8dOakBVhKMAhOWbWHaInF2uYfuFMYvuK95BDPqgglBlfUs5bxcpgU2YmkwefxM0GvGb65_Nv40K6Z0-9ATR6HARSy6Qbp5XiUvfneTV-LBJe5tFHgj9q3N8GUyOFRtuOGW8SMJF2LxjlhySb6BmWiaREHTeCQCkHTJ0v7GcKIUFg4Xrv_FJkRfd7RIeRRZHhspvKuebMkXLcHuPyEpqpogDElLLT-L5Q1O452uSOfBNt_U20Axq07-Ft8Yw1FyXzKg28hV1zo7W3OprpWVp2pz2u4CM59FsAu8i-zVnqQSe-6EJo4I337LQDgb0Qf-d0AGYkWKYFZhz5QJ1p2fSgpyu6IiTrRYMPkKhmO5f-VjeDXeyfbnsN8zwEypUCeOjsmdA8TOhfSSY-JBRIJhXDMbRR3iKyXQzd3_x0GG-Zq3UbXf77zKX6Va3u9wD_WCUSsQ7mJxjPyKL9hS9wR-ab4yYptZ5QDWUDLMb2QJF5iISNRFkH7yWVgI_kbc5ETg3TNwkrjyFEEslgNxi7bwfjBKMj8DNvrTfOipF7qMZe-q2wU7gC8lpO6bM7Uhpg6-K7fIlgfcb3S8y8Cooj583tPSegwaq6NH1qYpXCjVsYtF0-wWU6-jqCVmbXRmzfhGCwN9lE4k297wW62fOpDg9rFcsi2ex7zV6-Z7fACQDORPo-BroIU_X8_BonzzxxNRBS_W-AD_H2KjyWDXYVdNeVy0
 <h4 id="classDictionary">4.7.2. Class Dictionary</h4>
-Para una mejor comprensión acerca del propósito de creación que cada una de las clases con sus 
-respectivas propiedades, se detallará en esta sección cada uno de ellos:
-<br>
-<h3>Class Company</h3>
-<table border="1">
-  <tr><th>Attribute</th><th>Type</th><th>Description</th></tr>
-  <tr><td>id</td><td>String</td><td>Company ID</td></tr>
-  <tr><td>name</td><td>String</td><td>Name of the company</td></tr>
-  <tr><td>taxId</td><td>String</td><td>Tax identifier</td></tr>
-  <tr><td>industry</td><td>String</td><td>Industry sector</td></tr>
-</table>
-<table border="1">
-  <tr><th>Method</th><th>Return Type</th><th>Description</th></tr>
-  <tr><td>hasDriver(driver: Driver)</td><td>boolean</td><td>Checks if the driver is employed</td></tr>
-  <tr><td>getFleets()</td><td>List&lt;Fleet&gt;</td><td>Returns all fleets owned</td></tr>
-</table>
 
-<h3>Class Fleet</h3>
-<table border="1">
-  <tr><th>Attribute</th><th>Type</th><th>Description</th></tr>
-  <tr><td>id</td><td>String</td><td>Fleet ID</td></tr>
-  <tr><td>description</td><td>String</td><td>Description of the fleet</td></tr>
-</table>
-<table border="1">
-  <tr><th>Method</th><th>Return Type</th><th>Description</th></tr>
-  <tr><td>addVehicle(vehicle: Vehicle)</td><td>void</td><td>Adds vehicle to fleet</td></tr>
-  <tr><td>calculatePerformance()</td><td>Metric</td><td>Calculates fleet performance</td></tr>
-</table>
 
-<h3>Class Vehicle</h3>
-<table border="1">
-  <tr><th>Attribute</th><th>Type</th><th>Description</th></tr>
-  <tr><td>id</td><td>String</td><td>Vehicle ID</td></tr>
-  <tr><td>plateNumber</td><td>String</td><td>License plate</td></tr>
-  <tr><td>model</td><td>String</td><td>Vehicle model</td></tr>
-  <tr><td>status</td><td>String</td><td>Current vehicle status</td></tr>
-</table>
-<table border="1">
-  <tr><th>Method</th><th>Return Type</th><th>Description</th></tr>
-  <tr><td>reportStatus()</td><td>Report</td><td>Generates vehicle report</td></tr>
-  <tr><td>updateStatus(newStatus: String)</td><td>void</td><td>Updates vehicle status</td></tr>
-</table>
+## Class `Vehicle`
 
-<h3>Class Driver</h3>
-<table border="1">
-  <tr><th>Attribute</th><th>Type</th><th>Description</th></tr>
-  <tr><td>id</td><td>String</td><td>Driver ID</td></tr>
-  <tr><td>name</td><td>String</td><td>Name of the driver</td></tr>
-  <tr><td>license</td><td>String</td><td>Driver license</td></tr>
-</table>
+### Attributes
 
-<h3>Class Supervisor</h3>
-<table border="1">
-  <tr><th>Attribute</th><th>Type</th><th>Description</th></tr>
-  <tr><td>id</td><td>String</td><td>Supervisor ID</td></tr>
-  <tr><td>name</td><td>String</td><td>Name of the supervisor</td></tr>
-  <tr><td>position</td><td>String</td><td>Position of supervisor</td></tr>
-</table>
-<table border="1">
-  <tr><th>Method</th><th>Return Type</th><th>Description</th></tr>
-  <tr><td>generateDriverReport(driver: Driver)</td><td>Report</td><td>Creates a report for driver</td></tr>
-  <tr><td>generateFleetReport(fleet: Fleet)</td><td>Report</td><td>Creates a report for fleet</td></tr>
-</table>
-<h3>Class Report</h3>
-<table border="1">
-  <tr><th>Attribute</th><th>Type</th><th>Description</th></tr>
-  <tr><td>id</td><td>String</td><td>Report ID</td></tr>
-  <tr><td>content</td><td>String</td><td>Content of the report</td></tr>
-</table>
-<table border="1">
-  <tr><th>Method</th><th>Return Type</th><th>Description</th></tr>
-  <tr><td>export()</td><td>void</td><td>Exports report</td></tr>
-</table>
-<h3>Class Metric</h3>
-<table border="1">
-  <tr><th>Attribute</th><th>Type</th><th>Description</th></tr>
-  <tr><td>name</td><td>String</td><td>Name of the metric</td></tr>
-  <tr><td>value</td><td>float</td><td>Numeric value</td></tr>
-</table>
-<h3>Class AIAnalytics</h3>
-<table border="1">
-  <tr><th>Method</th><th>Return Type</th><th>Description</th></tr>
-  <tr><td>predictFailures()</td><td>void</td><td>Predicts vehicle failures</td></tr>
-  <tr><td>analyzePatterns()</td><td>void</td><td>Analyzes performance patterns</td></tr>
-</table>
-<h3>Class Reporting</h3>
-<table border="1">
-  <tr><th>Method</th><th>Return Type</th><th>Description</th></tr>
-  <tr><td>generatePDF(report: Report)</td><td>void</td><td>Generates a PDF from report</td></tr>
-</table>
-<h3>Class Monitoring</h3>
-<table border="1">
-  <tr><th>Method</th><th>Return Type</th><th>Description</th></tr>
-  <tr><td>displayStatus(vehicle: Vehicle)</td><td>String</td><td>Shows vehicle status</td></tr>
-</table>
-<h3>Class FleetManagementService</h3>
-<table border="1">
-  <tr><th>Method</th><th>Return Type</th><th>Description</th></tr>
-  <tr><td>assignVehicle(fleet: Fleet, vehicle: Vehicle)</td><td>void</td><td>Assigns a vehicle to fleet</td></tr>
-  <tr><td>generateFleetReport(fleet: Fleet)</td><td>Report</td><td>Generates a fleet report</td></tr>
-  <tr><td>checkVehicleStatus(vehicle: Vehicle)</td><td>String</td><td>Returns vehicle status</td></tr>
-</table>
+| Name | Type | Description |
+|------|------|-------------|
+| id | UUID | Vehicle ID |
+| plate | String | Vehicle plate |
+| model | String | Vehicle model |
+| type | VehicleType | Type of vehicle |
+| status | Status | Current status |
+| statusHistory | List<VehicleStatus> | Status history |
+
+### Methods
+
+| Name | Return Type | Description |
+|------|--------------|-------------|
+| updateStatus(newStatus) | void | Updates the vehicle status |
+| registerMaintenance(date) | void | Registers a maintenance event |
+
+## Class `Fleet`
+
+### Attributes
+
+| Name | Type | Description |
+|------|------|-------------|
+| id | UUID | Fleet ID |
+| description | String | Description of the fleet |
+| vehicles | List<UUID> | Vehicle IDs in the fleet |
+
+### Methods
+
+| Name | Return Type | Description |
+|------|--------------|-------------|
+| addVehicle(v) | void | Adds a vehicle to the fleet |
+| calculatePerformance() | PerformanceMetric | Calculates fleet performance |
+
+## Class `PerformanceMetric`
+
+### Attributes
+
+| Name | Type | Description |
+|------|------|-------------|
+| availability | double | Vehicle availability |
+| avgMaintenanceCost | double | Average maintenance cost |
+| otherIndicators | ... | Other performance indicators |
+
+## Class `MaintenanceOrder`
+
+### Attributes
+
+| Name | Type | Description |
+|------|------|-------------|
+| id | UUID | Order ID |
+| vehicleId | UUID | Vehicle related to the order |
+| type | String | Maintenance type |
+| startDate | DateTime | Start date |
+| endDate | DateTime | End date |
+| status | Status | Current status |
+| notes | String | Observations |
+| totalCost | double | Total cost |
+
+### Methods
+
+| Name | Return Type | Description |
+|------|--------------|-------------|
+| addTask(t) | void | Adds a task to the order |
+| closeOrder() | void | Closes the maintenance order |
+
+## Class `Task`
+
+### Attributes
+
+| Name | Type | Description |
+|------|------|-------------|
+| id | UUID | Task ID |
+| description | String | Description of the task |
+| cost | double | Cost of the task |
+| status | Status | Task status |
+| technician | Technician | Assigned technician |
+
+### Methods
+
+| Name | Return Type | Description |
+|------|--------------|-------------|
+| assignTechnician(t) | void | Assigns technician to task |
+| markAsCompleted() | void | Marks task as completed |
+
+## Class `Technician`
+
+### Attributes
+
+| Name | Type | Description |
+|------|------|-------------|
+| id | UUID | Technician ID |
+| name | String | Technician name |
+| specialty | String | Specialty |
+| phone | String | Phone number |
+| email | String | Email address |
+| status | Status | Technician status |
+
+## Class `Part`
+
+### Attributes
+
+| Name | Type | Description |
+|------|------|-------------|
+| id | UUID | Part ID |
+| name | String | Part name |
+| type | String | Part type |
+| price | double | Price of the part |
+| currentStock | int | Current stock |
+| minStock | int | Minimum stock |
+| unit | UnitOfMeasure | Unit of measure |
+
+## Class `MaintenanceHistory`
+
+### Attributes
+
+| Name | Type | Description |
+|------|------|-------------|
+| id | UUID | History ID |
+| orderId | UUID | Related order |
+| events | List<String> | Events list |
+| recordDate | DateTime | Date of registration |
+
+## Class `Driver`
+
+### Attributes
+
+| Name | Type | Description |
+|------|------|-------------|
+| id | UUID | Driver ID |
+| name | String | Driver name |
+| license | License | Driver license |
+| phone | String | Phone number |
+| email | String | Email address |
+| status | Status | Driver status |
+
+### Methods
+
+| Name | Return Type | Description |
+|------|--------------|-------------|
+| updateStatus(newStatus) | void | Updates driver status |
+| checkLicenseValidity() | boolean | Checks license expiration |
+
+## Class `License`
+
+### Attributes
+
+| Name | Type | Description |
+|------|------|-------------|
+| category | String | License category |
+| issueDate | Date | Issue date |
+| expiryDate | Date | Expiration date |
+
+## Class `Assignment`
+
+### Attributes
+
+| Name | Type | Description |
+|------|------|-------------|
+| id | UUID | Assignment ID |
+| vehicleId | UUID | Assigned vehicle |
+| driverId | UUID | Assigned driver |
+| route | Route | Route information |
+| dateTime | DateTime | Assignment time |
+| status | Status | Assignment status |
+| rejectionReason | String | Rejection reason |
+
+### Methods
+
+| Name | Return Type | Description |
+|------|--------------|-------------|
+| startService() | void | Starts the assignment |
+| completeService(evidence) | void | Completes the assignment |
+| reportIncident(desc) | void | Reports an incident |
+
+## Class `Route`
+
+### Attributes
+
+| Name | Type | Description |
+|------|------|-------------|
+| origin | String | Route origin |
+| destination | String | Route destination |
+| distanceKm | double | Route distance in km |
+
+## Class `Incident`
+
+### Attributes
+
+| Name | Type | Description |
+|------|------|-------------|
+| id | UUID | Incident ID |
+| assignmentId | UUID | Related assignment |
+| description | String | Incident description |
+| type | String | Incident type |
+| date | DateTime | Incident date |
+
+## Class `AssignmentService`
+
+### Attributes
+
+| Name | Type | Description |
+|------|------|-------------|
+
+### Methods
+
+| Name | Return Type | Description |
+|------|--------------|-------------|
+| scheduleAssignment(vehicleId, driverId, r, date) | Assignment | Schedules an assignment |
+| checkAvailability(vehicleId, driverId, date) | boolean | Checks availability |
+
+## Class `Report`
+
+### Attributes
+
+| Name | Type | Description |
+|------|------|-------------|
+| id | UUID | Report ID |
+| title | String | Report title |
+| generationDate | DateTime | Date of generation |
+| type | String | Report type |
+| data | String | Report content |
+
+## Class `Indicator`
+
+### Attributes
+
+| Name | Type | Description |
+|------|------|-------------|
+| name | String | Indicator name |
+| value | Float | Indicator value |
+
+## Class `ReportService`
+
+### Attributes
+
+| Name | Type | Description |
+|------|------|-------------|
+
+### Methods
+
+| Name | Return Type | Description |
+|------|--------------|-------------|
+| generateVehicleReport(vehicleId) | Report | Generates report for a vehicle |
+| generateFleetReport(fleetId) | Report | Generates report for a fleet |
+| generateIncidentReport() | Report | Generates incident report |
+| generateDashboardKPIs() | Report | Generates KPI dashboard |
+
+## Class `Manager`
+
+### Attributes
+
+| Name | Type | Description |
+|------|------|-------------|
+| id | UUID | Manager ID |
+| name | String | Manager name |
+| idNumber | String | National ID |
+| email | String | Email address |
+| profile | String | Profile/role |
+| status | Status | Manager status |
+
+### Methods
+
+| Name | Return Type | Description |
+|------|--------------|-------------|
+| authorizeAssignment() | void | Authorizes an assignment |
+| manageMaintenance() | void | Manages maintenance process |
+
+## Class `ManagementLog`
+
+### Attributes
+
+| Name | Type | Description |
+|------|------|-------------|
+| id | UUID | Log ID |
+| managerId | UUID | Related manager |
+| action | String | Action description |
+| date | DateTime | Date of action |
+
 
 <h3 id="dbDesign">4.8. Database Design</h3>
 
@@ -629,4 +813,6 @@ Diagrama de base de datos:
 
 <p align="center">
 <img src="../images/Database diagram.jpeg" alt="Database diagram" style="display: block; margin: 50 auto 0 auto;"/>
+  link del diagrama: https://editor.plantuml.com/uml/pLXDRziu4BqRy7_GRRDO5qYpo1wCegYgC8uGHp9a9rU2fcYR24MffEHDqFQ_xr2o8rccbJHsWRqayioG6hxvUjGNdHEL5udezrOyPWxbYWhMx_LxJEOyVtRMRCL1eftl_PxZ_CLZP-XmcJkVFarkFtysiaoGd85qJHHT4NLsSVwd4SyLaN53V5c9apHcObzCKv6gXlZlIipaaak6DLCSNDXVLIW5VkA42qQMnecOKPuGSVRnV71HcWYYGK_0PIQ9f0p7bRVcdz5BzhIhVqnisomA9d3-d9cbJ1R9sOZeL81l0-SAN6DYu8mdeu7Z1QFI7c3D2xqr3YSeScT-6BZZWHE40TuHtBc1Eq9tA9ZLhw8a8zJWR_65AWREnvZaeCrvmk1bIMOqHHPRDJyR0MsSjIEe5CAq7rDBg67DzMPD4qK35MxikxKfqwqP0-Db5UdO9ixJd00QgSvjIEoYFFLkqDNz65qD73_0aoWSHMWwXPY4TvCncXcvvmOU0ejoTJg7l5gJdAVIx9539fGWWjJc-ibWBy7fm5wIf0don_CA_9XfgdXct6ruUpgl5ACCjkzmh6bj0MYpmKwP-C53w7jeu7prnv3g4VAGFvaDd71sWw8gXktQljXs1AXjo3U-Plk5huii4zmU9rtCowon9SoQMFFeeFrnw6wzx81qNcXe8bhZLj0lBYyhpyXJTSOMEYIE5Inh94AsIgKjRHX4JLZaD9KveJdEmByoeze6pJ1E9sw4CFoPGJrDKVG0COMdhn16Io6wtin_GAOAgwVJTYsS4_tu_YpD6Lr9JZcHDgszo7QFDq71bH-C3dMP3RhsZdKS2hNl7UTV54BifzC_LPmoS8Y8Sgwqu_sh2VJROsuQyJlFASkk3fF3LZig5I-9JUA4IwvpHV9K3HoYDVmWCXz06acW522B5RGWLK44-dzJ5LiAzRYZbZDVfCkEuswdOcj0jWRrvLi6jKXfcgIcisvxTNsQce80_1RmNcSdhtCojbX04ZD9hHiKaaDNKfnQrnvirLqZGR455xlyBOpyaQdVq0zW75tVep6Eq7KvfEhPT80X71Vh3QF6SKgB16I_HgsRdQpPe4CNZZ53tatWU-uO-y5qWZp3CA4p-P5tFoxf9lRS26YGqVbW1Ipqpf-PeftUHuOQDG-_zG_3_dEcB1s0Qrti4Mhsb75LGjRM67CkbtY3mtuDGP1iC_2tHA4v9OXWwZHXc4Je0NWyz3zyvq9ceM23gZ_6teqRZ0mJYjnR1B-GTmiHyoCpIAz2x_xb0j1HEQMdRLmFJASWdFdNlc6zy8fm_B37VuyaDnbH36U6plz_-6pjrAdyQHtJrbsw6zQs7-eyfO_LsYh8aYT5qXQNUwKBd32Y2sLpyvI4_rl15Nkb1xr2fnhuMBJV2h8jzkO13uBLnTsFp0owOd7H-I5ZQzAkh_VSXMj-lfTc9PsmyQaLppAh1YvMF8DvcLkprc0FgO8tvA3bfccTd1xIrgljdps80c-1HjcrQmvDcMhxc8Pv2wE0ISsi1YADbp0CRAhJzli_dAYyHi9c0B3kzrw-QFtuyU53-dttWyYmkXTnQJ7S7zn3PqKiXZMR6vRFtI_TZfzXrTqjndNk3kldVc_7SSk-BnVwZPklsLVtgg6pwGjlUaEZWmmToLYyksep6WuWBGpTNd3pfkRDfiCrg8z5gX9OK5qEx1ilcMH0GSo-zHMy6w2IojZicx7SA8rPU_Xj8zMOF-27Iejin_ejA1hUZUVF_TuN9kCY4Vy1
 </p>
+Link del diagrama de base de datos: https://editor.plantuml.com/uml/pLXDRziu4BqRy7_GRRDO5qYpo1wCegYgC8uGHp9a9rU2fcYRY4IgfEHDqFQ_xr2o8rccbJHsWRqayioG6hxvUjGNdHEL5sdIxwrup1pA5KrOlzVlCP7p_DbPinK7YNQ-ztkEynUFdQ73HUvy-ZIv_VpPoBA4v0oaQwBeYgYpY_C_ZNYkY8WRuijAdCgO9VjYAXEf6kA_Ap4JIouOrannS65_LQ4K-8bJdZ2oD4x4ZFAK96SVpmSNfKb2DEW9kCm44PJXkFBM_3DwmPvszO-fRPj5mHASFsTcAHD5UZOYMYRWsy2v0jTOCd36az70yO9HQG-mveNU6eSJ5BapFmpSyS09mW3l2ExSm1sXEnJCwbTHaX5gyBVuGXK3vsDCSj3cF6NmiZGpcYABhPgVZO0spjeHL0fXse-f9TImvdgpfecYWGetzjtQbEdMZ87niefqR1FdCYU0XjIv3ObTbAVU3Rgw7wEhWUC7U1A5emXDfn2Jy6uoHZCZzzp0Gs1HhfPpoAiroRaKPeySCg444QGsrqy6UmbE1_Q2f4sGFvvNuCTCKyKpusx3szDvfHXbi7s7Oqrh2q2R3NRAn0yUGjz30-UhFuPKZv27_Cbiu8Ip6nHLCMpNziMs8q1jGxxnDTilV5raMSBjSTB5lCmQMyAiYJMF3jeVX-xMomv8vuM69g8rRWNzulAoyemyLMTieKFYMC6oHY9aAobiQSCWQeb5JgN82Srn1lwL6TKsQ8PnEd4ZXE7F3EffYg87Y2ayVOKmMWhHzMR-0p9LM3sTjclXdEZ7zsTfpkXASCg9i6djHRPxl0aAhlnWTAZBRD2rTwpZKAXzxpZ_eaYI_NJwfufJ1WwHf9mhxNZ_QWBzzfYRHlpESugogyFaiDMEaibBOfCuvOBhN95Sge53j8OVHEG3I2C1b09aiO8Mf2g8GF-lLB6bK8yxQZdp4xdiEEvsAhO6P6jGNxvbK2UIobIQphhjrVLfQWe2y5l0UvsTlCx9s681ISm4jMvG20vTIN5gNNkmLNUD1CKMFDdbRs7aZqpzXdu0u-Zw7ernXAxB8LNFfWCCuRXORnWrZYKjKf3z6hLkTh9cWmvTECOCUJU1xxbZx0VJ2V8CmuJEv4VU_RYaczXp8w11HkU35R3GEtzcYdPw7nbgr3pyrZyC-y-PidG0hdMnHwZPKyPL2LbROyovME8D3lir146opS3V4eNcb209KwS9moH23y3ZeV_XEnSo2mKRLFqnzcxSO6IOKEJU8lY5l5k8c1-PGNeLUlSl5u2EoYazRUDwO3e5uSo_zWthXLU4uuSz_diakSc8OZWpTFx_msThfqxbJ-kOjkxItR2s_L3daZvMQwiW2vuMQLjSxYKNE6L45yhcvYa9_xU2A_PA3tg5JZNmiMY_5MHRxCq37WIhYxiVcHbqnUAYyqF6rgHTN--v2zVyV2_DIZfXurChdcLM3LoiU0RpChTchS4UKWLlo47BJTCwEJsahLVRFtiG1Tu2ZR9hrnoQCjNsCGtp5aO14vfP3H8PBs4Os5IdxVT_E55vZOJD063TxxryqVhnuyC7-NttWyYmkXTnOJ7S7zn3PqKiXZMR6vRFtI_TZfzXrTqjndNk3kldVc_7SSk-BnVwZPklsLVtgg6pwGjlUaEZWmmTmLYyksep6WuWdHYwlU3cJSsRJOThK1yBgL9OK5qEx1ilcM10GSo-zHMy6w2IojZicx7SA8rPU_Xj8zMOF-27aaMsO_qM50tlnlFdVkyB4t7vPVO_

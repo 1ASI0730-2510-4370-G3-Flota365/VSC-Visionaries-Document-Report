@@ -1,25 +1,25 @@
 <div align="center">
   <h1>Universidad Peruana de Ciencias Aplicadas</h1>
   <br>
-  <img src="../images/UPC-Logo.png" alt="UPC Logo" width="auto" height="120"/>
+  <img src="./images/UPC.png" alt="UPC Logo" width="auto" height="120"/>
   <p>
     <br>
     <strong>Carrera:</strong> Ingeniería de Software
     <br><br>
     <strong>Ciclo:</strong> 5° Ciclo
     <br><br>
-    <strong>Nombre del curso:</strong> Apicaciones Web
+    <strong>Nombre del curso:</strong> Aplicaciones Web
     <br><br>
     <strong>Sección:</strong> 4370
     <br><br>
-    <strong>Nobre del profesor:</strong> Alberto Wilmer Sanchez Seña
+    <strong>Nombre del profesor:</strong> Alberto Wilmer Sanchez Seña
   </p>
   <h3>"Informe de Trabajo Final"</h3>
   <p>
     <br>
-    <strong>Nombre del Startup:</strong> AgriCorp
+    <strong>Nombre del Startup:</strong> VSC-Visionaries
     <br><br>
-    <strong>Nombre del Producto:</strong> GreenCare
+    <strong>Nombre del Producto:</strong> Flota365
     <br><br>
     <strong>Integrantes:</strong>
     <br><br>
@@ -34,7 +34,7 @@
     Sanchez Cruz, Raul Roberto - U201518942
     <br><br>
   </p>
-  <h3>Abril, 2025</h3>
+  <h3>Mayo, 2025</h3>
 </div>
 
 <br>
@@ -114,14 +114,72 @@
             <td>Jose Diego Huamani S.</td>
             <td>Desarrollo del diagrama C4 para el Cap. 4</td>
         </tr>
+    </tbody>
+    <tbody>
         <tr>
-            <td>26/06/2025</td>
-            <td>Todos</td>
-            <td>Desarrollo del Cap. 5 (Planificacion y desarrollo de ceremonios del Sprint 1)</td>
+            <td rowspan="14">TB2</td>
+            <td>09/05/2025</td>
+            <td>José Diego Huamani Sánchez</td>
+            <td>Desarrollo del Sprint Planning, descripción del Team Collaboration Insights</td>
         </tr>
+        <tr>
+            <td>11/05/2025</td>
+            <td>Ariana Ramirez Carrasco</td>
+            <td>Desarrollo del Sprint Backlog 2 & Development Evidence for Sprint Review </td>
+        </tr>
+        <tr>
+            <td>11/05/2025</td>
+            <td>Renato Calvo Yalan</td>
+            <td>Desarrollo del Testing Evidence for Sprint Review & Execution Evidence</td>
+        </tr>
+        <tr>
+            <td>13/05/2025</td>
+            <td>Raul Cruz Sanchez</td>
+            <td>Desarrollo del Deployment Evidence for Sprint Review.</td>
+        </tr>
+        <tr>
+            <td>23/04/2025</td>
+            <td>Stephano Moscoso</td>
+            <td>Colocar las imagenes de las métricas el Team Collaboration Insights.</td>
+        </tr> 
     </tbody>
 </table>
 
+## Project Report Collaboration Insights
+
+**Link del repositorio-Informe**: https://github.com/1ASI0730-2510-4370-G3-Flota365/VSC-Visionaries-Document-Report
+
+**Link de los repositorios de la organización**: https://github.com/1ASI0730-2510-4370-G3-Flota365
+
+<br>
+
+**Reporte de colaboración de la entrega del TB1:**
+
+En esta primera entrega (TB1), nuestro objetivo principal fue la creación de nuestra startup. Todos los miembros del equipo VSC-Visionaries participaron activamente en la elaboración del informe, utilizando herramientas colaborativas como GitHub, Figma, Trello, UXPressia, Miro, entre otros. A continuación, vamos a presentar los diagramas de flujo que representan los *commits* realizados por cada miembro del equipo VSC:
+
+<p style="text-align: center;">
+    <img src="./images/Workflow-Report-VSC Visionaries.png" alt="Workflow Diagram - Report VSC-Visionaries" style="width:500px;" />
+</p>
+
+<br>
+
+**Reporte de colaboración de la entrega del TP:**
+
+Para esta segunda entrega (TP), nuestro objetivo principal fue el desarrollo e implementación de nuestra primera versión de nuestro **Web Application**. Todos los miembros del equipo VSC-Visionaries participaron activamente en la elaboración del informe; lo cual, mediante el siguiente organigrama, veremos el progreso obtenido hasta la fecha del día de hoy:
+
+<p style="text-align: center;">
+    <img src="./images/Metrics-Report-Sprint2-VSC-Visionaries.png" alt="Workflow Diagram - Report VSC-Visionaries - Sprint 2" style="width:500px;" />
+</p>
+
+<br>
+
+<p style="text-align: center;">
+    <img src="./images/Indicators-Team-Progress-Report-Sprint2.png" alt="Indicators progress - Report VSC-Visionaries - Sprint 2" style="width:500px;" />
+</p>
+
+Este gráfico muestra la cantidad de *commits* realizados por cada integrante durante la elaboración del TB2.
+
+Estas evidencias demuestran una colaboración equilibrada y efectiva, con cada miembro aportando significativamente al desarrollo del informe.
 
 ## Contenido
 
@@ -349,45 +407,94 @@
 
 <a href="#anexos">Anexos</a>
 
-## Student Outcome
 
-<table>
-    <tr>
-        <th>
-            Criterio específico
-        </th>
-        <th>
-            Acciones realizadas
-        </th>
-        <th>
-            Conclusiones
-        </th>
+
+## ABET – EAC - Student Outcome 5
+
+
+**Criterio:** *La capacidad de funcionar efectivamente en un equipo cuyos miembros juntos proporcionan liderazgo, crean un entorno de colaboración e inclusivo, establecen objetivos, planifican tareas y cumplen objetivos.*
+
+En el siguiente cuadro se describen las acciones realizadas y enunciados de conclusiones por parte del grupo, que permiten sustentar el haber alcanzado el logro del ABET – EAC – Student Outcome 5.
+
+
+<table style="border-collapse: collapse; width: 100%; font-family: Arial, sans-serif; font-size: 14px;">
+  <thead>
+    <tr style="background-color: #0073e6; color: white;">
+      <th style="padding: 10px; border: 1px solid #ccc; width: 25%;">Criterio específico</th>
+      <th style="padding: 10px; border: 1px solid #ccc; width: 37.5%;">Acciones realizadas</th>
+      <th style="padding: 10px; border: 1px solid #ccc; width: 37.5%;">Conclusiones</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr style="background-color: #f2f2f2;">
+      <td style="padding: 10px; border: 1px solid #ccc;">
+        Trabaja en equipo para proporcionar liderazgo en forma conjunta
+      </td>
+      <td style="padding: 10px; border: 1px solid #ccc;">
+        <strong>TB1:</strong><br>
+        <strong>Huamani Sánchez, José Diego</strong><br>
+        Lideró con enfoque Agile y TSP, aportando en la definición de la arquitectura del sistema y mejorando el Product Backlog. Su liderazgo permitió segmentar mejor los insights del usuario y coordinar acciones clave del proyecto.<br><br>
+        <strong>Calvo Yalan, Renato Guillermo</strong><br>
+        Participó activamente en la planificación de tareas, entrevistas y elaboración de diagramas. Asumió roles de liderazgo colaborativo, proponiendo ideas que fortalecieron el rumbo del proyecto.<br><br>
+        <strong>Moscoso Bejar, Angelo Stephano</strong><br>
+        Impulsó el liderazgo desde la perspectiva de experiencia del usuario con la elaboración del To-Be y Journey Mapping. Promovió decisiones estratégicas en conjunto para mejorar el enfoque del equipo.<br><br>
+        <strong>Ramírez Carrasco, Ariana Lizeth</strong><br>
+        Lideró el análisis del usuario a través del user persona, empathy mapping y Lean UX. Su enfoque organizativo ayudó a consolidar estrategias claras en conjunto con el equipo.<br><br>
+        <strong>Sánchez Cruz, Raúl Roberto</strong><br>
+        Aportó liderazgo visual y técnico mediante el diseño del wireframe y parte del landing page, orientando al equipo en la estructura visual del proyecto.<br><br>
+        <strong>TP1:</strong><br>
+<strong>Huamani Sánchez, José Diego</strong><br>
+Realizó correcciones en el documento del proyecto y apoyó en la integración del frontend, asegurando la coherencia visual y funcional del landing page.<br><br>
+<strong>Calvo Yalan, Renato Guillermo</strong><br>
+Colaboró en la revisión y mejora del código frontend, además de corregir detalles en el contenido del documento para mantener la precisión y claridad.<br><br>
+<strong>Moscoso Bejar, Angelo Stephano</strong><br>
+Apoyó en las correcciones del landing page, optimizando la experiencia del usuario y verificando la correcta implementación visual del frontend.<br><br>
+<strong>Ramírez Carrasco, Ariana Lizeth</strong><br>
+Se encargó de revisar y corregir el contenido del documento, además de participar en ajustes del frontend para mejorar la usabilidad del landing page.<br><br>
+<strong>Sánchez Cruz, Raúl Roberto</strong><br>
+Contribuyó en las correcciones técnicas del frontend, asegurando que el diseño visual y funcional del landing page estuviera alineado con los objetivos del proyecto.<br><br>
+      </td>
+      <td style="padding: 10px; border: 1px solid #ccc;">
+        <strong>TB1:</strong><br>
+        La capacidad de trabajar de manera efectiva en un equipo que fomenta el liderazgo compartido es esencial para alcanzar objetivos comunes. A través del enfoque TSP, se logró una autogestión sólida, planificación colaborativa y ejecución eficiente, lo que permitió a cada miembro asumir liderazgo según sus fortalezas, fortaleciendo tanto el desempeño grupal como individual.<br><br>
+        <strong>TP1:</strong><br>
+        La colaboración conjunta en la creación de la landing page y la dedicación a las correcciones posteriores demostraron la capacidad del equipo para integrar habilidades y conocimientos, reforzando la cohesión y el compromiso con los objetivos del proyecto.
+      </td>
     </tr>
     <tr>
-        <td>
-            La capacidad de funcionar efectivamente en un equipo cuyos miembros juntos proporcionan liderazgo, crean un entorno de colaboración e inclusivo, establecen objetivos, planifican tareas y cumplen objetivos.
-        </td>
-        <td>
-            <strong>Huamani Sánchez, José Diego</strong>
-            <p>Gracias al enorme conocimiento liderando equipos bajando efoque Agile y TSP, hemos podido solventar cada una de las problematicas que nuestros segmentos objetivos necesitan para poder llevar a cabo un producto diferente utilizando tecnologias web modernas. Con mi apoyo al momento de definir las bases del diagrama de Arquitectura de nuestro proyecto, asi como el apoyo constante al momento mejorar el Product Backlog, podemos segmentar clarividentemente nuestros insight y comenzar a elaborar el proyecto.</p>
-            <br>
-            <strong>Calvo Yalan, Renato Guillermo</strong>
-            <p>A través de la realización de entrevistas, la elaboración de diagramas y la participación activa en la planificación de tareas, logramos alcanzar una colaboración efectiva dentro del equipo. Cada integrante pudo asumir roles de liderazgo en distintos momentos, contribuyendo con ideas y soluciones que enriquecieron el proyecto. El uso de herramientas visuales como los diagramas permitió que todos comprendiéramos mejor los objetivos y las responsabilidades, mientras que las entrevistas nos ayudaron a identificar necesidades clave y a establecer prioridades. Gracias a estas acciones, construimos un entorno inclusivo y organizado que nos permitió cumplir exitosamente nuestras metas.</p>
-            <br>
-            <strong>Moscoso Bejar, Angelo Stephano</strong>
-            <p>Mediante la elaboración del to-be y el journey mapping, contribuí a visualizar y mejorar la experiencia del usuario, identificando oportunidades de optimización en cada etapa del proceso. Estas herramientas ayudaron a establecer una ruta clara para el cumplimiento de los objetivos y facilitaron la colaboración entre los miembros del equipo. Además, al involucrarme en otras actividades, reforcé la planificación conjunta y la toma de decisiones, promoviendo un entorno inclusivo y enfocado en el logro de nuestras metas.</p>
-            <br>
-            <strong>Sanchez Cruz, Raul Roberto</strong>
-            <p>Al diseñar el wireframe y desarrollar parte del landing page, pude aportar de manera concreta a la planificación visual y funcional del proyecto. Estas acciones ayudaron a que el equipo tuviera una guía clara para estructurar el contenido y definir mejor los objetivos del producto. Además, participar en otras tareas complementarias fortaleció la colaboración entre los miembros, permitiéndonos organizarnos de forma efectiva y asegurar que cada parte del proyecto avanzara en armonía. Todo esto contribuyó a crear un entorno inclusivo, colaborativo y enfocado en cumplir nuestras metas.</p>
-            <br>
-            <strong>Ramirez Carrasco, Ariana Lizeth</strong>
-            <p>Mediante la creación del user persona, el análisis competitivo, el empathy mapping y la aplicación del Lean UX, logramos establecer una colaboración sólida dentro del equipo. Cada uno de estos pasos nos permitió tener una visión clara de las necesidades de los usuarios y las oportunidades del mercado, lo que facilitó la planificación de tareas y la asignación de responsabilidades. Mi participación activa en la definición de las estrategias y la identificación de prioridades ayudó a consolidar un ambiente de trabajo inclusivo y organizado. Estas acciones contribuyeron a una comunicación fluida, favorecieron la toma de decisiones en conjunto y nos llevaron a alcanzar nuestros objetivos de manera efectiva.</p>
-            <br>
-        </td>
-        <td>
-            TB1: <br>
-            <br><br>
-            La capacidad de trabajar de manera efectiva en un equipo que fomenta el liderazgo compartido, la colaboración y la inclusión es esencial para alcanzar objetivos comunes. Esta habilidad es fundamental en enfoques como el Team Software Process (TSP), donde los equipos de desarrollo asumen la responsabilidad conjunta de la planificación, el seguimiento y el logro de metas de calidad y productividad. A través de la autogestión, la definición clara de roles y la colaboración estructurada que promueve TSP, los equipos no solo cumplen sus objetivos, sino que también fortalecen su desempeño individual y colectivo.
-        </td>
+      <td style="padding: 10px; border: 1px solid #ccc;">
+        Crea un entorno colaborativo e inclusivo, establece metas, planifica tareas y cumple objetivos
+      </td>
+      <td style="padding: 10px; border: 1px solid #ccc;">
+        <strong>TB1:</strong><br>
+        <strong>Huamani Sánchez, José Diego</strong><br>
+        Su liderazgo en la planificación base del proyecto y en el manejo del backlog permitió segmentar tareas con claridad, impulsando la colaboración estructurada del equipo.<br><br>
+        <strong>Calvo Yalan, Renato Guillermo</strong><br>
+        Facilitó la colaboración mediante herramientas visuales y entrevistas que ayudaron a todos los integrantes a comprender mejor sus responsabilidades y establecer prioridades comunes.<br><br>
+        <strong>Moscoso Bejar, Angelo Stephano</strong><br>
+        Mediante el journey mapping y to-be, ayudó a identificar oportunidades de mejora y a organizar metas centradas en la experiencia del usuario.<br><br>
+        <strong>Ramírez Carrasco, Ariana Lizeth</strong><br>
+        Estableció un entorno inclusivo con herramientas como el Empathy mapping, Lean UX, Needfinding, User Task Matrix, aportando a la claridad en las metas y promoviendo una toma de decisiones colectiva.<br><br>
+        <strong>Sánchez Cruz, Raúl Roberto</strong><br>
+        Su diseño del wireframe facilitó la planificación visual del proyecto, guiando al equipo en la estructuración de objetivos y favoreciendo la organización.<br><br>
+        <strong>TP1:</strong><br>
+<strong>Huamani Sánchez, José Diego</strong><br>
+Coordinó la asignación de tareas y promovió un entorno de colaboración, facilitando la ejecución de las correcciones en el documento y la mejora visual del landing page.<br><br>
+<strong>Calvo Yalan, Renato Guillermo</strong><br>
+Aportó activamente en la planificación y distribución del trabajo, asegurando que se cumplieran los tiempos y que cada integrante tuviera claridad sobre sus responsabilidades.<br><br>
+<strong>Moscoso Bejar, Angelo Stephano</strong><br>
+Colaboró en las sesiones de revisión y ajustes, impulsando decisiones conjuntas que permitieron organizar mejor las correcciones del proyecto.<br><br>
+<strong>Ramírez Carrasco, Ariana Lizeth</strong><br>
+Se encargó de coordinar parte de las revisiones de contenido y aportar en los ajustes del frontend, contribuyendo al cumplimiento de objetivos definidos en el equipo.<br><br>
+<strong>Sánchez Cruz, Raúl Roberto</strong><br>
+Participó en la organización y ejecución de las tareas de frontend y en la revisión conjunta del entregable, fortaleciendo la colaboración y la planificación del equipo.<br><br>
+      </td>
+      <td style="padding: 10px; border: 1px solid #ccc;">
+        <strong>TB1:</strong><br>
+        Gracias a una planificación compartida, al uso de metodologías centradas en el usuario y a la participación activa de todos los miembros, se logró construir un entorno colaborativo e inclusivo. Esto facilitó una comunicación fluida, una organización eficiente y el cumplimiento exitoso de los objetivos establecidos.<br><br>
+        <strong>TP1:</strong><br>
+        El trabajo conjunto en la landing page, sumado a la mejora continua mediante correcciones colaborativas, fortaleció el ambiente inclusivo y colaborativo, facilitando la consecución de metas y tareas planificadas.
+      </td>
     </tr>
+  </tbody>
 </table>
