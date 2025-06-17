@@ -498,4 +498,3 @@ Participó en la organización y ejecución de las tareas de frontend y en la re
     </tr>
   </tbody>
 </table>
-

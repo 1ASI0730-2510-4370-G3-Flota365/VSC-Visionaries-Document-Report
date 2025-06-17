@@ -449,7 +449,7 @@ En esta sección, se evidencia cada uno de los *taks* que se realizaron en el pr
     <td rowspan="1">Switcher de idiomas</td>
     <td>UT-05</td>
     <td>Botón de cambio de idiomas</td>
-    <td>Implementar el botón de cambio de idioma entre español e Inglés</td>
+    <td>Implementar el botón para realizar el cambio de idioma entre español e Inglés</td>
     <td>2</td>
     <td>Raul Roberto Sánchez Cruz</td>
     <td>Done</td>
@@ -673,10 +673,205 @@ El equipo de VSC-Visionaries desarrolló el *landing page* segmentado por ramas 
 </table>
 
 <h4 id="sprintBacklog2">5.2.2.2. Sprint Backlog 1</h4>
+<table border="1">
+  <caption>Sprint #1 </caption>
+  <thead>
+    <tr>
+      <th colspan="2">User Story</th>
+      <th colspan="6">Work-Item / Task</th>
+    </tr>
+    <tr>
+      <th>Id</th>
+      <th>Title</th>
+      <th>Id</th>
+      <th>Title</th>
+      <th>Description</th>
+      <th>Estimation (Hours)</th>
+      <th>Assigned To</th>
+      <th>Status (To-do / In-Process / To-Review / Done)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>US01</td>
+      <td>Visualizar información de la empresa</td>
+      <td>UT01</td>
+      <td>Redactar contenido institucional</td>
+      <td>Redactar misión, visión y propuesta de valor de InteLLi Idea.</td>
+      <td>2h</td>
+      <td>Gabriel Rivera</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>US01</td>
+      <td>Visualizar información de la empresa</td>
+      <td>UT02</td>
+      <td>Implementar sección "Sobre Nosotros"</td>
+      <td>Diseñar e integrar el contenido informativo en el landing page.</td>
+      <td>2h</td>
+      <td>Gabriel Rivera</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>US02</td>
+      <td>Mostrar imagen representativa</td>
+      <td>UT03</td>
+      <td>Seleccionar imagen representativa</td>
+      <td>Buscar y optimizar una imagen simbólica de la empresa.</td>
+      <td>1h</td>
+      <td>Camila</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>US02</td>
+      <td>Mostrar imagen representativa</td>
+      <td>UT04</td>
+      <td>Integrar imagen en la landing page</td>
+      <td>Ubicar la imagen en una sección destacada respetando el estilo visual.</td>
+      <td>1h</td>
+      <td>Camila</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>US03</td>
+      <td>Mostrar ideas destacadas</td>
+      <td>UT05</td>
+      <td>Redactar descripciones de ideas destacadas</td>
+      <td>Preparar ejemplos de ideas subidas por usuarios, con texto atractivo.</td>
+      <td>2h</td>
+      <td>Camila</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>US03</td>
+      <td>Mostrar ideas destacadas</td>
+      <td>UT06</td>
+      <td>Implementar componente de ideas destacadas</td>
+      <td>Sección tipo "card grid" para mostrar ideas con métricas.</td>
+      <td>3h</td>
+      <td>Camila</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>US04</td>
+      <td>Registro de ideas</td>
+      <td>UT07</td>
+      <td>Crear formulario para subir ideas</td>
+      <td>Formulario con campos para título, descripción, categoría, adjuntos.</td>
+      <td>3h</td>
+      <td>Stephano</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>US04</td>
+      <td>Registro de ideas</td>
+      <td>UT08</td>
+      <td>Conectar backend para guardar ideas</td>
+      <td>Integrar el formulario con una base de datos simulada.</td>
+      <td>3h</td>
+      <td>Stephano</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>US05</td>
+      <td>Comparar categorías</td>
+      <td>UT09</td>
+      <td>Diseñar comparador de categorías</td>
+      <td>Mostrar popularidad, ideas y actividad por categoría.</td>
+      <td>2h</td>
+      <td>Romina</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>US05</td>
+      <td>Comparar categorías</td>
+      <td>UT10</td>
+      <td>Implementar lógica de comparación</td>
+      <td>Visualización con gráficos o tabla interactiva.</td>
+      <td>3h</td>
+      <td>Romina</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>US06</td>
+      <td>Preguntas frecuentes (FAQs)</td>
+      <td>UT11</td>
+      <td>Redactar preguntas y respuestas frecuentes</td>
+      <td>Preguntas comunes sobre InteLLi Idea y su funcionamiento.</td>
+      <td>2h</td>
+      <td>Gabriel Mamani</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>US06</td>
+      <td>Preguntas frecuentes (FAQs)</td>
+      <td>UT12</td>
+      <td>Implementar sección de FAQs con acordeón</td>
+      <td>Diseño colapsable para mejor experiencia del usuario.</td>
+      <td>2h</td>
+      <td>Gabriel Mamani</td>
+      <td>Done</td>
+    </tr>
+  </tbody>
+</table>
+
+
 
 <h4 id="developmentEvidenceSprint2">5.2.2.3. Development Evidence for Sprint Review</h4>
+<table border="1">
+  <thead>
+    <tr>
+      <th>Repository</th>
+      <th>Branch</th>
+      <th>Commit Id</th>
+      <th>Commit Message</th>
+      <th>Commit Message Body</th>
+      <th>Commited on (Date)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>user/repositoryname</td>
+      <td>feature/loremipsum</td>
+      <td>14ca4e3</td>
+      <td>feat: consectetur adipiscing elit</td>
+      <td>
+        Curabitur quis placerat nulla.<br>
+        Fusce malesuada faucibus quam, ut condimentum velit rutrum ut.
+      </td>
+      <td>04/09/2021</td>
+    </tr>
+  </tbody>
+</table>
+
 
 <h4 id="testSuiteEvidenceSprint2">5.2.2.4. Testing Suite Evidence for Sprint Review</h4>
+<table border="1">
+  <thead>
+    <tr>
+      <th>Repository</th>
+      <th>Branch</th>
+      <th>Commit Id</th>
+      <th>Commit Message</th>
+      <th>Commit Message Body</th>
+      <th>Commited on (Date)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>user/repositoryname</td>
+      <td>feature/loremipsum</td>
+      <td>14ca4e3</td>
+      <td>feat: consectetur adipiscing elit</td>
+      <td>
+        Curabitur quis placerat nulla.<br>
+        Fusce malesuada faucibus quam, ut condimentum velit rutrum ut.
+      </td>
+      <td>04/09/2021</td>
+    </tr>
+  </tbody>
+</table>
+
 
 <h4 id="executionEvidenceSprint2">5.2.2.5. Execution Evidence for Sprint Review</h4>
 
@@ -847,11 +1042,492 @@ Nuestro proceso de trabajo se desarrolló mediante *features* donde cada una de 
 A continuación, se presentará una imagen donde se aprecia, como evidencia de este Sprint, el avance que todos los integrantes del team **VSC-Visionaries** aportaron mediante sus *commits* para desarrollar la aplicación web.
 
 <div align="center">
-    <img src="" alt="Web Application - Contributors Graph - Github" style="width:600px;" />
+    <img src="../images//Metric-To-Progress-Web-Application.png" alt="Web Application - Contributors Graph - Github" style="width:500px;" />
 </div>
+
+<br>
 
 Adicional a la información presentada, se compartirá el resumen de nuestro progresos mediante la estructura de *Conventional Commits*, **gitflow** dentro de nuestro respositorio de **Github**.
 
 <div align="center">
-    <img src="" alt="Web Application - Network Graph - Github" style="width:600px;" />
+    <img src="../images/Workflow-Web-Application.png" alt="Web Application - Network Graph - Github" style="width:500px;" />
 </div>
+
+<h4 id="sprint3">5.2.3. Sprint 3</h4>
+
+<h4 id="sprintPlanning3">5.2.3.1. Sprint Planning 3</h4>
+
+<table>
+    <thead>
+        <tr>
+            <th>Sprint #</th>
+            <th>Sprint 3</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td colspan="2"><b>Sprint Planning Background</b></td>
+        </tr>
+        <tr>
+            <td>Date</td>
+            <td>2025/05/26</td>
+        </tr>
+        <tr>
+            <td>Time</td>
+            <td>11:31 pm</td>
+        </tr>
+        <tr>
+            <td>Location</td>
+            <td>Remoto - Discord</td>
+        </tr>
+        <tr>
+            <td>Prepared by</td>
+            <td>José Diego Huamani Sánchez</td>
+        </tr>
+        <tr>
+            <td>Attendees (to planning meeting)</td>
+            <td>
+                Todos los miembros del equipo VSC-Visionaries
+            </td>
+        </tr>
+        <tr>
+            <td>Sprint 2 Review Summary</td>
+            <td>
+                -
+            </td>
+        </tr>
+        <tr>
+            <td>Sprint 2 Retrospective Summary</td>
+            <td>
+                -
+            </td>
+        </tr>
+        <tr>
+            <td colspan="2"><b>Sprint Goal & User Stories</b></td>
+        </tr>
+        <tr>
+            <td>Sprint 2 Velocity</td>
+            <td>
+                -
+            </td>
+        </tr>
+        <tr>
+            <td>Sum of story points</td>
+            <td>
+                -
+            </td>
+        </tr>
+    </tbody>
+</table>
+
+<h4 id="sprintBacklog3">5.2.3.2. Sprint Backlog 1</h4>
+
+<h4 id="developmentEvidenceSprint3">5.2.3.3. Development Evidence for Sprint Review</h4>
+
+<h4 id="testSuiteEvidenceSprint3">5.2.3.4. Testing Suite Evidence for Sprint Review</h4>
+
+<h4 id="executionEvidenceSprint3">5.2.3.5. Execution Evidence for Sprint Review</h4>
+
+<h4 id="servicesDocumentationSprint3">5.2.3.6. Services Documentation Evidence for Sprint Review</h4>
+
+<h4 id="softwareDeploymentEvidenceSprint3">5.2.3.7. Software Deployment Evidence for Sprint Review</h4>
+
+<h4 id="teamCollaborationInsights3">5.2.3.8. Team Collaboration Insights during Sprint</h4>
+
+<h3 id="validationInterviews">5.3. Validation Interviews</h3>
+
+Para validar nuestros entregables (Landing Page y aplicación web), realizaremos entrevistas con nuestros segmentos objetivos, los cuales vienen a ser: *Gestores de Flota* y *Conductores de vehículos pesados*. El propósito es recopilar su opinión sobre la utilidad, claridad y facilidad de uso de solución propuesta por el team **VSC Visionaries**.
+
+Las preguntas se plantearán de forma cercana pero estructurada, buscando obtener un *feedback* honesto sobre aspectos como la navegación, el diseño, la funcionalidad y el valor percibido en su trabajo diario.
+
+Es por ello que, a continuación, se detallarán las preguntas y los principales hallazgos obtenidos a partir de sus respuestas.
+
+<h4 id="interviewsDesingValidation">5.3.1. Diseño de Entrevistas</h4>
+
+**Preguntas generales**:
+
+1. ¿Qué fue lo primero que pensaste al ver la página/aplicación?
+
+2. ¿Sientes que está claro de qué trata la herramienta? ¿Qué entendiste que hace?
+
+3. ¿Encontraste algo confuso o que te hizo dudar? ¿Cuál parte?
+
+4. ¿Te parece fácil de navegar? ¿Por qué sí o por qué no?
+
+5. Si tuvieras que explicarle esta plataforma a un compañero, ¿cómo lo harías?
+
+6. ¿Sientes que esta herramienta realmente te ayudaría en tu día a día? ¿Por qué?
+
+7. ¿Qué te pareció el diseño visual? ¿Muy cargado, muy vacío o bien balanceado?
+
+8. ¿Notas algo que falte o que crees que sería útil agregar?
+
+
+**Preguntas para el segmento #1 - Gestores de Flota**:
+
+1. ¿Cómo te fue registrando tus recorridos o actividades en la app? ¿Te pareció sencillo o algo complicado?
+
+2. ¿Te sentiste cómodo tomando y subiendo una foto del kilometraje? ¿Te pareció rápido?
+
+3. ¿Hay algo que te gustaría que la app hiciera automáticamente por ti (por ejemplo, registrar el kilometraje sin tener que escribir)?
+
+4. ¿Cuánto tiempo te tomaría usar la app al terminar un recorrido? ¿Crees que ese tiempo está bien o debería ser menor?
+
+5. ¿Te parece clara la forma en que se guardan o muestran tus registros?
+
+**Preguntas para el segmento #2 - Conductores de vehículos Pesados**:
+
+1. ¿Pudiste encontrar fácilmente los datos que buscabas (por placa, fecha, etc.)?
+
+2. ¿Qué tan útil te parece el sistema de reportes en PDF o Excel? ¿Lo usarías frecuentemente?
+
+3. ¿Te gustaría que los reportes fueran más visuales (gráficos, alertas, etc.)?
+
+4. ¿Cómo compararías esta herramienta con lo que usas actualmente para llevar el control de tu flota?
+
+5. ¿Sientes que tienes el control y visibilidad necesarios desde esta aplicación?
+
+6. ¿Agregarías algún tipo de alerta o recordatorio automático? ¿De qué tipo?
+
+7. ¿El flujo de filtros y búsqueda se siente natural o hubo pasos innecesarios?
+
+**Cierre - Opinión Final**:
+
+- ¿Te gustaría participar en futuras mejoras como tester o dando sugerencias?
+
+<h4 id="registryInterviews">5.3.2. Registro de Entrevistas</h4>
+
+<h4 id="heuristicEvaluation">5.3.3. Evaluaciones según heurísticas</h4>
+
+<div align='center'>
+    <h2>UX Heuristics & Principles Evaluation</h2>
+    <h3>Usability – Inclusive Design – Information Architecture</h3>
+</div>
+
+<p><strong>CARRERA:</strong> Ingeniería de Software</p>
+<p><strong>CURSO:</strong> Aplicaciones Web</p>
+<p><strong>SECCIÓN:</strong> 2510</p>
+<p><strong>PROFESORES:</strong> Alberto Wilmer Sanchez Seña</p>
+<p><strong>AUDITOR:</strong> VSC Visionaries</p>
+<p><strong>CLIENTE(S):</strong> Calvo Yalan, Renato Guillermo - Huamani Sánchez, José Diego - Moscoso Bejar, Angelo Stephano - Ramirez Carrasco, Ariana Lizeth - Sanchez Cruz, Raul Roberto.</p>
+
+<hr>
+
+<br>
+
+<strong>SITE O APP A EVALUAR:</strong>
+<P>Landing Page & Web Application of Flota 365</p>
+
+<br>
+
+<strong>TAREAS A EVALUAR:</strong>
+<p>El alcance de esta evaluación incluye la revisión de las siguientes tareas:</p>
+
+<ol>
+    <li>Evaluar si el propósito de <strong>Flota365</strong> se entiende claramente con solo ver la página</li>
+    <li>Revisar la claridad de los mensajes, secciones y <em>Call-to-Actions</em></li>
+    <li>Comprobar si el diseño transmite confianza y profesionalismo</li>
+    <li>Validar si la información presentada resulta atractiva y relevante para posibles usuarios</li>
+    <li>Registrar nuevas flotas de vehículos</li>
+    <li>Registrar nuevos vehículos para destinarlos a los conductores</li>
+    <li>Registrar nuevos conductores para las entregas</li>
+    <li>Realizar análisis predictivos con Inteligencia Artificial</li>
+</ol>
+
+<br>
+
+<p>No están incluidas en esta versión de la evaluación las siguientes tareas:</p>
+<ol>
+    <li>Iniciar sesión en la plataforma</li>
+    <li>Registrar una nueva cuenta</li>
+    <li>Monitoreo de vehículos</li>
+    <li>Silenciar o recibir Alertas</li>
+    <li>Exportar en archivos PDF, Excel o CSV los detalles de conductores, Reportes de seguimiento y Gestión de Vehículos por flota</li>
+    <li>Descargar reportes en base al análisis realizado con la inteligencia Articial</li>
+
+</ol>
+
+<br>
+
+<strong>ESCALA DE SEVERIDAD:</strong>
+<p>Los errores serán puntuados tomando en cuenta la siguiente escala de severidad</p>
+
+<table>
+    <tr>
+        <th style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Nivel</th>
+        <th style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Descripción</th>
+    </tr>
+    <tr>
+        <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">1</td>
+        <td style="border: 1px solid #dddddd; padding: 8px; text-align: justify;">Problema superficial: puede ser fácilmente superador por el usuario ó ocurre con muy poco frecuencia. No necesita ser arreglado a no ser que exista disponibilidad de tiempo.</td>
+    </tr>
+    <tr>
+        <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">2</td>
+        <td style="border: 1px solid #dddddd; padding: 8px; text-align: justify;">Problema menor: puede ocurrir un poco más frecuentemente o es un poco más difícil de superar para el usuario. Se le debería asignar una prioridad baja resolverlo de cara al siguiente reléase</td>
+    </tr>
+    <tr>
+        <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">3</td>
+        <td style="border: 1px solid #dddddd; padding: 8px; text-align: justify;">Problema mayor: ocurre frecuentemente o los usuarios no son capaces de resolverlos. Es importante que sean corregidos y se les debe asignar una prioridad alta.</td>
+    </tr>
+    <tr>
+        <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">4</td>
+        <td style="border: 1px solid #dddddd; padding: 8px; text-align: justify;">Problema muy grave: un error de gran impacto que impide al usuario continuar con el uso dela herramienta. Es imperativo que sea corregido antes del lanzamiento.</td>
+    </tr>
+</table>
+
+<br>
+
+<strong>TABLA RESUMEN:</strong>
+
+<br>
+
+<table>
+    <tr>
+        <th style="border: 1px solid #dddddd; padding: 8px; text-align: center;">#</th>
+        <th style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Problema</th>
+        <th style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Escala de severidad</th>
+        <th style="border: 1px solid #dddddd; padding: 8px; text-align: center;">Heurística/Principio violada(o)</th>
+    </tr>
+    <tr>
+        <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">1</td>
+        <td style="border: 1px solid #dddddd; padding: 8px; text-align: justify;">El mensaje principal, ubicado en nuestro <stron>Hero Section</strong> denota confusión y/o algún detalle de caracter genérico.</td>
+        <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">1</td>
+        <td style="border: 1px solid #dddddd; padding: 8px; text-align: justify;">Information Architecture: <strong>Is it clear?</strong></td>
+    </tr>
+    <tr>
+        <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">2</td>
+        <td style="border: 1px solid #dddddd; padding: 8px; text-align: justify;">Falta de estructura lógica al momento de redireccionar a las secciones dentro de Landing Page (orden no fluido).</td>
+        <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">2</td>
+        <td style="border: 1px solid #dddddd; padding: 8px; text-align: justify;">Usability: User Satisfaction - <strong>Do users like to use your website and recommend it to others?</strong></td>
+    </tr>
+    <tr>
+        <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">3</td>
+        <td style="border: 1px solid #dddddd; padding: 8px; text-align: justify;">El Landing Page presenta un diseño mal adaptado para los dispositivos móviles.</td>
+        <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">2</td>
+        <td style="border: 1px solid #dddddd; padding: 8px; text-align: justify;">Usability: Effectiveness - <strong>Can users achieve the desired objectives on your website?</strong></td>
+    </tr>
+    <tr>
+        <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">4</td>
+        <td style="border: 1px solid #dddddd; padding: 8px; text-align: justify;">Se desconoce como se destacará dicha solución en casos de uso reales o problemas que resuelve.</td>
+        <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">2</td>
+        <td style="border: 1px solid #dddddd; padding: 8px; text-align: justify;">Information Architecture: <strong>Is it communicative?</strong></td>
+    </tr>
+    <tr>
+        <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">5</td>
+        <td style="border: 1px solid #dddddd; padding: 8px; text-align: justify;">Falta de claridad sobre qué representa una <q>flota</q> en el sistema.</td>
+        <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">1</td>
+        <td style="border: 1px solid #dddddd; padding: 8px; text-align: justify;">Information Architecture: <strong>Is it communicative?</strong></td>
+    </tr>
+    <tr>
+        <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">6</td>
+        <td style="border: 1px solid #dddddd; padding: 8px; text-align: justify;">Posibilidad de ingresar datos (como placas repetidas o formatos inválidos) no gestionados correctamente.</td>
+        <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">2</td>
+        <td style="border: 1px solid #dddddd; padding: 8px; text-align: justify;">Usability: Error Handling - <strong>How does the website help users recover from errors?</strong></td>
+    </tr>
+    <tr>
+        <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">7</td>
+        <td style="border: 1px solid #dddddd; padding: 8px; text-align: justify;">Falta de claridad al momento de registrar los campos obligatorios para agregar a un nuevo conductor.</td>
+        <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">1</td>
+        <td style="border: 1px solid #dddddd; padding: 8px; text-align: justify;">Information Architecture: <strong>Is it clear?</strong></td>
+    </tr>
+    <tr>
+        <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">8</td>
+        <td style="border: 1px solid #dddddd; padding: 8px; text-align: justify;">Dudas sobre la confiabilidad o fuente de los datos utilizados para el análisis predictivo con la Inteligencia Artificial.</td>
+        <td style="border: 1px solid #dddddd; padding: 8px; text-align: center;">2</td>
+        <td style="border: 1px solid #dddddd; padding: 8px; text-align: justify;">Architecture Information: <strong>Is it valuable?</strong></td>
+    </tr>
+</table>
+
+<br>
+
+<strong>DESCRIPCIÓN DE PROBLEMAS:</strong>
+
+<p><strong>Problema #1:</strong> El mensaje principal, ubicado en nuestro <stron>Hero Section</strong> denota confusión y/o algún detalle de caracter genérico</p>
+
+<p><strong>Severidad:</strong> 1</p>
+
+<p><strong>Heurística/Principio violada(o):</strong> Information Architecture: <strong>Is it clear?</strong></p>
+
+<strong>Problema:</strong>
+
+<p>	El mensaje principal en el Hero Section (<q>Gestiona la operatividad de tus flotas</q>) es vago y no comunica con claridad qué hace Flota365 ni para quién está dirigido. Un visitante nuevo no puede identificar si es un software para monitoreo, para logística, o para mantenimiento.</p>
+
+<div align='center'>
+    <img src="../images/Problem-Audit-1.png" alt="Problem-#1-Audit" style="width:600;height:auto;">
+</div>
+
+<br>
+
+<strong>Recomendación:</strong>
+
+<p>Redactar un mensaje más específico y centrado en el beneficio. Ejemplo: <q>Monitorea rutas, conductores y kilometraje en un solo lugar</q> + subtítulo como <q>Optimiza la gestión diaria de tu flota con reportes y análisis predictivo.</q> Añadir también una imagen o animación que represente la interfaz del sistema en acción.</p>
+
+<hr>
+
+<br>
+
+<p><strong>Problema #2:</strong> Falta de estructura lógica al momento de redireccionar a las secciones dentro de Landing Page (orden no fluido)</p>
+
+<p><strong>Severidad:</strong> 2</p>
+
+<p><strong>Heurística/Principio violada(o):</strong> Usability: User Satisfaction - <strong>Do users like to use your website and recommend it to others?</strong></p>
+
+<strong>Problema:</strong>
+
+<p>La navegación dentro de la Landing no es fluida ni intuitiva. El menú no lleva directamente a secciones específicas de forma suave (scrolling abrupto) y no hay un recorrido natural que guíe al usuario desde el problema hasta la solución.</p>
+
+<div align='center'>
+    <img src="../images/Problem-Audit-2.png" alt="Problem-#2-Audit" style="width:600;height:auto;">
+</div>
+
+<br>
+
+<strong>Recomendación:</strong>
+
+<p>Implementar navegación tipo scroll-ancla con efecto suave. Rediseñar el orden de las secciones para que sigan una secuencia lógica: problema → solución → beneficios → testimonios → contacto. Incluir íconos o numeración visual para guiar al usuario.</p>
+
+<hr>
+
+<br>
+
+<p><strong>Problema #3:</strong> El Landing Page presenta un diseño mal adaptado para los dispositivos móviles</p>
+
+<p><strong>Severidad:</strong> 2</p>
+
+<p><strong>Heurística/Principio violada(o):</strong> Usability: Effectiveness - <strong>Can users achieve the desired objectives on your website?</strong></p>
+
+<strong>Problema:</strong>
+
+<p>Al acceder desde un móvil, el diseño presenta desajustes: botones que se salen del margen, textos que no se adaptan correctamente y sliders que se ven cortados. Esto perjudica la experiencia de usuarios que probablemente usarán sus celulares para consultar la plataforma.</p>
+
+<div align='center'>
+    <img src="../images/Problem-Audit-3.png" alt="Problem-#3-Audit" style="width:400;height:400;">
+</div>
+
+<br>
+
+<strong>Recomendación:</strong>
+
+<p>Aplicar diseño responsive revisando los breakpoints. Asegurarse de que todos los elementos se adapten fluidamente con flex, grid y media queries. Priorizar la visualización vertical y optimizar la disposición de botones CTA para pantallas pequeñas.</p>
+
+<hr>
+
+<br>
+
+<p><strong>Problema #4:</strong> Se desconoce como se destacará dicha solución en casos de uso reales o problemas que resuelve.</p>
+
+<p><strong>Severidad:</strong> 2</p>
+
+<p><strong>Heurística/Principio violada(o):</strong> Information Architecture: <strong>Is it communicative?</strong></p>
+
+<strong>Problema:</strong>
+
+<p>No se muestran casos de uso reales ni ejemplos prácticos que ilustren los beneficios del sistema. Esto genera dudas en el usuario sobre la aplicabilidad de la solución en su contexto (por ejemplo, un gestor de flota no visualiza claramente cómo le ahorrará tiempo o dinero).</p>
+
+<div align='center'>
+    <img src="../images/Problem-Audit-4.png" alt="Problem-#4-Audit" style="width:600;height:auto;">
+</div>
+
+<br>
+
+<strong>Recomendación:</strong>
+
+<p>Agregar una sección llamada <q>¿Cómo te ayuda Flota365?</q> o <q>Casos de uso reales</q> con 2-3 escenarios gráficos: Ej. <q>Registrar recorridos diarios sin papeleo</q>, <q>Generar reportes mensuales en un clic</q>, <q>Detectar retrasos con análisis predictivo</q>.</p>
+
+<hr>
+
+<br>
+
+<p><strong>Problema #5:</strong> Falta de claridad sobre qué representa una <q>flota</q> en el sistema.</p>
+
+<p><strong>Severidad:</strong> 1</p>
+
+<p><strong>Heurística/Principio violada(o):</strong> Information Architecture: <strong>Is it communicative?</strong></p>
+
+<strong>Problema:</strong>
+
+<p>Al registrar una nueva flota, no hay una definición clara de qué se considera una flota dentro del sistema: ¿es un grupo de vehículos? ¿Una empresa? ¿Una categoría? Esto puede generar confusión en usuarios nuevos al momento de usar esta funcionalidad.</p>
+
+<div align='center'>
+    <img src="../images/Problem-Audit-5.png" alt="Problem-#5-Audit" style="width:600;height:auto;">
+</div>
+
+<br>
+
+<strong>Recomendación:</strong>
+
+<p>Incluir una breve descripción contextual dentro del formulario (por ejemplo, debajo del título <q>Registrar flota</q>), además de un tooltip o ícono de ayuda con un texto tipo: <q>Una flota es un conjunto de vehículos gestionados por una misma unidad operativa.</q></p>
+
+<hr>
+
+<br>
+
+<p><strong>Problema #6:</strong> Posibilidad de ingresar datos (como placas repetidas o formatos inválidos) no gestionados correctamente.</p>
+
+<p><strong>Severidad:</strong> 2</p>
+
+<p><strong>Heurística/Principio violada(o):</strong> Usability: Error Handling - <strong>How does the website help users recover from errors?</strong></p>
+
+<strong>Problema:</strong>
+
+<p>	El sistema actualmente no gestiona correctamente errores comunes como el ingreso de placas duplicadas o con formatos incorrectos. El usuario puede guardar registros inválidos sin recibir una alerta clara o indicaciones para corregirlos.</p>
+
+<div align='center'>
+    <img src="../images/Problem-Audit-6.png" alt="Problem-#6-Audit" style="width:600;height:auto;">
+</div>
+
+<br>
+
+<strong>Recomendación:</strong>
+
+<p>Implementar validaciones específicas para campos sensibles (como placas o DNI), tanto en frontend como backend. Mostrar mensajes de error personalizados y destacar visualmente los campos con errores. Ejemplo: <q>Esta placa ya ha sido registrada</q> o <q>Formato de DNI no válido (deben ser 8 dígitos)</q>.</p>
+
+<hr>
+
+<br>
+
+<p><strong>Problema #7:</strong> Falta de claridad al momento de registrar los campos obligatorios para agregar a un nuevo conductor.</p>
+
+<p><strong>Severidad:</strong> 1</p>
+
+<p><strong>Heurística/Principio violada(o):</strong> Information Architecture: <strong>Is it clear?</strong></p>
+
+<strong>Problema:</strong>
+
+<p>	En el formulario de registro de conductores, no queda claro cuáles campos son obligatorios, ni hay retroalimentación inmediata si falta completar algún dato clave. Esto puede generar frustración al intentar guardar sin saber qué falta.</p>
+
+<div align='center'>
+    <img src="../images/Problem-Audit-7.png" alt="Problem-#7-Audit" style="width:600;height:auto;">
+</div>
+
+<br>
+
+<strong>Recomendación:</strong>
+
+<p>Añadir asteriscos (*) a todos los campos obligatorios. Implementar validación en tiempo real (onBlur) y mensajes contextualizados debajo del campo. Por ejemplo: <q>El número de celular es obligatorio</q> o <q>Este correo no tiene un formato válido</q>.</p>
+
+<hr>
+
+<br>
+
+<p><strong>Problema #8:</strong> Dudas sobre la confiabilidad o fuente de los datos utilizados para el análisis predictivo con la Inteligencia Artificial.</p>
+
+<p><strong>Severidad:</strong> 2</p>
+
+<p><strong>Heurística/Principio violada(o):</strong> Architecture Information: <strong>Is it valuable?</strong></p>
+
+<strong>Problema:</strong>
+
+<p>La funcionalidad de análisis predictivo con IA aparece sin suficiente explicación de qué datos se utilizan, cómo se generan los resultados ni qué acciones se espera que tome el usuario en base a ellos. Esto afecta la confianza del usuario.</p>
+
+<div align='center'>
+    <img src="../images/Problem-Audit-8.png" alt="Problem-#8-Audit" style="width:600;height:auto;">
+</div>
+
+<br>
+
+<strong>Recomendación:</strong>
+
+<p>Incluir un botón tipo <q>¿Cómo funciona esto?</q> en la vista de analytics, que abra un modal explicativo. Ahí se puede describir qué datos analiza el sistema (recorridos, tiempos, kilometraje), qué tipo de predicciones realiza y con qué frecuencia se actualiza la información.</p>
+
+<h3 id="aboutProductVideo">5.4. Video About-the-Product</h3>
