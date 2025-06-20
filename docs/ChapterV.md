@@ -1197,6 +1197,86 @@ Es por ello que, a continuación, se detallarán las preguntas y los principales
 
 <h4 id="registryInterviews">5.3.2. Registro de Entrevistas</h4>
 
+<table border="1" cellpadding="8" cellspacing="0">
+    <tr><th colspan="2">Entrevista 1</th></tr>
+    <tr><td>Segmento Objetivo</td><td>...	</td></tr>
+    <tr><td>Fecha Entrevista</td><td>00/06/2025</td></tr>
+    <tr><td>Entrevistador</td><td>...</td></tr>
+    <tr><td>Entrevistado</td><td>...</td></tr>
+    <tr><td>Edad</td><td>... años</td></tr>
+    <tr><td>Distrito</td><td>....</td></tr>
+    <tr><td>Link del Video</td><td><a href="link">Ver Video</a></td></tr>
+    <tr><td>Minuto de Inicio</td><td>00:01</td></tr>
+    <tr><td>Duración</td><td>08:52 minutos</td></tr>
+    <tr><td>Imagen</td><td><img src="../assets/Foto_Entrevista111.png" alt="Entrevista 1" height="380"/></td></tr>
+    <tr><td>Resumen</td><td>El entrevistado .....</td></tr>
+</table><br>
+
+
+<table border="1" cellpadding="8" cellspacing="0">
+    <tr><th colspan="2">Entrevista 2</th></tr>
+    <tr><td>Segmento Objetivo</td><td>...	</td></tr>
+    <tr><td>Fecha Entrevista</td><td>00/06/2025</td></tr>
+    <tr><td>Entrevistador</td><td>...</td></tr>
+    <tr><td>Entrevistado</td><td>...</td></tr>
+    <tr><td>Edad</td><td>... años</td></tr>
+    <tr><td>Distrito</td><td>....</td></tr>
+    <tr><td>Link del Video</td><td><a href="link">Ver Video</a></td></tr>
+    <tr><td>Minuto de Inicio</td><td>00:01</td></tr>
+    <tr><td>Duración</td><td>08:52 minutos</td></tr>
+    <tr><td>Imagen</td><td><img src="../assets/Foto_Entrevista111.png" alt="Entrevista 1" height="380"/></td></tr>
+    <tr><td>Resumen</td><td>El entrevistado .....</td></tr>
+</table><br>
+
+
+<table border="1" cellpadding="8" cellspacing="0">
+    <tr><th colspan="2">Entrevista 3</th></tr>
+    <tr><td>Segmento Objetivo</td><td>...	</td></tr>
+    <tr><td>Fecha Entrevista</td><td>00/06/2025</td></tr>
+    <tr><td>Entrevistador</td><td>...</td></tr>
+    <tr><td>Entrevistado</td><td>...</td></tr>
+    <tr><td>Edad</td><td>... años</td></tr>
+    <tr><td>Distrito</td><td>....</td></tr>
+    <tr><td>Link del Video</td><td><a href="link">Ver Video</a></td></tr>
+    <tr><td>Minuto de Inicio</td><td>00:01</td></tr>
+    <tr><td>Duración</td><td>08:52 minutos</td></tr>
+    <tr><td>Imagen</td><td><img src="../assets/Foto_Entrevista111.png" alt="Entrevista 1" height="380"/></td></tr>
+    <tr><td>Resumen</td><td>El entrevistado .....</td></tr>
+</table><br>
+
+
+<table border="1" cellpadding="8" cellspacing="0">
+    <tr><th colspan="2">Entrevista 4</th></tr>
+    <tr><td>Segmento Objetivo</td><td>...	</td></tr>
+    <tr><td>Fecha Entrevista</td><td>00/06/2025</td></tr>
+    <tr><td>Entrevistador</td><td>...</td></tr>
+    <tr><td>Entrevistado</td><td>...</td></tr>
+    <tr><td>Edad</td><td>... años</td></tr>
+    <tr><td>Distrito</td><td>....</td></tr>
+    <tr><td>Link del Video</td><td><a href="link">Ver Video</a></td></tr>
+    <tr><td>Minuto de Inicio</td><td>00:01</td></tr>
+    <tr><td>Duración</td><td>08:52 minutos</td></tr>
+    <tr><td>Imagen</td><td><img src="../assets/Foto_Entrevista111.png" alt="Entrevista 1" height="380"/></td></tr>
+    <tr><td>Resumen</td><td>El entrevistado .....</td></tr>
+</table><br>
+
+
+<table border="1" cellpadding="8" cellspacing="0">
+    <tr><th colspan="2">Entrevista 5</th></tr>
+    <tr><td>Segmento Objetivo</td><td>...	</td></tr>
+    <tr><td>Fecha Entrevista</td><td>00/06/2025</td></tr>
+    <tr><td>Entrevistador</td><td>...</td></tr>
+    <tr><td>Entrevistado</td><td>...</td></tr>
+    <tr><td>Edad</td><td>... años</td></tr>
+    <tr><td>Distrito</td><td>....</td></tr>
+    <tr><td>Link del Video</td><td><a href="link">Ver Video</a></td></tr>
+    <tr><td>Minuto de Inicio</td><td>00:01</td></tr>
+    <tr><td>Duración</td><td>08:52 minutos</td></tr>
+    <tr><td>Imagen</td><td><img src="../assets/Foto_Entrevista111.png" alt="Entrevista 1" height="380"/></td></tr>
+    <tr><td>Resumen</td><td>El entrevistado .....</td></tr>
+</table><br>
+
+
 <h4 id="heuristicEvaluation">5.3.3. Evaluaciones según heurísticas</h4>
 
 <div align='center'>
