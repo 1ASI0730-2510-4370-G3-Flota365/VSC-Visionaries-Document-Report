@@ -117,7 +117,7 @@
     </tbody>
     <tbody>
         <tr>
-            <td rowspan="14">TB2</td>
+            <td rowspan="14">TP1</td>
             <td>09/05/2025</td>
             <td>José Diego Huamani Sánchez</td>
             <td>Desarrollo del Sprint Planning, descripción del Team Collaboration Insights</td>
@@ -141,6 +141,34 @@
             <td>23/04/2025</td>
             <td>Stephano Moscoso</td>
             <td>Colocar las imagenes de las métricas el Team Collaboration Insights.</td>
+        </tr> 
+    </tbody>
+      <tbody>
+        <tr>
+            <td rowspan="14">TB2</td>
+            <td>04/06/2025</td>
+            <td>José Diego Huamani Sánchez</td>
+            <td>Desarrollo del Sprint Planning, descripción del Team Collaboration Insights</td>
+        </tr>
+        <tr>
+            <td>06/06/2025</td>
+            <td>Ariana Ramirez Carrasco</td>
+            <td>Desarrollo del subcapítulo: 5.3 Validation Interviews - Diseño de Entrevistas. </td>
+        </tr>
+        <tr>
+            <td>10/06/2025</td>
+            <td>Renato Calvo Yalan</td>
+            <td>Mejora continua en el capítulo IV, actualización Backlog y actualización de Diagrama de clases.</td>
+        </tr>
+        <tr>
+            <td>12/06/2025</td>
+            <td>Raul Cruz Sanchez</td>
+            <td>Mejora continua en las historias de usuario y sprint planning.</td>
+        </tr>
+        <tr>
+            <td>15/06/2025</td>
+            <td>Stephano Moscoso</td>
+            <td>Redacción del análisis de heurísticas de la aplicación.</td>
         </tr> 
     </tbody>
 </table>
@@ -177,7 +205,7 @@ Para esta segunda entrega (TP), nuestro objetivo principal fue el desarrollo e i
     <img src="./images/Indicators-Team-Progress-Report-Sprint2.png" alt="Indicators progress - Report VSC-Visionaries - Sprint 2" style="width:500px;" />
 </p>
 
-Este gráfico muestra la cantidad de *commits* realizados por cada integrante durante la elaboración del TB2.
+Este gráfico muestra la cantidad de *commits* realizados por cada integrante durante la elaboración del TP.
 
 Estas evidencias demuestran una colaboración equilibrada y efectiva, con cada miembro aportando significativamente al desarrollo del informe.
 
@@ -453,12 +481,25 @@ Apoyó en las correcciones del landing page, optimizando la experiencia del usua
 Se encargó de revisar y corregir el contenido del documento, además de participar en ajustes del frontend para mejorar la usabilidad del landing page.<br><br>
 <strong>Sánchez Cruz, Raúl Roberto</strong><br>
 Contribuyó en las correcciones técnicas del frontend, asegurando que el diseño visual y funcional del landing page estuviera alineado con los objetivos del proyecto.<br><br>
+        <strong>TB2:</strong><br>
+        <strong>Huamani Sánchez, José Diego</strong><br>
+        Desarrolló el sprint planning 3 junto al sprint backlog y administró el tablero de los tasks en Trello.<br><br>
+        <strong>Calvo Yalan, Renato Guillermo</strong><br>
+        ﻿Para el desarrollo de la TB2, desarrolló la mejora continua sobre el proceso de Lean UX y los diagramas de base de datos y UML para que estén más alineados a nuevas necesidades que han surgido para implementar los servicios de backend.<br><br>
+        <strong>Moscoso Bejar, Angelo Stephano</strong><br>
+        Durante esta entrega se comunicó con todos los compañeros para mejorar los componentes existentes y entender mejor lo nuevo que se debe presentar.<br><br>
+        <strong>Ramírez Carrasco, Ariana Lizeth</strong><br>
+        En esta entrega, contribuyó con una entrevista a un nuevo usuario para perteneciente al sector de gerentes considerando opiniones y críticas constructivas a nuestro landing page y aplicación web.<br><br>
+        <strong>Sánchez Cruz, Raúl Roberto</strong><br>
+        Participó en el trabajo colaborativo del backend y frontend haciendo uso correcto de la herramienta Trello y la comunicación con el equipo al hacer merge en el repositorio con los últimos cambios (en la rama developer).<br><br>
       </td>
       <td style="padding: 10px; border: 1px solid #ccc;">
         <strong>TB1:</strong><br>
         La capacidad de trabajar de manera efectiva en un equipo que fomenta el liderazgo compartido es esencial para alcanzar objetivos comunes. A través del enfoque TSP, se logró una autogestión sólida, planificación colaborativa y ejecución eficiente, lo que permitió a cada miembro asumir liderazgo según sus fortalezas, fortaleciendo tanto el desempeño grupal como individual.<br><br>
         <strong>TP1:</strong><br>
-        La colaboración conjunta en la creación de la landing page y la dedicación a las correcciones posteriores demostraron la capacidad del equipo para integrar habilidades y conocimientos, reforzando la cohesión y el compromiso con los objetivos del proyecto.
+        La colaboración conjunta en la creación de la landing page y la dedicación a las correcciones posteriores demostraron la capacidad del equipo para integrar habilidades y conocimientos, reforzando la cohesión y el compromiso con los objetivos del proyecto.<br><br>
+        <strong>TB2:</strong><br>
+        En una entrevista acerca de nuestra aplicación, es fundamental estar abiertos a críticas y opiniones sinceras. Al escuchar activamente a los usuarios y permitirles expresar sus puntos de vista, podemos identificar áreas de mejora y realizar ajustes para satisfacer mejor sus necesidades. La retroalimentación constructiva es una oportunidad valiosa para fortalecer nuestra aplicación y brindar una experiencia de usuario excepcional.<br><br>
       </td>
     </tr>
     <tr>
@@ -488,12 +529,26 @@ Colaboró en las sesiones de revisión y ajustes, impulsando decisiones conjunta
 Se encargó de coordinar parte de las revisiones de contenido y aportar en los ajustes del frontend, contribuyendo al cumplimiento de objetivos definidos en el equipo.<br><br>
 <strong>Sánchez Cruz, Raúl Roberto</strong><br>
 Participó en la organización y ejecución de las tareas de frontend y en la revisión conjunta del entregable, fortaleciendo la colaboración y la planificación del equipo.<br><br>
+        <strong>TB2:</strong><br>
+        <strong>Huamani Sánchez, José Diego</strong><br>
+        Realizó mejoras continuas en las historias de usuario, el Video about the product, el C4 y el Sprint planning.<br><br>
+        <strong>Calvo Yalan, Renato Guillermo</strong><br>
+        ﻿Para el desarrollo de la TB2, desarrolló la mejora continua sobre el proceso de Lean UX y los diagramas de base de datos y UML para que estén más alineados a nuevas necesidades que han surgido para implementar los servicios de backend.<br><br>
+        <strong>Moscoso Bejar, Angelo Stephano</strong><br>
+        Gracias al despliegue de la versión actual de la aplicación y las entrevistas con nuestros clientes redactó importantes secciones de esta entrega y pudo conocer mejor el avance de nuestro proyecto.<br><br>
+        <strong>Ramírez Carrasco, Ariana Lizeth</strong><br>
+        Desarrolló el diseño de entrevistas y registro de las mismas para los entrevistados, por lo que adquirió un mejor conocimiento del sector de reclutamiento en el área de recursos humanos de una empresa.<br><br>
+        <strong>Sánchez Cruz, Raúl Roberto</strong><br>
+        Se encargó de agregar sus partes al frontend y el desarrollo del backend de manera colaborativa.<br><br>
       </td>
       <td style="padding: 10px; border: 1px solid #ccc;">
         <strong>TB1:</strong><br>
         Gracias a una planificación compartida, al uso de metodologías centradas en el usuario y a la participación activa de todos los miembros, se logró construir un entorno colaborativo e inclusivo. Esto facilitó una comunicación fluida, una organización eficiente y el cumplimiento exitoso de los objetivos establecidos.<br><br>
         <strong>TP1:</strong><br>
-        El trabajo conjunto en la landing page, sumado a la mejora continua mediante correcciones colaborativas, fortaleció el ambiente inclusivo y colaborativo, facilitando la consecución de metas y tareas planificadas.
+        El trabajo conjunto en la landing page, sumado a la mejora continua mediante correcciones colaborativas, fortaleció el ambiente inclusivo y colaborativo, facilitando la consecución de metas y tareas planificadas.<br><br>
+        <strong>TB2:</strong><br>
+        La retroalimentación de los usuarios en la entrevista ha sido valiosa para mejorar nuestra aplicación y cumplir con
+sus necesidades. La comunicación interna y la priorización de tareas son clave para un desarrollo exitoso. El video about the product nos permitirá presentar un demo de nuestro producto a nuestros clientes potenciales, por lo que resulta indispensable al ser una primera vista de la aplicación.<br><br>        
       </td>
     </tr>
   </tbody>
