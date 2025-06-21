@@ -1,4 +1,4 @@
-<h2>id="requirementsSpecification">CAPÍTULO 3: REQUIREMENTS SPECIFICATION</h2>
+<h2 id="requirementsSpecification">CAPÍTULO 3: REQUIREMENTS SPECIFICATION</h2>
 
 <h3 id="toBeScenario">3.1. To-Be Scenario Mapping</h3>
 
@@ -216,6 +216,239 @@ Se muestran porcentajes de cumplimiento diario o semanal.
 Puede filtrar por conductor, zona o fecha.</td><td>6</td></tr>
 
   </tbody>
+  <tbody>
+    <tr>
+      <td>US-28</td>
+      <td>Análisis predictivo con IA</td>
+      <td>Como gestor quiero tener un análisis con IA para poder predecir posibles fallos o problemas.</td>
+      <td>
+        <ul>
+          <li>El sistema muestra predicciones de posibles fallos o problemas.</li>
+          <li>La información está basada en datos históricos del vehículo.</li>
+          <li>Las predicciones pueden visualizarse por cada vehículo.</li>
+        </ul>
+      </td>
+      <td>4</td>
+    </tr>
+    <tr>
+      <td>US-29</td>
+      <td>Historial de análisis de IA</td>
+      <td>Como gestor quiero tener un historial de los análisis hechos por la inteligencia artificial para poder ver a detalle la información.</td>
+      <td>
+        <ul>
+          <li>El sistema almacena los análisis generados por la IA.</li>
+          <li>El gestor puede consultar cada análisis anterior.</li>
+          <li>Se muestra la fecha y detalles del análisis.</li>
+        </ul>
+      </td>
+      <td>4</td>
+    </tr>
+    <tr>
+      <td>US-30</td>
+      <td>Filtros de reportes</td>
+      <td>Como gestor quiero tener filtros de reportes para poder hacer una búsqueda más rápida.</td>
+      <td>
+        <ul>
+          <li>El sistema permite filtrar reportes por fecha, vehículo, tipo de análisis, etc.</li>
+          <li>Los resultados se actualizan dinámicamente según los filtros seleccionados.</li>
+        </ul>
+      </td>
+      <td>6</td>
+    </tr>
+    <tr>
+      <td>US-31</td>
+      <td>Limpieza de filtros</td>
+      <td>Como gestor quiero limpiar el filtro de reportes para poder hacer otra búsqueda por filtro.</td>
+      <td>
+        <ul>
+          <li>El sistema tiene un botón para limpiar los filtros aplicados.</li>
+          <li>Al limpiar, se restablece la vista inicial de los reportes.</li>
+          <li>Se pueden aplicar nuevos filtros tras la limpieza.</li>
+        </ul>
+      </td>
+      <td>6</td>
+    </tr>
+    <tr>
+      <td>US-32</td>
+      <td>Monitoreo de la flota</td>
+      <td>Como gestor quiero monitorear la flota para saber el estado del vehículo.</td>
+      <td>
+        <ul>
+          <li>El sistema muestra el estado actual de cada vehículo en tiempo real.</li>
+          <li>Incluye información como ubicación, fallos detectados, estado operativo, etc.</li>
+          <li>Los vehículos con alertas se destacan visualmente.</li>
+        </ul>
+      </td>
+      <td>3</td>
+    </tr>
+    <tr>
+      <td>US-33</td>
+      <td>Exportar listado de vehículos</td>
+      <td>Como gestor quiero exportar el listado de vehículos para poder tener un reporte en físico.</td>
+      <td>
+        <ul>
+          <li>El sistema permite exportar el listado en formatos PDF o Excel.</li>
+          <li>El reporte incluye detalles clave de cada vehículo.</li>
+          <li>La exportación respeta los filtros aplicados (si los hay).</li>
+        </ul>
+      </td>
+      <td>3</td>
+    </tr>
+      <tr>
+  <td>US34</td>
+  <td>Inicio de sesión con validación</td>
+  <td>Como desarrollador, quiero implementar una funcionalidad de inicio de sesión, para que los usuarios registrados puedan acceder de forma segura a la plataforma.</td>
+  <td>
+    <ul>
+      <li>Se crea un formulario de login con campos de correo y contraseña.</li>
+      <li>Los datos ingresados se validan (no vacíos y formato válido de correo).</li>
+      <li>La autenticación se hace contra una base de datos real o simulada.</li>
+      <li>Si el login es exitoso, se redirige a la vista principal correspondiente.</li>
+      <li>Si las credenciales son incorrectas, se muestra un mensaje de error claro.</li>
+      <li>Se debe implementar manejo de sesión (token, JWT o sesión simple).</li>
+    </ul>
+             <td>7</td>
+
+  </td>
+</tr>
+<tr>
+  <td>US35</td>
+  <td>Registro de usuarios </td>
+  <td>Como desarrollador , quiero implementar el endpoint de registro de usuarios, para que nuevos usuarios puedan guardar sus datos en la base de datos.</td>
+  <td>
+    <ul>
+      <li>POST /api/usuarios permite registrar un nuevo usuario.</li>
+      <li>Se validan campos como email único y contraseña mínima.</li>
+      <li>Responde con status 201 y el ID del nuevo usuario.</li>
+    </ul>
+             <td>7</td>
+
+  </td>
+</tr>
+
+<tr>
+  <td>US36</td>
+  <td>Inicio de sesión con JWT</td>
+  <td>Como desarrollador , quiero implementar un login con generación de token JWT, para autenticar correctamente a los usuarios.</td>
+  <td>
+    <ul>
+      <li>POST /api/auth/login recibe email y contraseña.</li>
+      <li>Valida credenciales contra la base de datos.</li>
+      <li>Si son correctas, responde con un JWT válido.</li>
+      <li>Si son incorrectas, devuelve 401 Unauthorized.</li>
+    </ul>
+             <td>7</td>
+
+  </td>
+</tr>
+
+<tr>
+  <td>US37</td>
+  <td>Middleware de autenticación</td>
+  <td>Como desarrollador , quiero validar el token JWT en endpoints protegidos, para asegurar que solo usuarios autorizados accedan.</td>
+  <td>
+    <ul>
+      <li>Se intercepta el token en el header Authorization.</li>
+      <li>Si es válido, se permite continuar.</li>
+      <li>Si falta o es inválido, devuelve 403 Forbidden.</li>
+    </ul>
+             <td>7</td>
+
+  </td>
+</tr>
+
+<tr>
+  <td>US38</td>
+  <td>CRUD de vehículos</td>
+  <td>Como desarrollador , quiero exponer endpoints para crear, leer, actualizar y eliminar vehículos, para permitir la gestión desde el frontend.</td>
+  <td>
+    <ul>
+      <li>GET, POST, PUT y DELETE disponibles en /api/vehiculos.</li>
+      <li>Validación de datos (placa única, campos obligatorios).</li>
+      <li>Respuestas claras con mensajes y códigos HTTP adecuados.</li>
+    </ul>
+             <td>7</td>
+
+  </td>
+</tr>
+
+<tr>
+  <td>US39</td>
+  <td>Asignación de vehículo a conductor</td>
+  <td>Como desarrollador , quiero implementar la lógica de asignación de vehículos a conductores, para registrar esta relación en el sistema.</td>
+  <td>
+    <ul>
+      <li>POST /api/asignaciones guarda conductor_id y vehiculo_id.</li>
+      <li>Valida que el vehículo no esté asignado a otro conductor.</li>
+      <li>Devuelve confirmación de asignación o error si ya está ocupado.</li>
+    </ul>
+             <td>7</td>
+
+  </td>
+</tr>
+
+<tr>
+  <td>US40</td>
+  <td>Historial de incidencias</td>
+  <td>Como desarrollador , quiero permitir el registro y la consulta de incidencias, para que los conductores puedan reportar problemas y el gestor los revise.</td>
+  <td>
+    <ul>
+      <li>POST /api/incidencias crea una nueva incidencia.</li>
+      <li>GET /api/incidencias lista las registradas, con filtros opcionales.</li>
+      <li>Incluye fecha, descripción y estado (pendiente/resuelta).</li>
+    </ul>
+             <td>7</td>
+
+  </td>
+</tr>
+
+<tr>
+  <td>US41</td>
+  <td>Reporte de consumo de combustible</td>
+  <td>Como desarrollador , quiero implementar la grabación del consumo de combustible, para llevar el control por vehículo y por conductor.</td>
+  <td>
+    <ul>
+      <li>POST /api/combustible guarda datos como tipo, cantidad y ticket.</li>
+      <li>Validación de campos y relación con vehículo y conductor.</li>
+      <li>Responde con status 201 y los datos registrados.</li>
+    </ul>
+    <td>7</td>
+
+  </td>
+</tr>
+
+<tr>
+  <td>US42</td>
+  <td>Historial de mantenimientos</td>
+  <td>Como desarrollador , quiero implementar el historial de mantenimientos por vehículo, para que el gestor pueda revisar los servicios realizados.</td>
+  <td>
+    <ul>
+      <li>GET /api/mantenimientos?vehiculo_id=... devuelve lista detallada.</li>
+      <li>Incluye tipo de servicio, fecha y técnico responsable.</li>
+      <li>Permite filtrar por fechas o estado.</li>
+    </ul>
+             <td>7</td>
+
+  </td>
+</tr>
+
+<tr>
+  <td>US43</td>
+  <td>Exportación de reportes (Excel o PDF)</td>
+  <td>Como desarrollador , quiero generar archivos PDF o Excel con información del sistema, para que el gestor pueda descargar reportes.</td>
+  <td>
+    <ul>
+      <li>GET /api/reportes/export?tipo=excel|pdf genera y descarga el archivo.</li>
+      <li>Contiene datos filtrados según parámetros de entrada.</li>
+      <li>Formato estructurado y entendible.</li>
+    </ul>
+       <td>7</td>
+  </td>
+</tr>
+
+
+
+  </tbody>
 </table>
 
 <h3 id="impactMapping">3.3. Impact Mapping</h3>
@@ -281,8 +514,15 @@ Puede filtrar por conductor, zona o fecha.</td><td>6</td></tr>
       <td>Control logístico del desempeño</td>
       <td>Gestor</td>
       <td>Evaluar cumplimiento de rutas y eficiencia logística</td>
-      <td>US27</td>
+      <td>US27,US30,US31</td>
     </tr>
+       <tr>
+      <td>Backend API</td>
+      <td>desarrollador</td>
+      <td>Crear el backend y los endpoints</td>
+      <td>US34,US35,US36,US37,US38,US39,US40,US41,US42,US43</td>
+    </tr>
+      
   </tbody>
 </table>
 
@@ -492,6 +732,62 @@ Puede filtrar por conductor, zona o fecha.</td><td>6</td></tr>
       <td>Rutas completadas vs planificadas</td>
       <td>Como gestor, quiero ver cuántas rutas fueron completadas frente a las planificadas, para evaluar cumplimiento.</td>
       <td>5</td>
+    </tr>
+      <tr>
+      <td>28</td>
+      <td>US32</td>
+      <td>Monitoreo de la flota	</td>
+      <td>Como gestor quiero monitorear la flota para saber el estado del vehículo.	
+</td>
+      <td>5</td>
+    </tr>
+      <tr>
+      <td>29</td>
+      <td>US33</td>
+      <td>Exportar reporte</td>
+      <td>Como gestor quiero exportar el listado de vehículos para poder tener un reporte en físico.</td>
+      <td>5</td>
+  <tr>
+      <td>30</td><td>US28</td><td>Análisis predictivo con IA</td><td>Como gestor quiero predicciones de posibles fallos o problemas usando IA.</td><td>8</td>
+    </tr>
+    <tr>
+      <td>31</td><td>US29</td><td>Historial de análisis de IA</td><td>Como gestor quiero un historial de los análisis hechos por la inteligencia artificial.</td><td>3</td>
+    </tr>
+    <tr>
+      <td>32</td><td>US30</td><td>Filtros de reportes</td><td>Como gestor quiero filtros en los reportes por fecha, vehículo, etc.</td><td>5</td>
+    </tr>
+    <tr>
+      <td>33</td><td>US31</td><td>Limpieza de filtros</td><td>Como gestor quiero limpiar los filtros aplicados a los reportes.</td><td>2</td>
+    </tr>
+    <tr>
+      <td>34</td><td>US34</td><td>Inicio de sesión con validación</td><td>Como desarrollador, quiero implementar el formulario y validación de login.</td><td>3</td>
+    </tr>
+    <tr>
+      <td>35</td><td>US35</td><td>Registro de usuarios</td><td>Como desarrollador, quiero implementar el endpoint de registro.</td><td>3</td>
+    </tr>
+    <tr>
+      <td>36</td><td>US36</td><td>Inicio de sesión con JWT</td><td>Como desarrollador, quiero implementar login que retorne token JWT.</td><td>5</td>
+    </tr>
+    <tr>
+      <td>37</td><td>US37</td><td>Middleware de autenticación</td><td>Como desarrollador, quiero validar JWT en las rutas protegidas.</td><td>5</td>
+    </tr>
+    <tr>
+      <td>38</td><td>US38</td><td>CRUD de vehículos</td><td>Como desarrollador, quiero crear, leer, actualizar y borrar vehículos.</td><td>8</td>
+    </tr>
+    <tr>
+      <td>39</td><td>US39</td><td>Asignación de vehículo a conductor</td><td>Como desarrollador, quiero guardar la relación entre conductor y vehículo.</td><td>5</td>
+    </tr>
+    <tr>
+      <td>40</td><td>US40</td><td>Historial de incidencias</td><td>Como desarrollador, quiero permitir crear y consultar incidencias.</td><td>5</td>
+    </tr>
+    <tr>
+      <td>41</td><td>US41</td><td>Reporte de consumo de combustible</td><td>Como desarrollador, quiero grabar el consumo de combustible por vehículo y conductor.</td><td>5</td>
+    </tr>
+    <tr>
+      <td>42</td><td>US42</td><td>Historial de mantenimientos</td><td>Como desarrollador, quiero listar mantenimientos por vehículo con filtros.</td><td>5</td>
+    </tr>
+    <tr>
+      <td>43</td><td>US43</td><td>Exportación de reportes (Excel o PDF)</td><td>Como desarrollador, quiero generar y descargar reportes en formatos Excel o PDF.</td><td>5</td>
     </tr>
   </tbody>
 </table>
