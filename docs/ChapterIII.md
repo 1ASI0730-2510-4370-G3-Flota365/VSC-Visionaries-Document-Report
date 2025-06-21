@@ -12,6 +12,7 @@
 
 
 
+
 <h3 id="userStories">3.2. User Stories</h3> 
 
 Se presentan los siguientes user stories:
@@ -453,8 +454,13 @@ Puede filtrar por conductor, zona o fecha.</td><td>6</td></tr>
 <h3 id="impactMapping">3.3. Impact Mapping</h3>
 
 <table border="1" cellpadding="6" cellspacing="0">
+<table border="1" cellpadding="6" cellspacing="0">
   <thead>
     <tr>
+      <th>Meta (Goal)</th>
+      <th>Actor</th>
+      <th>Impacto esperado</th>
+      <th>User Stories (Entregables)</th>
       <th>Meta (Goal)</th>
       <th>Actor</th>
       <th>Impacto esperado</th>
@@ -467,8 +473,16 @@ Puede filtrar por conductor, zona o fecha.</td><td>6</td></tr>
       <td>Visitante / Gestor</td>
       <td>Comprender el valor de la plataforma y navegar desde cualquier dispositivo</td>
       <td>US01, US02, US03, US04, US05, US06, US11</td>
+      <td>Mejorar la experiencia de navegación y conversión</td>
+      <td>Visitante / Gestor</td>
+      <td>Comprender el valor de la plataforma y navegar desde cualquier dispositivo</td>
+      <td>US01, US02, US03, US04, US05, US06, US11</td>
     </tr>
     <tr>
+      <td>Facilitar el acceso a la plataforma</td>
+      <td>Gestor / Conductor</td>
+      <td>Registrarse, personalizar y proteger su cuenta</td>
+      <td>US07, US08, US22, US24</td>
       <td>Facilitar el acceso a la plataforma</td>
       <td>Gestor / Conductor</td>
       <td>Registrarse, personalizar y proteger su cuenta</td>
@@ -478,15 +492,19 @@ Puede filtrar por conductor, zona o fecha.</td><td>6</td></tr>
       <td>Control y delegación eficiente de vehículos</td>
       <td>Gestor</td>
       <td>Registrar vehículos, asignarlos y supervisar su estado</td>
-      <td>US09, US10, US14, US18, US20, US21,US32,US33</td>
+      <td>US09, US10, US14, US18, US20, US21</td>
     </tr>
     <tr>
       <td>Gestión de incidencias en flota</td>
       <td>Gestor</td>
       <td>Detectar y atender incidencias, realizar mantenimiento preventivo</td>
-      <td>US13, US17, US19, US20, US21,28,29</td>
+      <td>US13, US17, US19, US20, US21</td>
     </tr>
     <tr>
+      <td>Autonomía y eficiencia operativa del conductor</td>
+      <td>Conductor</td>
+      <td>Consultar información, registrar acciones y ver su desempeño</td>
+      <td>US12, US15, US16, US23, US25, US26</td>
       <td>Autonomía y eficiencia operativa del conductor</td>
       <td>Conductor</td>
       <td>Consultar información, registrar acciones y ver su desempeño</td>
@@ -509,11 +527,14 @@ Puede filtrar por conductor, zona o fecha.</td><td>6</td></tr>
 </table>
 
 
+
 <h3 id="productBacklog">3.4. Product Backlog</h3>
 
 
 <table border="1" class="dataframe">
+<table border="1" class="dataframe">
   <thead>
+    <tr style="text-align: right;">
     <tr style="text-align: right;">
       <th>#Orden</th>
       <th>User Story ID</th>
