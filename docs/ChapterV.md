@@ -1093,20 +1093,20 @@ Adicional a la información presentada, se compartirá el resumen de nuestro pro
         <tr>
             <td>Sprint 2 Review Summary</td>
             <td>
-                -
+                En el Sprint 2, se desarrolló las vistas de nuestro Frontend y se ha implementado un archivo JSON para simular la data que tendrá la aplicación cuando el usuario acceda con su credenciales. Sin embargo, aún se necesita realizar las funcionalidades CRUD core. Como buen objetivo alcanzado, logramos desplegar la aplicación web con el servicio de Firebase Hosting, pero de todas maneras requiere para su funcionaiento dichos archivos JSON ya que sino no funcionaría.
             </td>
         </tr>
         <tr>
-            <td>Sprint 2 Retrospective Summary</td>
+            <td>Sprint 3 Retrospective Summary</td>
             <td>
-                -
+                Para este presente sprint 3 se planea comenzar a desarrollar el RESTful API con el framework de .NET Core con los Bounded contexts de autenticación y funcionalidades core de Flota365. Al finalizar este sprint, se podrá acceder al endpoint de RESTFul API de manera local.
             </td>
         </tr>
         <tr>
             <td colspan="2"><b>Sprint Goal & User Stories</b></td>
         </tr>
         <tr>
-            <td>Sprint 2 Velocity</td>
+            <td>Sprint 3 Velocity</td>
             <td>
                 -
             </td>
@@ -1120,11 +1120,11 @@ Adicional a la información presentada, se compartirá el resumen de nuestro pro
     </tbody>
 </table>
 
-<h4 id="sprintBacklog3">5.2.3.2. Sprint Backlog 1</h4>
+<h4 id="aspectLeader">5.2.3.2. Aspect Leader and Collaborators</h4>
 
-<h4 id="developmentEvidenceSprint3">5.2.3.3. Development Evidence for Sprint Review</h4>
+<h4 id="sprintBacklog3">5.2.3.3. Sprint Backlog 3</h4>
 
-<h4 id="testSuiteEvidenceSprint3">5.2.3.4. Testing Suite Evidence for Sprint Review</h4>
+<h4 id="developmentEvidenceSprint3">5.2.3.4. Development Evidence for Sprint Review</h4>
 
 <h4 id="executionEvidenceSprint3">5.2.3.5. Execution Evidence for Sprint Review</h4>
 
@@ -1196,6 +1196,86 @@ Es por ello que, a continuación, se detallarán las preguntas y los principales
 - ¿Te gustaría participar en futuras mejoras como tester o dando sugerencias?
 
 <h4 id="registryInterviews">5.3.2. Registro de Entrevistas</h4>
+
+<table border="1" cellpadding="8" cellspacing="0">
+    <tr><th colspan="2">Entrevista 1</th></tr>
+    <tr><td>Segmento Objetivo</td><td>...	</td></tr>
+    <tr><td>Fecha Entrevista</td><td>00/06/2025</td></tr>
+    <tr><td>Entrevistador</td><td>...</td></tr>
+    <tr><td>Entrevistado</td><td>...</td></tr>
+    <tr><td>Edad</td><td>... años</td></tr>
+    <tr><td>Distrito</td><td>....</td></tr>
+    <tr><td>Link del Video</td><td><a href="link">Ver Video</a></td></tr>
+    <tr><td>Minuto de Inicio</td><td>00:01</td></tr>
+    <tr><td>Duración</td><td>08:52 minutos</td></tr>
+    <tr><td>Imagen</td><td><img src="../assets/Foto_Entrevista111.png" alt="Entrevista 1" height="380"/></td></tr>
+    <tr><td>Resumen</td><td>El entrevistado .....</td></tr>
+</table><br>
+
+
+<table border="1" cellpadding="8" cellspacing="0">
+    <tr><th colspan="2">Entrevista 2</th></tr>
+    <tr><td>Segmento Objetivo</td><td>...	</td></tr>
+    <tr><td>Fecha Entrevista</td><td>00/06/2025</td></tr>
+    <tr><td>Entrevistador</td><td>...</td></tr>
+    <tr><td>Entrevistado</td><td>...</td></tr>
+    <tr><td>Edad</td><td>... años</td></tr>
+    <tr><td>Distrito</td><td>....</td></tr>
+    <tr><td>Link del Video</td><td><a href="link">Ver Video</a></td></tr>
+    <tr><td>Minuto de Inicio</td><td>00:01</td></tr>
+    <tr><td>Duración</td><td>08:52 minutos</td></tr>
+    <tr><td>Imagen</td><td><img src="../assets/Foto_Entrevista111.png" alt="Entrevista 1" height="380"/></td></tr>
+    <tr><td>Resumen</td><td>El entrevistado .....</td></tr>
+</table><br>
+
+
+<table border="1" cellpadding="8" cellspacing="0">
+    <tr><th colspan="2">Entrevista 3</th></tr>
+    <tr><td>Segmento Objetivo</td><td>...	</td></tr>
+    <tr><td>Fecha Entrevista</td><td>00/06/2025</td></tr>
+    <tr><td>Entrevistador</td><td>...</td></tr>
+    <tr><td>Entrevistado</td><td>...</td></tr>
+    <tr><td>Edad</td><td>... años</td></tr>
+    <tr><td>Distrito</td><td>....</td></tr>
+    <tr><td>Link del Video</td><td><a href="link">Ver Video</a></td></tr>
+    <tr><td>Minuto de Inicio</td><td>00:01</td></tr>
+    <tr><td>Duración</td><td>08:52 minutos</td></tr>
+    <tr><td>Imagen</td><td><img src="../assets/Foto_Entrevista111.png" alt="Entrevista 1" height="380"/></td></tr>
+    <tr><td>Resumen</td><td>El entrevistado .....</td></tr>
+</table><br>
+
+
+<table border="1" cellpadding="8" cellspacing="0">
+    <tr><th colspan="2">Entrevista 4</th></tr>
+    <tr><td>Segmento Objetivo</td><td>...	</td></tr>
+    <tr><td>Fecha Entrevista</td><td>00/06/2025</td></tr>
+    <tr><td>Entrevistador</td><td>...</td></tr>
+    <tr><td>Entrevistado</td><td>...</td></tr>
+    <tr><td>Edad</td><td>... años</td></tr>
+    <tr><td>Distrito</td><td>....</td></tr>
+    <tr><td>Link del Video</td><td><a href="link">Ver Video</a></td></tr>
+    <tr><td>Minuto de Inicio</td><td>00:01</td></tr>
+    <tr><td>Duración</td><td>08:52 minutos</td></tr>
+    <tr><td>Imagen</td><td><img src="../assets/Foto_Entrevista111.png" alt="Entrevista 1" height="380"/></td></tr>
+    <tr><td>Resumen</td><td>El entrevistado .....</td></tr>
+</table><br>
+
+
+<table border="1" cellpadding="8" cellspacing="0">
+    <tr><th colspan="2">Entrevista 5</th></tr>
+    <tr><td>Segmento Objetivo</td><td>...	</td></tr>
+    <tr><td>Fecha Entrevista</td><td>00/06/2025</td></tr>
+    <tr><td>Entrevistador</td><td>...</td></tr>
+    <tr><td>Entrevistado</td><td>...</td></tr>
+    <tr><td>Edad</td><td>... años</td></tr>
+    <tr><td>Distrito</td><td>....</td></tr>
+    <tr><td>Link del Video</td><td><a href="link">Ver Video</a></td></tr>
+    <tr><td>Minuto de Inicio</td><td>00:01</td></tr>
+    <tr><td>Duración</td><td>08:52 minutos</td></tr>
+    <tr><td>Imagen</td><td><img src="../assets/Foto_Entrevista111.png" alt="Entrevista 1" height="380"/></td></tr>
+    <tr><td>Resumen</td><td>El entrevistado .....</td></tr>
+</table><br>
+
 
 <h4 id="heuristicEvaluation">5.3.3. Evaluaciones según heurísticas</h4>
 
@@ -1531,3 +1611,13 @@ Es por ello que, a continuación, se detallarán las preguntas y los principales
 <p>Incluir un botón tipo <q>¿Cómo funciona esto?</q> en la vista de analytics, que abra un modal explicativo. Ahí se puede describir qué datos analiza el sistema (recorridos, tiempos, kilometraje), qué tipo de predicciones realiza y con qué frecuencia se actualiza la información.</p>
 
 <h3 id="aboutProductVideo">5.4. Video About-the-Product</h3>
+
+<div align="center">
+    <img src="../images/Background-Video About-the-Product .png" alt="Flota365 Promotional Banner" style="width:500;" />
+</div>
+
+<br>
+
+<p align="center">
+   Enlace del <strong>Video About-the-Product</strong>: <a href="https://youtu.be/sV1-ry60vWQ">https://youtu.be/sV1-ry60vWQ</a>
+</p>
