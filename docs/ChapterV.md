@@ -1248,15 +1248,49 @@ Adicional a la información presentada, se compartirá el resumen de nuestro pro
 
 <h4 id="sprintBacklog3">5.2.3.3. Sprint Backlog 3</h4>
 
+En esta sección se presentará el sprint backlog que se ha administrado en la plataforma **Trello**. Luego se muestra la tabla de las tareas que los miembros del equipo fueron asignados para su implementación.
+
+Link al board en **Trello**: <a herf="">trello</a>
+
 <h4 id="developmentEvidenceSprint3">5.2.3.4. Development Evidence for Sprint Review</h4>
+
+En esta sección se incluyen los *commits* realizados a los repositorios de **landing page**, **Web Application**, y **API** en Github. Sin embargo, debido a la gran cantidad de *commits* realizados, se presentarán los *commits* más relevantes para el proceso de desarrollo en cada repositorio.
+
+De igual manera, se incluyen los enlaces de los repositorios.
+
+* **Landing Page**: <a href="https://github.com/1ASI0730-2510-4370-G3-Flota365/VSC-Visionaries-Landing-Page?tab=readme-ov-file">https://github.com/1ASI0730-2510-4370-G3-Flota365/VSC-Visionaries-Landing-Page?tab=readme-ov-file</a>
+
+* **Web Application**: <a href="https://github.com/1ASI0730-2510-4370-G3-Flota365/VSC-Visionaries-Web-Application">https://github.com/1ASI0730-2510-4370-G3-Flota365/VSC-Visionaries-Web-Application</a>
+
+* **RESTFul API**: <a href="https://github.com/1ASI0730-2510-4370-G3-Flota365/VSC-Visionaries-API">https://github.com/1ASI0730-2510-4370-G3-Flota365/VSC-Visionaries-API</a>
+
 
 <h4 id="executionEvidenceSprint3">5.2.3.5. Execution Evidence for Sprint Review</h4>
 
+Para este apartado se presentará capturas de las vistas más relevantes que se llevaron a cabo en este tercer Sprint. Estas vienen a ser las siguientes:
+
 <h4 id="servicesDocumentationSprint3">5.2.3.6. Services Documentation Evidence for Sprint Review</h4>
+
+En esta sección se presentan los *endpoints* desarrollados en el presente sprint y se adjuntan captura de las acciones CRUD realizadas con **OpenAPI**.
+
+Se ajunta el enlace del repositorio de la API en Github: <a href="https://github.com/1ASI0730-2510-4370-G3-Flota365/VSC-Visionaries-API">https://github.com/1ASI0730-2510-4370-G3-Flota365/VSC-Visionaries-API</a>
 
 <h4 id="softwareDeploymentEvidenceSprint3">5.2.3.7. Software Deployment Evidence for Sprint Review</h4>
 
+Al igual que en el primer y segundo sprint, se siguió utilizando el servicio de *deploy* de *Firebase Hosting*. Por lo que se realizarán los mismo pasos mencionados en el anterior sprint con la única diferencia de que se seleccionará el nuevo repositorio de la aplicación.
+
+<img src="" alt="Flota365-Firebase-Hosting"/>
+
 <h4 id="teamCollaborationInsights3">5.2.3.8. Team Collaboration Insights during Sprint</h4>
+
+A continuación, se presentan los *insights* del trabajo grupal en Github.
+
+* Enlace del repositorio de Backend API - Flota 365: <a href="https://github.com/1ASI0730-2510-4370-G3-Flota365/VSC-Visionaries-API">https://github.com/1ASI0730-2510-4370-G3-Flota365/VSC-Visionaries-API</a>
+
+Para el caso de nuestro backend RESTFul API, se han implementado cada uno de los *endpoints* asociados con los bounded context core que insumirá nuestro web application para su funcionamiento.
+
+Asimismo, se preseta el Gitflow de las distintas ramas que se han trabajado para la implementación de features.
+
 
 <h3 id="validationInterviews">5.3. Validation Interviews</h3>
 
