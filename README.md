@@ -185,9 +185,9 @@
 
 En esta primera entrega (TB1), nuestro objetivo principal fue la creación de nuestra startup. Todos los miembros del equipo VSC-Visionaries participaron activamente en la elaboración del informe, utilizando herramientas colaborativas como GitHub, Figma, Trello, UXPressia, Miro, entre otros. A continuación, vamos a presentar los diagramas de flujo que representan los *commits* realizados por cada miembro del equipo VSC:
 
-<p style="text-align: center;">
+<div align="center"
     <img src="./images/Workflow-Report-VSC Visionaries.png" alt="Workflow Diagram - Report VSC-Visionaries" style="width:500px;" />
-</p>
+</div>
 
 <br>
 
@@ -195,15 +195,15 @@ En esta primera entrega (TB1), nuestro objetivo principal fue la creación de nu
 
 Para esta segunda entrega (TP), nuestro objetivo principal fue el desarrollo e implementación de nuestra primera versión de nuestro **Web Application**. Todos los miembros del equipo VSC-Visionaries participaron activamente en la elaboración del informe; lo cual, mediante el siguiente organigrama, veremos el progreso obtenido hasta la fecha del día de hoy:
 
-<p style="text-align: center;">
+<div align="center"
     <img src="./images/Metrics-Report-Sprint2-VSC-Visionaries.png" alt="Workflow Diagram - Report VSC-Visionaries - Sprint 2" style="width:500px;" />
-</p>
+</div>
 
 <br>
 
-<p style="text-align: center;">
+<div align="center"
     <img src="./images/Indicators-Team-Progress-Report-Sprint2.png" alt="Indicators progress - Report VSC-Visionaries - Sprint 2" style="width:500px;" />
-</p>
+</div>
 
 Este gráfico muestra la cantidad de *commits* realizados por cada integrante durante la elaboración del TP.
 
@@ -454,7 +454,7 @@ En el siguiente cuadro se describen las acciones realizadas y enunciados de conc
     </tr>
   </thead>
   <tbody>
-    <tr style="background-color: #f2f2f2;">
+    <tr>
       <td style="padding: 10px; border: 1px solid #ccc;">
         Trabaja en equipo para proporcionar liderazgo en forma conjunta
       </td>
