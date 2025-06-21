@@ -1323,17 +1323,17 @@ Es por ello que, a continuación, se detallarán las preguntas y los principales
 
 <table border="1" cellpadding="8" cellspacing="0">
     <tr><th colspan="2">Entrevista 1</th></tr>
-    <tr><td>Segmento Objetivo</td><td>...	</td></tr>
-    <tr><td>Fecha Entrevista</td><td>00/06/2025</td></tr>
-    <tr><td>Entrevistador</td><td>...</td></tr>
-    <tr><td>Entrevistado</td><td>...</td></tr>
-    <tr><td>Edad</td><td>... años</td></tr>
-    <tr><td>Distrito</td><td>....</td></tr>
+    <tr><td>Segmento Objetivo</td><td>Gestores de flota	</td></tr>
+    <tr><td>Fecha Entrevista</td><td>21/06/2025</td></tr>
+    <tr><td>Entrevistador</td><td>Ariana Ramirez Carrasco</td></tr>
+    <tr><td>Entrevistado</td><td>Billy Ruiz Madrid</td></tr>
+    <tr><td>Edad</td><td>27 años</td></tr>
+    <tr><td>Distrito</td><td>Chorrillos </td></tr>
     <tr><td>Link del Video</td><td><a href="link">Ver Video</a></td></tr>
-    <tr><td>Minuto de Inicio</td><td>00:01</td></tr>
-    <tr><td>Duración</td><td>08:52 minutos</td></tr>
-    <tr><td>Imagen</td><td><img src="../assets/Foto_Entrevista111.png" alt="Entrevista 1" height="380"/></td></tr>
-    <tr><td>Resumen</td><td>El entrevistado .....</td></tr>
+    <tr><td>Minuto de Inicio</td><td>00:00</td></tr>
+    <tr><td>Duración</td><td>08:06 minutos</td></tr>
+    <tr><td>Imagen</td><td><img src="../images/Entrevista1_validation.png" alt="Entrevista 1" height="360"/></td></tr>
+    <tr><td>Resumen</td><td>El entrevistado expresó una impresión inicial positiva al ver el frontend de Flota365, destacando que la plataforma le generó confianza desde el inicio por su diseño profesional y organizado. Señaló que el objetivo de la herramienta estaba claro y entendió que se trata de una solución para gestionar flotas de manera eficiente, centralizando tareas como monitoreo, mantenimiento y asignación de vehículos. Indicó que la navegación le pareció bastante intuitiva y no encontró mayores confusiones, aunque sugirió que se podría mejorar la visibilidad de ciertos elementos informativos. Afirmó que explicaría la plataforma a un colega como “una herramienta integral para digitalizar y optimizar el control de vehículos y conductores”. El gestor consideró que Flota365 sería muy útil en su día a día, especialmente para reducir el uso de registros manuales y mejorar el seguimiento de las actividades de la flota. Respecto al diseño visual, lo calificó como bien balanceado, destacando que logra mantener una estética profesional sin saturar de información. Sobre la funcionalidad específica, dijo que registrar actividades en la app fue sencillo. Calculó que usar la app después de un recorrido no le tomaría más de 2 minutos, lo cual considera razonable.</td></tr>
 </table><br>
 
 
@@ -1348,7 +1348,7 @@ Es por ello que, a continuación, se detallarán las preguntas y los principales
     <tr><td>Link del Video</td><td><a href="link">Ver Video</a></td></tr>
     <tr><td>Minuto de Inicio</td><td>00:01</td></tr>
     <tr><td>Duración</td><td>08:52 minutos</td></tr>
-    <tr><td>Imagen</td><td><img src="../assets/Foto_Entrevista111.png" alt="Entrevista 1" height="380"/></td></tr>
+    <tr><td>Imagen</td><td><img src="../images/Entrevista2_validation.png" alt="Entrevista 1" height="380"/></td></tr>
     <tr><td>Resumen</td><td>El entrevistado .....</td></tr>
 </table><br>
 
