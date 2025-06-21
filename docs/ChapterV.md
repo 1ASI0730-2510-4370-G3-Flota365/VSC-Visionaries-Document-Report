@@ -672,9 +672,9 @@ El equipo de VSC-Visionaries desarrolló el *landing page* segmentado por ramas 
     </tbody>
 </table>
 
-<h4 id="sprintBacklog2">5.2.2.2. Sprint Backlog 1</h4>
+<h4 id="sprintBacklog2">5.2.2.2. Sprint Backlog 2</h4>
 <table border="1">
-  <caption>Sprint #1 </caption>
+  <caption>Sprint #2 </caption>
   <thead>
     <tr>
       <th colspan="2">User Story</th>
@@ -693,129 +693,253 @@ El equipo de VSC-Visionaries desarrolló el *landing page* segmentado por ramas 
   </thead>
   <tbody>
     <tr>
-      <td>US01</td>
-      <td>Visualizar información de la empresa</td>
-      <td>UT01</td>
-      <td>Redactar contenido institucional</td>
-      <td>Redactar misión, visión y propuesta de valor de InteLLi Idea.</td>
-      <td>2h</td>
-      <td>Gabriel Rivera</td>
+      <td>US07</td>
+      <td>Registro de nuevo usuario</td>
+      <td>EPic02</td>
+      <td>Interfaz de Registro</td>
+      <td>Implementar formulario para registrar nuevo usuario.</td>
+      <td>6</td>
+      <td>Renato Calvo</td>
       <td>Done</td>
     </tr>
     <tr>
-      <td>US01</td>
-      <td>Visualizar información de la empresa</td>
-      <td>UT02</td>
-      <td>Implementar sección "Sobre Nosotros"</td>
-      <td>Diseñar e integrar el contenido informativo en el landing page.</td>
-      <td>2h</td>
-      <td>Gabriel Rivera</td>
+      <td>US08</td>
+      <td>Alerta de cerrar sesion</td>
+      <td>EPic02</td>
+      <td>Mensaje de cerrar sesión</td>
+      <td>Implementar mensaje cuando se cierre la sesión.</td>
+      <td>4</td>
+      <td>Stephano Moscoso</td>
       <td>Done</td>
     </tr>
     <tr>
-      <td>US02</td>
-      <td>Mostrar imagen representativa</td>
-      <td>UT03</td>
-      <td>Seleccionar imagen representativa</td>
-      <td>Buscar y optimizar una imagen simbólica de la empresa.</td>
-      <td>1h</td>
-      <td>Camila</td>
+      <td>US09</td>
+      <td>Registro de vehiculo</td>
+      <td>EPic03</td>
+      <td>Interfaz de registro de vehiculo</td>
+      <td>Implementar formulario para que el gesto pueda
+         registrar el vehiculo</td>
+      <td>10</td>
+      <td>Ariana Ramirez</td>
       <td>Done</td>
     </tr>
     <tr>
-      <td>US02</td>
-      <td>Mostrar imagen representativa</td>
-      <td>UT04</td>
-      <td>Integrar imagen en la landing page</td>
-      <td>Ubicar la imagen en una sección destacada respetando el estilo visual.</td>
-      <td>1h</td>
-      <td>Camila</td>
+      <td>US10</td>
+      <td>Delegar de vehiculo</td>
+      <td>EPIC03</td>
+      <td>Opcion de asignar vehiculo</td>
+      <td>Implementar opcion en dashboard para asignar vehiculo</td>
+      <td>10</td>
+      <td>Raul Sanchez</td>
       <td>Done</td>
     </tr>
     <tr>
-      <td>US03</td>
-      <td>Mostrar ideas destacadas</td>
-      <td>UT05</td>
-      <td>Redactar descripciones de ideas destacadas</td>
-      <td>Preparar ejemplos de ideas subidas por usuarios, con texto atractivo.</td>
-      <td>2h</td>
-      <td>Camila</td>
+      <td>US12</td>
+      <td>Información conductor</td>
+      <td>EPic05</td>
+      <td>Interfaz de perfil </td>
+      <td>Implementar formulario para que el conductor
+       pueda ver su información</td>
+      <td>4</td>
+      <td>Jose Huamani</td>
       <td>Done</td>
     </tr>
     <tr>
-      <td>US03</td>
-      <td>Mostrar ideas destacadas</td>
-      <td>UT06</td>
-      <td>Implementar componente de ideas destacadas</td>
-      <td>Sección tipo "card grid" para mostrar ideas con métricas.</td>
-      <td>3h</td>
-      <td>Camila</td>
+      <td>US13</td>
+      <td>Reportar incidencia</td>
+      <td>EPIC04</td>
+      <td>Interfaz registro de incidencia</td>
+      <td>Implementar formulario para registrar indicencias en la ruta o con el auto. </td>
+      <td>10</td>
+      <td>Raul Sanchez</td>
       <td>Done</td>
     </tr>
     <tr>
-      <td>US04</td>
-      <td>Registro de ideas</td>
-      <td>UT07</td>
-      <td>Crear formulario para subir ideas</td>
-      <td>Formulario con campos para título, descripción, categoría, adjuntos.</td>
-      <td>3h</td>
+      <td>US14</td>
+      <td>Informacion del vehiculo</td>
+      <td>EPIC03</td>
+      <td>Interfaz de ver vehiculo</td>
+      <td>Implementar interfaz para poder ver la información del auto
+      y sus caracteristicas.</td>
+      <td>6</td>
+      <td>Renato Calvo y Ariana Ramirez</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>US15</td>
+      <td>Registro de combustible</td>
+      <td>EPIC05</td>
+      <td>Interfaz de registro de combustible</td>
+      <td>Formulario para poder registrar el tipo de combustible y cuanto se puso.</td>
+      <td>10</td>
+      <td>Stephano y Jose Huamani</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>US16</td>
+      <td>Registro de pausas</td>
+      <td>EPIC05</td>
+      <td>Interfaz registro de pausas</td>
+      <td>Formulario para poder registrar sus pausas o breaks en la ruta</td>
+      <td>4</td>
       <td>Stephano</td>
       <td>Done</td>
     </tr>
     <tr>
-      <td>US04</td>
-      <td>Registro de ideas</td>
-      <td>UT08</td>
-      <td>Conectar backend para guardar ideas</td>
-      <td>Integrar el formulario con una base de datos simulada.</td>
-      <td>3h</td>
+      <td>US18</td>
+      <td>Ver que vehículos están en uso</td>
+      <td>EPIC03</td>
+      <td>Interfaz de rutas</td>
+      <td>Pantalla para ver las rutas del carro donde esta.</td>
+      <td>10</td>
+      <td>Ariana Ramirez y Raul Sanchez</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>US20</td>
+      <td>Asignar mantenimiento</td>
+      <td>EPIC03</td>
+      <td>Opcion de estado</td>
+      <td>Implementar opcion de poner el auto en mantenimiento</td>
+      <td>10</td>
+      <td>Jose Diego</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>US21</td>
+      <td>Asignar técnico</td>
+      <td>EPIC03</td>
+      <td>Opcion para asignar tenico</td>
+      <td>Implementar una descripcion donde indique que mecanico esta 
+      viendo el auto en mantenimiento.</td>
+      <td>4</td>
       <td>Stephano</td>
       <td>Done</td>
     </tr>
     <tr>
-      <td>US05</td>
-      <td>Comparar categorías</td>
-      <td>UT09</td>
-      <td>Diseñar comparador de categorías</td>
-      <td>Mostrar popularidad, ideas y actividad por categoría.</td>
-      <td>2h</td>
-      <td>Romina</td>
+      <td>US22</td>
+      <td>	Cambio de contraseña</td>
+      <td>EPIC02</td>
+      <td>Interfaz de cambio de contraseña</td>
+      <td>Implementar formulario para poder recuperar contraseña</td>
+      <td>4</td>
+      <td>Jose Huamani</td>
       <td>Done</td>
     </tr>
-    <tr>
-      <td>US05</td>
-      <td>Comparar categorías</td>
-      <td>UT10</td>
-      <td>Implementar lógica de comparación</td>
-      <td>Visualización con gráficos o tabla interactiva.</td>
-      <td>3h</td>
-      <td>Romina</td>
+     <tr>
+      <td>US23</td>
+      <td>Estadísticas personales del conductor</td>
+      <td>EPIC05</td>
+      <td>Interfaz de informacion </td>
+      <td>Implementar formulario para que pueda ver la informacion de
+       su rendimiento.</td>
+      <td>6</td>
+      <td>Renato Calvo</td>
       <td>Done</td>
     </tr>
-    <tr>
-      <td>US06</td>
-      <td>Preguntas frecuentes (FAQs)</td>
-      <td>UT11</td>
-      <td>Redactar preguntas y respuestas frecuentes</td>
-      <td>Preguntas comunes sobre InteLLi Idea y su funcionamiento.</td>
-      <td>2h</td>
-      <td>Gabriel Mamani</td>
+     <tr>
+      <td>US24</td>
+      <td>Cambiar foto de perfil</td>
+      <td>EPIC02</td>
+      <td> Sección de foto de perfil</td>
+      <td>Implementar opcion para poder cambiar la foto de perfil.</td>
+      <td>2</td>
+      <td>Stephano</td>
       <td>Done</td>
     </tr>
-    <tr>
-      <td>US06</td>
-      <td>Preguntas frecuentes (FAQs)</td>
-      <td>UT12</td>
-      <td>Implementar sección de FAQs con acordeón</td>
-      <td>Diseño colapsable para mejor experiencia del usuario.</td>
-      <td>2h</td>
-      <td>Gabriel Mamani</td>
+      <tr>
+      <td>US25</td>
+      <td>Solicitud de cambio de turno</td>
+      <td>EPIC05</td>
+      <td>Opcion cambio de turno</td>
+      <td>Implementar una opcion para poder pedir un cambio de turno</td>
+      <td>4</td>
+      <td>Raul Sanchez</td>
+      <td>Done</td>
+    </tr>
+     <tr>
+      <td>US26</td>
+      <td>Visualización de vehículo asignado</td>
+      <td>EPIC05</td>
+      <td>Interfaz de asignaciones</td>
+      <td>Implementar formulario para ver que vehiculos han sido asignados.</td>
+      <td>4</td>
+      <td>Renato Calvo</td>
+      <td>Done</td>
+    </tr>
+     <tr>
+      <td>US27</td>
+      <td>Visualización de rutas completadas vs planificadas</td>
+      <td>EPIC06</td>
+      <td>Interfaz con filtros</td>
+      <td>Implementar un formulario con filtros para poder ver saber los cumplidos y los que aun no lo cumplen.</td>
+      <td>10</td>
+      <td>Jose Huamani</td>
+      <td>Done</td>
+    </tr>
+     <tr>
+      <td>US28</td>
+      <td>Análisis predictivo con IA</td>
+      <td>EPIC04</td>
+      <td>Interfaz de prediciones </td>
+      <td>Implementar diseño para poder analizar de forma predectiva con inteligencia artificial.</td>
+      <td>6</td>
+      <td>Raul Sanchez</td>
+      <td>Done</td>
+    </tr>
+      <tr>
+      <td>US29</td>
+      <td>Historial de análisis de IA</td>
+      <td>EPIC04</td>
+      <td>Interfaz de historial</td>
+      <td>Implementar formulario de historial para las informacion hecha por la IA.</td>
+      <td>8</td>
+      <td>Raul Sanchez</td>
+      <td>Done</td>
+    </tr>
+       <tr>
+      <td>US30</td>
+      <td>Filtros de reportes</td>
+      <td>EPIC06</td>
+      <td>filtros para reportes</td>
+      <td>Implementar formulario para el filtro de reportes que va a tener tipo de reporte,rango de fecha,vehiculos y formato de salida.</td>
+      <td>6</td>
+      <td>Ariana Ramirez</td>
+      <td>Done</td>
+    </tr>
+       <tr>
+      <td>US31</td>
+      <td>Limpieza de filtros</td>
+      <td>EPIC06</td>
+      <td>Limpieza de filtros</td>
+      <td>Implementar boton para poder limpiar filtro y volverlo a filtrar como en el inicio</td>
+      <td>4</td>
+      <td>Renato Calvo</td>
+      <td>Done</td>
+    </tr>
+     <tr>
+      <td>US32</td>
+      <td>Monitoreo de la flota</td>
+      <td>EPIC03</td>
+      <td>Gestionar flota</td>
+      <td>Implementar pantalla para gestionar la flota.poder añadir nuevas flotas,filtras flotas, ver el estado de las flotas y saber cuales son los principales
+      y cuales son los secundarios</td>
+      <td>10</td>
+      <td>Raul Sanchez y stephano</td>
+      <td>Done</td>
+    </tr>
+      <tr>
+      <td>US33</td>
+      <td>Exportar listado de vehículos</td>
+      <td>EPIC03</td>
+      <td>Interfaz de listado de vehiculos</td>
+      <td>Implementar pantalla para ver la lista de vehiculos tambien poder añadir más vehiculos como poder exportar y filtrar.</td>
+      <td>10</td>
+      <td>Jose Huamani y Raul Sanchez</td>
       <td>Done</td>
     </tr>
   </tbody>
 </table>
-
-
 
 <h4 id="developmentEvidenceSprint2">5.2.2.3. Development Evidence for Sprint Review</h4>
 <table border="1">
