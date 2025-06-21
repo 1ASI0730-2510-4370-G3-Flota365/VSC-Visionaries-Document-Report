@@ -1267,7 +1267,13 @@ De igual manera, se incluyen los enlaces de los repositorios.
 
 <h4 id="executionEvidenceSprint3">5.2.3.5. Execution Evidence for Sprint Review</h4>
 
-Para este apartado se presentará capturas de las vistas más relevantes que se llevaron a cabo en este tercer Sprint. Estas vienen a ser las siguientes:
+Para este apartado se presentará la captura de la documentación del RESTFul API, el cual se desarrollo en Swagger para este tercer Sprint. La finalidad es dar a conocer a cada uno de los desarrolladores que endpoints contiene el backend y a que servicio dentro del Web Application va a estar siendo insumido.
+
+<div align="center">
+    <img src="../images/swagger-Flota365-RESTFul API-Documentation.jpg" alt="Swagger API Documentatation - Flota 365" style="width:500px;" />
+</div>
+
+Para mayor detalle de cada uno de los endpoints, lo veremos con más detalle en el siguiente punto que viene a continuación.
 
 <h4 id="servicesDocumentationSprint3">5.2.3.6. Services Documentation Evidence for Sprint Review</h4>
 
@@ -1275,11 +1281,163 @@ En esta sección se presentan los *endpoints* desarrollados en el presente sprin
 
 Se ajunta el enlace del repositorio de la API en Github: <a href="https://github.com/1ASI0730-2510-4370-G3-Flota365/VSC-Visionaries-API">https://github.com/1ASI0730-2510-4370-G3-Flota365/VSC-Visionaries-API</a>
 
+
+<table border="1" style="border-collapse: collapse; text-align: left;">
+  <thead>
+    <tr>
+      <th>Bounded Context</th>
+      <td colspan="3">Auth</td>
+    </tr>
+    <tr>
+      <th>Entity</th>
+      <th>Endpoint URL</th>
+      <th>Swagger</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>User</td>
+      <td>/api/Auth/login</td>
+      <td>
+        <img src="../images/authentication-Endpoint.jpg" alt="Swagger API Authentication endpoints" style="width:500px;">
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<br>
+
+<table border="1" style="border-collapse: collapse; text-align: left;">
+  <thead>
+    <tr>
+      <th>Bounded Context</th>
+      <td colspan="3">Dashboard</td>
+    </tr>
+    <tr>
+      <th>Entity</th>
+      <th>Endpoint URL</th>
+      <th>Swagger</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>User</td>
+      <td>/api/Dashboard/stats</td>
+      <td>
+        <img src="../images/dashboard-Endpoint.jpg" alt="Swagger API Dashboard endpoints" style="width:500px;">
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<br>
+
+<table border="1" style="border-collapse: collapse; text-align: left;">
+  <thead>
+    <tr>
+      <th>Bounded Context</th>
+      <td colspan="3">Drivers</td>
+    </tr>
+    <tr>
+      <th>Entity</th>
+      <th>Endpoint URL</th>
+      <th>Swagger</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>User</td>
+      <td>/api/Drivers</td>
+      <td>
+        <img src="../images/drivers-Endpoint.jpg" alt="Swagger API Drivers endpoints" style="width:500px;">
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<br>
+
+<table border="1" style="border-collapse: collapse; text-align: left;">
+  <thead>
+    <tr>
+      <th>Bounded Context</th>
+      <td colspan="3">Vehicles</td>
+    </tr>
+    <tr>
+      <th>Entity</th>
+      <th>Endpoint URL</th>
+      <th>Swagger</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>User</td>
+      <td>/api/Vehicles</td>
+      <td>
+        <img src="../images/vehicles-Endpoint.jpg" alt="Swagger API Vehicles endpoints" style="width:500px;">
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<br>
+
+<table border="1" style="border-collapse: collapse; text-align: left;">
+  <thead>
+    <tr>
+      <th>Bounded Context</th>
+      <td colspan="3">Fleets</td>
+    </tr>
+    <tr>
+      <th>Entity</th>
+      <th>Endpoint URL</th>
+      <th>Swagger</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>User</td>
+      <td>/api/Fleets</td>
+      <td>
+        <img src="../images/fleets-Endpoint.jpg" alt="Swagger API Fleets endpoints" style="width:500px;">
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<br>
+
+<table border="1" style="border-collapse: collapse; text-align: left;">
+  <thead>
+    <tr>
+      <th>Bounded Context</th>
+      <td colspan="3">Maintenance</td>
+    </tr>
+    <tr>
+      <th>Entity</th>
+      <th>Endpoint URL</th>
+      <th>Swagger</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>User</td>
+      <td>/api/Maintenance/records</td>
+      <td>
+        <img src="../images/maintenance-Endpoint.jpg" alt="Swagger API Maintenance endpoints" style="width:500px;">
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+
 <h4 id="softwareDeploymentEvidenceSprint3">5.2.3.7. Software Deployment Evidence for Sprint Review</h4>
 
 Al igual que en el primer y segundo sprint, se siguió utilizando el servicio de *deploy* de *Firebase Hosting*. Por lo que se realizarán los mismo pasos mencionados en el anterior sprint con la única diferencia de que se seleccionará el nuevo repositorio de la aplicación.
 
-<img src="" alt="Flota365-Firebase-Hosting"/>
+<div align="center">
+    <img src="../images/Firebase-Hosting.png" alt="Flota365-Firebase-Hosting" style="width:600px;" />
+</div>
 
 <h4 id="teamCollaborationInsights3">5.2.3.8. Team Collaboration Insights during Sprint</h4>
 
