@@ -1248,15 +1248,49 @@ Adicional a la información presentada, se compartirá el resumen de nuestro pro
 
 <h4 id="sprintBacklog3">5.2.3.3. Sprint Backlog 3</h4>
 
+En esta sección se presentará el sprint backlog que se ha administrado en la plataforma **Trello**. Luego se muestra la tabla de las tareas que los miembros del equipo fueron asignados para su implementación.
+
+Link al board en **Trello**: <a herf="">trello</a>
+
 <h4 id="developmentEvidenceSprint3">5.2.3.4. Development Evidence for Sprint Review</h4>
+
+En esta sección se incluyen los *commits* realizados a los repositorios de **landing page**, **Web Application**, y **API** en Github. Sin embargo, debido a la gran cantidad de *commits* realizados, se presentarán los *commits* más relevantes para el proceso de desarrollo en cada repositorio.
+
+De igual manera, se incluyen los enlaces de los repositorios.
+
+* **Landing Page**: <a href="https://github.com/1ASI0730-2510-4370-G3-Flota365/VSC-Visionaries-Landing-Page?tab=readme-ov-file">https://github.com/1ASI0730-2510-4370-G3-Flota365/VSC-Visionaries-Landing-Page?tab=readme-ov-file</a>
+
+* **Web Application**: <a href="https://github.com/1ASI0730-2510-4370-G3-Flota365/VSC-Visionaries-Web-Application">https://github.com/1ASI0730-2510-4370-G3-Flota365/VSC-Visionaries-Web-Application</a>
+
+* **RESTFul API**: <a href="https://github.com/1ASI0730-2510-4370-G3-Flota365/VSC-Visionaries-API">https://github.com/1ASI0730-2510-4370-G3-Flota365/VSC-Visionaries-API</a>
+
 
 <h4 id="executionEvidenceSprint3">5.2.3.5. Execution Evidence for Sprint Review</h4>
 
+Para este apartado se presentará capturas de las vistas más relevantes que se llevaron a cabo en este tercer Sprint. Estas vienen a ser las siguientes:
+
 <h4 id="servicesDocumentationSprint3">5.2.3.6. Services Documentation Evidence for Sprint Review</h4>
+
+En esta sección se presentan los *endpoints* desarrollados en el presente sprint y se adjuntan captura de las acciones CRUD realizadas con **OpenAPI**.
+
+Se ajunta el enlace del repositorio de la API en Github: <a href="https://github.com/1ASI0730-2510-4370-G3-Flota365/VSC-Visionaries-API">https://github.com/1ASI0730-2510-4370-G3-Flota365/VSC-Visionaries-API</a>
 
 <h4 id="softwareDeploymentEvidenceSprint3">5.2.3.7. Software Deployment Evidence for Sprint Review</h4>
 
+Al igual que en el primer y segundo sprint, se siguió utilizando el servicio de *deploy* de *Firebase Hosting*. Por lo que se realizarán los mismo pasos mencionados en el anterior sprint con la única diferencia de que se seleccionará el nuevo repositorio de la aplicación.
+
+<img src="" alt="Flota365-Firebase-Hosting"/>
+
 <h4 id="teamCollaborationInsights3">5.2.3.8. Team Collaboration Insights during Sprint</h4>
+
+A continuación, se presentan los *insights* del trabajo grupal en Github.
+
+* Enlace del repositorio de Backend API - Flota 365: <a href="https://github.com/1ASI0730-2510-4370-G3-Flota365/VSC-Visionaries-API">https://github.com/1ASI0730-2510-4370-G3-Flota365/VSC-Visionaries-API</a>
+
+Para el caso de nuestro backend RESTFul API, se han implementado cada uno de los *endpoints* asociados con los bounded context core que insumirá nuestro web application para su funcionamiento.
+
+Asimismo, se preseta el Gitflow de las distintas ramas que se han trabajado para la implementación de features.
+
 
 <h3 id="validationInterviews">5.3. Validation Interviews</h3>
 
@@ -1323,17 +1357,17 @@ Es por ello que, a continuación, se detallarán las preguntas y los principales
 
 <table border="1" cellpadding="8" cellspacing="0">
     <tr><th colspan="2">Entrevista 1</th></tr>
-    <tr><td>Segmento Objetivo</td><td>...	</td></tr>
-    <tr><td>Fecha Entrevista</td><td>00/06/2025</td></tr>
-    <tr><td>Entrevistador</td><td>...</td></tr>
-    <tr><td>Entrevistado</td><td>...</td></tr>
-    <tr><td>Edad</td><td>... años</td></tr>
-    <tr><td>Distrito</td><td>....</td></tr>
+    <tr><td>Segmento Objetivo</td><td>Gestores de flota	</td></tr>
+    <tr><td>Fecha Entrevista</td><td>21/06/2025</td></tr>
+    <tr><td>Entrevistador</td><td>Ariana Ramirez Carrasco</td></tr>
+    <tr><td>Entrevistado</td><td>Billy Ruiz Madrid</td></tr>
+    <tr><td>Edad</td><td>27 años</td></tr>
+    <tr><td>Distrito</td><td>Chorrillos </td></tr>
     <tr><td>Link del Video</td><td><a href="link">Ver Video</a></td></tr>
-    <tr><td>Minuto de Inicio</td><td>00:01</td></tr>
-    <tr><td>Duración</td><td>08:52 minutos</td></tr>
-    <tr><td>Imagen</td><td><img src="../assets/Foto_Entrevista111.png" alt="Entrevista 1" height="380"/></td></tr>
-    <tr><td>Resumen</td><td>El entrevistado .....</td></tr>
+    <tr><td>Minuto de Inicio</td><td>00:00</td></tr>
+    <tr><td>Duración</td><td>08:06 minutos</td></tr>
+    <tr><td>Imagen</td><td><img src="../images/Entrevista1_validation.png" alt="Entrevista 1" height="360"/></td></tr>
+    <tr><td>Resumen</td><td>El entrevistado expresó una impresión inicial positiva al ver el frontend de Flota365, destacando que la plataforma le generó confianza desde el inicio por su diseño profesional y organizado. Señaló que el objetivo de la herramienta estaba claro y entendió que se trata de una solución para gestionar flotas de manera eficiente, centralizando tareas como monitoreo, mantenimiento y asignación de vehículos. Indicó que la navegación le pareció bastante intuitiva y no encontró mayores confusiones, aunque sugirió que se podría mejorar la visibilidad de ciertos elementos informativos. Afirmó que explicaría la plataforma a un colega como “una herramienta integral para digitalizar y optimizar el control de vehículos y conductores”. El gestor consideró que Flota365 sería muy útil en su día a día, especialmente para reducir el uso de registros manuales y mejorar el seguimiento de las actividades de la flota. Respecto al diseño visual, lo calificó como bien balanceado, destacando que logra mantener una estética profesional sin saturar de información. Sobre la funcionalidad específica, dijo que registrar actividades en la app fue sencillo. Calculó que usar la app después de un recorrido no le tomaría más de 2 minutos, lo cual considera razonable.</td></tr>
 </table><br>
 
 
@@ -1348,7 +1382,7 @@ Es por ello que, a continuación, se detallarán las preguntas y los principales
     <tr><td>Link del Video</td><td><a href="link">Ver Video</a></td></tr>
     <tr><td>Minuto de Inicio</td><td>00:01</td></tr>
     <tr><td>Duración</td><td>08:52 minutos</td></tr>
-    <tr><td>Imagen</td><td><img src="../assets/Foto_Entrevista111.png" alt="Entrevista 1" height="380"/></td></tr>
+    <tr><td>Imagen</td><td><img src="../images/Entrevista2_validation.png" alt="Entrevista 1" height="380"/></td></tr>
     <tr><td>Resumen</td><td>El entrevistado .....</td></tr>
 </table><br>
 
