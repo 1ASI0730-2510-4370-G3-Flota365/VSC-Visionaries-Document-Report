@@ -185,7 +185,7 @@
 
 En esta primera entrega (TB1), nuestro objetivo principal fue la creación de nuestra startup. Todos los miembros del equipo VSC-Visionaries participaron activamente en la elaboración del informe, utilizando herramientas colaborativas como GitHub, Figma, Trello, UXPressia, Miro, entre otros. A continuación, vamos a presentar los diagramas de flujo que representan los *commits* realizados por cada miembro del equipo VSC:
 
-<div align="center"
+<div align="center">  
     <img src="./images/Workflow-Report-VSC Visionaries.png" alt="Workflow Diagram - Report VSC-Visionaries" style="width:500px;" />
 </div>
 
@@ -195,17 +195,22 @@ En esta primera entrega (TB1), nuestro objetivo principal fue la creación de nu
 
 Para esta segunda entrega (TP), nuestro objetivo principal fue el desarrollo e implementación de nuestra primera versión de nuestro **Web Application**. Todos los miembros del equipo VSC-Visionaries participaron activamente en la elaboración del informe; lo cual, mediante el siguiente organigrama, veremos el progreso obtenido hasta la fecha del día de hoy:
 
-<div align="center"
+<div align="center">
     <img src="./images/Metrics-Report-Sprint2-VSC-Visionaries.png" alt="Workflow Diagram - Report VSC-Visionaries - Sprint 2" style="width:500px;" />
 </div>
 
 <br>
 
-<div align="center"
+<div align="center">
     <img src="./images/Indicators-Team-Progress-Report-Sprint2.png" alt="Indicators progress - Report VSC-Visionaries - Sprint 2" style="width:500px;" />
 </div>
 
-Este gráfico muestra la cantidad de *commits* realizados por cada integrante durante la elaboración del TP.
+
+**Reporte de colaboración de la entrega del TP:**
+
+Para esta tercera entrega (TB2), nuestro objetivo principal fue el desarrollo e implementación de nuestra primera versión del **RESTFul API**. Todos los miembros del equipo VSC-Visionaries participaron activamente en la elaboración del informe; lo cual, mediante el siguiente organigrama, veremos el progreso obtenido hasta la fecha del día de hoy:
+
+Este gráfico muestra la cantidad de *commits* realizados por cada integrante durante la elaboración del TB2.
 
 Estas evidencias demuestran una colaboración equilibrada y efectiva, con cada miembro aportando significativamente al desarrollo del informe.
 
