@@ -547,6 +547,19 @@ Contribuyó en las correcciones técnicas del frontend, asegurando que el diseñ
         En esta entrega, contribuyó con una entrevista a un nuevo usuario para perteneciente al sector de gerentes considerando opiniones y críticas constructivas a nuestro landing page y aplicación web.<br><br>
         <strong>Sánchez Cruz, Raúl Roberto</strong><br>
         Participó en el trabajo colaborativo del backend y frontend haciendo uso correcto de la herramienta Trello y la comunicación con el equipo al hacer merge en el repositorio con los últimos cambios (en la rama developer).<br><br>
+        <strong>TF:</strong><br>
+        <strong>Huamani Sánchez, José Diego</strong><br>
+        Desarrolló el .<br><br>
+        <strong>Calvo Yalan, Renato Guillermo</strong><br>
+        Para el desarrollo de la TF, desarrolló la .<br><br>
+        <strong>Moscoso Bejar, Angelo Stephano</strong><br>
+        Durante esta entrega se .<br><br>
+        <strong>Ramírez Carrasco, Ariana Lizeth</strong><br>
+        En esta entrega, contribuyó con .<br><br>
+        <strong>Sánchez Cruz, Raúl Roberto</strong><br>
+        Participó en el trabajo colaborativo del .<br><br>
+        <strong>Tantaleán Mesta, Guillermo Fabián</strong><br>
+        Participó en el trabajo colaborativo del .<br><br>
       </td>
       <td style="padding: 10px; border: 1px solid #ccc;">
         <strong>TB1:</strong><br>
@@ -555,6 +568,8 @@ Contribuyó en las correcciones técnicas del frontend, asegurando que el diseñ
         La colaboración conjunta en la creación de la landing page y la dedicación a las correcciones posteriores demostraron la capacidad del equipo para integrar habilidades y conocimientos, reforzando la cohesión y el compromiso con los objetivos del proyecto.<br><br>
         <strong>TB2:</strong><br>
         En una entrevista acerca de nuestra aplicación, es fundamental estar abiertos a críticas y opiniones sinceras. Al escuchar activamente a los usuarios y permitirles expresar sus puntos de vista, podemos identificar áreas de mejora y realizar ajustes para satisfacer mejor sus necesidades. La retroalimentación constructiva es una oportunidad valiosa para fortalecer nuestra aplicación y brindar una experiencia de usuario excepcional.<br><br>
+        <strong>TF:</strong><br>
+        Completar.<br><br>
       </td>
     </tr>
     <tr>
@@ -595,15 +610,30 @@ Participó en la organización y ejecución de las tareas de frontend y en la re
         Desarrolló el diseño de entrevistas y registro de las mismas para los entrevistados, por lo que adquirió un mejor conocimiento del sector de reclutamiento en el área de recursos humanos de una empresa.<br><br>
         <strong>Sánchez Cruz, Raúl Roberto</strong><br>
         Se encargó de agregar sus partes al frontend y el desarrollo del backend de manera colaborativa.<br><br>
+        <strong>TF:</strong><br>
+        <strong>Huamani Sánchez, José Diego</strong><br>
+        Desarrollé el .<br><br>
+        <strong>Calvo Yalan, Renato Guillermo</strong><br>
+        Desarrollé el .<br><br>
+        <strong>Moscoso Bejar, Angelo Stephano</strong><br>
+        Desarrollé el .<br><br>
+        <strong>Ramírez Carrasco, Ariana Lizeth</strong><br>
+        Desarrollé el .<br><br>
+        <strong>Sánchez Cruz, Raúl Roberto</strong><br>
+        Me encargé de .<br><br>
+        <strong>Tantaleán Mesta, Guillermo Fabián</strong><br>
+        Me encargé de .<br><br>
       </td>
       <td style="padding: 10px; border: 1px solid #ccc;">
         <strong>TB1:</strong><br>
         Gracias a una planificación compartida, al uso de metodologías centradas en el usuario y a la participación activa de todos los miembros, se logró construir un entorno colaborativo e inclusivo. Esto facilitó una comunicación fluida, una organización eficiente y el cumplimiento exitoso de los objetivos establecidos.<br><br>
         <strong>TP1:</strong><br>
-        El trabajo conjunto en la landing page, sumado a la mejora continua mediante correcciones colaborativas, fortaleció el ambiente inclusivo y colaborativo, facilitando la consecución de metas y tareas planificadas.<br><br>
+        El trabajo conjunto en la landing page, sumado a la mejora continua mediante correcciones colaborativas, fortaleció el ambiente inclusivo y colaborativo, facilitando la consecución de metas y tareas planificadas.
         <strong>TB2:</strong><br>
         La retroalimentación de los usuarios en la entrevista ha sido valiosa para mejorar nuestra aplicación y cumplir con
 sus necesidades. La comunicación interna y la priorización de tareas son clave para un desarrollo exitoso. El video about the product nos permitirá presentar un demo de nuestro producto a nuestros clientes potenciales, por lo que resulta indispensable al ser una primera vista de la aplicación.<br><br>        
+<strong>TF:</strong><br>
+        COMPLETAR.<br><br>        
       </td>
     </tr>
   </tbody>
