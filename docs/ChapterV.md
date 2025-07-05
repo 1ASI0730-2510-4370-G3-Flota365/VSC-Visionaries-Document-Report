@@ -1937,3 +1937,26 @@ Es por ello que, a continuación, se detallarán las preguntas y los principales
 <p align="center">
    Enlace del <strong>Video About-the-Product</strong>: <a href="https://youtu.be/sV1-ry60vWQ">https://youtu.be/sV1-ry60vWQ</a>
 </p>
+<h3 id="conclusiones">Conclusiones</h3>
+<p>Flota365 representa una solución integral para la gestión eficiente de flotas vehiculares, centralizando funcionalidades clave como mantenimiento, asignación de técnicos, monitoreo en tiempo real y análisis predictivo.</p>
+
+<p>La implementación de tecnologías modernas permite que el sistema sea escalable, modular y adaptable a diversos tipos de organizaciones que dependen de la logística de vehículos.</p>
+<p>El sistema Flota365 reduce la carga operativa manual y mejora la toma de decisiones al automatizar procesos clave como programación de mantenimientos y visualización de métricas.</p>
+<p>La cobertura de pruebas (unitarias e integradas) podría ampliarse, sobre todo en módulos críticos como mantenimiento predictivo y asignación de técnicos, para garantizar mayor confiabilidad del sistema ante cambios.</p>
+<h3 id="bibliografía">Bibliografía</h3>
+<p>Refactoring.Guru. (s.f.). Design patterns. https://refactoring.guru/es/design-patterns</p>
+<p>Gothelf, J., & Seiden, J. (2021). Lean UX: Designing great products with agile teams (3rd ed.). O’Reilly Media.</p>
+<p>Evans, E. (2004). Domain-driven design: Tackling complexity in the heart of software. Addison-Wesley.</p>
+<p>Vernon, V. (s.f.). Domain-driven design reference: Definitions and pattern summaries. https://domainlanguage.com/ddd/reference/</p>
+<p>Martin, R. C. (2017). Clean architecture: A craftsman's guide to software structure and design. Prentice Hall.</p>
+<h3 id="anexo">Anexos</h3>
+<p>About-the-Product: https://youtu.be/sV1-ry60vWQ</p>
+<p>About-the-Team:</p>
+<p>Deploy Landing Page:</p>
+<p>Deploy Frontend:</p>
+<p>Deploy Backend:</p>
+<p>Entrevistas:https://upcedupe-my.sharepoint.com/:v:/g/personal/u202110458_upc_edu_pe/Ede82TDtmpJKu7161WvAJToBrQZtT6ThjJrDnHf1YUjVQg?e=QdZZPn&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D</p>
+<p>Validación de entrevistas:</p>
+<p>Diagrama c4:</p>
+<p>Diagrama de clases del frontend:</p>
+<p>Diagrama de clases del Backend:</p>
