@@ -3,6 +3,12 @@ La introducción desempeña un papel fundamental en la estructuración y compren
 
 <h3 id="startupProfile">1.1. Startup Profile</h3>
 
+El perfil de la startup es un elemento fundamental para comprender la identidad y el rumbo estratégico de una empresa emergente. A través de este perfil, se revela su visión de futuro, sus valores esenciales y la propuesta de valor que la diferencia en el mercado competitivo.
+
+En esta sección se describen los aspectos clave que definen a la startup, incluyendo su origen, las motivaciones que impulsaron su creación, el problema específico que busca solucionar y el enfoque innovador que emplea para posicionarse frente a sus competidores.
+
+Asimismo, se analizan los objetivos a mediano y largo plazo, junto con las estrategias diseñadas para su crecimiento y consolidación dentro del sector. Entender estos elementos resulta vital para evaluar el potencial de la startup y el impacto que puede generar en su entorno.
+
 <h4 id="descriptionStartup">1.1.1. Descripción de la Startup</h4>
 
 En un mundo donde la tecnología avanza a un ritmo vertiginoso, Flota365 nace con una visión clara: transformar la forma en que las empresas gestionan sus flotas mediante soluciones tecnológicas inteligentes, escalables y de alta calidad. Nuestra misión es empoderar a empresas de todos los tamaños —desde pequeños emprendimientos hasta grandes corporaciones— con herramientas que optimizan la operación diaria, incrementan la productividad y reducen significativamente la carga operativa.
@@ -68,6 +74,15 @@ Ser la empresa líder en soluciones inteligentes para la gestión de flotas a ni
             <td style="width: 70%; border: 1px solid #FFF; padding: 10px; vertical-align: top;">
                 <strong>Raul Roberto Sanchez Cruz - (U201518942)</strong> - Ingeniería de Software<br><br>
               Estudiante de la Universidad Peruana de Ciencias Aplicadas. Empecé a trabajar desde los 16 años en soporte técnico y con el pasar de los años me incline por el desarrollo de software, actualmente vengo trabajando en desarrollo de aplicaciones web, implementación de data centers y de soluciones en la nube. Deseo contribuir con mi experiencia y compromiso para sacar adelante los proyectos académicos en los cuales participe.
+            </td>
+        </tr>
+        <tr>
+            <td style="width: 30%; border: 1px solid #FFF; padding: 10px; vertical-align: top;">
+                <img src="../images/fotoGuillermo - 1.jpeg" alt="Guillermo Tantaleán Foto" style="display: block; margin: 50 auto 0 auto;"/>
+            </td>
+            <td style="width: 70%; border: 1px solid #FFF; padding: 10px; vertical-align: top;">
+                <strong>Guillermo Tantaleán Mesta - (U202311958)</strong> - Ingeniería de Software<br><br>
+              Estudiante de la carrera de Ingeniería de Software de la Universidad Peruana de Ciencias Aplicadas, actualmente cursando el quinto ciclo. Cuento con experiencia en desarrollo de aplicaciones web y móviles en entornos Apple. Manejo lenguajes de programación como Swift, JavaScript, Java, entre otros. Me apasaiona el diseño, el liderazgo, y mantenerme actualizado en las novedades de mi industria.
             </td>
         </tr>
 </table>
