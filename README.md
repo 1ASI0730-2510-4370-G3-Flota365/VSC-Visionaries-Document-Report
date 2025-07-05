@@ -241,7 +241,7 @@ Para esta segunda entrega (TP), nuestro objetivo principal fue el desarrollo e i
 </div>
 
 
-**Reporte de colaboración de la entrega del TP:**
+**Reporte de colaboración de la entrega del TB2:**
 
 Para esta tercera entrega (TB2), nuestro objetivo principal fue el desarrollo e implementación de nuestra primera versión del **RESTFul API**. Todos los miembros del equipo VSC-Visionaries participaron activamente en la elaboración del informe; lo cual, mediante el siguiente organigrama, veremos el progreso obtenido hasta la fecha del día de hoy:
 
