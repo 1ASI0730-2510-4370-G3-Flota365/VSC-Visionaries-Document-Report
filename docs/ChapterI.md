@@ -75,6 +75,15 @@ Ser la empresa líder en soluciones inteligentes para la gestión de flotas a ni
               Estudiante de la Universidad Peruana de Ciencias Aplicadas. Empecé a trabajar desde los 16 años en soporte técnico y con el pasar de los años me incline por el desarrollo de software, actualmente vengo trabajando en desarrollo de aplicaciones web, implementación de data centers y de soluciones en la nube. Deseo contribuir con mi experiencia y compromiso para sacar adelante los proyectos académicos en los cuales participe.
             </td>
         </tr>
+        <tr>
+            <td style="width: 30%; border: 1px solid #FFF; padding: 10px; vertical-align: top;">
+                <img src="../images/fotoGuillermo - 1.jpeg" alt="Guillermo Tantaleán Foto" style="display: block; margin: 50 auto 0 auto;"/>
+            </td>
+            <td style="width: 70%; border: 1px solid #FFF; padding: 10px; vertical-align: top;">
+                <strong>Guillermo Tantaleán Mesta - (U202311958)</strong> - Ingeniería de Software<br><br>
+              Estudiante de la carrera de Ingeniería de Software de la Universidad Peruana de Ciencias Aplicadas, actualmente cursando el quinto ciclo. Cuento con experiencia en desarrollo de aplicaciones web y móviles en entornos Apple. Manejo lenguajes de programación como Swift, JavaScript, Java, entre otros. Me apasaiona el diseño, el liderazgo, y mantenerme actualizado en las novedades de mi industria.
+            </td>
+        </tr>
 </table>
 
 <h3 id="solutionProfile">1.2. Solution Profile</h4>
