@@ -249,6 +249,21 @@ Este gráfico muestra la cantidad de *commits* realizados por cada integrante du
 
 Estas evidencias demuestran una colaboración equilibrada y efectiva, con cada miembro aportando significativamente al desarrollo del informe.
 
+**Reporte de colaboración de la entrega del TF:**
+
+Para esta cuarta y última entrega (TF), nuestro objetivo principal fue la implementación y despliegue de las versiones finales del web services, database y frontend web app. Todos los miembros del equipo VSC-Visionaries participaron activamente en la elaboración del informe; lo cual, mediante el siguiente organigrama, veremos el progreso obtenido hasta la fecha del día de hoy:
+
+<!-- Editar imágenes a las correctas-->
+<div align="center">
+    <img src="./images/Metrics-Report-Sprint2-VSC-Visionaries.png" alt="Workflow Diagram - Report VSC-Visionaries - Sprint 2" style="width:500px;" />
+</div>
+
+<br>
+
+<div align="center">
+    <img src="./images/Indicators-Team-Progress-Report-Sprint2.png" alt="Indicators progress - Report VSC-Visionaries - Sprint 2" style="width:500px;" />
+</div>
+
 ## Contenido
 
 <a href="#introduction">CAPÍTULO 1: INTRODUCCIÓN</a>
