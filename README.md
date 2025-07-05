@@ -33,6 +33,8 @@
     <br><br>
     Sanchez Cruz, Raul Roberto - U201518942
     <br><br>
+    Tantaleán Mesta, Guillermo Fabián - U202311958
+    <br><br>
   </p>
   <h3>Mayo, 2025</h3>
 </div>
