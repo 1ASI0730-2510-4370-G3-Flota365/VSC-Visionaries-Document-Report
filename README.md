@@ -173,6 +173,39 @@
             <td>Redacción del análisis de heurísticas de la aplicación.</td>
         </tr> 
     </tbody>
+    <tbody>
+        <tr>
+            <td rowspan="14">TF</td>
+            <td>/07/2025</td>
+            <td>José Diego Huamani Sánchez</td>
+            <td>Desarrollo del Sprint Planning, descripción del Team Collaboration Insights</td>
+        </tr>
+        <tr>
+            <td>/07/2025</td>
+            <td>Ariana Ramirez Carrasco</td>
+            <td>Desarrollo del subcapítulo: 5.3 Validation Interviews - Diseño de Entrevistas. </td>
+        </tr>
+        <tr>
+            <td>/07/2025</td>
+            <td>Renato Calvo Yalan</td>
+            <td>Mejora continua en el capítulo IV, actualización Backlog y actualización de Diagrama de clases.</td>
+        </tr>
+        <tr>
+            <td>/07/2025</td>
+            <td>Raul Cruz Sanchez</td>
+            <td>Mejora continua en las historias de usuario y sprint planning.</td>
+        </tr>
+        <tr>
+            <td>/07/2025</td>
+            <td>Stephano Moscoso</td>
+            <td>Redacción del análisis de heurísticas de la aplicación.</td>
+        </tr> 
+        <tr>
+            <td>04/07/2025</td>
+            <td>Guillermo Tantaleán</td>
+            <td>Correcciones del informe y agregados del sprint 4.</td>
+        </tr> 
+    </tbody>
 </table>
 
 ## Project Report Collaboration Insights
