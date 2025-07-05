@@ -454,35 +454,14 @@ Puede filtrar por conductor, zona o fecha.</td><td>6</td></tr>
 <h3 id="impactMapping">3.3. Impact Mapping</h3>
 
 <table border="1" cellpadding="6" cellspacing="0">
-<table border="1" cellpadding="6" cellspacing="0">
-  <thead>
-    <tr>
-      <th>Meta (Goal)</th>
-      <th>Actor</th>
-      <th>Impacto esperado</th>
-      <th>User Stories (Entregables)</th>
-      <th>Meta (Goal)</th>
-      <th>Actor</th>
-      <th>Impacto esperado</th>
-      <th>User Stories (Entregables)</th>
-    </tr>
-  </thead>
   <tbody>
     <tr>
       <td>Mejorar la experiencia de navegación y conversión</td>
       <td>Visitante / Gestor</td>
       <td>Comprender el valor de la plataforma y navegar desde cualquier dispositivo</td>
       <td>US01, US02, US03, US04, US05, US06, US11</td>
-      <td>Mejorar la experiencia de navegación y conversión</td>
-      <td>Visitante / Gestor</td>
-      <td>Comprender el valor de la plataforma y navegar desde cualquier dispositivo</td>
-      <td>US01, US02, US03, US04, US05, US06, US11</td>
     </tr>
     <tr>
-      <td>Facilitar el acceso a la plataforma</td>
-      <td>Gestor / Conductor</td>
-      <td>Registrarse, personalizar y proteger su cuenta</td>
-      <td>US07, US08, US22, US24</td>
       <td>Facilitar el acceso a la plataforma</td>
       <td>Gestor / Conductor</td>
       <td>Registrarse, personalizar y proteger su cuenta</td>
@@ -504,11 +483,7 @@ Puede filtrar por conductor, zona o fecha.</td><td>6</td></tr>
       <td>Autonomía y eficiencia operativa del conductor</td>
       <td>Conductor</td>
       <td>Consultar información, registrar acciones y ver su desempeño</td>
-      <td>US12, US15, US16, US23, US25, US26</td>
-      <td>Autonomía y eficiencia operativa del conductor</td>
-      <td>Conductor</td>
-      <td>Consultar información, registrar acciones y ver su desempeño</td>
-      <td>US12, US15, US16, US23, US25, US26</td>
+      <td>US12, US15, US16, US23, US25, US26</td
     </tr>
     <tr>
       <td>Control logístico del desempeño</td>
@@ -529,13 +504,9 @@ Puede filtrar por conductor, zona o fecha.</td><td>6</td></tr>
 
 
 <h3 id="productBacklog">3.4. Product Backlog</h3>
-
-
-<table border="1" class="dataframe">
-<table border="1" class="dataframe">
+<table>
   <thead>
-    <tr style="text-align: right;">
-    <tr style="text-align: right;">
+    <tr>
       <th>#Orden</th>
       <th>User Story ID</th>
       <th>Título</th>
@@ -544,250 +515,48 @@ Puede filtrar por conductor, zona o fecha.</td><td>6</td></tr>
     </tr>
   </thead>
   <tbody>
-    <tr>
-      <td>1</td>
-      <td>US06</td>
-      <td>Vista de developers</td>
-      <td>Como gestor, quiero saber quiénes son los desarrolladores, para tener mayor confianza en la plataforma.</td>
-      <td>1</td>
-    </tr>
-    <tr>
-      <td>2</td>
-      <td>US11</td>
-      <td>Footer informativo</td>
-      <td>Como gestor, quiero ver un footer con información útil, para conocer términos, contactos y redes sociales.</td>
-      <td>1</td>
-    </tr>
-    <tr>
-      <td>3</td>
-      <td>US24</td>
-      <td>Cambiar foto de perfil</td>
-      <td>Como conductor o gestor, quiero cambiar mi foto de perfil, para personalizar mi cuenta.</td>
-      <td>1</td>
-    </tr>
-    <tr>
-      <td>4</td>
-      <td>US01</td>
-      <td>Landing Page informativa</td>
-      <td>Como gestor, quiero ver información sobre la empresa, para decidir si la plataforma es confiable.</td>
-      <td>2</td>
-    </tr>
-    <tr>
-      <td>5</td>
-      <td>US05</td>
-      <td>Tema de colores</td>
-      <td>Como gestor o conductor, deseo cambiar el tema de colores, para personalizar la interfaz a mi gusto.</td>
-      <td>2</td>
-    </tr>
-    <tr>
-      <td>6</td>
-      <td>US08</td>
-      <td>Alerta de cerrar sesión</td>
-      <td>Como gestor o conductor, deseo recibir una alerta al cerrar sesión, para asegurarse de cerrar correctamente y evitar accesos no deseados.</td>
-      <td>2</td>
-    </tr>
-    <tr>
-      <td>7</td>
-      <td>US12</td>
-      <td>Información del conductor</td>
-      <td>Como conductor quiero ver mis datos personales para saber que están correctos.</td>
-      <td>2</td>
-    </tr>
-    <tr>
-      <td>8</td>
-      <td>US16</td>
-      <td>Registro de pausas</td>
-      <td>Como conductor, quiero registrar descansos o pausas durante el servicio, para que queden reflejados en la asignación.</td>
-      <td>2</td>
-    </tr>
-    <tr>
-      <td>9</td>
-      <td>US17</td>
-      <td>Confirmación de evidencia</td>
-      <td>Como conductor, quiero recibir una confirmación cuando se registra mi evidencia de uso, para asegurarme de que fue enviada correctamente.</td>
-      <td>2</td>
-    </tr>
-    <tr>
-      <td>10</td>
-      <td>US21</td>
-      <td>Asignar técnico</td>
-      <td>Como gestor de flota, quiero asignar técnicos a órdenes de mantenimiento, para asegurar que las tareas se realicen a tiempo.</td>
-      <td>2</td>
-    </tr>
-    <tr>
-      <td>11</td>
-      <td>US22</td>
-      <td>Cambio de contraseña</td>
-      <td>Como conductor o gestor, quiero cambiar mi contraseña, para mantener mi cuenta segura.</td>
-      <td>2</td>
-    </tr>
-    <tr>
-      <td>12</td>
-      <td>US25</td>
-      <td>Solicitud de cambio de turno</td>
-      <td>Como conductor, quiero solicitar un cambio de turno, para organizar mejor mi jornada.</td>
-      <td>2</td>
-    </tr>
-    <tr>
-      <td>13</td>
-      <td>US26</td>
-      <td>Visualización de vehículo asignado</td>
-      <td>Como conductor, quiero ver claramente cuál es mi vehículo asignado del día, para evitar confusiones.</td>
-      <td>2</td>
-    </tr>
-    <tr>
-      <td>14</td>
-      <td>US23</td>
-      <td>Estadísticas del conductor</td>
-      <td>Como conductor, quiero ver mis estadísticas de rendimiento, para mejorar mi desempeño.</td>
-      <td>3</td>
-    </tr>
-    <tr>
-      <td>15</td>
-      <td>US14</td>
-      <td>Información del vehículo</td>
-      <td>Como conductor, quiero consultar el estado técnico del vehículo antes de usarlo, para asegurarme de que está en condiciones.</td>
-      <td>3</td>
-    </tr>
-    <tr>
-      <td>16</td>
-      <td>US02</td>
-      <td>Responsive</td>
-      <td>Como gestor o conductor, quiero que la página sea responsive, para usarla cómodamente desde cualquier dispositivo.</td>
-      <td>3</td>
-    </tr>
-    <tr>
-      <td>17</td>
-      <td>US04</td>
-      <td>Switcher de idiomas</td>
-      <td>Como gestor o conductor, quiero poder cambiar el idioma entre español e inglés, para entender el contenido fácilmente.</td>
-      <td>3</td>
-    </tr>
-    <tr>
-      <td>18</td>
-      <td>US07</td>
-      <td>Registro de nuevo usuario</td>
-      <td>Como gestor, quiero registrarme en la plataforma, para probar las funcionalidades y evaluar su utilidad.</td>
-      <td>3</td>
-    </tr>
-    <tr>
-      <td>19</td>
-      <td>US20</td>
-      <td>Asignar mantenimiento</td>
-      <td>Como gestor de flota, quiero asignar mantenimiento preventivo para evitar fallas futuras.</td>
-      <td>5</td>
-    </tr>
-    <tr>
-      <td>20</td>
-      <td>US03</td>
-      <td>Comparador de planes</td>
-      <td>Como gestor, deseo comparar los planes disponibles, para elegir el más adecuado para mi empresa.</td>
-      <td>5</td>
-    </tr>
-    <tr>
-      <td>21</td>
-      <td>US09</td>
-      <td>Registro de vehículo</td>
-      <td>Como gestor quiero registrar los vehículos para saber cuántos hay.</td>
-      <td>5</td>
-    </tr>
-    <tr>
-      <td>22</td>
-      <td>US10</td>
-      <td>Delegar vehículo</td>
-      <td>Como gestor quiero delegar un vehiculo a un conductor para que él pueda usarlo.</td>
-      <td>5</td>
-    </tr>
-    <tr>
-      <td>23</td>
-      <td>US13</td>
-      <td>Reportar incidencia</td>
-      <td>Como conductor, quiero reportar un incidente durante el uso del vehículo, para notificar al gestor de cualquier problema.</td>
-      <td>5</td>
-    </tr>
-    <tr>
-      <td>24</td>
-      <td>US15</td>
-      <td>Registro de combustible</td>
-      <td>Como conductor, quiero registrar el combustible cargado al vehículo, para llevar control del consumo.</td>
-      <td>5</td>
-    </tr>
-    <tr>
-      <td>25</td>
-      <td>US18</td>
-      <td>Ver vehículos en uso</td>
-      <td>Como gestor de flota, quiero ver qué vehículos están en uso, para tomar decisiones rápidamente.</td>
-      <td>5</td>
-    </tr>
-    <tr>
-      <td>26</td>
-      <td>US19</td>
-      <td>Resolver incidencias</td>
-      <td>Como gestor de flota, quiero saber si hay incidencias, para resolverlas lo más rápido que se pueda.</td>
-      <td>5</td>
-    </tr>
-    <tr>
-      <td>27</td>
-      <td>US27</td>
-      <td>Rutas completadas vs planificadas</td>
-      <td>Como gestor, quiero ver cuántas rutas fueron completadas frente a las planificadas, para evaluar cumplimiento.</td>
-      <td>5</td>
-    </tr>
-      <tr>
-      <td>28</td>
-      <td>US32</td>
-      <td>Monitoreo de la flota	</td>
-      <td>Como gestor quiero monitorear la flota para saber el estado del vehículo.	
-</td>
-      <td>5</td>
-    </tr>
-      <tr>
-      <td>29</td>
-      <td>US33</td>
-      <td>Exportar reporte</td>
-      <td>Como gestor quiero exportar el listado de vehículos para poder tener un reporte en físico.</td>
-      <td>5</td>
-  <tr>
-      <td>30</td><td>US28</td><td>Análisis predictivo con IA</td><td>Como gestor quiero predicciones de posibles fallos o problemas usando IA.</td><td>8</td>
-    </tr>
-    <tr>
-      <td>31</td><td>US29</td><td>Historial de análisis de IA</td><td>Como gestor quiero un historial de los análisis hechos por la inteligencia artificial.</td><td>3</td>
-    </tr>
-    <tr>
-      <td>32</td><td>US30</td><td>Filtros de reportes</td><td>Como gestor quiero filtros en los reportes por fecha, vehículo, etc.</td><td>5</td>
-    </tr>
-    <tr>
-      <td>33</td><td>US31</td><td>Limpieza de filtros</td><td>Como gestor quiero limpiar los filtros aplicados a los reportes.</td><td>2</td>
-    </tr>
-    <tr>
-      <td>34</td><td>US34</td><td>Inicio de sesión con validación</td><td>Como desarrollador, quiero implementar el formulario y validación de login.</td><td>3</td>
-    </tr>
-    <tr>
-      <td>35</td><td>US35</td><td>Registro de usuarios</td><td>Como desarrollador, quiero implementar el endpoint de registro.</td><td>3</td>
-    </tr>
-    <tr>
-      <td>36</td><td>US36</td><td>Inicio de sesión con JWT</td><td>Como desarrollador, quiero implementar login que retorne token JWT.</td><td>5</td>
-    </tr>
-    <tr>
-      <td>37</td><td>US37</td><td>Middleware de autenticación</td><td>Como desarrollador, quiero validar JWT en las rutas protegidas.</td><td>5</td>
-    </tr>
-    <tr>
-      <td>38</td><td>US38</td><td>CRUD de vehículos</td><td>Como desarrollador, quiero crear, leer, actualizar y borrar vehículos.</td><td>8</td>
-    </tr>
-    <tr>
-      <td>39</td><td>US39</td><td>Asignación de vehículo a conductor</td><td>Como desarrollador, quiero guardar la relación entre conductor y vehículo.</td><td>5</td>
-    </tr>
-    <tr>
-      <td>40</td><td>US40</td><td>Historial de incidencias</td><td>Como desarrollador, quiero permitir crear y consultar incidencias.</td><td>5</td>
-    </tr>
-    <tr>
-      <td>41</td><td>US41</td><td>Reporte de consumo de combustible</td><td>Como desarrollador, quiero grabar el consumo de combustible por vehículo y conductor.</td><td>5</td>
-    </tr>
-    <tr>
-      <td>42</td><td>US42</td><td>Historial de mantenimientos</td><td>Como desarrollador, quiero listar mantenimientos por vehículo con filtros.</td><td>5</td>
-    </tr>
-    <tr>
-      <td>43</td><td>US43</td><td>Exportación de reportes (Excel o PDF)</td><td>Como desarrollador, quiero generar y descargar reportes en formatos Excel o PDF.</td><td>5</td>
-    </tr>
+    <tr><td>1</td><td>US01</td><td>Landing Page informativa</td><td>Como gestor, quiero ver información sobre la empresa, para decidir si la plataforma es confiable.</td><td>2</td></tr>
+    <tr><td>2</td><td>US03</td><td>Comparador de planes</td><td>Como gestor, deseo comparar los planes disponibles, para elegir el más adecuado para mi empresa.</td><td>5</td></tr>
+    <tr><td>3</td><td>US06</td><td>Vista de developers</td><td>Como gestor, quiero saber quiénes son los desarrolladores, para tener mayor confianza.</td><td>1</td></tr>
+    <tr><td>4</td><td>US11</td><td>Footer informativo</td><td>Como gestor, quiero ver un footer con información útil.</td><td>1</td></tr>
+    <tr><td>5</td><td>US04</td><td>Switcher de idiomas</td><td>Como gestor o conductor, quiero poder cambiar el idioma.</td><td>3</td></tr>
+    <tr><td>6</td><td>US02</td><td>Responsive</td><td>Como gestor o conductor, quiero que la página sea responsive.</td><td>3</td></tr>
+    <tr><td>7</td><td>US07</td><td>Registro de nuevo usuario</td><td>Como gestor, quiero registrarme en la plataforma.</td><td>3</td></tr>
+    <tr><td>8</td><td>US05</td><td>Tema de colores</td><td>Como gestor o conductor, deseo cambiar el tema de colores.</td><td>2</td></tr>
+    <tr><td>9</td><td>US08</td><td>Alerta de cerrar sesión</td><td>Como gestor o conductor, deseo recibir una alerta al cerrar sesión.</td><td>2</td></tr>
+    <tr><td>10</td><td>US12</td><td>Información del conductor</td><td>Como conductor quiero ver mis datos personales.</td><td>2</td></tr>
+    <tr><td>11</td><td>US14</td><td>Información del vehículo</td><td>Como conductor, quiero consultar el estado técnico del vehículo.</td><td>3</td></tr>
+    <tr><td>12</td><td>US16</td><td>Registro de pausas</td><td>Como conductor, quiero registrar descansos o pausas.</td><td>2</td></tr>
+    <tr><td>13</td><td>US17</td><td>Confirmación de evidencia</td><td>Como conductor, quiero recibir una confirmación al registrar evidencia.</td><td>2</td></tr>
+    <tr><td>14</td><td>US18</td><td>Ver vehículos en uso</td><td>Como gestor de flota, quiero ver qué vehículos están en uso.</td><td>5</td></tr>
+    <tr><td>15</td><td>US19</td><td>Resolver incidencias</td><td>Como gestor de flota, quiero saber si hay incidencias.</td><td>5</td></tr>
+    <tr><td>16</td><td>US10</td><td>Delegar vehículo</td><td>Como gestor quiero delegar un vehículo a un conductor.</td><td>5</td></tr>
+    <tr><td>17</td><td>US09</td><td>Registro de vehículo</td><td>Como gestor quiero registrar los vehículos.</td><td>5</td></tr>
+    <tr><td>18</td><td>US13</td><td>Reportar incidencia</td><td>Como conductor, quiero reportar un incidente.</td><td>5</td></tr>
+    <tr><td>19</td><td>US15</td><td>Registro de combustible</td><td>Como conductor, quiero registrar el combustible cargado.</td><td>5</td></tr>
+    <tr><td>20</td><td>US21</td><td>Asignar técnico</td><td>Como gestor de flota, quiero asignar técnicos.</td><td>2</td></tr>
+    <tr><td>21</td><td>US22</td><td>Cambio de contraseña</td><td>Como conductor o gestor, quiero cambiar mi contraseña.</td><td>2</td></tr>
+    <tr><td>22</td><td>US23</td><td>Estadísticas del conductor</td><td>Como conductor, quiero ver mis estadísticas.</td><td>3</td></tr>
+    <tr><td>23</td><td>US24</td><td>Cambiar foto de perfil</td><td>Como conductor o gestor, quiero cambiar mi foto de perfil.</td><td>1</td></tr>
+    <tr><td>24</td><td>US25</td><td>Solicitud de cambio de turno</td><td>Como conductor, quiero solicitar un cambio de turno.</td><td>2</td></tr>
+    <tr><td>25</td><td>US26</td><td>Visualización de vehículo asignado</td><td>Como conductor, quiero ver cuál es mi vehículo asignado.</td><td>2</td></tr>
+    <tr><td>26</td><td>US27</td><td>Rutas completadas vs planificadas</td><td>Como gestor, quiero ver rutas completadas vs planificadas.</td><td>5</td></tr>
+    <tr><td>27</td><td>US28</td><td>Análisis predictivo con IA</td><td>Como gestor quiero predicciones de fallos usando IA.</td><td>8</td></tr>
+    <tr><td>28</td><td>US29</td><td>Historial de análisis de IA</td><td>Como gestor quiero un historial de análisis de IA.</td><td>3</td></tr>
+    <tr><td>29</td><td>US30</td><td>Filtros de reportes</td><td>Como gestor quiero filtros en los reportes.</td><td>5</td></tr>
+    <tr><td>30</td><td>US31</td><td>Limpieza de filtros</td><td>Como gestor quiero limpiar los filtros.</td><td>2</td></tr>
+    <tr><td>31</td><td>US32</td><td>Monitoreo de la flota</td><td>Como gestor quiero monitorear la flota.</td><td>5</td></tr>
+    <tr><td>32</td><td>US33</td><td>Exportar reporte</td><td>Como gestor quiero exportar listado de vehículos.</td><td>5</td></tr>
+    <tr><td>33</td><td>US34</td><td>Inicio de sesión con validación</td><td>Como desarrollador, quiero implementar login con validación.</td><td>3</td></tr>
+    <tr><td>34</td><td>US35</td><td>Registro de usuarios</td><td>Como desarrollador, quiero implementar el endpoint de registro.</td><td>3</td></tr>
+    <tr><td>35</td><td>US36</td><td>Inicio de sesión con JWT</td><td>Como desarrollador, quiero login con token JWT.</td><td>5</td></tr>
+    <tr><td>36</td><td>US37</td><td>Middleware de autenticación</td><td>Como desarrollador, quiero validar JWT.</td><td>5</td></tr>
+    <tr><td>37</td><td>US38</td><td>CRUD de vehículos</td><td>Como desarrollador, quiero CRUD de vehículos.</td><td>8</td></tr>
+    <tr><td>38</td><td>US39</td><td>Asignación de vehículo a conductor</td><td>Como desarrollador, quiero guardar relación conductor-vehículo.</td><td>5</td></tr>
+    <tr><td>39</td><td>US40</td><td>Historial de incidencias</td><td>Como desarrollador, quiero registrar incidencias.</td><td>5</td></tr>
+    <tr><td>40</td><td>US41</td><td>Reporte de consumo de combustible</td><td>Como desarrollador, quiero grabar el consumo de combustible.</td><td>5</td></tr>
+    <tr><td>41</td><td>US42</td><td>Historial de mantenimientos</td><td>Como desarrollador, quiero listar mantenimientos con filtros.</td><td>5</td></tr>
+    <tr><td>42</td><td>US43</td><td>Exportación de reportes (Excel o PDF)</td><td>Como desarrollador, quiero exportar reportes en Excel o PDF.</td><td>5</td></tr>
+    <tr><td>43</td><td>US20</td><td>Validación de datos de pausas</td><td>Como desarrollador, quiero validar datos de pausas ingresados por el conductor.</td><td>3</td></tr>
   </tbody>
 </table>
