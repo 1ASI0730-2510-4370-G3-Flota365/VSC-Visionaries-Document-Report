@@ -6,9 +6,6 @@ En esta sección se presenta la identificación y descripción de los principale
 
 Se han identificado los siguientes competidores directos de Flota 365, todos con presencia en el mercado latinoamericano y con soluciones digitales para la gestión de flotas:
 
-**- AFE Logistics**
-
-Empresa peruana que ofrece servicios de transporte de carga, almacenaje, courier y comercio exterior.
 
 **- RDA Mobility**
 
@@ -44,10 +41,22 @@ El análisis competitivo tiene como finalidad profundizar en el conocimiento que
     </tr>
     <tr>
         <td colspan="3"></td>
-        <td><strong>Flota 365</strong></td>
-        <td><strong>RDA Mobility</strong></td>
-        <td><strong>Geotab</strong></td>
-        <td><strong>iLab Perú</strong></td>
+        <td style="text-align:center;">
+            <strong>Flota 365</strong><br>
+            <img src="../images/Flota365-Branding.jpg" alt="Flota 365 Logo" style="width:100px;">
+        </td>
+        <td style="text-align:center;">
+            <strong>RDA Mobility</strong><br>
+            <img src="../images/rdamobility-logo.jpg" alt="RDA Mobility Logo" style="width:100px;">
+        </td>
+        <td style="text-align:center;">
+            <strong>Geotab</strong><br>
+            <img src="../images/geotab-logo.png" alt="Geotab Logo" style="width:100px;">
+        </td>
+        <td style="text-align:center;">
+            <strong>iLab Perú</strong><br>
+            <img src="../images/ilabperu_logo.png" alt="iLab Perú Logo" style="width:100px;">
+        </td>
     </tr>
     <tr>
         <td rowspan="2">Perfil</td>
