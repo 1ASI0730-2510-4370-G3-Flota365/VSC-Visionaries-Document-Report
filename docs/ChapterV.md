@@ -385,6 +385,10 @@ En esta sección, se presentará el sprint planning 1 donde se describirá de ma
 
 En esta sección, se evidencia cada uno de los *taks* que se realizaron en el presente Sprint. Por tal motivo, se adjunta la captura de nuestros **Scrum Board** con su respectivo enlace al **Trello**.
 
+<div align="center">
+  <img src="../images/VSC-Visionaries - Sprint 1.png" alt="Sprint Backlog #1 - VSC Visionaries" style="width:500px;"/>
+</div>
+
 **Link al Scrum Board - Trello**: <a href="https://trello.com/invite/b/68259d1a08942cd86db4be0d/ATTIef5ecb7105d09d77b4ea8488b765dd52040FD3F5/sprint-1-vsc-visionaries">https://trello.com/invite/b/68259d1a08942cd86db4be0d/ATTIef5ecb7105d09d77b4ea8488b765dd52040FD3F5/sprint-1-vsc-visionaries</a>
 
 <table border="1" cellpadding="5" cellspacing="0">
@@ -673,6 +677,15 @@ El equipo de VSC-Visionaries desarrolló el *landing page* segmentado por ramas 
 </table>
 
 <h4 id="sprintBacklog2">5.2.2.2. Sprint Backlog 2</h4>
+
+En esta sección, se evidencia cada uno de los *taks* que se realizaron en el presente Sprint. Por tal motivo, se adjunta la captura de nuestros **Scrum Board** con su respectivo enlace al **Trello**.
+
+<div align="center">
+  <img src="../images/VSC-Visionaries - Sprint 2.png" alt="Sprint Backlog #2 - VSC Visionaries" style="width:500px;"/>
+</div>
+
+**Link al Scrum Board - Trello**: <a href="https://trello.com/invite/b/68259a00f3d643c0a0df5801/ATTIb4bb10274bd4b733202a4864f7d64cce548C4FA9/sprint-2-vsc-visionaries">https://trello.com/invite/b/68259a00f3d643c0a0df5801/ATTIb4bb10274bd4b733202a4864f7d64cce548C4FA9/sprint-2-vsc-visionaries</a>
+
 <table border="1">
   <caption>Sprint #2 </caption>
   <thead>
@@ -942,6 +955,16 @@ El equipo de VSC-Visionaries desarrolló el *landing page* segmentado por ramas 
 </table>
 
 <h4 id="developmentEvidenceSprint2">5.2.2.3. Development Evidence for Sprint Review</h4>
+
+En esta sección se incluyen los commits realizados a los repositorios de landing page, Web Application. Sin embargo, debido a la gran cantidad de commits realizados, se presentarán los commits más relevantes para el proceso de desarrollo en cada repositorio.
+
+De igual manera, se incluyen los enlaces de los repositorios.
+
+* **Landing Page**: https://github.com/1ASI0730-2510-4370-G3-Flota365/VSC-Visionaries-Landing-Page?tab=readme-ov-file
+
+* **Web Application**: https://github.com/1ASI0730-2510-4370-G3-Flota365/VSC-Visionaries-Web-Application
+
+
 <table border="1">
   <thead>
     <tr>
@@ -955,49 +978,79 @@ El equipo de VSC-Visionaries desarrolló el *landing page* segmentado por ramas 
   </thead>
   <tbody>
     <tr>
-      <td>user/repositoryname</td>
-      <td>feature/loremipsum</td>
-      <td>14ca4e3</td>
-      <td>feat: consectetur adipiscing elit</td>
+      <td>VSC-Visionaries-Web-Application</td>
+      <td>feature/login</td>
+      <td>be5b4c2</td>
+      <td>feat: basic project load</td>
       <td>
-        Curabitur quis placerat nulla.<br>
-        Fusce malesuada faucibus quam, ut condimentum velit rutrum ut.
+        feat: basic project load
       </td>
-      <td>04/09/2021</td>
+      <td>15/05/2025</td>
+    </tr>
+    <tr>
+      <td>VSC-Visionaries-Web-Application</td>
+      <td>feature/Dashboard</td>
+      <td>e5412cd</td>
+      <td>feat: implement Dashboard views</td>
+      <td>
+        feat: implement Dashboard views
+      </td>
+      <td>15/05/2025</td>
+    </tr>
+    <tr>
+      <td>VSC-Visionaries-Web-Application</td>
+      <td>feature/DriverManagement</td>
+      <td>372e268</td>
+      <td>feat: implement DriverManagement</td>
+      <td>
+        feat: implement DriverManagement
+      </td>
+      <td>15/05/2025</td>
+    </tr>
+    <tr>
+      <td>VSC-Visionaries-Web-Application</td>
+      <td>feature/Analytics</td>
+      <td>0ecadab</td>
+      <td>feat: implement Analytics views</td>
+      <td>
+        feat: implement Analytics views
+      </td>
+      <td>15/05/2025</td>
+    </tr>
+    <tr>
+      <td>VSC-Visionaries-Web-Application</td>
+      <td>feature/VehicleManagement-View</td>
+      <td>16409df</td>
+      <td>feat(reporting) add Reporting view into the 'View' directory</td>
+      <td>
+        feat(reporting) add Reporting view into the 'View' directory
+      </td>
+      <td>15/05/2025</td>
+    </tr>
+    <tr>
+      <td>VSC-Visionaries-Web-Application</td>
+      <td>feature/FleetManagement</td>
+      <td>cfbc2b7</td>
+      <td>feat: implement FleetManagement views</td>
+      <td>
+        feat: implement FleetManagement views
+      </td>
+      <td>15/05/2025</td>
+    </tr>
+    <tr>
+      <td>VSC-Visionaries-Web-Application</td>
+      <td>feature/ReporingView</td>
+      <td>24c5781</td>
+      <td>feat: add Monitoring</td>
+      <td>
+        feat: add Monitoring
+      </td>
+      <td>15/05/2025</td>
     </tr>
   </tbody>
 </table>
 
-
-<h4 id="testSuiteEvidenceSprint2">5.2.2.4. Testing Suite Evidence for Sprint Review</h4>
-<table border="1">
-  <thead>
-    <tr>
-      <th>Repository</th>
-      <th>Branch</th>
-      <th>Commit Id</th>
-      <th>Commit Message</th>
-      <th>Commit Message Body</th>
-      <th>Commited on (Date)</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>user/repositoryname</td>
-      <td>feature/loremipsum</td>
-      <td>14ca4e3</td>
-      <td>feat: consectetur adipiscing elit</td>
-      <td>
-        Curabitur quis placerat nulla.<br>
-        Fusce malesuada faucibus quam, ut condimentum velit rutrum ut.
-      </td>
-      <td>04/09/2021</td>
-    </tr>
-  </tbody>
-</table>
-
-
-<h4 id="executionEvidenceSprint2">5.2.2.5. Execution Evidence for Sprint Review</h4>
+<h4 id="executionEvidenceSprint2">5.2.2.4. Execution Evidence for Sprint Review</h4>
 
 A continuación, se presentarán las capturas de cada una de las vistas más relevantes que se llevaron a cabo dentro de este Sprint 2. La finalidad, está en que se muestre todo el progreso que el team **VSC-Visionaries** ofrecerá al momento de que el usuario interactue con la UI y como sería ese primer vistazo de las necesidades hechas proyecto para este entregable.
 
@@ -1065,7 +1118,7 @@ Estas vendrías a ser las siguientes:
     <img src="../images/Analytics-AI-Page.png" alt="Analytics & AI Page - Flota365" style="width:500px;" />
 </div>
 
-<h4 id="servicesDocumentationSprint2">5.2.2.6. Services Documentation Evidence for Sprint Review</h4>
+<h4 id="servicesDocumentationSprint2">5.2.2.5. Services Documentation Evidence for Sprint Review</h4>
 
 En esta sección, se presentará el detalle de la documentación de los servicios utilizados dentro de la aplicación web de **Flota365**. Únicamente se ha utilizado un *fake-api* donde estaremos extrayendo cada uno de los datos recopilados para las diferentes vistas que se mostrarán al usuario dentro de la aplicación.
 
@@ -1099,7 +1152,7 @@ En esta sección, se presentará el detalle de la documentación de los servicio
     <img src="../images/Get-Reponse-Data-Flota365_part3.png" alt="" style="width:500px;" />
 </div>
 
-<h4 id="softwareDeploymentEvidenceSprint2">5.2.2.7. Software Deployment Evidence for Sprint Review</h4>
+<h4 id="softwareDeploymentEvidenceSprint2">5.2.2.6. Software Deployment Evidence for Sprint Review</h4>
 
 Al igual del enfoque llevado a cabo en el Sprint 1, se describirá el proceso de despliegue llevado acabo para nuestro *deploy* de nuestra aplicación web. En este caso, si varía un poco, ya que utilizamos el servicio de *hosting* de Google llamado **Firebase**. 
 
@@ -1159,7 +1212,7 @@ De acuerdo a coordinaciones internas dentro del team **VSC-Visionaries**, esta s
 
 Gracias a este enfoque de despliegue mediante muy pocas lineas de comandos en **Firebase CLI**, podemos reflejar actualizaciones muchos más rápidos con la capacidad de invertir el menor tiempo posible y con la posibilidad de volverlo automatizado para el siguiente Sprint.
 
-<h4 id="teamCollaborationInsights2">5.2.2.8. Team Collaboration Insights during Sprint</h4>
+<h4 id="teamCollaborationInsights2">5.2.2.7. Team Collaboration Insights during Sprint</h4>
 
 Nuestro proceso de trabajo se desarrolló mediante *features* donde cada una de ellas se asociaba a una *task* en particular asignada para este Sprint; por lo que, en esta oportunidad, se han incluido las vistas de conductores, gestores de flota, vehículos y algunas vistas core para realizar procesos de analytics.
 
@@ -1232,13 +1285,13 @@ Adicional a la información presentada, se compartirá el resumen de nuestro pro
         <tr>
             <td>Sprint 3 Velocity</td>
             <td>
-                -
+                52
             </td>
         </tr>
         <tr>
             <td>Sum of story points</td>
             <td>
-                -
+                52
             </td>
         </tr>
     </tbody>
@@ -1247,6 +1300,14 @@ Adicional a la información presentada, se compartirá el resumen de nuestro pro
 <h4 id="aspectLeader">5.2.3.2. Aspect Leader and Collaborators</h4>
 
 <h4 id="sprintBacklog3">5.2.3.3. Sprint Backlog 3</h4>
+
+En esta sección, se evidencia cada uno de los *taks* que se realizaron en el presente Sprint. Por tal motivo, se adjunta la captura de nuestros **Scrum Board** con su respectivo enlace al **Trello**.
+
+<div align="center">
+  <img src="../images/VSC-Visionaries - Sprint 3.png" alt="Sprint Backlog2 #3 - VSC Visionaries" style="width:500px;"/>
+</div>
+
+**Link al Scrum Board - Trello**: <a href="https://trello.com/invite/b/686ade6265b5f31f8333629a/ATTI51b769de5cfa4887cd815576023848db9357A2DA/sprint-3-vsc-visionaries">https://trello.com/invite/b/686ade6265b5f31f8333629a/ATTI51b769de5cfa4887cd815576023848db9357A2DA/sprint-3-vsc-visionaries</a>
 
 <table border="1" cellpadding="5" cellspacing="0">
   <tr>
@@ -1272,7 +1333,7 @@ Adicional a la información presentada, se compartirá el resumen de nuestro pro
     <tr>
       <td>US34</td>
       <td>Inicio de sesión con validación</td>
-      <td>EPic07</td>
+      <td>EPIC07</td>
       <td>Validación de ingreso</td>
       <td>Implementar Validación para ingresar de forma correcta.</td>
       <td>6</td>
@@ -1282,7 +1343,7 @@ Adicional a la información presentada, se compartirá el resumen de nuestro pro
     <tr>
       <td>US35</td>
       <td>Registro de usuarios</td>
-      <td>EPic07</td>
+      <td>EPIC07</td>
       <td>Validar Registro</td>
       <td>Implementar validación para que se registre de forma correcta.</td>
       <td>6</td>
@@ -1292,7 +1353,7 @@ Adicional a la información presentada, se compartirá el resumen de nuestro pro
     <tr>
       <td>US36</td>
       <td>Inicio de sesión con JWT</td>
-      <td>EPic07</td>
+      <td>EPIC07</td>
       <td>Implementar token</td>
       <td>Implementar token para poder ingresar a los EndPoints</td>
       <td>10</td>
@@ -1302,7 +1363,7 @@ Adicional a la información presentada, se compartirá el resumen de nuestro pro
     <tr>
       <td>US37</td>
       <td>Middleware de autenticación</td>
-      <td>EPic07</td>
+      <td>EPIC07</td>
       <td>Implementar el middleware de autenticación</td>
       <td>desarrollar el middleware de autenticación </td>
       <td>10</td>
@@ -1312,7 +1373,7 @@ Adicional a la información presentada, se compartirá el resumen de nuestro pro
   <tr>
   <td>US38</td>
   <td>CRUD de vehículos</td>
-  <td>EPic07</td>
+  <td>EPIC07</td>
   <td>Implementar el CRUD para vehiculos </td>
   <td>desarrollar el CRUD para vehiculos </td>
   <td>16</td>
@@ -1371,9 +1432,6 @@ Adicional a la información presentada, se compartirá el resumen de nuestro pro
     </tr>   
   </tbody>
 </table>
-
-
-Link al board en **Trello**: <a herf="">trello</a>
 
 <h4 id="developmentEvidenceSprint3">5.2.3.4. Development Evidence for Sprint Review</h4>
 
@@ -1612,12 +1670,13 @@ Asimismo, se preseta el Gitflow de las distintas ramas que se han trabajado para
         <tr>
             <td>Sprint 3 Review Summary</td>
             <td>
-                En el Sprint 3,
+                En el anterior sprint, se ha avanzado con las entidades core de cada Bounded Context de la aplicación. Por otro lado, en el Landing Page se ha implementado una sección para visualizar el Video About the Team así como el Video About the Product.
             </td>
         </tr>
         <tr>
             <td>Sprint 4 Retrospective Summary</td>
             <td>
+              En el Sprint 4, se planea mejorar los endpoints implementados en el Sprint anterior así como mejorar los Bounded Context para la funcionalidad de la autenticaCión. Al finalizar este sprint, se podrán visualizar nuevas vistas en la aplicación web y cualquier usuario podrá visualizar los datos, ya que el RESTFul API implementando ya estará desplegado en el servidor de unos de los integrantes de nuestro equipo y se habrá realizado la conexión de los nuevos endpoints en el Front-end. 
             </td>
         </tr>
         <tr>
@@ -1640,7 +1699,7 @@ Asimismo, se preseta el Gitflow de las distintas ramas que se han trabajado para
 
 <h4 id="aspectLeader">5.2.4.2. Aspect Leader and Collaborators</h4>
 
-<h4 id="sprintBacklog3">5.2.4.3. Sprint Backlog 4</h4>
+<h4 id="sprintBacklog4">5.2.4.3. Sprint Backlog 4</h4>
 
 <table border="1" cellpadding="5" cellspacing="0">
   <tr>
@@ -1664,23 +1723,205 @@ Asimismo, se preseta el Gitflow de las distintas ramas que se han trabajado para
 
 </table>
 
-
-Link al board en **Trello**: <a herf="">trello</a>
-
-<h4 id="developmentEvidenceSprint3">5.2.4.4. Development Evidence for Sprint Review</h4>
+<h4 id="developmentEvidenceSprint4">5.2.4.4. Development Evidence for Sprint Review</h4>
 
 
+<h4 id="executionEvidenceSprint4">5.2.4.5. Execution Evidence for Sprint Review</h4>
 
 
-<h4 id="executionEvidenceSprint3">5.2.4.5. Execution Evidence for Sprint Review</h4>
+<h4 id="servicesDocumentationSprint4">5.2.4.6. Services Documentation Evidence for Sprint Review</h4>
 
+En el presente sprint, se realizó las respectivas mejoras del **Bounded Context** de Autenticación. Además, se han implementando mejoras continuas en los *endpoints* que se habían implementando anteriormente.
 
+A continuación, se presentarán los *endpoints* trabajados y capturas a través de la documentación de **Swagger**.
 
-<h4 id="servicesDocumentationSprint3">5.2.4.6. Services Documentation Evidence for Sprint Review</h4>
+Se adjunta el link de los repositorios de la API en GitHub: <a href="https://github.com/1ASI0730-2510-4370-G3-Flota365/VSC-Visionaries-API">Ver Repositorio Backend API - VSC Visionaries</a>
 
-<h4 id="softwareDeploymentEvidenceSprint3">5.2.4.7. Software Deployment Evidence for Sprint Review</h4>
+Para acceder a los endpoints desplegados, se adjunta el siguiente enlace: <a href="https://backendflota365.ilabperu.pro/swagger/index.html">https://backendflota365.ilabperu.pro/swagger/index.html</a>
 
-<h4 id="teamCollaborationInsights3">5.2.4.8. Team Collaboration Insights during Sprint</h4>
+<br>
+
+<table border="1" style="border-collapse: collapse; text-align: left;">
+  <thead>
+    <tr>
+      <th>Bounded Context</th>
+      <td colspan="3">Auth</td>
+    </tr>
+    <tr>
+      <th>Entity</th>
+      <th>Endpoint URL</th>
+      <th>Swagger</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>User</td>
+      <td>/api/Auth/login</td>
+      <td>
+        <img src="../images/authentication-Endpoint.jpg" alt="Swagger API Authentication endpoints" style="width:500px;">
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<br>
+
+<table border="1" style="border-collapse: collapse; text-align: left;">
+  <thead>
+    <tr>
+      <th>Bounded Context</th>
+      <td colspan="3">Dashboard</td>
+    </tr>
+    <tr>
+      <th>Entity</th>
+      <th>Endpoint URL</th>
+      <th>Swagger</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>User</td>
+      <td>/api/Dashboard/stats</td>
+      <td>
+        <img src="../images/dashboard-Endpoint.jpg" alt="Swagger API Dashboard endpoints" style="width:500px;">
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<br>
+
+<table border="1" style="border-collapse: collapse; text-align: left;">
+  <thead>
+    <tr>
+      <th>Bounded Context</th>
+      <td colspan="3">Drivers</td>
+    </tr>
+    <tr>
+      <th>Entity</th>
+      <th>Endpoint URL</th>
+      <th>Swagger</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>User</td>
+      <td>/api/Drivers</td>
+      <td>
+        <img src="../images/drivers-Endpoint.jpg" alt="Swagger API Drivers endpoints" style="width:500px;">
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<br>
+
+<table border="1" style="border-collapse: collapse; text-align: left;">
+  <thead>
+    <tr>
+      <th>Bounded Context</th>
+      <td colspan="3">Vehicles</td>
+    </tr>
+    <tr>
+      <th>Entity</th>
+      <th>Endpoint URL</th>
+      <th>Swagger</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>User</td>
+      <td>/api/Vehicles</td>
+      <td>
+        <img src="../images/vehicles-Endpoint.jpg" alt="Swagger API Vehicles endpoints" style="width:500px;">
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<br>
+
+<table border="1" style="border-collapse: collapse; text-align: left;">
+  <thead>
+    <tr>
+      <th>Bounded Context</th>
+      <td colspan="3">Fleets</td>
+    </tr>
+    <tr>
+      <th>Entity</th>
+      <th>Endpoint URL</th>
+      <th>Swagger</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>User</td>
+      <td>/api/Fleets</td>
+      <td>
+        <img src="../images/fleets-Endpoint.jpg" alt="Swagger API Fleets endpoints" style="width:500px;">
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<br>
+
+<table border="1" style="border-collapse: collapse; text-align: left;">
+  <thead>
+    <tr>
+      <th>Bounded Context</th>
+      <td colspan="3">Maintenance</td>
+    </tr>
+    <tr>
+      <th>Entity</th>
+      <th>Endpoint URL</th>
+      <th>Swagger</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>User</td>
+      <td>/api/Maintenance/records</td>
+      <td>
+        <img src="../images/maintenance-Endpoint.jpg" alt="Swagger API Maintenance endpoints" style="width:500px;">
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<h4 id="softwareDeploymentEvidenceSprint4">5.2.4.7. Software Deployment Evidence for Sprint Review</h4>
+
+<h4 id="teamCollaborationInsights4">5.2.4.8. Team Collaboration Insights during Sprint</h4>
+
+A continuación, se presentan los *insights* del trabajo grupal en Github.
+
+En esta ocasión, se ha logrado agregar los video de *About the Product* y *About the Team*, reemplazando los *placeholders* de los videos que se tenían anteriormente,
+
+* Enlace del repositorio del **Landing Page**: <a href="https://github.com/1ASI0730-2510-4370-G3-Flota365/VSC-Visionaries-Landing-Page">Ver Repostiorio Landing Page - VSC Visionaries</a>
+
+<div align="center">
+  <img src="../images/Collaboration Insight - Landing Sprint 4.png" alt="Collaboration insights - Landing Sprint 4" style="width:500px;" />
+</div>
+
+<div align="center">
+  <img src="../images/Network Insights - Landing Sprint 4.png" alt="Network insights - Landing Sprint 4" style="width:500px;" />
+</div>
+
+<br>
+
+Por otro lado, en cuando al backend API, se ha logrado levantar observaciones de los *endpoints* de Autenticación y el tema del **Boundend Context** donde se alojaba cada uno de nuestros servicios:
+
+* Enlace del repositorio del **Backend API**: <a href="https://github.com/1ASI0730-2510-4370-G3-Flota365/VSC-Visionaries-API">Ver Repostiorio Backend API - VSC Visionaries</a>
+
+<div align="center">
+  <img src="../images/Collaborations-Backend-Sprint4.png" alt="Collaboration insights - Backend Sprint 4" style="width:500px;" />
+</div>
+
+<div align="center">
+  <img src="../images/Network-Backend-Sprint4.png" alt="Network insights - Backend Sprint 4" style="width:500px;" />
+</div>
+
+<br>
 
 <h3 id="validationInterviews">5.3. Validation Interviews</h3>
 
