@@ -639,13 +639,34 @@ Video de la aplicación web: https://drive.google.com/file/d/1_MWoiid6MOtvUOxqcH
 <h3 id="softwareObjectOrientedDesign">4.7. Software Object-Oriented Design</h3>
 
 <h4 id="classDiagram">4.7.1. Class Diagrams</h4>
-
-<img src="../images/diagrama_class.jpeg" alt="diagrama clases" style="display: block; margin: 50 auto 0 auto;"/>
+<p>diagrama de paquetes:</p>
+<img src="../images/diagram_package.png" alt="diagrama de package" style="display: block; margin: 50 auto 0 auto;"/>
+<p>diagrama de la clase del bounded context IAM</p>
+<img src="../images/IAM.png" alt="diagrama de IAM" style="display: block; margin: 50 auto 0 auto;"/>
+<p>diagrama de clases del bounded context FleetManagment</p>
+<img src="../images/FleetManagement.png" alt="diagrama de FleetManagement" style="display: block; margin: 50 auto 0 auto;"/>
+<p>diagrama de clases del bounded context Personnel</p>
+<img src="../images/Personnel.png" alt="diagrama de Personnel" style="display: block; margin: 50 auto 0 auto;"/>
 
 <br>
 
-* Diagrama de Clases: <a href="https://editor.plantuml.com/uml/jLbVSnet47zdXk-WuIKqjJt9wmt3v0B4kOa13s3Fz2aZxcHGVITHIKT3cdwnllQBTQNJ7U9EOEouVQWFQNUrsZ-_tLK-I8M5ohEqtPAFb6smm1dQuFWHhyXSxLA218aLPgkKk1HnYgL4VxLR2FuBbH9qcIiInPnzuamDUCe5MgOWnaCnfzy9UjTk_TrkjLjlq8Zb6H5OKSuaqj9HBZcAUVRlFwpT8h2BvWght1uN3XRH_KX_HPFzzzraE9fz7OVHP36QX9E1MPpUBRvEFtsTZsRtKR4IpkVHzMGqDD_tONGJVhmn6uFf-FPcj2XsRaUJOJIvjXeQ3Ux9ciOfMUmsf53Z9hh-lD0VdqVX_Mz6H3YxdXfsE6KqkHxDvgw4EqRLz65CiCo5bN4tYHQ5hCLefZ--H3VJwrauDbAYaTRP2B3-G1sh1Xg0aSatrK6ztaUUiuGaTgNVBvrIUAXawFL6J56rkq3XQYN82YiouzmXH-WIqIH0TtVHSB-oIO4m0FiBobRxvOmd96qkAx1Eu9fgloMD1mFhoVhwPoeL5xi0tS17pmeeIFiLxMNvzIlADmdeLH1q6VbpVY3zbm1jEKtsv71Va4l465Cm4iCi9jt4N6m8_r_GZ1om69CtJ6XZiDUxnsbEfilV8IqEpNViZl4QqeSaeTgVrzZyk2jCZzwCCGDN2mG9DD-1rjaRhrQVKaBKIzsQ41aBkj4fr_JYjhYlFFI6rmyuIUnsTrivtcF-Z6z9HLZyZQnI3UeOft6km-wMY0SkCkCje79-ZWce77lDqg0wxZ1GVujfYfSq1Gi6AE7vCYNkxie9c06Ngad3rPg8Y2KqnX30OB8ntlGAWrvOudvDpp8ZE-yxOCi-whpjr48iG9qrbcXT94MdO2lyhPduvQNBfCa1L1MeAZjrl70kS3vcE4nJaK0elZ3AQfwkuqGzxamX6XwavNwJiEJOrh6qOrmHwG4fhd3gysOji1TOFdQ1IFzj1cdAPM6Sxl40NfGdQHhth5hCwXCg6_zKwiQ-Qnqra2Bncj6OOjPmaMiAAUcABIfQOvFgL-Fs6HQFeHpmR9CIHPBkAMJTYtbfY36S-I9fGq1egfEwlhLPS-RX81aWWJSaVPPph4DbM818Qa1goNbACFD34uJtwzxJdqSRG3tIZ88u5u8mDLSyVWmGPBXJpYdpBUVGiGI7VOlF188aUKoCW2xE05cKaUCf0_8aJSrS3WhPzk3i7E4wCPkmGxPm_xAi5LRRLpNTvWAV3sGgnHh0gE7uhORZzrTNWCWcaG6EAOlJ71BLGhTPreXTmhs91A3BPOtctTMLhGfEQW1XaOCa0V3g7555CxbXwjLL4tdi2YSKjsyMaA6WMs0-ktPO-bSDynJYcKcY7MS-_hziVcPV6Qz9_6YLWYQ39d3Zfr30af_g8w6N82lJ3jTlGANCoJv4dHj_sr2ny-mSG9NHyRY2rdSwI2fB7qP3QE8mWpGwFo8SdjVk8nAZS7DTy5mROgR_EDGsgP_JGmYYtGErTWRuvwcuZdbD-p8dOakBVhKMAhOWbWHaInF2uYfuFMYvuK95BDPqgglBlfUs5bxcpgU2YmkwefxM0GvGb65_Nv40K6Z0-9ATR6HARSy6Qbp5XiUvfneTV-LBJe5tFHgj9q3N8GUyOFRtuOGW8SMJF2LxjlhySb6BmWiaREHTeCQCkHTJ0v7GcKIUFg4Xrv_FJkRfd7RIeRRZHhspvKuebMkXLcHuPyEpqpogDElLLT-L5Q1O452uSOfBNt_U20Axq07-Ft8Yw1FyXzKg28hV1zo7W3OprpWVp2pz2u4CM59FsAu8i-zVnqQSe-6EJo4I337LQDgb0Qf-d0AGYkWKYFZhz5QJ1p2fSgpyu6IiTrRYMPkKhmO5f-VjeDXeyfbnsN8zwEypUCeOjsmdA8TOhfSSY-JBRIJhXDMbRR3iKyXQzd3_x0GG-Zq3UbXf77zKX6Va3u9wD_WCUSsQ7mJxjPyKL9hS9wR-ab4yYptZ5QDWUDLMb2QJF5iISNRFkH7yWVgI_kbc5ETg3TNwkrjyFEEslgNxi7bwfjBKMj8DNvrTfOipF7qMZe-q2wU7gC8lpO6bM7Uhpg6-K7fIlgfcb3S8y8Cooj583tPSegwaq6NH1qYpXCjVsYtF0-wWU6-jqCVmbXRmzfhGCwN9lE4k297wW62fOpDg9rFcsi2ex7zV6-Z7fACQDORPo-BroIU_X8_BonzzxxNRBS_W-AD_H2KjyWDXYVdNeVy0">Ver Diagrama de Clases</a>
+* Diagrama de paquetes: <a href="https://editor.plantuml.com/uml/jLXBRnit4Bu7o7zWTMa2E7ABeZaOmYAoh1eBr94ZIouA512eNLfUXoA5vIgeslXNzTPh_bZvsYMNBwi7wMBlpFVDaCDvSFS3Qs3TxBVuzQllIlHG4GIc7nVvulSt16xH6IWHAzw20aF6W900oC1WjCv61SMqlbXZM7pEX69qBYNPw7oT_K56hFeBNVpuGoRuetFnb0sCY_lP2So3qUWUuZsQhPzGqMIPSJU-lfvFhyUBwMcyZZUR6crWW-QKzlnEPZStuuzNf_4weTij9ANjxzDoEZ_5mN5ld_QeFjY-vjExsN8-EL58vuZHVLqWuV7rgnqdmmq20qmR-DFxduUt63OFjDuEnxVvGBZIYbMhM745-5jm0Vzr_Bj7MADICjI_0WFqhqDTqIsioF26bWXRs9MIhwJS9efVHHfKFy02WLmVJ5GlGzdNjgwdNn1fc6jR_5HarGeagWzvDe_FyHtDqOwogg5rXLXWOxOwiRzBo507FKHXIr8riuVVQFtPMzkpTp3v-0PSqZqf-P5CA3VoPoCNoEMhoucz65FBIuRgCp0GVq1NWeEt1jgMtrsr8SkTmEcZuImX0yiT4D8O9oS1JauyZYgxQzG8nUKXB-K9Sm8NIJ1O7q1UsXGxJXmG2gSwyPUrJCIhfXYZsgYxwbHxRyl9sdWhibVLO-N4PV6j9rbghHr7xjmc68fK3OSPy8x6O9p0IBWGzQtq05-pU3YTK85tx_udsDvT76asTJpMHDgEaHSQlK4lK5wgne1kXcgSqu_yk0jGhEW3X-HLlb_kls24cXj8-CEMzx9WwJkOQ1kGk3DjCzm83FWUFLO55jcf_qjtZacDk4PQDcr02TNwuYHjtwDfUOWuPemVfGOigEDMQLi-QAY_WguHZJ6MIcPt8YvK51RZQDiUgvNRF7w5-xKg4658p5mHKVq8v3EGLp6Wxc8EJovYSTYXxjJ4GvHXzKg93gMXXT6BZJVDg16bFeuVxBez0-c-R6MMrJBjr4htsbwI-HRQB4dQSBqVuTPt6F9aYCgaw0f-ALaveMqONBzwmaWx_SA8H46vInGTlijBUmTkpad3KcPXl9oHA2rrN7cjDPgF8Qk24CXGnuStwA8-FBXpLluK2p8YMByKr78IDHQWU6bnb2Fh14BZrS_7sDWCPMGCcyYun5Jkj-lmM0vqw3umcRAf4HxCtXGXL171wtwuB7fGjmv78Z_Q6hu01JzF_ch2OXU9MtwZeeJmzx7G5QBJHYyFLtNrHRv5g7_Iju4vsbICpnc5DPEvbGEbY4rNfVM6gnOxCr99TOipwsjdR6AwYW30eic9U0-6JKM960jA22pfCVDMUOsFmkFqwKdOZwerMPomfWUJnmwG34qhHJO63pM8x1r94E67lbUMRhGigwuvhnRzIBiKhyd63ySd-97mUsoOvQAjimb5Djq5xHA9ThT8X6BTAXZr-3lAztpT61Ryx103_BsZHcvhOU0DUaBR7QPd03xjMGC1Gvjl_nA0eIeUM1JLjty8u8C3wsGDlCs8TVGwr4LxoJTtI77DRnj4qf3-K29Cx9j7hgWAtiNq5mB0yr7tLyFKzdehECwIQRezQu7ubGWmzPqD0aoP5qb5qHxbwx3_fUq5ZFtHAXcXgEcZyBuRBt1H1oyW-wPv8dv0fDnlyNy0">Ver Diagrama de paquetes</a>
 
+<p>Diagrama de clases del boundend context IAM: 
+  <a href="https://editor.plantuml.com/uml/dLVBRjim4BmRy3_erbDqATfJOCH9d5Q7eAuTeqU3bMXR24KA99N2QFtl5VKo9N59oW628EJCBhdQn_11ICHbaP7vB4VnEphYW329Fd_z4gu9aWV6it2vZW8aslLzkxvNwt_diw3yQRdHyhLTqfUNUKxI6CcKqJ2Y4dEAY39PmlVQthxRqspeTfvObY6QR37_I6CiXZ3r4nCaHB1DZtINxmJc3ULx-Kimj-4Zwe_VvGcIME7Nd1rIWlreJoT4ZpMj_FSFuuaVxncZMAOVZKiRvs8EtCy2yxCxRD-mL0uUpr5ICHp7wk2h3AN4ax4aH964BrnT73iOsgqlu-nxPkNnQFZA4jnbNRsshzU0R5iUZnmVow1R8gOE5jpVTz0DOtAnyFecpMUSaiNUwJirRoSdxAHCzKxHT4foJiXAttISa8St9E06vqoaafckcQhETq1nsKALZmvwjXgEw84Z8NaHouBZS5qUBXKIqnY7gvSdgyDh-dhxQauemirg-mQtQ2ev8sM9Egf6N95U-R71WXNSshxgszGmUwdue7Qv2rLNKrD9Bd1TIcqPkT3BGfumbMemuWI-5n2hDuweK3FQBrOld6MhqfayBuN0sM_7eDpbJLqhNcl3YndHMvYzCDzYe1zwVmlZgYx_z0NFzeGuJiBUYD5YhfNrg1TgUrf7kTZiGmMjcNf40figMcymD9K_3hyOV-zSLlVwLCctsbLGNsM3IQNCn2dDnNnMJRimN9WcKszlC8owFNZ-T13BoEamm9IPpmRDi_Ofr7STRVnRZ5jj6mDDamQT9Xt40fAOK7n0_DsTuIIG88KY3EADrXtorVMf76oZIvVqTNrx9z_erIQSRPbavHazpMU0UAxSZBKBX3OQXuLstxgkU2mSo8T9chSE1Ze9GeEcpJA-ipvILnOE4F-sU3kX4bGwnT32DEbH6ODVYn3Q_5OqePqlHHF9_KuqiUolH1C3VEzPmORN7e0tl_KWCFJI6pEkBVOgYo2CBlPC6434cQ2GX3EQxMas4y8YyTffOPCgzZdZoRowTCip--ZnP6eXyLLrNjDecftHr_PNY7vpQg8bSqfPv3cGOZuCUptPnJ5SOzDv4rIzknPlSEzw_wXnKgllW3kKNwCcOJ4s143PFCI1UJO46bl_43GM7Gq2LWmZGA-ZZtS7BRmFCCbpjJryiXWqVE_DCfyzO9eK6VaF" target="_blank">
+    Ver Diagrama del boundend context IAM
+  </a>
+</p>
+<p>Diagrama de clases del boundend context Personnel: 
+  <a href="https://editor.plantuml.com/uml/fLXDZzCm4BrNwd_8ZHEv83YX5TqFeD8YbXROO-LDlLs3OrUsKwXW_pjEawPECkEFiX92gj-RiUCPpxnvfmrHfYhvTB8bnK-oeHcNXhnwypg_uyGyIbNcixjvHlJnzzNnzrNz-v_f9BD_H-uTLLeAGVbnmLsSRRUS5SGmAVAvC5G9mcl37Mdb85OTmh7aMhkIPKd4UadLZXLK3s7rNy69rjc2RfYsjguLsr7LqZxQVvmgZFDjkoQ6dijO6c8g7SUxfgGmR9VeRK45_TKGRktfXQO-tZFy1RzKLEt3t-y3DJFE6sVwm0bipX8QzEL-leuapEgFGCznKd_iD8Q-P-RfvlUMAIOsIob5-mazLfml-3mEx6jP4YRoJt9D1m7ThAoQ5IIGPvkDeXiR09uxQ3QUlNtRWHTIcekBg7jkGoCrHH9o8p6uCVWi1OmcN7BEO8HbfRTKh3sxyIGMIqkf-5oAG5xPS0jXnmdd0-y8u-I1n-9RsEM-kPX8U9UMTDtBoFzCw8GN9EP8razzkwAWjtH7ES13ek8xuHNz_F235YQOwUq1CD2L5CPcrbpKTVXGBZ7aOBT-htNSdF7kBUXMQcOa5FEihkAFfA3PlF7HWVTUq_PeYcYZgi9KYkRrYrg_KFOS-StxAwzBzqJHtjfTwdnni_oAjnp2ACbjTGXUe3vXeu9ZGRMibBSE7q_K0EEUyX3QVKHJi4rUX_TYNzmsb4FOtcCR0Zjv6mUzjTzaRcW9ev4x-Qg8q7M6nTx9UoNB6s6OsS-qfkM3ju43AcxDFzeAMW3AyDdyNlrCik9USJn__ApO__fAOlb4R1t8UwsLSmtEkpAgpCwQype_--nZxubZwfBKGJn-JXp8Dy7CvyTxgNvsBW_dUk7eeiPXrXneGVdXzTPFRAkdaxRBo_CBh2Dp460RvgoZlPU3GHeknCkWo-hj5csj71JSJxbRxjS-PmKgUCxogCgDZ3QbRJePLI47SwJr5lzUG9MhVwUERCqwsJguMvyAzTsub_Vo9RWxNBtYaUFXH7Y156yeVe9ynAzVCGTYtyz5F8RKTYW7Wdp4xtI2Qk-3IqX6u0p42QhMZov6-WDdu2vGVTyT1D0ZNbxeEAEvGFyyRjFluOIyHCqI-fv3QYNHDXexxWlLDRZPeRy5wuxJiXwC-kTcCCStDmipuBaPp0lDpR0pXUPcCCyp0qC9s0mCzu3Fm09EW1bOW14v0uFiZ8lLgQk6qR3A26E7AWFR2wGoO2oYCc1m2cgWHNpGiHP1gZpOI2Vt2h5MJjk9LHP9pKIS1NWJONboTg-HOksqkLZL4zKO9Db1ujoZG3sX7CUAVGNyyY-SxV_BZn6nuHVa77x45A0knutap5I4C6Y5Xo-XXX2a80vXeEJpkUjzrY4GZUqX4D9-GmpKlBOOjFD4rxiP-0WnBhDZ23JlHbprfzmO29jj1_5GUKP8fou0toeqlUwZOOrS0uOJ451AzuOWx-oLLoN_1m00" target="_blank">
+    Ver Diagrama del Personnel
+  </a>
+</p>
+<p>Diagrama de clases del boundend context FleetManagment: 
+  <a href="https://editor.plantuml.com/uml/fLbBRnit4BuBq7_OMq_PIz6U0Y7ognLG8wxi94U1MOtaRQXTWQGC2At_U_SjBdU672e631lBxniE7pCSVloaZL3cT93psL5aFyGU4baQyUlllwLFKfXTgGxfyccL2Dr_t_JVD_NtV-UpfFhfkGyIm3oAelh_08Nfcst8ydYKUIPCNXRfgZ2W2Y5hymvrO-4s0ywoPzkyBGy7KMoVGRtb6MWNLlzaKcYTt2eG1fgkEiwVrQy4HH6-7BTnX3kG44LeNVeAhtac8SQfACfIwtnVT9INCkZVEpxHVvz0dSFJ_0UOfPHD9xgX1Bohy0tuvhpQCl7BpEHlxJp7zV1oFWAt3ocx6UEEeeD7ZAFluERS-1VDMnMF8g_2en15nXrNpxqxmKEfkkMakTPUU9_6yrrvg1n87yije77Sjc_QTY9-b_kzWdsrfprxgh6RVFmuODTbQHOB2jwDCKGWzdaN6b6PX9z2-BaZ9cd4P0k_1poi9wKmANUg2c4Lu_vZBg5Q7vH2BENzMxKBFGlP3xQPqMs3PgV2F2e9HcGQbWTVXJp1v-__GEORtrzLR1SQwbCRlB5L9yR093qV8SjttQbCORirkYA7hE5OwjoKsBpMEKxjH0R9gl5sm9v9NESqXaHyM1Kx9RHHfyoS5AHFe7IkgxoQGNh_SElrpPf4ogtHDB8zweQYq_NzymjT_1H6bR9Asw7igI_Gm4AJI68hha6N9-Mj2RhfQN6Ch1g2Mcar11scdTCv4pnAIo7mAE_nB7THX8E9LNXHej1rQSvSXGTL7kuBavjpvI0SlWUhL3l7r-JUK90-FGEZwCxCHVizFj2kyFmd38pM_deFnYSVmy0qurP_nhUrvrUXO9kEAZXhvrYfT7BWMctMWVNkiqzbKClKZT1eShGWNuhSVDvzAzMFeSjcNBzq1Q9r-MpxJTfnhK4sfvP-pOzwFcl1QRf02xbBArQyNLgnWcq-wqlFYtMteB8HU7bc8_2Yp4PuIp4Fq2d0IBVSiii6ZkiBkmKl6cp4K2hq7pzyMDZ5o7pc7lODhVbMjKsEKxlRRfr6ZVyjaEe1ir83aSCQtMQMK94CGeMptKZTWTo2DAEUe-aeIA62tCOq0--1L3R8KA0PU0_zg55bmnDEFbRJ4xAK7Wt54vO-5jLJM7e9np33nazqJwq69UCq_YBN6nAFTq2fFZIS47s2zbtD9p1YJFInnkpSr3mSQarefOX1mQKY3f7KYZXaKYmYoMYs72urINEdmOvbw_BHsFQ8jYZUezcYU8zaY-9fTPE24-8cQPtIDWFsfz8cGd4EdCi50qMYjomKwM2m4mojMYDEG1R_uWBpqX5nGBBupZnvBYtOlF4vdDNrNnT2Atu5Eto_70ekFCo9Lms2utq98JYSfn22wdiJe2daeq2GGhqAX8cUPu4msVCkWD8dbTbbEnDeGZqXq8HyuhKzqKy8zCGgNaw6KW-d96NQS1COrmY_OcNQk3Z2rZ0YAzauK-x4C2IHy5Ns6bFKtWgbRMe7CtdSwFEdRKv4NcKXGkZYHEvL5ZX2OLsMjifKeaAtz4uAy9G4Bc9QJBe8RAtmVlmOJ1PoCPvG3417qf3NlV5wkL3aLjX1wElJ682AG7MxgnQYUX06n3IbaR282qiZo2SejgU3_1y0" target="_blank">
+    Ver Diagrama del FleetManagment
+  </a>
+</p>
 <h4 id="classDictionary">4.7.2. Class Dictionary</h4>
 
 Para una mejor comprensión acerca del propósito de creación que cada una de las clases con sus 
@@ -653,19 +674,180 @@ respectivas propiedades, se detall
 
 <h3>Documentación de Clases - Sistema de Gestión de Flotas</h3>
 
-<h2>Clase Vehicle</h2>
+<tr><td>FleetId</td><td>int</td><td>ID de la flota a la que se asignará el vehículo.</td></tr>
+  </tbody>
+</table>
+
+---
+
+### Clase `AssignVehicleToDriverCommand` (Command)
 <table border="1" cellspacing="0" cellpadding="5">
   <caption><strong>Atributos</strong></caption>
   <thead>
     <tr><th>Atributo</th><th>Tipo</th><th>Descripción</th></tr>
   </thead>
   <tbody>
-    <tr><td>id</td><td>UUID</td><td>Identificador único del vehículo</td></tr>
-    <tr><td>plate</td><td>String</td><td>Número de placa</td></tr>
-    <tr><td>model</td><td>String</td><td>Modelo del vehículo</td></tr>
-    <tr><td>type</td><td>VehicleType</td><td>Tipo de vehículo (enumeración)</td></tr>
-    <tr><td>status</td><td>Status</td><td>Estado actual del vehículo</td></tr>
-    <tr><td>statusHistory</td><td>List&lt;VehicleStatus&gt;</td><td>Historial de cambios de estado</td></tr>
+    <tr><td>VehicleId</td><td>int</td><td>ID del vehículo a asignar.</td></tr>
+    <tr><td>DriverId</td><td>int</td><td>ID del conductor al que se asignará el vehículo.</td></tr>
+  </tbody>
+</table>
+
+---
+
+### Clase `UpdateVehicleMileageCommand` (Command)
+<table border="1" cellspacing="0" cellpadding="5">
+  <caption><strong>Atributos</strong></caption>
+  <thead>
+    <tr><th>Atributo</th><th>Tipo</th><th>Descripción</th></tr>
+  </thead>
+  <tbody>
+    <tr><td>VehicleId</td><td>int</td><td>ID del vehículo.</td></tr>
+    <tr><td>NewMileageValue</td><td>double</td><td>Nuevo valor de kilometraje.</td></tr>
+  </tbody>
+</table>
+
+---
+
+### Clase `VehicleCreatedEvent` (Domain Event)
+<table border="1" cellspacing="0" cellpadding="5">
+  <caption><strong>Atributos</strong></caption>
+  <thead>
+    <tr><th>Atributo</th><th>Tipo</th><th>Descripción</th></tr>
+  </thead>
+  <tbody>
+    <tr><td>VehicleId</td><td>int</td><td>ID del vehículo que fue creado.</td></tr>
+    <tr><td>LicensePlate</td><td>string</td><td>Número de placa del vehículo creado.</td></tr>
+    <tr><td>OccurredOn</td><td>DateTime</td><td>Fecha y hora en que ocurrió el evento.</td></tr>
+  </tbody>
+</table>
+
+---
+
+### Clase `GetAllFleetsQuery` (Query)
+<table border="1" cellspacing="0" cellpadding="5">
+  <caption><strong>Atributos</strong></caption>
+  <thead>
+    <tr><th>Atributo</th><th>Tipo</th><th>Descripción</th></tr>
+  </thead>
+  <tbody>
+    <tr><td colspan="3"><i>(No tiene atributos específicos, es para obtener todas las flotas)</i></td></tr>
+  </tbody>
+</table>
+
+---
+
+### Clase `GetFleetByIdQuery` (Query)
+<table border="1" cellspacing="0" cellpadding="5">
+  <caption><strong>Atributos</strong></caption>
+  <thead>
+    <tr><th>Atributo</th><th>Tipo</th><th>Descripción</th></tr>
+  </thead>
+  <tbody>
+    <tr><td>FleetId</td><td>int</td><td>ID de la flota a buscar.</td></tr>
+  </tbody>
+</table>
+
+---
+
+### Clase `GetActiveFleetQuery` (Query)
+<table border="1" cellspacing="0" cellpadding="5">
+  <caption><strong>Atributos</strong></caption>
+  <thead>
+    <tr><th>Atributo</th><th>Tipo</th><th>Descripción</th></tr>
+  </thead>
+  <tbody>
+    <tr><td colspan="3"><i>(No tiene atributos específicos, es para obtener flotas activas)</i></td></tr>
+  </tbody>
+</table>
+
+---
+
+### Clase `GetFleetByTypeQuery` (Query)
+<table border="1" cellspacing="0" cellpadding="5">
+  <caption><strong>Atributos</strong></caption>
+  <thead>
+    <tr><th>Atributo</th><th>Tipo</th><th>Descripción</th></tr>
+  </thead>
+  <tbody>
+    <tr><td>FleetType</td><td>string</td><td>Tipo de flota a buscar.</td></tr>
+  </tbody>
+</table>
+
+---
+
+### Clase `GetAllVehiclesQuery` (Query)
+<table border="1" cellspacing="0" cellpadding="5">
+  <caption><strong>Atributos</strong></caption>
+  <thead>
+    <tr><th>Atributo</th><th>Tipo</th><th>Descripción</th></tr>
+  </thead>
+  <tbody>
+    <tr><td colspan="3"><i>(No tiene atributos específicos, es para obtener todos los vehículos)</i></td></tr>
+  </tbody>
+</table>
+
+---
+
+### Clase `GetVehicleByIdQuery` (Query)
+<table border="1" cellspacing="0" cellpadding="5">
+  <caption><strong>Atributos</strong></caption>
+  <thead>
+    <tr><th>Atributo</th><th>Tipo</th><th>Descripción</th></tr>
+  </thead>
+  <tbody>
+    <tr><td>VehicleId</td><td>int</td><td>ID del vehículo a buscar.</td></tr>
+  </tbody>
+</table>
+
+---
+
+### Clase `GetVehiclesByFleetIdQuery` (Query)
+<table border="1" cellspacing="0" cellpadding="5">
+  <caption><strong>Atributos</strong></caption>
+  <thead>
+    <tr><th>Atributo</th><th>Tipo</th><th>Descripción</th></tr>
+  </thead>
+  <tbody>
+    <tr><td>FleetId</td><td>int</td><td>ID de la flota de la cual obtener los vehículos.</td></tr>
+  </tbody>
+</table>
+
+---
+
+### Clase `GetVehiclesInMaintenanceQueryHandler` (Query)
+<table border="1" cellspacing="0" cellpadding="5">
+  <caption><strong>Atributos</strong></caption>
+  <thead>
+    <tr><th>Atributo</th><th>Tipo</th><th>Descripción</th></tr>
+  </thead>
+  <tbody>
+    <tr><td colspan="3"><i>(No tiene atributos específicos, es para obtener vehículos en mantenimiento)</i></td></tr>
+  </tbody>
+</table>
+
+---
+
+### Clase `GetVehiclesDueForServiceQueryHandler` (Query)
+<table border="1" cellspacing="0" cellpadding="5">
+  <caption><strong>Atributos</strong></caption>
+  <thead>
+    <tr><th>Atributo</th><th>Tipo</th><th>Descripción</th></tr>
+  </thead>
+  <tbody>
+    <tr><td colspan="3"><i>(No tiene atributos específicos, es para obtener vehículos que requieren servicio)</i></td></tr>
+  </tbody>
+</table>
+
+---
+
+### Clase `LicensePlate` (Value Object)
+<table border="1" cellspacing="0" cellpadding="5">
+  <caption><strong>Atributos</strong></caption>
+  <thead>
+    <tr><th>Atributo</th><th>Tipo</th><th>Descripción</th></tr>
+  </thead>
+  <tbody>
+    <tr><td>Value</td><td>string</td><td>El valor alfanumérico de la placa.</td></tr>
   </tbody>
 </table>
 <table border="1" cellspacing="0" cellpadding="5">
@@ -674,34 +856,20 @@ respectivas propiedades, se detall
     <tr><th>Método</th><th>Tipo de Retorno</th><th>Descripción</th></tr>
   </thead>
   <tbody>
-    <tr><td>updateStatus(newStatus)</td><td>void</td><td>Actualiza el estado del vehículo</td></tr>
-    <tr><td>registerMaintenance(date)</td><td>void</td><td>Registra la fecha de mantenimiento</td></tr>
+    <tr><td>`IsValid()`</td><td>bool</td><td>Valida si el formato de la placa es correcto.</td></tr>
   </tbody>
 </table>
 
-<h2>Clase VehicleStatus (Value Object)</h2>
+---
+
+### Clase `FleetType` (Value Object)
 <table border="1" cellspacing="0" cellpadding="5">
   <caption><strong>Atributos</strong></caption>
   <thead>
     <tr><th>Atributo</th><th>Tipo</th><th>Descripción</th></tr>
   </thead>
   <tbody>
-    <tr><td>status</td><td>Status</td><td>Estado del vehículo</td></tr>
-    <tr><td>changedAt</td><td>DateTime</td><td>Fecha y hora del cambio de estado</td></tr>
-    <tr><td>changedBy</td><td>UUID</td><td>ID del responsable del cambio (gerente o sistema)</td></tr>
-  </tbody>
-</table>
-
-<h2>Clase Fleet</h2>
-<table border="1" cellspacing="0" cellpadding="5">
-  <caption><strong>Atributos</strong></caption>
-  <thead>
-    <tr><th>Atributo</th><th>Tipo</th><th>Descripción</th></tr>
-  </thead>
-  <tbody>
-    <tr><td>id</td><td>UUID</td><td>Identificador único de la flota</td></tr>
-    <tr><td>description</td><td>String</td><td>Descripción de la flota</td></tr>
-    <tr><td>vehicles</td><td>List&lt;Vehicle&gt;</td><td>Lista de vehículos en la flota</td></tr>
+    <tr><td>Value</td><td>string</td><td>El tipo de flota (ej. "Pesado", "Ligero", "Especializado").</td></tr>
   </tbody>
 </table>
 <table border="1" cellspacing="0" cellpadding="5">
@@ -710,40 +878,37 @@ respectivas propiedades, se detall
     <tr><th>Método</th><th>Tipo de Retorno</th><th>Descripción</th></tr>
   </thead>
   <tbody>
-    <tr><td>addVehicle(v)</td><td>void</td><td>Agrega un vehículo a la flota</td></tr>
-    <tr><td>removeVehicle(vehicleId)</td><td>void</td><td>Remueve un vehículo de la flota por ID</td></tr>
-    <tr><td>calculatePerformance()</td><td>PerformanceMetric</td><td>Calcula métricas de desempeño de la flota</td></tr>
+    <tr><td>`IsValid()`</td><td>bool</td><td>Valida si el tipo de flota es conocido o válido.</td></tr>
   </tbody>
 </table>
 
-<h2>Clase PerformanceMetric (Value Object)</h2>
+---
+
+### Clase `VehicleSpecification` (Value Object)
 <table border="1" cellspacing="0" cellpadding="5">
   <caption><strong>Atributos</strong></caption>
   <thead>
     <tr><th>Atributo</th><th>Tipo</th><th>Descripción</th></tr>
   </thead>
   <tbody>
-    <tr><td>availability</td><td>double</td><td>Porcentaje de disponibilidad</td></tr>
-    <tr><td>avgMaintenanceCost</td><td>double</td><td>Costo promedio de mantenimiento</td></tr>
-    <tr><td>otherIndicators</td><td>Map&lt;String, double&gt;</td><td>Otros indicadores</td></tr>
+    <tr><td>Model</td><td>string</td><td>Modelo del vehículo.</td></tr>
+    <tr><td>Make</td><td>string</td><td>Fabricante del vehículo.</td></tr>
+    <tr><td>Year</td><td>int</td><td>Año de fabricación.</td></tr>
+    <tr><td>EngineType</td><td>string</td><td>Tipo de motor (gasolina, diésel, eléctrico).</td></tr>
   </tbody>
 </table>
 
-<h2>Clase MaintenanceOrder</h2>
+---
+
+### Clase `Mileage` (Value Object)
 <table border="1" cellspacing="0" cellpadding="5">
   <caption><strong>Atributos</strong></caption>
   <thead>
     <tr><th>Atributo</th><th>Tipo</th><th>Descripción</th></tr>
   </thead>
   <tbody>
-    <tr><td>id</td><td>UUID</td><td>Identificador del pedido de mantenimiento</td></tr>
-    <tr><td>vehicleId</td><td>UUID</td><td>Vehículo asociado al pedido</td></tr>
-    <tr><td>type</td><td>String</td><td>Tipo de mantenimiento</td></tr>
-    <tr><td>startDate</td><td>DateTime</td><td>Fecha inicio</td></tr>
-    <tr><td>endDate</td><td>DateTime</td><td>Fecha fin</td></tr>
-    <tr><td>status</td><td>Status</td><td>Estado actual del pedido</td></tr>
-    <tr><td>notes</td><td>String</td><td>Notas adicionales</td></tr>
-    <tr><td>totalCost</td><td>double</td><td>Costo total</td></tr>
+    <tr><td>Value</td><td>double</td><td>Valor numérico del kilometraje.</td></tr>
+    <tr><td>Unit</td><td>string</td><td>Unidad de medida (ej. "km", "millas").</td></tr>
   </tbody>
 </table>
 <table border="1" cellspacing="0" cellpadding="5">
@@ -752,24 +917,55 @@ respectivas propiedades, se detall
     <tr><th>Método</th><th>Tipo de Retorno</th><th>Descripción</th></tr>
   </thead>
   <tbody>
-    <tr><td>addTask(t)</td><td>void</td><td>Agrega una tarea de mantenimiento</td></tr>
-    <tr><td>closeOrder()</td><td>void</td><td>Cierra el pedido</td></tr>
-    <tr><td>calculateTotalCost()</td><td>double</td><td>Calcula el costo total del pedido</td></tr>
+    <tr><td>`Add(Mileage other)`</td><td>Mileage</td><td>Suma otro valor de kilometraje.</td></tr>
   </tbody>
 </table>
 
-<h2>Clase Task</h2>
+---
+
+### Interfaz `IFleetRepository` (Repository)
+<table border="1" cellspacing="0" cellpadding="5">
+  <caption><strong>Métodos</strong></caption>
+  <thead>
+    <tr><th>Método</th><th>Tipo de Retorno</th><th>Descripción</th></tr>
+  </thead>
+  <tbody>
+    <tr><td>`Task<Fleet> GetByIdAsync(int id)`</td><td>Task&lt;Fleet&gt;</td><td>Obtiene una flota por su ID de forma asíncrona.</td></tr>
+    <tr><td>`Task<IEnumerable<Fleet>> GetAllAsync()`</td><td>Task&lt;IEnumerable&lt;Fleet&gt;&gt;</td><td>Obtiene todas las flotas de forma asíncrona.</td></tr>
+    <tr><td>`Task AddAsync(Fleet fleet)`</td><td>Task</td><td>Agrega una nueva flota de forma asíncrona.</td></tr>
+    <tr><td>`void Update(Fleet fleet)`</td><td>void</td><td>Actualiza una flota existente.</td></tr>
+    <tr><td>`void Delete(Fleet fleet)`</td><td>void</td><td>Elimina una flota.</td></tr>
+  </tbody>
+</table>
+
+---
+
+### Interfaz `IVehicleRepository` (Repository)
+<table border="1" cellspacing="0" cellpadding="5">
+  <caption><strong>Métodos</strong></caption>
+  <thead>
+    <tr><th>Método</th><th>Tipo de Retorno</th><th>Descripción</th></tr>
+  </thead>
+  <tbody>
+    <tr><td>`Task<Vehicle> GetByIdAsync(int id)`</td><td>Task&lt;Vehicle&gt;</td><td>Obtiene un vehículo por su ID de forma asíncrona.</td></tr>
+    <tr><td>`Task<IEnumerable<Vehicle>> GetAllAsync()`</td><td>Task&lt;IEnumerable&lt;Vehicle&gt;&gt;</td><td>Obtiene todos los vehículos de forma asíncrona.</td></tr>
+    <tr><td>`Task<IEnumerable<Vehicle>> GetByFleetIdAsync(int fleetId)`</td><td>Task&lt;IEnumerable&lt;Vehicle&gt;&gt;</td><td>Obtiene vehículos por ID de flota.</td></tr>
+    <tr><td>`Task AddAsync(Vehicle vehicle)`</td><td>Task</td><td>Agrega un nuevo vehículo de forma asíncrona.</td></tr>
+    <tr><td>`void Update(Vehicle vehicle)`</td><td>void</td><td>Actualiza un vehículo existente.</td></tr>
+    <tr><td>`void Delete(Vehicle vehicle)`</td><td>void</td><td>Elimina un vehículo.</td></tr>
+  </tbody>
+</table>
+
+---
+
+### Clase `FleetRepository` (Infrastructure)
 <table border="1" cellspacing="0" cellpadding="5">
   <caption><strong>Atributos</strong></caption>
   <thead>
     <tr><th>Atributo</th><th>Tipo</th><th>Descripción</th></tr>
   </thead>
   <tbody>
-    <tr><td>id</td><td>UUID</td><td>Identificador de la tarea</td></tr>
-    <tr><td>description</td><td>String</td><td>Descripción de la tarea</td></tr>
-    <tr><td>cost</td><td>double</td><td>Costo de la tarea</td></tr>
-    <tr><td>status</td><td>Status</td><td>Estado de la tarea</td></tr>
-    <tr><td>technicianId</td><td>UUID</td><td>Técnico asignado</td></tr>
+    <tr><td>_dbContext</td><td>ApplicationDbContext</td><td>Contexto de base de datos para interactuar con la persistencia.</td></tr>
   </tbody>
 </table>
 <table border="1" cellspacing="0" cellpadding="5">
@@ -778,24 +974,24 @@ respectivas propiedades, se detall
     <tr><th>Método</th><th>Tipo de Retorno</th><th>Descripción</th></tr>
   </thead>
   <tbody>
-    <tr><td>assignTechnician(t)</td><td>void</td><td>Asigna técnico a la tarea</td></tr>
-    <tr><td>markAsCompleted()</td><td>void</td><td>Marca tarea como completada</td></tr>
+    <tr><td>`GetByIdAsync(int id)`</td><td>Task&lt;Fleet&gt;</td><td>Implementa la obtención de flota por ID.</td></tr>
+    <tr><td>`GetAllAsync()`</td><td>Task&lt;IEnumerable&lt;Fleet&gt;&gt;</td><td>Implementa la obtención de todas las flotas.</td></tr>
+    <tr><td>`AddAsync(Fleet fleet)`</td><td>Task</td><td>Implementa la adición de una flota.</td></tr>
+    <tr><td>`Update(Fleet fleet)`</td><td>void</td><td>Implementa la actualización de una flota.</td></tr>
+    <tr><td>`Delete(Fleet fleet)`</td><td>void</td><td>Implementa la eliminación de una flota.</td></tr>
   </tbody>
 </table>
 
-<h2>Clase Technician</h2>
+---
+
+### Clase `VehicleRepository` (Infrastructure)
 <table border="1" cellspacing="0" cellpadding="5">
   <caption><strong>Atributos</strong></caption>
   <thead>
     <tr><th>Atributo</th><th>Tipo</th><th>Descripción</th></tr>
   </thead>
   <tbody>
-    <tr><td>id</td><td>UUID</td><td>Identificador técnico</td></tr>
-    <tr><td>name</td><td>String</td><td>Nombre</td></tr>
-    <tr><td>specialty</td><td>String</td><td>Especialidad</td></tr>
-    <tr><td>phone</td><td>String</td><td>Teléfono</td></tr>
-    <tr><td>email</td><td>String</td><td>Correo electrónico</td></tr>
-    <tr><td>status</td><td>Status</td><td>Estado actual</td></tr>
+    <tr><td>_dbContext</td><td>ApplicationDbContext</td><td>Contexto de base de datos para interactuar con la persistencia.</td></tr>
   </tbody>
 </table>
 <table border="1" cellspacing="0" cellpadding="5">
@@ -804,24 +1000,26 @@ respectivas propiedades, se detall
     <tr><th>Método</th><th>Tipo de Retorno</th><th>Descripción</th></tr>
   </thead>
   <tbody>
-    <tr><td>isAvailable()</td><td>boolean</td><td>Indica si está disponible</td></tr>
+    <tr><td>`GetByIdAsync(int id)`</td><td>Task&lt;Vehicle&gt;</td><td>Implementa la obtención de vehículo por ID.</td></tr>
+    <tr><td>`GetAllAsync()`</td><td>Task&lt;IEnumerable&lt;Vehicle&gt;&gt;</td><td>Implementa la obtención de todos los vehículos.</td></tr>
+    <tr><td>`GetByFleetIdAsync(int fleetId)`</td><td>Task&lt;IEnumerable&lt;Vehicle&gt;&gt;</td><td>Implementa la obtención de vehículos por ID de flota.</td></tr>
+    <tr><td>`AddAsync(Vehicle vehicle)`</td><td>Task</td><td>Implementa la adición de un vehículo.</td></tr>
+    <tr><td>`Update(Vehicle vehicle)`</td><td>void</td><td>Implementa la actualización de un vehículo.</td></tr>
+    <tr><td>`Delete(Vehicle vehicle)`</td><td>void</td><td>Implementa la eliminación de un vehículo.</td></tr>
   </tbody>
 </table>
 
-<h2>Clase Part</h2>
+---
+
+### Clase `CreateFleetCommandHandler` (Application Service)
 <table border="1" cellspacing="0" cellpadding="5">
   <caption><strong>Atributos</strong></caption>
   <thead>
     <tr><th>Atributo</th><th>Tipo</th><th>Descripción</th></tr>
   </thead>
   <tbody>
-    <tr><td>id</td><td>UUID</td><td>Identificador de pieza</td></tr>
-    <tr><td>name</td><td>String</td><td>Nombre de la pieza</td></tr>
-    <tr><td>type</td><td>String</td><td>Tipo o categoría</td></tr>
-    <tr><td>price</td><td>double</td><td>Precio unitario</td></tr>
-    <tr><td>currentStock</td><td>int</td><td>Stock actual</td></tr>
-    <tr><td>minStock</td><td>int</td><td>Stock mínimo requerido</td></tr>
-    <tr><td>unit</td><td>UnitOfMeasure</td><td>Unidad de medida</td></tr>
+    <tr><td>_fleetRepository</td><td>IFleetRepository</td><td>Repositorio para interactuar con los datos de flota.</td></tr>
+    <tr><td>_unitOfWork</td><td>IUnitOfWork</td><td>Unidad de trabajo para manejar transacciones.</td></tr>
   </tbody>
 </table>
 <table border="1" cellspacing="0" cellpadding="5">
@@ -830,38 +1028,21 @@ respectivas propiedades, se detall
     <tr><th>Método</th><th>Tipo de Retorno</th><th>Descripción</th></tr>
   </thead>
   <tbody>
-    <tr><td>reduceStock(amount)</td><td>void</td><td>Reduce stock en cantidad indicada</td></tr>
-    <tr><td>restock(amount)</td><td>void</td><td>Aumenta stock en cantidad indicada</td></tr>
+    <tr><td>`Handle(CreateFleetCommand command)`</td><td>Task</td><td>Maneja la lógica de creación de una nueva flota.</td></tr>
   </tbody>
 </table>
 
-<h2>Clase MaintenanceHistory</h2>
+---
+
+### Clase `UpdateFleetCommandHandler` (Application Service)
 <table border="1" cellspacing="0" cellpadding="5">
   <caption><strong>Atributos</strong></caption>
   <thead>
     <tr><th>Atributo</th><th>Tipo</th><th>Descripción</th></tr>
   </thead>
   <tbody>
-    <tr><td>id</td><td>UUID</td><td>Identificador del registro</td></tr>
-    <tr><td>orderId</td><td>UUID</td><td>Pedido relacionado</td></tr>
-    <tr><td>events</td><td>List&lt;String&gt;</td><td>Eventos o notas del mantenimiento</td></tr>
-    <tr><td>recordDate</td><td>DateTime</td><td>Fecha de registro</td></tr>
-  </tbody>
-</table>
-
-<h2>Clase Driver</h2>
-<table border="1" cellspacing="0" cellpadding="5">
-  <caption><strong>Atributos</strong></caption>
-  <thead>
-    <tr><th>Atributo</th><th>Tipo</th><th>Descripción</th></tr>
-  </thead>
-  <tbody>
-    <tr><td>id</td><td>UUID</td><td>Identificador conductor</td></tr>
-    <tr><td>name</td><td>String</td><td>Nombre</td></tr>
-    <tr><td>license</td><td>License (Value Object)</td><td>Licencia</td></tr>
-    <tr><td>phone</td><td>String</td><td>Teléfono</td></tr>
-    <tr><td>email</td><td>String</td><td>Correo electrónico</td></tr>
-    <tr><td>status</td><td>Status</td><td>Estado actual</td></tr>
+    <tr><td>_fleetRepository</td><td>IFleetRepository</td><td>Repositorio para interactuar con los datos de flota.</td></tr>
+    <tr><td>_unitOfWork</td><td>IUnitOfWork</td><td>Unidad de trabajo para manejar transacciones.</td></tr>
   </tbody>
 </table>
 <table border="1" cellspacing="0" cellpadding="5">
@@ -870,21 +1051,21 @@ respectivas propiedades, se detall
     <tr><th>Método</th><th>Tipo de Retorno</th><th>Descripción</th></tr>
   </thead>
   <tbody>
-    <tr><td>updateStatus(newStatus)</td><td>void</td><td>Actualiza estado del conductor</td></tr>
-    <tr><td>checkLicenseValidity()</td><td>boolean</td><td>Verifica validez de licencia</td></tr>
+    <tr><td>`Handle(UpdateFleetCommand command)`</td><td>Task</td><td>Maneja la actualización de los detalles de una flota.</td></tr>
   </tbody>
 </table>
 
-<h2>Clase License (Value Object)</h2>
+---
+
+### Clase `DeleteFleetCommandHandler` (Application Service)
 <table border="1" cellspacing="0" cellpadding="5">
   <caption><strong>Atributos</strong></caption>
   <thead>
     <tr><th>Atributo</th><th>Tipo</th><th>Descripción</th></tr>
   </thead>
   <tbody>
-    <tr><td>category</td><td>String</td><td>Categoría de licencia</td></tr>
-    <tr><td>issueDate</td><td>Date</td><td>Fecha de emisión</td></tr>
-    <tr><td>expiryDate</td><td>Date</td><td>Fecha de expiración</td></tr>
+    <tr><td>_fleetRepository</td><td>IFleetRepository</td><td>Repositorio para interactuar con los datos de flota.</td></tr>
+    <tr><td>_unitOfWork</td><td>IUnitOfWork</td><td>Unidad de trabajo para manejar transacciones.</td></tr>
   </tbody>
 </table>
 <table border="1" cellspacing="0" cellpadding="5">
@@ -893,24 +1074,21 @@ respectivas propiedades, se detall
     <tr><th>Método</th><th>Tipo de Retorno</th><th>Descripción</th></tr>
   </thead>
   <tbody>
-    <tr><td>isValid()</td><td>boolean</td><td>Verifica si la licencia está vigente</td></tr>
+    <tr><td>`Handle(DeleteFleetCommand command)`</td><td>Task</td><td>Maneja la eliminación de una flota.</td></tr>
   </tbody>
 </table>
 
-<h2>Clase Assignment</h2>
+---
+
+### Clase `CreateVehicleCommandHandler` (Application Service)
 <table border="1" cellspacing="0" cellpadding="5">
   <caption><strong>Atributos</strong></caption>
   <thead>
     <tr><th>Atributo</th><th>Tipo</th><th>Descripción</th></tr>
   </thead>
   <tbody>
-    <tr><td>id</td><td>UUID</td><td>Identificador de la asignación</td></tr>
-    <tr><td>vehicleId</td><td>UUID</td><td>Vehículo asignado</td></tr>
-    <tr><td>driverId</td><td>UUID</td><td>Conductor asignado</td></tr>
-    <tr><td>route</td><td>Route (Value Object)</td><td>Ruta asignada</td></tr>
-    <tr><td>dateTime</td><td>DateTime</td><td>Fecha y hora de la asignación</td></tr>
-    <tr><td>status</td><td>Status</td><td>Estado de la asignación</td></tr>
-    <tr><td>rejectionReason</td><td>String</td><td>Motivo de rechazo (si aplica)</td></tr>
+    <tr><td>_vehicleRepository</td><td>IVehicleRepository</td><td>Repositorio para interactuar con los datos de vehículos.</td></tr>
+    <tr><td>_unitOfWork</td><td>IUnitOfWork</td><td>Unidad de trabajo para manejar transacciones.</td></tr>
   </tbody>
 </table>
 <table border="1" cellspacing="0" cellpadding="5">
@@ -919,64 +1097,21 @@ respectivas propiedades, se detall
     <tr><th>Método</th><th>Tipo de Retorno</th><th>Descripción</th></tr>
   </thead>
   <tbody>
-    <tr><td>startService()</td><td>void</td><td>Marca la asignación como iniciada</td></tr>
-    <tr><td>completeService(evidence)</td><td>void</td><td>Completa la asignación con evidencia</td></tr>
-    <tr><td>reportIncident(desc)</td><td>void</td><td>Reporta un incidente</td></tr>
+    <tr><td>`Handle(CreateVehicleCommand command)`</td><td>Task</td><td>Maneja la lógica de creación de un nuevo vehículo.</td></tr>
   </tbody>
 </table>
 
-<h2>Clase Route (Value Object)</h2>
+---
+
+### Clase `UpdateVehicleCommandHandler` (Application Service)
 <table border="1" cellspacing="0" cellpadding="5">
   <caption><strong>Atributos</strong></caption>
   <thead>
     <tr><th>Atributo</th><th>Tipo</th><th>Descripción</th></tr>
   </thead>
   <tbody>
-    <tr><td>origin</td><td>String</td><td>Origen de la ruta</td></tr>
-    <tr><td>destination</td><td>String</td><td>Destino de la ruta</td></tr>
-    <tr><td>distanceKm</td><td>double</td><td>Distancia en kilómetros</td></tr>
-  </tbody>
-</table>
-
-<h2>Clase Incident</h2>
-<table border="1" cellspacing="0" cellpadding="5">
-  <caption><strong>Atributos</strong></caption>
-  <thead>
-    <tr><th>Atributo</th><th>Tipo</th><th>Descripción</th></tr>
-  </thead>
-  <tbody>
-    <tr><td>id</td><td>UUID</td><td>Identificador de incidente</td></tr>
-    <tr><td>assignmentId</td><td>UUID</td><td>ID de asignación relacionada</td></tr>
-    <tr><td>description</td><td>String</td><td>Descripción del incidente</td></tr>
-    <tr><td>type</td><td>String</td><td>Tipo de incidente</td></tr>
-    <tr><td>date</td><td>DateTime</td><td>Fecha del incidente</td></tr>
-  </tbody>
-</table>
-
-<h2>Clase AssignmentService (Domain Service)</h2>
-<table border="1" cellspacing="0" cellpadding="5">
-  <caption><strong>Métodos</strong></caption>
-  <thead>
-    <tr><th>Método</th><th>Tipo de Retorno</th><th>Descripción</th></tr>
-  </thead>
-  <tbody>
-    <tr><td>scheduleAssignment(vehicleId, driverId, route, date)</td><td>Assignment</td><td>Programa una nueva asignación</td></tr>
-    <tr><td>checkAvailability(vehicleId, driverId, date)</td><td>boolean</td><td>Verifica disponibilidad de vehículo y conductor</td></tr>
-  </tbody>
-</table>
-
-<h2>Clase Report</h2>
-<table border="1" cellspacing="0" cellpadding="5">
-  <caption><strong>Atributos</strong></caption>
-  <thead>
-    <tr><th>Atributo</th><th>Tipo</th><th>Descripción</th></tr>
-  </thead>
-  <tbody>
-    <tr><td>id</td><td>UUID</td><td>Identificador del reporte</td></tr>
-    <tr><td>title</td><td>String</td><td>Título del reporte</td></tr>
-    <tr><td>generationDate</td><td>DateTime</td><td>Fecha de generación</td></tr>
-    <tr><td>type</td><td>String</td><td>Tipo de reporte</td></tr>
-    <tr><td>data</td><td>String</td><td>Contenido del reporte</td></tr>
+    <tr><td>_vehicleRepository</td><td>IVehicleRepository</td><td>Repositorio para interactuar con los datos de vehículos.</td></tr>
+    <tr><td>_unitOfWork</td><td>IUnitOfWork</td><td>Unidad de trabajo para manejar transacciones.</td></tr>
   </tbody>
 </table>
 <table border="1" cellspacing="0" cellpadding="5">
@@ -985,49 +1120,22 @@ respectivas propiedades, se detall
     <tr><th>Método</th><th>Tipo de Retorno</th><th>Descripción</th></tr>
   </thead>
   <tbody>
-    <tr><td>addIndicator(i)</td><td>void</td><td>Añade un indicador al reporte</td></tr>
+    <tr><td>`Handle(UpdateVehicleCommand command)`</td><td>Task</td><td>Maneja la actualización de los detalles de un vehículo.</td></tr>
   </tbody>
 </table>
 
-<h2>Clase Indicator (Value Object)</h2>
+---
+
+### Clase `AssignVehicleToFleetCommandHandler` (Application Service)
 <table border="1" cellspacing="0" cellpadding="5">
   <caption><strong>Atributos</strong></caption>
   <thead>
     <tr><th>Atributo</th><th>Tipo</th><th>Descripción</th></tr>
   </thead>
   <tbody>
-    <tr><td>name</td><td>String</td><td>Nombre del indicador</td></tr>
-    <tr><td>value</td><td>Float</td><td>Valor numérico del indicador</td></tr>
-  </tbody>
-</table>
-
-<h2>Clase ReportService (Domain Service)</h2>
-<table border="1" cellspacing="0" cellpadding="5">
-  <caption><strong>Métodos</strong></caption>
-  <thead>
-    <tr><th>Método</th><th>Tipo de Retorno</th><th>Descripción</th></tr>
-  </thead>
-  <tbody>
-    <tr><td>generateVehicleReport(vehicleId)</td><td>Report</td><td>Genera reporte para vehículo</td></tr>
-    <tr><td>generateFleetReport(fleetId)</td><td>Report</td><td>Genera reporte para flota</td></tr>
-    <tr><td>generateIncidentReport()</td><td>Report</td><td>Genera reporte de incidentes</td></tr>
-    <tr><td>generateDashboardKPIs()</td><td>Report</td><td>Genera reporte de KPIs</td></tr>
-  </tbody>
-</table>
-
-<h2>Clase Manager</h2>
-<table border="1" cellspacing="0" cellpadding="5">
-  <caption><strong>Atributos</strong></caption>
-  <thead>
-    <tr><th>Atributo</th><th>Tipo</th><th>Descripción</th></tr>
-  </thead>
-  <tbody>
-    <tr><td>id</td><td>UUID</td><td>Identificador del gerente</td></tr>
-    <tr><td>name</td><td>String</td><td>Nombre completo</td></tr>
-    <tr><td>idNumber</td><td>String</td><td>Número de identificación</td></tr>
-    <tr><td>email</td><td>String</td><td>Correo electrónico</td></tr>
-    <tr><td>profile</td><td>String</td><td>Perfil o rol</td></tr>
-    <tr><td>status</td><td>Status</td><td>Estado actual</td></tr>
+    <tr><td>_vehicleRepository</td><td>IVehicleRepository</td><td>Repositorio para interactuar con los datos de vehículos.</td></tr>
+    <tr><td>_fleetRepository</td><td>IFleetRepository</td><td>Repositorio para interactuar con los datos de flotas.</td></tr>
+    <tr><td>_unitOfWork</td><td>IUnitOfWork</td><td>Unidad de trabajo para manejar transacciones.</td></tr>
   </tbody>
 </table>
 <table border="1" cellspacing="0" cellpadding="5">
@@ -1036,28 +1144,1443 @@ respectivas propiedades, se detall
     <tr><th>Método</th><th>Tipo de Retorno</th><th>Descripción</th></tr>
   </thead>
   <tbody>
-    <tr><td>authorizeAssignment()</td><td>void</td><td>Autoriza asignaciones</td></tr>
-    <tr><td>manageMaintenance()</td><td>void</td><td>Gestiona mantenimiento</td></tr>
+    <tr><td>`Handle(AssignVehicleToFleetCommand command)`</td><td>Task</td><td>Maneja la asignación de un vehículo a una flota.</td></tr>
   </tbody>
 </table>
 
-<h2>Clase ManagementLog</h2>
+---
+
+### Clase `GetAllFleetsQueryHandler` (Application Service)
 <table border="1" cellspacing="0" cellpadding="5">
   <caption><strong>Atributos</strong></caption>
   <thead>
     <tr><th>Atributo</th><th>Tipo</th><th>Descripción</th></tr>
   </thead>
   <tbody>
-    <tr><td>id</td><td>UUID</td><td>Identificador del log</td></tr>
-    <tr><td>managerId</td><td>UUID</td><td>ID del gerente asociado</td></tr>
-    <tr><td>action</td><td>String</td><td>Acción registrada</td></tr>
-    <tr><td>date</td><td>DateTime</td><td>Fecha y hora del registro</td></tr>
+    <tr><td>_fleetRepository</td><td>IFleetRepository</td><td>Repositorio para interactuar con los datos de flota.</td></tr>
+  </tbody>
+</table>
+<table border="1" cellspacing="0" cellpadding="5">
+  <caption><strong>Métodos</strong></caption>
+  <thead>
+    <tr><th>Método</th><th>Tipo de Retorno</th><th>Descripción</th></tr>
+  </thead>
+  <tbody>
+    <tr><td>`Handle(GetAllFleetsQuery query)`</td><td>Task&lt;IEnumerable&lt;FleetResource&gt;&gt;</td><td>Maneja la obtención de todas las flotas.</td></tr>
   </tbody>
 </table>
 
-</body>
-</html>
+---
 
+### Clase `GetFleetByIdQueryHandler` (Application Service)
+<table border="1" cellspacing="0" cellpadding="5">
+  <caption><strong>Atributos</strong></caption>
+  <thead>
+    <tr><th>Atributo</th><th>Tipo</th><th>Descripción</th></tr>
+  </thead>
+  <tbody>
+    <tr><td>_fleetRepository</td><td>IFleetRepository</td><td>Repositorio para interactuar con los datos de flota.</td></tr>
+  </tbody>
+</table>
+<table border="1" cellspacing="0" cellpadding="5">
+  <caption><strong>Métodos</strong></caption>
+  <thead>
+    <tr><th>Método</th><th>Tipo de Retorno</th><th>Descripción</th></tr>
+  </thead>
+  <tbody>
+    <tr><td>`Handle(GetFleetByIdQuery query)`</td><td>Task&lt;FleetResource&gt;</td><td>Maneja la obtención de una flota por ID.</td></tr>
+  </tbody>
+</table>
+
+---
+
+### Clase `GetActiveFleetQueryHandler` (Application Service)
+<table border="1" cellspacing="0" cellpadding="5">
+  <caption><strong>Atributos</strong></caption>
+  <thead>
+    <tr><th>Atributo</th><th>Tipo</th><th>Descripción</th></tr>
+  </thead>
+  <tbody>
+    <tr><td>_fleetRepository</td><td>IFleetRepository</td><td>Repositorio para interactuar con los datos de flota.</td></tr>
+  </tbody>
+</table>
+<table border="1" cellspacing="0" cellpadding="5">
+  <caption><strong>Métodos</strong></caption>
+  <thead>
+    <tr><th>Método</th><th>Tipo de Retorno</th><th>Descripción</th></tr>
+  </thead>
+  <tbody>
+    <tr><td>`Handle(GetActiveFleetQuery query)`</td><td>Task&lt;IEnumerable&lt;FleetResource&gt;&gt;</td><td>Maneja la obtención de flotas activas.</td></tr>
+  </tbody>
+</table>
+
+---
+
+### Clase `GetFleetByTypeQueryHandler` (Application Service)
+<table border="1" cellspacing="0" cellpadding="5">
+  <caption><strong>Atributos</strong></caption>
+  <thead>
+    <tr><th>Atributo</th><th>Tipo</th><th>Descripción</th></tr>
+  </thead>
+  <tbody>
+    <tr><td>_fleetRepository</td><td>IFleetRepository</td><td>Repositorio para interactuar con los datos de flota.</td></tr>
+  </tbody>
+</table>
+<table border="1" cellspacing="0" cellpadding="5">
+  <caption><strong>Métodos</strong></caption>
+  <thead>
+    <tr><th>Método</th><th>Tipo de Retorno</th><th>Descripción</th></tr>
+  </thead>
+  <tbody>
+    <tr><td>`Handle(GetFleetByTypeQuery query)`</td><td>Task&lt;IEnumerable&lt;FleetResource&gt;&gt;</td><td>Maneja la obtención de flotas por tipo.</td></tr>
+  </tbody>
+</table>
+
+---
+
+### Clase `GetAllVehiclesQueryHandler` (Application Service)
+<table border="1" cellspacing="0" cellpadding="5">
+  <caption><strong>Atributos</strong></caption>
+  <thead>
+    <tr><th>Atributo</th><th>Tipo</th><th>Descripción</th></tr>
+  </thead>
+  <tbody>
+    <tr><td>_vehicleRepository</td><td>IVehicleRepository</td><td>Repositorio para interactuar con los datos de vehículos.</td></tr>
+  </tbody>
+</table>
+<table border="1" cellspacing="0" cellpadding="5">
+  <caption><strong>Métodos</strong></caption>
+  <thead>
+    <tr><th>Método</th><th>Tipo de Retorno</th><th>Descripción</th></tr>
+  </thead>
+  <tbody>
+    <tr><td>`Handle(GetAllVehiclesQuery query)`</td><td>Task&lt;IEnumerable&lt;VehicleResource&gt;&gt;</td><td>Maneja la obtención de todos los vehículos.</td></tr>
+  </tbody>
+</table>
+
+---
+
+### Clase `GetVehicleByIdQueryHandler` (Application Service)
+<table border="1" cellspacing="0" cellpadding="5">
+  <caption><strong>Atributos</strong></caption>
+  <thead>
+    <tr><th>Atributo</th><th>Tipo</th><th>Descripción</th></tr>
+  </thead>
+  <tbody>
+    <tr><td>_vehicleRepository</td><td>IVehicleRepository</td><td>Repositorio para interactuar con los datos de vehículos.</td></tr>
+  </tbody>
+</table>
+<table border="1" cellspacing="0" cellpadding="5">
+  <caption><strong>Métodos</strong></caption>
+  <thead>
+    <tr><th>Método</th><th>Tipo de Retorno</th><th>Descripción</th></tr>
+  </thead>
+  <tbody>
+    <tr><td>`Handle(GetVehicleByIdQuery query)`</td><td>Task&lt;VehicleResource&gt;</td><td>Maneja la obtención de un vehículo por ID.</td></tr>
+  </tbody>
+</table>
+
+---
+
+### Clase `GetVehiclesByFleetIdQueryHandler` (Application Service)
+<table border="1" cellspacing="0" cellpadding="5">
+  <caption><strong>Atributos</strong></caption>
+  <thead>
+    <tr><th>Atributo</th><th>Tipo</th><th>Descripción</th></tr>
+  </thead>
+  <tbody>
+    <tr><td>_vehicleRepository</td><td>IVehicleRepository</td><td>Repositorio para interactuar con los datos de vehículos.</td></tr>
+  </tbody>
+</table>
+<table border="1" cellspacing="0" cellpadding="5">
+  <caption><strong>Métodos</strong></caption>
+  <thead>
+    <tr><th>Método</th><th>Tipo de Retorno</th><th>Descripción</th></tr>
+  </thead>
+  <tbody>
+    <tr><td>`Handle(GetVehiclesByFleetIdQuery query)`</td><td>Task&lt;IEnumerable&lt;VehicleResource&gt;&gt;</td><td>Maneja la obtención de vehículos por ID de flota.</td></tr>
+  </tbody>
+</table>
+
+---
+
+### Clase `GetVehiclesInMaintenanceQueryHandler` (Application Service)
+<table border="1" cellspacing="0" cellpadding="5">
+  <caption><strong>Atributos</strong></caption>
+  <thead>
+    <tr><th>Atributo</th><th>Tipo</th><th>Descripción</th></tr>
+  </thead>
+  <tbody>
+    <tr><td>_vehicleRepository</td><td>IVehicleRepository</td><td>Repositorio para interactuar con los datos de vehículos.</td></tr>
+  </tbody>
+</table>
+<table border="1" cellspacing="0" cellpadding="5">
+  <caption><strong>Métodos</strong></caption>
+  <thead>
+    <tr><th>Método</th><th>Tipo de Retorno</th><th>Descripción</th></tr>
+  </thead>
+  <tbody>
+    <tr><td>`Handle(GetVehiclesInMaintenanceQuery query)`</td><td>Task&lt;IEnumerable&lt;VehicleResource&gt;&gt;</td><td>Maneja la obtención de vehículos en mantenimiento.</td></tr>
+  </tbody>
+</table>
+
+---
+
+### Clase `GetVehiclesDueForServiceQueryHandler` (Application Service)
+<table border="1" cellspacing="0" cellpadding="5">
+  <caption><strong>Atributos</strong></caption>
+  <thead>
+    <tr><th>Atributo</th><th>Tipo</th><th>Descripción</th></tr>
+  </thead>
+  <tbody>
+    <tr><td>_vehicleRepository</td><td>IVehicleRepository</td><td>Repositorio para interactuar con los datos de vehículos.</td></tr>
+  </tbody>
+</table>
+<table border="1" cellspacing="0" cellpadding="5">
+  <caption><strong>Métodos</strong></caption>
+  <thead>
+    <tr><th>Método</th><th>Tipo de Retorno</th><th>Descripción</th></tr>
+  </thead>
+  <tbody>
+    <tr><td>`Handle(GetVehiclesDueForServiceQuery query)`</td><td>Task&lt;IEnumerable&lt;VehicleResource&gt;&gt;</td><td>Maneja la obtención de vehículos que requieren servicio.</td></tr>
+  </tbody>
+</table>
+
+---
+
+### Clase `ServiceCollectionExtensions` (Infrastructure Extension)
+<table border="1" cellspacing="0" cellpadding="5">
+  <caption><strong>Métodos</strong></caption>
+  <thead>
+    <tr><th>Método</th><th>Tipo de Retorno</th><th>Descripción</th></tr>
+  </thead>
+  <tbody>
+    <tr><td>`AddFleetManagementServices(this IServiceCollection services)`</td><td>IServiceCollection</td><td>Método de extensión para registrar servicios relacionados con FleetManagement en el contenedor de IoC.</td></tr>
+  </tbody>
+</table>
+
+---
+
+### Clase `FleetsController` (Interface/REST)
+<table border="1" cellspacing="0" cellpadding="5">
+  <caption><strong>Atributos</strong></caption>
+  <thead>
+    <tr><th>Atributo</th><th>Tipo</th><th>Descripción</th></tr>
+  </thead>
+  <tbody>
+    <tr><td>_commandService</td><td>CreateFleetCommandHandler, etc.</td><td>Servicios de comando para manejar acciones.</td></tr>
+    <tr><td>_queryService</td><td>GetAllFleetsQueryHandler, etc.</td><td>Servicios de consulta para obtener datos.</td></tr>
+  </tbody>
+</table>
+<table border="1" cellspacing="0" cellpadding="5">
+  <caption><strong>Métodos</strong></caption>
+  <thead>
+    <tr><th>Método</th><th>Tipo de Retorno</th><th>Descripción</th></tr>
+  </thead>
+  <tbody>
+    <tr><td>`PostFleet(CreateFleetResource resource)`</td><td>IActionResult</td><td>Endpoint REST para crear una nueva flota.</td></tr>
+    <tr><td>`GetAllFleets()`</td><td>IActionResult</td><td>Endpoint REST para obtener todas las flotas.</td></tr>
+    <tr><td>`GetFleetById(int id)`</td><td>IActionResult</td><td>Endpoint REST para obtener una flota por ID.</td></tr>
+    <tr><td>`PutFleet(int id, UpdateFleetResource resource)`</td><td>IActionResult</td><td>Endpoint REST para actualizar una flota.</td></tr>
+    <tr><td>`DeleteFleet(int id)`</td><td>IActionResult</td><td>Endpoint REST para eliminar una flota.</td></tr>
+  </tbody>
+</table>
+
+---
+
+### Clase `VehiclesController` (Interface/REST)
+<table border="1" cellspacing="0" cellpadding="5">
+  <caption><strong>Atributos</strong></caption>
+  <thead>
+    <tr><th>Atributo</th><th>Tipo</th><th>Descripción</th></tr>
+  </thead>
+  <tbody>
+    <tr><td>_commandService</td><td>CreateVehicleCommandHandler, etc.</td><td>Servicios de comando para manejar acciones.</td></tr>
+    <tr><td>_queryService</td><td>GetAllVehiclesQueryHandler, etc.</td><td>Servicios de consulta para obtener datos.</td></tr>
+  </tbody>
+</table>
+<table border="1" cellspacing="0" cellpadding="5">
+  <caption><strong>Métodos</strong></caption>
+  <thead>
+    <tr><th>Método</th><th>Tipo de Retorno</th><th>Descripción</th></tr>
+  </thead>
+  <tbody>
+    <tr><td>`PostVehicle(CreateVehicleResource resource)`</td><td>IActionResult</td><td>Endpoint REST para crear un nuevo vehículo.</td></tr>
+    <tr><td>`GetAllVehicles()`</td><td>IActionResult</td><td>Endpoint REST para obtener todos los vehículos.</td></tr>
+    <tr><td>`GetVehicleById(int id)`</td><td>IActionResult</td><td>Endpoint REST para obtener un vehículo por ID.</td></tr>
+    <tr><td>`PutVehicle(int id, UpdateVehicleResource resource)`</td><td>IActionResult</td><td>Endpoint REST para actualizar un vehículo.</td></tr>
+    <tr><td>`PutAssignVehicle(int id, AssignVehicleResource resource)`</td><td>IActionResult</td><td>Endpoint REST para asignar un vehículo a una flota.</td></tr>
+    <tr><td>`PutUpdateMileage(int id, UpdateMileageResource resource)`</td><td>IActionResult</td><td>Endpoint REST para actualizar el kilometraje de un vehículo.</td></tr>
+  </tbody>
+</table>
+
+---
+
+### Clase `FleetResource` (Interface/REST Resource)
+<table border="1" cellspacing="0" cellpadding="5">
+  <caption><strong>Atributos</strong></caption>
+  <thead>
+    <tr><th>Atributo</th><th>Tipo</th><th>Descripción</th></tr>
+  </thead>
+  <tbody>
+    <tr><td>Id</td><td>int</td><td>ID de la flota.</td></tr>
+    <tr><td>Name</td><td>string</td><td>Nombre de la flota.</td></tr>
+    <tr><td>Type</td><td>string</td><td>Tipo de flota.</td></tr>
+    <tr><td>VehicleCount</td><td>int</td><td>Número de vehículos en la flota.</td></tr>
+  </tbody>
+</table>
+
+---
+
+### Clase `CreateFleetResource` (Interface/REST Resource)
+<table border="1" cellspacing="0" cellpadding="5">
+  <caption><strong>Atributos</strong></caption>
+  <thead>
+    <tr><th>Atributo</th><th>Tipo</th><th>Descripción</th></tr>
+  </thead>
+  <tbody>
+    <tr><td>Name</td><td>string</td><td>Nombre para la nueva flota.</td></tr>
+    <tr><td>Type</td><td>string</td><td>Tipo para la nueva flota.</td></tr>
+  </tbody>
+</table>
+
+---
+
+### Clase `UpdateFleetResource` (Interface/REST Resource)
+<table border="1" cellspacing="0" cellpadding="5">
+  <caption><strong>Atributos</strong></caption>
+  <thead>
+    <tr><th>Atributo</th><th>Tipo</th><th>Descripción</th></tr>
+  </thead>
+  <tbody>
+    <tr><td>Name</td><td>string</td><td>Nuevo nombre para la flota.</td></tr>
+    <tr><td>Type</td><td>string</td><td>Nuevo tipo para la flota.</td></tr>
+  </tbody>
+</table>
+
+---
+
+### Clase `VehicleResource` (Interface/REST Resource)
+<table border="1" cellspacing="0" cellpadding="5">
+  <caption><strong>Atributos</strong></caption>
+  <thead>
+    <tr><th>Atributo</th><th>Tipo</th><th>Descripción</th></tr>
+  </thead>
+  <tbody>
+    <tr><td>Id</td><td>int</td><td>ID del vehículo.</td></tr>
+    <tr><td>LicensePlate</td><td>string</td><td>Número de placa.</td></tr>
+    <tr><td>Model</td><td>string</td><td>Modelo.</td></tr>
+    <tr><td>Type</td><td>string</td><td>Tipo de vehículo.</td></tr>
+    <tr><td>VIN</td><td>string</td><td>VIN.</td></tr>
+    <tr><td>FleetId</td><td>int?</td><td>ID de la flota asignada.</td></tr>
+    <tr><td>CurrentMileage</td><td>double</td><td>Kilometraje actual.</td></tr>
+  </tbody>
+</table>
+
+---
+
+### Clase `CreateVehicleResource` (Interface/REST Resource)
+<table border="1" cellspacing="0" cellpadding="5">
+  <caption><strong>Atributos</strong></caption>
+  <thead>
+    <tr><th>Atributo</th><th>Tipo</th><th>Descripción</th></tr>
+  </thead>
+  <tbody>
+    <tr><td>LicensePlate</td><td>string</td><td>Número de placa para el nuevo vehículo.</td></tr>
+    <tr><td>Model</td><td>string</td><td>Modelo del nuevo vehículo.</td></tr>
+    <tr><td>Type</td><td>string</td><td>Tipo del nuevo vehículo.</td></tr>
+    <tr><td>VIN</td><td>string</td><td>VIN del nuevo vehículo.</td></tr>
+    <tr><td>InitialMileage</td><td>double</td><td>Kilometraje inicial.</td></tr>
+  </tbody>
+</table>
+
+---
+
+### Clase `UpdateVehicleResource` (Interface/REST Resource)
+<table border="1" cellspacing="0" cellpadding="5">
+  <caption><strong>Atributos</strong></caption>
+  <thead>
+    <tr><th>Atributo</th><th>Tipo</th><th>Descripción</th></tr>
+  </thead>
+  <tbody>
+    <tr><td>Model</td><td>string</td><td>Nuevo modelo.</td></tr>
+    <tr><td>Type</td><td>string</td><td>Nuevo tipo de vehículo.</td></tr>
+  </tbody>
+</table>
+
+---
+
+### Clase `AssignVehicleResource` (Interface/REST Resource)
+<table border="1" cellspacing="0" cellpadding="5">
+  <caption><strong>Atributos</strong></caption>
+  <thead>
+    <tr><th>Atributo</th><th>Tipo</th><th>Descripción</th></tr>
+  </thead>
+  <tbody>
+    <tr><td>FleetId</td><td>int</td><td>ID de la flota a la que se asignará el vehículo.</td></tr>
+  </tbody>
+</table>
+
+---
+
+### Clase `UpdateMileageResource` (Interface/REST Resource)
+<table border="1" cellspacing="0" cellpadding="5">
+  <caption><strong>Atributos</strong></caption>
+  <thead>
+    <tr><th>Atributo</th><th>Tipo</th><th>Descripción</th></tr>
+  </thead>
+  <tbody>
+    <tr><td>NewMileageValue</td><td>double</td><td>Nuevo valor de kilometraje.</td></tr>
+  </tbody>
+</table>
+
+---
+
+### Clase `FleetResourceFromEntityAssembler` (Interface/REST Transform)
+<table border="1" cellspacing="0" cellpadding="5">
+  <caption><strong>Métodos</strong></caption>
+  <thead>
+    <tr><th>Método</th><th>Tipo de Retorno</th><th>Descripción</th></tr>
+  </thead>
+  <tbody>
+    <tr><td>`ToResourceFromEntity(Fleet entity)`</td><td>FleetResource</td><td>Convierte una entidad `Fleet` a un `FleetResource`.</td></tr>
+  </tbody>
+</table>
+
+---
+
+### Clase `CreateFleetCommandFromResourceAssembler` (Interface/REST Transform)
+<table border="1" cellspacing="0" cellpadding="5">
+  <caption><strong>Métodos</strong></caption>
+  <thead>
+    <tr><th>Método</th><th>Tipo de Retorno</th><th>Descripción</th></tr>
+  </thead>
+  <tbody>
+    <tr><td>`ToCommandFromResource(CreateFleetResource resource)`</td><td>CreateFleetCommand</td><td>Convierte un `CreateFleetResource` a un `CreateFleetCommand`.</td></tr>
+  </tbody>
+</table>
+
+---
+
+### Clase `UpdateFleetCommandFromResourceAssembler` (Interface/REST Transform)
+<table border="1" cellspacing="0" cellpadding="5">
+  <caption><strong>Métodos</strong></caption>
+  <thead>
+    <tr><th>Método</th><th>Tipo de Retorno</th><th>Descripción</th></tr>
+  </thead>
+  <tbody>
+    <tr><td>`ToCommandFromResource(UpdateFleetResource resource, int fleetId)`</td><td>UpdateFleetCommand</td><td>Convierte un `UpdateFleetResource` a un `UpdateFleetCommand`.</td></tr>
+  </tbody>
+</table>
+
+---
+
+### Clase `VehicleResourceFromEntityAssembler` (Interface/REST Transform)
+<table border="1" cellspacing="0" cellpadding="5">
+  <caption><strong>Métodos</strong></caption>
+  <thead>
+    <tr><th>Método</th><th>Tipo de Retorno</th><th>Descripción</th></tr>
+  </thead>
+  <tbody>
+    <tr><td>`ToResourceFromEntity(Vehicle entity)`</td><td>VehicleResource</td><td>Convierte una entidad `Vehicle` a un `VehicleResource`.</td></tr>
+  </tbody>
+</table>
+
+---
+
+### Clase `CreateVehicleCommandFromResourceAssembler` (Interface/REST Transform)
+<table border="1" cellspacing="0" cellpadding="5">
+  <caption><strong>Métodos</strong></caption>
+  <thead>
+    <tr><th>Método</th><th>Tipo de Retorno</th><th>Descripción</th></tr>
+  </thead>
+  <tbody>
+    <tr><td>`ToCommandFromResource(CreateVehicleResource resource)`</td><td>CreateVehicleCommand</td><td>Convierte un `CreateVehicleResource` a un `CreateVehicleCommand`.</td></tr>
+  </tbody>
+</table>
+
+---
+
+### Clase `UpdateVehicleCommandFromResourceAssembler` (Interface/REST Transform)
+<table border="1" cellspacing="0" cellpadding="5">
+  <caption><strong>Métodos</strong></caption>
+  <thead>
+    <tr><th>Método</th><th>Tipo de Retorno</th><th>Descripción</th></tr>
+  </thead>
+  <tbody>
+    <tr><td>`ToCommandFromResource(UpdateVehicleResource resource, int vehicleId)`</td><td>UpdateVehicleCommand</td><td>Convierte un `UpdateVehicleResource` a un `UpdateVehicleCommand`.</td></tr>
+  </tbody>
+</table>
+
+---
+
+### Clase `AssignVehicleCommandFromResourceAssembler` (Interface/REST Transform)
+<table border="1" cellspacing="0" cellpadding="5">
+  <caption><strong>Métodos</strong></caption>
+  <thead>
+    <tr><th>Método</th><th>Tipo de Retorno</th><th>Descripción</th></tr>
+  </thead>
+  <tbody>
+    <tr><td>`ToCommandFromResource(AssignVehicleResource resource, int vehicleId)`</td><td>AssignVehicleToFleetCommand</td><td>Convierte un `AssignVehicleResource` a un `AssignVehicleToFleetCommand`.</td></tr>
+  </tbody>
+</table>
+
+---
+
+### Clase `UpdateMileageCommandFromResourceAssembler` (Interface/REST Transform)
+<table border="1" cellspacing="0" cellpadding="5">
+  <caption><strong>Métodos</strong></caption>
+  <thead>
+    <tr><th>Método</th><th>Tipo de Retorno</th><th>Descripción</th></tr>
+  </thead>
+  <tbody>
+    <tr><td>`ToCommandFromResource(UpdateMileageResource resource, int vehicleId)`</td><td>UpdateVehicleMileageCommand</td><td>Convierte un `UpdateMileageResource` a un `UpdateVehicleMileageCommand`.</td></tr>
+  </tbody>
+</table>
+
+---
+
+## Personnel Bounded Context
+
+### Clase `Driver` (Aggregate)
+<table border="1" cellspacing="0" cellpadding="5">
+  <caption><strong>Atributos</strong></caption>
+  <thead>
+    <tr><th>Atributo</th><th>Tipo</th><th>Descripción</th></tr>
+  </thead>
+  <tbody>
+    <tr><td>Id</td><td>int</td><td>Identificador único del conductor.</td></tr>
+    <tr><td>FirstName</td><td>string</td><td>Nombre del conductor.</td></tr>
+    <tr><td>LastName</td><td>string</td><td>Apellido del conductor.</td></tr>
+    <tr><td>DriverLicense</td><td>DriverLicense (Value Object)</td><td>Información de la licencia de conducir.</td></tr>
+    <tr><td>ContactInformation</td><td>ContactInformation (Value Object)</td><td>Información de contacto del conductor.</td></tr>
+    <tr><td>Status</td><td>DriverStatus (enum)</td><td>Estado actual del conductor (activo, inactivo, suspendido).</td></tr>
+    <tr><td>ExperienceLevel</td><td>ExperienceLevel (Value Object)</td><td>Nivel de experiencia del conductor.</td></tr>
+    <tr><td>DriverCode</td><td>DriverCode (Value Object)</td><td>Código único asignado al conductor.</td></tr>
+  </tbody>
+</table>
+<table border="1" cellspacing="0" cellpadding="5">
+  <caption><strong>Métodos</strong></caption>
+  <thead>
+    <tr><th>Método</th><th>Tipo de Retorno</th><th>Descripción</th></tr>
+  </thead>
+  <tbody>
+    <tr><td>`Register()`</td><td>void</td><td>Registra al conductor.</td></tr>
+    <tr><td>`UpdateProfile(firstName, lastName, contactInfo)`</td><td>void</td><td>Actualiza el perfil del conductor.</td></tr>
+    <tr><td>`UpdateStatus(newStatus)`</td><td>void</td><td>Actualiza el estado del conductor.</td></tr>
+    <tr><td>`RenewLicense(newExpiryDate)`</td><td>void</td><td>Renueva la licencia de conducir.</td></tr>
+    <tr><td>`Deactivate()`</td><td>void</td><td>Desactiva al conductor.</td></tr>
+    <tr><td>`Activate()`</td><td>void</td><td>Activa al conductor.</td></tr>
+    <tr><td>`Suspend()`</td><td>void</td><td>Suspende al conductor.</td></tr>
+  </tbody>
+</table>
+
+---
+
+### Clase `RegisterDriverCommand` (Command)
+<table border="1" cellspacing="0" cellpadding="5">
+  <caption><strong>Atributos</strong></caption>
+  <thead>
+    <tr><th>Atributo</th><th>Tipo</th><th>Descripción</th></tr>
+  </thead>
+  <tbody>
+    <tr><td>FirstName</td><td>string</td><td>Nombre del conductor a registrar.</td></tr>
+    <tr><td>LastName</td><td>string</td><td>Apellido del conductor a registrar.</td></tr>
+    <tr><td>LicenseCategory</td><td>string</td><td>Categoría de la licencia.</td></tr>
+    <tr><td>LicenseIssueDate</td><td>DateTime</td><td>Fecha de emisión de la licencia.</td></tr>
+    <tr><td>LicenseExpiryDate</td><td>DateTime</td><td>Fecha de expiración de la licencia.</td></tr>
+    <tr><td>PhoneNumber</td><td>string</td><td>Número de teléfono.</td></tr>
+    <tr><td>Email</td><td>string</td><td>Correo electrónico.</td></tr>
+  </tbody>
+</table>
+
+---
+
+### Clase `UpdateDriverCommand` (Command)
+<table border="1" cellspacing="0" cellpadding="5">
+  <caption><strong>Atributos</strong></caption>
+  <thead>
+    <tr><th>Atributo</th><th>Tipo</th><th>Descripción</th></tr>
+  </thead>
+  <tbody>
+    <tr><td>DriverId</td><td>int</td><td>ID del conductor a actualizar.</td></tr>
+    <tr><td>NewFirstName</td><td>string</td><td>Nuevo nombre del conductor.</td></tr>
+    <tr><td>NewLastName</td><td>string</td><td>Nuevo apellido del conductor.</td></tr>
+    <tr><td>NewPhoneNumber</td><td>string</td><td>Nuevo número de teléfono.</td></tr>
+    <tr><td>NewEmail</td><td>string</td><td>Nuevo correo electrónico.</td></tr>
+  </tbody>
+</table>
+
+---
+
+### Clase `UpdateDriverStatusCommand` (Command)
+<table border="1" cellspacing="0" cellpadding="5">
+  <caption><strong>Atributos</strong></caption>
+  <thead>
+    <tr><th>Atributo</th><th>Tipo</th><th>Descripción</th></tr>
+  </thead>
+  <tbody>
+    <tr><td>DriverId</td><td>int</td><td>ID del conductor.</td></tr>
+    <tr><td>NewStatus</td><td>string</td><td>Nuevo estado del conductor.</td></tr>
+  </tbody>
+</table>
+
+---
+
+### Clase `DeactivateDriverCommand` (Command)
+<table border="1" cellspacing="0" cellpadding="5">
+  <caption><strong>Atributos</strong></caption>
+  <thead>
+    <tr><th>Atributo</th><th>Tipo</th><th>Descripción</th></tr>
+  </thead>
+  <tbody>
+    <tr><td>DriverId</td><td>int</td><td>ID del conductor a desactivar.</td></tr>
+  </tbody>
+</table>
+
+---
+
+### Clase `ActivateDriverCommand` (Command)
+<table border="1" cellspacing="0" cellpadding="5">
+  <caption><strong>Atributos</strong></caption>
+  <thead>
+    <tr><th>Atributo</th><th>Tipo</th><th>Descripción</th></tr>
+  </thead>
+  <tbody>
+    <tr><td>DriverId</td><td>int</td><td>ID del conductor a activar.</td></tr>
+  </tbody>
+</table>
+
+---
+
+### Clase `RenewDriverLicenseCommand` (Command)
+<table border="1" cellspacing="0" cellpadding="5">
+  <caption><strong>Atributos</strong></caption>
+  <thead>
+    <tr><th>Atributo</th><th>Tipo</th><th>Descripción</th></tr>
+  </thead>
+  <tbody>
+    <tr><td>DriverId</td><td>int</td><td>ID del conductor.</td></tr>
+    <tr><td>NewExpiryDate</td><td>DateTime</td><td>Nueva fecha de expiración de la licencia.</td></tr>
+  </tbody>
+</table>
+
+---
+
+### Clase `SuspendDriverCommand` (Command)
+<table border="1" cellspacing="0" cellpadding="5">
+  <caption><strong>Atributos</strong></caption>
+  <thead>
+    <tr><th>Atributo</th><th>Tipo</th><th>Descripción</th></tr>
+  </thead>
+  <tbody>
+    <tr><td>DriverId</td><td>int</td><td>ID del conductor a suspender.</td></tr>
+    <tr><td>Reason</td><td>string</td><td>Razón de la suspensión.</td></tr>
+  </tbody>
+</table>
+
+---
+
+### Clase `GetAllDriversQuery` (Query)
+<table border="1" cellspacing="0" cellpadding="5">
+  <caption><strong>Atributos</strong></caption>
+  <thead>
+    <tr><th>Atributo</th><th>Tipo</th><th>Descripción</th></tr>
+  </thead>
+  <tbody>
+    <tr><td colspan="3"><i>(No tiene atributos específicos, es para obtener todos los conductores)</i></td></tr>
+  </tbody>
+</table>
+
+---
+
+### Clase `GetDriverByIdQuery` (Query)
+<table border="1" cellspacing="0" cellpadding="5">
+  <caption><strong>Atributos</strong></caption>
+  <thead>
+    <tr><th>Atributo</th><th>Tipo</th><th>Descripción</th></tr>
+  </thead>
+  <tbody>
+    <tr><td>DriverId</td><td>int</td><td>ID del conductor a buscar.</td></tr>
+  </tbody>
+</table>
+
+---
+
+### Clase `GetDriverByCodeQuery` (Query)
+<table border="1" cellspacing="0" cellpadding="5">
+  <caption><strong>Atributos</strong></caption>
+  <thead>
+    <tr><th>Atributo</th><th>Tipo</th><th>Descripción</th></tr>
+  </thead>
+  <tbody>
+    <tr><td>DriverCode</td><td>string</td><td>Código del conductor a buscar.</td></tr>
+  </tbody>
+</table>
+
+---
+
+### Clase `GetActiveDriversQuery` (Query)
+<table border="1" cellspacing="0" cellpadding="5">
+  <caption><strong>Atributos</strong></caption>
+  <thead>
+    <tr><th>Atributo</th><th>Tipo</th><th>Descripción</th></tr>
+  </thead>
+  <tbody>
+    <tr><td colspan="3"><i>(No tiene atributos específicos, es para obtener conductores activos)</i></td></tr>
+  </tbody>
+</table>
+
+---
+
+### Clase `GetAvailableDriversQuery` (Query)
+<table border="1" cellspacing="0" cellpadding="5">
+  <caption><strong>Atributos</strong></caption>
+  <thead>
+    <tr><th>Atributo</th><th>Tipo</th><th>Descripción</th></tr>
+  </thead>
+  <tbody>
+    <tr><td colspan="3"><i>(No tiene atributos específicos, es para obtener conductores disponibles)</i></td></tr>
+  </tbody>
+</table>
+
+---
+
+### Clase `GetDriversByStatusQuery` (Query)
+<table border="1" cellspacing="0" cellpadding="5">
+  <caption><strong>Atributos</strong></caption>
+  <thead>
+    <tr><th>Atributo</th><th>Tipo</th><th>Descripción</th></tr>
+  </thead>
+  <tbody>
+    <tr><td>Status</td><td>string</td><td>Estado de los conductores a buscar.</td></tr>
+  </tbody>
+</table>
+
+---
+
+### Clase `GetDriversWithExpiredLicensesQuery` (Query)
+<table border="1" cellspacing="0" cellpadding="5">
+  <caption><strong>Atributos</strong></caption>
+  <thead>
+    <tr><th>Atributo</th><th>Tipo</th><th>Descripción</th></tr>
+  </thead>
+  <tbody>
+    <tr><td colspan="3"><i>(No tiene atributos específicos, es para obtener conductores con licencias vencidas)</i></td></tr>
+  </tbody>
+</table>
+
+---
+
+### Clase `GetDriversWithExpiringSoonLicensesQuery` (Query)
+<table border="1" cellspacing="0" cellpadding="5">
+  <caption><strong>Atributos</strong></caption>
+  <thead>
+    <tr><th>Atributo</th><th>Tipo</th><th>Descripción</th></tr>
+  </thead>
+  <tbody>
+    <tr><td>DaysUntilExpiration</td><td>int</td><td>Número de días para considerar "pronto a vencer".</td></tr>
+  </tbody>
+</table>
+
+---
+
+### Clase `GetDriverStatsQuery` (Query)
+<table border="1" cellspacing="0" cellpadding="5">
+  <caption><strong>Atributos</strong></caption>
+  <thead>
+    <tr><th>Atributo</th><th>Tipo</th><th>Descripción</th></tr>
+  </thead>
+  <tbody>
+    <tr><td colspan="3"><i>(No tiene atributos específicos, es para obtener estadísticas generales de conductores)</i></td></tr>
+  </tbody>
+</table>
+
+---
+
+### Clase `GetDriversByExperienceLevelQuery` (Query)
+<table border="1" cellspacing="0" cellpadding="5">
+  <caption><strong>Atributos</strong></caption>
+  <thead>
+    <tr><th>Atributo</th><th>Tipo</th><th>Descripción</th></tr>
+  </thead>
+  <tbody>
+    <tr><td>ExperienceLevel</td><td>string</td><td>Nivel de experiencia a buscar.</td></tr>
+  </tbody>
+</table>
+
+---
+
+### Clase `DriverLicense` (Value Object)
+<table border="1" cellspacing="0" cellpadding="5">
+  <caption><strong>Atributos</strong></caption>
+  <thead>
+    <tr><th>Atributo</th><th>Tipo</th><th>Descripción</th></tr>
+  </thead>
+  <tbody>
+    <tr><td>Category</td><td>string</td><td>Categoría de la licencia (ej. "A", "B", "C").</td></tr>
+    <tr><td>IssueDate</td><td>DateTime</td><td>Fecha de emisión de la licencia.</td></tr>
+    <tr><td>ExpiryDate</td><td>DateTime</td><td>Fecha de expiración de la licencia.</td></tr>
+  </tbody>
+</table>
+<table border="1" cellspacing="0" cellpadding="5">
+  <caption><strong>Métodos</strong></caption>
+  <thead>
+    <tr><th>Método</th><th>Tipo de Retorno</th><th>Descripción</th></tr>
+  </thead>
+  <tbody>
+    <tr><td>`IsValid()`</td><td>bool</td><td>Verifica si la licencia está vigente.</td></tr>
+    <tr><td>`IsExpiringSoon(int days)`</td><td>bool</td><td>Verifica si la licencia expirará pronto.</td></tr>
+  </tbody>
+</table>
+
+---
+
+### Clase `ContactInformation` (Value Object)
+<table border="1" cellspacing="0" cellpadding="5">
+  <caption><strong>Atributos</strong></caption>
+  <thead>
+    <tr><th>Atributo</th><th>Tipo</th><th>Descripción</th></tr>
+  </thead>
+  <tbody>
+    <tr><td>PhoneNumber</td><td>string</td><td>Número de teléfono de contacto.</td></tr>
+    <tr><td>Email</td><td>string</td><td>Correo electrónico de contacto.</td></tr>
+    <tr><td>Address</td><td>string</td><td>Dirección física de contacto.</td></tr>
+  </tbody>
+</table>
+
+---
+
+### Clase `ExperienceLevel` (Value Object)
+<table border="1" cellspacing="0" cellpadding="5">
+  <caption><strong>Atributos</strong></caption>
+  <thead>
+    <tr><th>Atributo</th><th>Tipo</th><th>Descripción</th></tr>
+  </thead>
+  <tbody>
+    <tr><td>Value</td><td>string</td><td>Nivel de experiencia (ej. "Novato", "Intermedio", "Experimentado").</td></tr>
+  </tbody>
+</table>
+
+---
+
+### Clase `DriverCode` (Value Object)
+<table border="1" cellspacing="0" cellpadding="5">
+  <caption><strong>Atributos</strong></caption>
+  <thead>
+    <tr><th>Atributo</th><th>Tipo</th><th>Descripción</th></tr>
+  </thead>
+  <tbody>
+    <tr><td>Value</td><td>string</td><td>Código único asignado al conductor.</td></tr>
+  </tbody>
+</table>
+
+---
+
+### Interfaz `IDriverRepository` (Repository)
+<table border="1" cellspacing="0" cellpadding="5">
+  <caption><strong>Métodos</strong></caption>
+  <thead>
+    <tr><th>Método</th><th>Tipo de Retorno</th><th>Descripción</th></tr>
+  </thead>
+  <tbody>
+    <tr><td>`Task<Driver> GetByIdAsync(int id)`</td><td>Task&lt;Driver&gt;</td><td>Obtiene un conductor por su ID de forma asíncrona.</td></tr>
+    <tr><td>`Task<IEnumerable<Driver>> GetAllAsync()`</td><td>Task&lt;IEnumerable&lt;Driver&gt;&gt;</td><td>Obtiene todos los conductores de forma asíncrona.</td></tr>
+    <tr><td>`Task AddAsync(Driver driver)`</td><td>Task</td><td>Agrega un nuevo conductor de forma asíncrona.</td></tr>
+    <tr><td>`void Update(Driver driver)`</td><td>void</td><td>Actualiza un conductor existente.</td></tr>
+    <tr><td>`void Delete(Driver driver)`</td><td>void</td><td>Elimina un conductor.</td></tr>
+  </tbody>
+</table>
+
+---
+
+### Clase `DriverRepository` (Infrastructure)
+<table border="1" cellspacing="0" cellpadding="5">
+  <caption><strong>Atributos</strong></caption>
+  <thead>
+    <tr><th>Atributo</th><th>Tipo</th><th>Descripción</th></tr>
+  </thead>
+  <tbody>
+    <tr><td>_dbContext</td><td>ApplicationDbContext</td><td>Contexto de base de datos para interactuar con la persistencia.</td></tr>
+  </tbody>
+</table>
+<table border="1" cellspacing="0" cellpadding="5">
+  <caption><strong>Métodos</strong></caption>
+  <thead>
+    <tr><th>Método</th><th>Tipo de Retorno</th><th>Descripción</th></tr>
+  </thead>
+  <tbody>
+    <tr><td>`GetByIdAsync(int id)`</td><td>Task&lt;Driver&gt;</td><td>Implementa la obtención de conductor por ID.</td></tr>
+    <tr><td>`GetAllAsync()`</td><td>Task&lt;IEnumerable&lt;Driver&gt;&gt;</td><td>Implementa la obtención de todos los conductores.</td></tr>
+    <tr><td>`AddAsync(Driver driver)`</td><td>Task</td><td>Implementa la adición de un conductor.</td></tr>
+    <tr><td>`Update(Driver driver)`</td><td>void</td><td>Implementa la actualización de un conductor.</td></tr>
+    <tr><td>`Delete(Driver driver)`</td><td>void</td><td>Implementa la eliminación de un conductor.</td></tr>
+  </tbody>
+</table>
+
+---
+
+### Clase `RegisterDriverCommandHandler` (Application Service)
+<table border="1" cellspacing="0" cellpadding="5">
+  <caption><strong>Atributos</strong></caption>
+  <thead>
+    <tr><th>Atributo</th><th>Tipo</th><th>Descripción</th></tr>
+  </thead>
+  <tbody>
+    <tr><td>_driverRepository</td><td>IDriverRepository</td><td>Repositorio para interactuar con los datos de conductores.</td></tr>
+    <tr><td>_unitOfWork</td><td>IUnitOfWork</td><td>Unidad de trabajo para manejar transacciones.</td></tr>
+  </tbody>
+</table>
+<table border="1" cellspacing="0" cellpadding="5">
+  <caption><strong>Métodos</strong></caption>
+  <thead>
+    <tr><th>Método</th><th>Tipo de Retorno</th><th>Descripción</th></tr>
+  </thead>
+  <tbody>
+    <tr><td>`Handle(RegisterDriverCommand command)`</td><td>Task</td><td>Maneja la lógica de registro de un nuevo conductor.</td></tr>
+  </tbody>
+</table>
+
+---
+
+### Clase `UpdateDriverCommandHandler` (Application Service)
+<table border="1" cellspacing="0" cellpadding="5">
+  <caption><strong>Atributos</strong></caption>
+  <thead>
+    <tr><th>Atributo</th><th>Tipo</th><th>Descripción</th></tr>
+  </thead>
+  <tbody>
+    <tr><td>_driverRepository</td><td>IDriverRepository</td><td>Repositorio para interactuar con los datos de conductores.</td></tr>
+    <tr><td>_unitOfWork</td><td>IUnitOfWork</td><td>Unidad de trabajo para manejar transacciones.</td></tr>
+  </tbody>
+</table>
+<table border="1" cellspacing="0" cellpadding="5">
+  <caption><strong>Métodos</strong></caption>
+  <thead>
+    <tr><th>Método</th><th>Tipo de Retorno</th><th>Descripción</th></tr>
+  </thead>
+  <tbody>
+    <tr><td>`Handle(UpdateDriverCommand command)`</td><td>Task</td><td>Maneja la actualización del perfil de un conductor.</td></tr>
+  </tbody>
+</table>
+
+---
+
+### Clase `UpdateDriverStatusCommandHandler` (Application Service)
+<table border="1" cellspacing="0" cellpadding="5">
+  <caption><strong>Atributos</strong></caption>
+  <thead>
+    <tr><th>Atributo</th><th>Tipo</th><th>Descripción</th></tr>
+  </thead>
+  <tbody>
+    <tr><td>_driverRepository</td><td>IDriverRepository</td><td>Repositorio para interactuar con los datos de conductores.</td></tr>
+    <tr><td>_unitOfWork</td><td>IUnitOfWork</td><td>Unidad de trabajo para manejar transacciones.</td></tr>
+  </tbody>
+</table>
+<table border="1" cellspacing="0" cellpadding="5">
+  <caption><strong>Métodos</strong></caption>
+  <thead>
+    <tr><th>Método</th><th>Tipo de Retorno</th><th>Descripción</th></tr>
+  </thead>
+  <tbody>
+    <tr><td>`Handle(UpdateDriverStatusCommand command)`</td><td>Task</td><td>Maneja la actualización del estado de un conductor.</td></tr>
+  </tbody>
+</table>
+
+---
+
+### Clase `DeactivateDriverCommandHandler` (Application Service)
+<table border="1" cellspacing="0" cellpadding="5">
+  <caption><strong>Atributos</strong></caption>
+  <thead>
+    <tr><th>Atributo</th><th>Tipo</th><th>Descripción</th></tr>
+  </thead>
+  <tbody>
+    <tr><td>_driverRepository</td><td>IDriverRepository</td><td>Repositorio para interactuar con los datos de conductores.</td></tr>
+    <tr><td>_unitOfWork</td><td>IUnitOfWork</td><td>Unidad de trabajo para manejar transacciones.</td></tr>
+  </tbody>
+</table>
+<table border="1" cellspacing="0" cellpadding="5">
+  <caption><strong>Métodos</strong></caption>
+  <thead>
+    <tr><th>Método</th><th>Tipo de Retorno</th><th>Descripción</th></tr>
+  </thead>
+  <tbody>
+    <tr><td>`Handle(DeactivateDriverCommand command)`</td><td>Task</td><td>Maneja la desactivación de un conductor.</td></tr>
+  </tbody>
+</table>
+
+---
+
+### Clase `RenewDriverLicenseCommandHandler` (Application Service)
+<table border="1" cellspacing="0" cellpadding="5">
+  <caption><strong>Atributos</strong></caption>
+  <thead>
+    <tr><th>Atributo</th><th>Tipo</th><th>Descripción</th></tr>
+  </thead>
+  <tbody>
+    <tr><td>_driverRepository</td><td>IDriverRepository</td><td>Repositorio para interactuar con los datos de conductores.</td></tr>
+    <tr><td>_unitOfWork</td><td>IUnitOfWork</td><td>Unidad de trabajo para manejar transacciones.</td></tr>
+  </tbody>
+</table>
+<table border="1" cellspacing="0" cellpadding="5">
+  <caption><strong>Métodos</strong></caption>
+  <thead>
+    <tr><th>Método</th><th>Tipo de Retorno</th><th>Descripción</th></tr>
+  </thead>
+  <tbody>
+    <tr><td>`Handle(RenewDriverLicenseCommand command)`</td><td>Task</td><td>Maneja la renovación de la licencia de un conductor.</td></tr>
+  </tbody>
+</table>
+
+---
+
+### Clase `GetAllDriversQueryHandler` (Application Service)
+<table border="1" cellspacing="0" cellpadding="5">
+  <caption><strong>Atributos</strong></caption>
+  <thead>
+    <tr><th>Atributo</th><th>Tipo</th><th>Descripción</th></tr>
+  </thead>
+  <tbody>
+    <tr><td>_driverRepository</td><td>IDriverRepository</td><td>Repositorio para interactuar con los datos de conductores.</td></tr>
+  </tbody>
+</table>
+<table border="1" cellspacing="0" cellpadding="5">
+  <caption><strong>Métodos</strong></caption>
+  <thead>
+    <tr><th>Método</th><th>Tipo de Retorno</th><th>Descripción</th></tr>
+  </thead>
+  <tbody>
+    <tr><td>`Handle(GetAllDriversQuery query)`</td><td>Task&lt;IEnumerable&lt;DriverResource&gt;&gt;</td><td>Maneja la obtención de todos los conductores.</td></tr>
+  </tbody>
+</table>
+
+---
+
+### Clase `GetDriverByIdQueryHandler` (Application Service)
+<table border="1" cellspacing="0" cellpadding="5">
+  <caption><strong>Atributos</strong></caption>
+  <thead>
+    <tr><th>Atributo</th><th>Tipo</th><th>Descripción</th></tr>
+  </thead>
+  <tbody>
+    <tr><td>_driverRepository</td><td>IDriverRepository</td><td>Repositorio para interactuar con los datos de conductores.</td></tr>
+  </tbody>
+</table>
+<table border="1" cellspacing="0" cellpadding="5">
+  <caption><strong>Métodos</strong></caption>
+  <thead>
+    <tr><th>Método</th><th>Tipo de Retorno</th><th>Descripción</th></tr>
+  </thead>
+  <tbody>
+    <tr><td>`Handle(GetDriverByIdQuery query)`</td><td>Task&lt;DriverResource&gt;</td><td>Maneja la obtención de un conductor por ID.</td></tr>
+  </tbody>
+</table>
+
+---
+
+### Clase `GetActiveDriversQueryHandler` (Application Service)
+<table border="1" cellspacing="0" cellpadding="5">
+  <caption><strong>Atributos</strong></caption>
+  <thead>
+    <tr><th>Atributo</th><th>Tipo</th><th>Descripción</th></tr>
+  </thead>
+  <tbody>
+    <tr><td>_driverRepository</td><td>IDriverRepository</td><td>Repositorio para interactuar con los datos de conductores.</td></tr>
+  </tbody>
+</table>
+<table border="1" cellspacing="0" cellpadding="5">
+  <caption><strong>Métodos</strong></caption>
+  <thead>
+    <tr><th>Método</th><th>Tipo de Retorno</th><th>Descripción</th></tr>
+  </thead>
+  <tbody>
+    <tr><td>`Handle(GetActiveDriversQuery query)`</td><td>Task&lt;IEnumerable&lt;DriverResource&gt;&gt;</td><td>Maneja la obtención de conductores activos.</td></tr>
+  </tbody>
+</table>
+
+---
+
+### Clase `GetDriverStatsQueryHandler` (Application Service)
+<table border="1" cellspacing="0" cellpadding="5">
+  <caption><strong>Atributos</strong></caption>
+  <thead>
+    <tr><th>Atributo</th><th>Tipo</th><th>Descripción</th></tr>
+  </thead>
+  <tbody>
+    <tr><td>_driverRepository</td><td>IDriverRepository</td><td>Repositorio para interactuar con los datos de conductores.</td></tr>
+  </tbody>
+</table>
+<table border="1" cellspacing="0" cellpadding="5">
+  <caption><strong>Métodos</strong></caption>
+  <thead>
+    <tr><th>Método</th><th>Tipo de Retorno</th><th>Descripción</th></tr>
+  </thead>
+  <tbody>
+    <tr><td>`Handle(GetDriverStatsQuery query)`</td><td>Task&lt;DriverStatsResource&gt;</td><td>Maneja la obtención de estadísticas de conductores.</td></tr>
+  </tbody>
+</table>
+
+---
+
+### Clase `GetDriversWithExpiringSoonLicensesQueryHandler` (Application Service)
+<table border="1" cellspacing="0" cellpadding="5">
+  <caption><strong>Atributos</strong></caption>
+  <thead>
+    <tr><th>Atributo</th><th>Tipo</th><th>Descripción</th></tr>
+  </thead>
+  <tbody>
+    <tr><td>_driverRepository</td><td>IDriverRepository</td><td>Repositorio para interactuar con los datos de conductores.</td></tr>
+  </tbody>
+</table>
+<table border="1" cellspacing="0" cellpadding="5">
+  <caption><strong>Métodos</strong></caption>
+  <thead>
+    <tr><th>Método</th><th>Tipo de Retorno</th><th>Descripción</th></tr>
+  </thead>
+  <tbody>
+    <tr><td>`Handle(GetDriversWithExpiringSoonLicensesQuery query)`</td><td>Task&lt;IEnumerable&lt;DriverResource&gt;&gt;</td><td>Maneja la obtención de conductores con licencias próximas a vencer.</td></tr>
+  </tbody>
+</table>
+
+---
+
+### Clase `ServiceCollectionExtensions` (Infrastructure Extension)
+<table border="1" cellspacing="0" cellpadding="5">
+  <caption><strong>Métodos</strong></caption>
+  <thead>
+    <tr><th>Método</th><th>Tipo de Retorno</th><th>Descripción</th></tr>
+  </thead>
+  <tbody>
+    <tr><td>`AddPersonnelServices(this IServiceCollection services)`</td><td>IServiceCollection</td><td>Método de extensión para registrar servicios relacionados con Personnel en el contenedor de IoC.</td></tr>
+  </tbody>
+</table>
+
+---
+
+### Clase `DriversController` (Interface/REST)
+<table border="1" cellspacing="0" cellpadding="5">
+  <caption><strong>Atributos</strong></caption>
+  <thead>
+    <tr><th>Atributo</th><th>Tipo</th><th>Descripción</th></tr>
+  </thead>
+  <tbody>
+    <tr><td>_commandService</td><td>RegisterDriverCommandHandler, etc.</td><td>Servicios de comando para manejar acciones.</td></tr>
+    <tr><td>_queryService</td><td>GetAllDriversQueryHandler, etc.</td><td>Servicios de consulta para obtener datos.</td></tr>
+  </tbody>
+</table>
+<table border="1" cellspacing="0" cellpadding="5">
+  <caption><strong>Métodos</strong></caption>
+  <thead>
+    <tr><th>Método</th><th>Tipo de Retorno</th><th>Descripción</th></tr>
+  </thead>
+  <tbody>
+    <tr><td>`PostDriver(RegisterDriverResource resource)`</td><td>IActionResult</td><td>Endpoint REST para registrar un nuevo conductor.</td></tr>
+    <tr><td>`GetAllDrivers()`</td><td>IActionResult</td><td>Endpoint REST para obtener todos los conductores.</td></tr>
+    <tr><td>`GetDriverById(int id)`</td><td>IActionResult</td><td>Endpoint REST para obtener un conductor por ID.</td></tr>
+    <tr><td>`PutDriverProfile(int id, UpdateDriverResource resource)`</td><td>IActionResult</td><td>Endpoint REST para actualizar el perfil del conductor.</td></tr>
+    <tr><td>`PutDriverStatus(int id, UpdateDriverStatusResource resource)`</td><td>IActionResult</td><td>Endpoint REST para actualizar el estado del conductor.</td></tr>
+    <tr><td>`PutRenewLicense(int id, RenewLicenseResource resource)`</td><td>IActionResult</td><td>Endpoint REST para renovar la licencia del conductor.</td></tr>
+    <tr><td>`DeleteDriver(int id)`</td><td>IActionResult</td><td>Endpoint REST para desactivar un conductor.</td></tr>
+  </tbody>
+</table>
+
+---
+
+### Clase `DriverResource` (Interface/REST Resource)
+<table border="1" cellspacing="0" cellpadding="5">
+  <caption><strong>Atributos</strong></caption>
+  <thead>
+    <tr><th>Atributo</th><th>Tipo</th><th>Descripción</th></tr>
+  </thead>
+  <tbody>
+    <tr><td>Id</td><td>int</td><td>ID del conductor.</td></tr>
+    <tr><td>FirstName</td><td>string</td><td>Nombre.</td></tr>
+    <tr><td>LastName</td><td>string</td><td>Apellido.</td></tr>
+    <tr><td>LicenseCategory</td><td>string</td><td>Categoría de la licencia.</td></tr>
+    <tr><td>LicenseExpiryDate</td><td>DateTime</td><td>Fecha de expiración de la licencia.</td></tr>
+    <tr><td>PhoneNumber</td><td>string</td><td>Número de teléfono.</td></tr>
+    <tr><td>Email</td><td>string</td><td>Correo electrónico.</td></tr>
+    <tr><td>Status</td><td>string</td><td>Estado del conductor.</td></tr>
+  </tbody>
+</table>
+
+---
+
+### Clase `RegisterDriverResource` (Interface/REST Resource)
+<table border="1" cellspacing="0" cellpadding="5">
+  <caption><strong>Atributos</strong></caption>
+  <thead>
+    <tr><th>Atributo</th><th>Tipo</th><th>Descripción</th></tr>
+  </thead>
+  <tbody>
+    <tr><td>FirstName</td><td>string</td><td>Nombre del conductor.</td></tr>
+    <tr><td>LastName</td><td>string</td><td>Apellido del conductor.</td></tr>
+    <tr><td>LicenseCategory</td><td>string</td><td>Categoría de la licencia.</td></tr>
+    <tr><td>LicenseIssueDate</td><td>DateTime</td><td>Fecha de emisión de la licencia.</td></tr>
+    <tr><td>LicenseExpiryDate</td><td>DateTime</td><td>Fecha de expiración de la licencia.</td></tr>
+    <tr><td>PhoneNumber</td><td>string</td><td>Número de teléfono.</td></tr>
+    <tr><td>Email</td><td>string</td><td>Correo electrónico.</td></tr>
+  </tbody>
+</table>
+
+---
+
+### Clase `UpdateDriverResource` (Interface/REST Resource)
+<table border="1" cellspacing="0" cellpadding="5">
+  <caption><strong>Atributos</strong></caption>
+  <thead>
+    <tr><th>Atributo</th><th>Tipo</th><th>Descripción</th></tr>
+  </thead>
+  <tbody>
+    <tr><td>FirstName</td><td>string</td><td>Nuevo nombre.</td></tr>
+    <tr><td>LastName</td><td>string</td><td>Nuevo apellido.</td></tr>
+    <tr><td>PhoneNumber</td><td>string</td><td>Nuevo número de teléfono.</td></tr>
+    <tr><td>Email</td><td>string</td><td>Nuevo correo electrónico.</td></tr>
+  </tbody>
+</table>
+
+---
+
+### Clase `UpdateDriverStatusResource` (Interface/REST Resource)
+<table border="1" cellspacing="0" cellpadding="5">
+  <caption><strong>Atributos</strong></caption>
+  <thead>
+    <tr><th>Atributo</th><th>Tipo</th><th>Descripción</th></tr>
+  </thead>
+  <tbody>
+    <tr><td>NewStatus</td><td>string</td><td>Nuevo estado del conductor.</td></tr>
+  </tbody>
+</table>
+
+---
+
+### Clase `RenewLicenseResource` (Interface/REST Resource)
+<table border="1" cellspacing="0" cellpadding="5">
+  <caption><strong>Atributos</strong></caption>
+  <thead>
+    <tr><th>Atributo</th><th>Tipo</th><th>Descripción</th></tr>
+  </thead>
+  <tbody>
+    <tr><td>NewExpiryDate</td><td>DateTime</td><td>Nueva fecha de expiración de la licencia.</td></tr>
+  </tbody>
+</table>
+
+---
+
+### Clase `SuspendDriverResource` (Interface/REST Resource)
+<table border="1" cellspacing="0" cellpadding="5">
+  <caption><strong>Atributos</strong></caption>
+  <thead>
+    <tr><th>Atributo</th><th>Tipo</th><th>Descripción</th></tr>
+  </thead>
+  <tbody>
+    <tr><td>Reason</td><td>string</td><td>Razón de la suspensión.</td></tr>
+  </tbody>
+</table>
+
+---
+
+### Clase `DriverStatsResource` (Interface/REST Resource)
+<table border="1" cellspacing="0" cellpadding="5">
+  <caption><strong>Atributos</strong></caption>
+  <thead>
+    <tr><th>Atributo</th><th>Tipo</th><th>Descripción</th></tr>
+  </thead>
+  <tbody>
+    <tr><td>TotalDrivers</td><td>int</td><td>Número total de conductores.</td></tr>
+    <tr><td>ActiveDrivers</td><td>int</td><td>Número de conductores activos.</td></tr>
+    <tr><td>InactiveDrivers</td><td>int</td><td>Número de conductores inactivos.</td></tr>
+    <tr><td>DriversWithExpiringLicenses</td><td>int</td><td>Número de conductores con licencias próximas a vencer.</td></tr>
+  </tbody>
+</table>
+
+---
+
+### Clase `DriverListItemResource` (Interface/REST Resource)
+<table border="1" cellspacing="0" cellpadding="5">
+  <caption><strong>Atributos</strong></caption>
+  <thead>
+    <tr><th>Atributo</th><th>Tipo</th><th>Descripción</th></tr>
+  </thead>
+  <tbody>
+    <tr><td>Id</td><td>int</td><td>ID del conductor.</td></tr>
+    <tr><td>FullName</td><td>string</td><td>Nombre completo del conductor.</td></tr>
+    <tr><td>Status</td><td>string</td><td>Estado actual.</td></tr>
+    <tr><td>LicenseExpiryDate</td><td>DateTime</td><td>Fecha de expiración de la licencia.</td></tr>
+  </tbody>
+</table>
+
+---
+
+### Clase `DriverResourceFromEntityAssembler` (Interface/REST Transform)
+<table border="1" cellspacing="0" cellpadding="5">
+  <caption><strong>Métodos</strong></caption>
+  <thead>
+    <tr><th>Método</th><th>Tipo de Retorno</th><th>Descripción</th></tr>
+  </thead>
+  <tbody>
+    <tr><td>`ToResourceFromEntity(Driver entity)`</td><td>DriverResource</td><td>Convierte una entidad `Driver` a un `DriverResource`.</td></tr>
+  </tbody>
+</table>
+
+---
+
+### Clase `RegisterDriverCommandFromResourceAssembler` (Interface/REST Transform)
+<table border="1" cellspacing="0" cellpadding="5">
+  <caption><strong>Métodos</strong></caption>
+  <thead>
+    <tr><th>Método</th><th>Tipo de Retorno</th><th>Descripción</th></tr>
+  </thead>
+  <tbody>
+    <tr><td>`ToCommandFromResource(RegisterDriverResource resource)`</td><td>RegisterDriverCommand</td><td>Convierte un `RegisterDriverResource` a un `RegisterDriverCommand`.</td></tr>
+  </tbody>
+</table>
+
+---
+
+### Clase `UpdateDriverCommandFromResourceAssembler` (Interface/REST Transform)
+<table border="1" cellspacing="0" cellpadding="5">
+  <caption><strong>Métodos</strong></caption>
+  <thead>
+    <tr><th>Método</th><th>Tipo de Retorno</th><th>Descripción</th></tr>
+  </thead>
+  <tbody>
+    <tr><td>`ToCommandFromResource(UpdateDriverResource resource, int driverId)`</td><td>UpdateDriverCommand</td><td>Convierte un `UpdateDriverResource` a un `UpdateDriverCommand`.</td></tr>
+  </tbody>
+</table>
+
+---
+
+### Clase `UpdateDriverStatusCommandFromResourceAssembler` (Interface/REST Transform)
+<table border="1" cellspacing="0" cellpadding="5">
+  <caption><strong>Métodos</strong></caption>
+  <thead>
+    <tr><th>Método</th><th>Tipo de Retorno</th><th>Descripción</th></tr>
+  </thead>
+  <tbody>
+    <tr><td>`ToCommandFromResource(UpdateDriverStatusResource resource, int driverId)`</td><td>UpdateDriverStatusCommand</td><td>Convierte un `UpdateDriverStatusResource` a un `UpdateDriverStatusCommand`.</td></tr>
+  </tbody>
+</table>
+
+---
+
+### Clase `RenewLicenseCommandFromResourceAssembler` (Interface/REST Transform)
+<table border="1" cellspacing="0" cellpadding="5">
+  <caption><strong>Métodos</strong></caption>
+  <thead>
+    <tr><th>Método</th><th>Tipo de Retorno</th><th>Descripción</th></tr>
+  </thead>
+  <tbody>
+    <tr><td>`ToCommandFromResource(RenewLicenseResource resource, int driverId)`</td><td>RenewDriverLicenseCommand</td><td>Convierte un `RenewLicenseResource` a un `RenewDriverLicenseCommand`.</td></tr>
+  </tbody>
+</table>
+
+---
+
+## Shared Bounded Context
+
+### Interfaz `ICommand` (Domain Model)
+<table border="1" cellspacing="0" cellpadding="5">
+  <caption><strong>Descripción</strong></caption>
+  <thead>
+    <tr><th>Elemento</th><th>Tipo</th><th>Descripción</th></tr>
+  </thead>
+  <tbody>
+    <tr><td>Propósito</td><td colspan="2">Interfaz de marcador para comandos, que representan intenciones o acciones que el sistema debe ejecutar.</td></tr>
+    <tr><td>Métodos</td><td colspan="2"><i>(No define métodos, es una interfaz de marcador)</i></td></tr>
+  </tbody>
+</table>
+
+---
+
+### Interfaz `IQuery` (Domain Model)
+<table border="1" cellspacing="0" cellpadding="5">
+  <caption><strong>Descripción</strong></caption>
+  <thead>
+    <tr><th>Elemento</th><th>Tipo</th><th>Descripción</th></tr>
+  </thead>
+  <tbody>
+    <tr><td>Propósito</td><td colspan="2">Interfaz de marcador para consultas, que representan solicitudes de información que el sistema debe recuperar.</td></tr>
+    <tr><td>Métodos</td><td colspan="2"><i>(No define métodos, es una interfaz de marcador)</i></td></tr>
+  </tbody>
+</table>
+
+---
+
+### Clase `DomainEvent` (Domain Model - Events)
+<table border="1" cellspacing="0" cellpadding="5">
+  <caption><strong>Atributos</strong></caption>
+  <thead>
+    <tr><th>Atributo</th><th>Tipo</th><th>Descripción</th></tr>
+  </thead>
+  <tbody>
+    <tr><td>Id</td><td>Guid</td><td>Identificador único del evento de dominio.</td></tr>
+    <tr><td>OccurredOn</td><td>DateTime</td><td>Fecha y hora en que ocurrió el evento.</td></tr>
+    <tr><td>AggregateId</td><td>long</td><td>Identificador del agregado al que pertenece el evento.</td></tr>
+  </tbody>
+</table>
+<table border="1" cellspacing="0" cellpadding="5">
+  <caption><strong>Métodos</strong></caption>
+  <thead>
+    <tr><th>Método</th><th>Tipo de Retorno</th><th>Descripción</th></tr>
+  </thead>
+  <tbody>
+    <tr><td>`DomainEvent()`</td><td>Constructor</td><td>Constructor de la clase.</td></tr>
+  </tbody>
+</table>
+
+---
+
+### Interfaz `IBaseRepository<TEntity>` (Domain Repository)
+<table border="1" cellspacing="0" cellpadding="5">
+  <caption><strong>Descripción</strong></caption>
+  <thead>
+    <tr><th>Elemento</th><th>Tipo</th><th>Descripción</th></tr>
+  </thead>
+  <tbody>
+    <tr><td>Propósito</td><td colspan="2">Interfaz base para todos los repositorios, definiendo operaciones CRUD genéricas.</td></tr>
+  </tbody>
+</table>
+<table border="1" cellspacing="0" cellpadding="5">
+  <caption><strong>Métodos</strong></caption>
+  <thead>
+    <tr><th>Método</th><th>Tipo de Retorno</th><th>Descripción</th></tr>
+  </thead>
+  <tbody>
+    <tr><td>`Task<TEntity> GetByIdAsync(int id)`</td><td>Task&lt;TEntity&gt;</td><td>Obtiene una entidad por su ID de forma asíncrona.</td></tr>
+    <tr><td>`Task<IEnumerable<TEntity>> GetAllAsync()`</td><td>Task&lt;IEnumerable&lt;TEntity&gt;&gt;</td><td>Obtiene todas las entidades de forma asíncrona.</td></tr>
+    <tr><td>`Task AddAsync(TEntity entity)`</td><td>Task</td><td>Agrega una nueva entidad de forma asíncrona.</td></tr>
+    <tr><td>`void Update(TEntity entity)`</td><td>void</td><td>Actualiza una entidad existente.</td></tr>
+    <tr><td>`void Delete(TEntity entity)`</td><td>void</td><td>Elimina una entidad.</td></tr>
+  </tbody>
+</table>
+
+---
+
+### Interfaz `IUnitOfWork` (Domain Repository)
+<table border="1" cellspacing="0" cellpadding="5">
+  <caption><strong>Descripción</strong></caption>
+  <thead>
+    <tr><th>Elemento</th><th>Tipo</th><th>Descripción</th></tr>
+  </thead>
+  <tbody>
+    <tr><td>Propósito</td><td colspan="2">Interfaz para la Unidad de Trabajo, que agrupa una o más operaciones que deben ser atómicas.</td></tr>
+  </tbody>
+</table>
+<table border="1" cellspacing="0" cellpadding="5">
+  <caption><strong>Métodos</strong></caption>
+  <thead>
+    <tr><th>Método</th><th>Tipo de Retorno</th><th>Descripción</th></tr>
+  </thead>
+  <tbody>
+    <tr><td>`Task<int> CompleteAsync()`</td><td>Task&lt;int&gt;</td><td>Guarda todos los cambios pendientes en la unidad de trabajo de forma asíncrona. Retorna el número de registros afectados.</td></tr>
+  </tbody>
+</table>
+
+---
+
+Este es el class directory completo. He inferido los atributos y métodos basándome en los nombres de archivo y las convenciones de diseño. Por favor, revísalos y ajusta cualquier detalle para que se alinee perfectamente con la implementación real de tu proyecto.
 <h3 id="dbDesign">4.8. Database Design</h3>
 
 <h4 id="dbDiagram">4.8.1. Database Diagram</h4>
