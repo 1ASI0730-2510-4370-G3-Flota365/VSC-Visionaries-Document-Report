@@ -1721,6 +1721,84 @@ Asimismo, se preseta el Gitflow de las distintas ramas que se han trabajado para
     <td><strong>Status (To-do/In-Process/To-Review/Done)</strong></td>
   </tr>
 
+  <tr>
+    <td>US13</td>
+    <td>Reportar incidencia</td>
+    <td>T4.1</td>
+    <td>Crear formulario de incidencia</td>
+    <td>Diseñar e implementar el formulario que permita registrar incidencias.</td>
+    <td>4</td>
+    <td>Stephano Moscoso</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>US13</td>
+    <td>Reportar incidencia</td>
+    <td>T4.2</td>
+    <td>Backend para incidencias</td>
+    <td>Crear endpoint `/api/incidencias` para guardar datos en la base de datos.</td>
+    <td>5</td>
+    <td>Raul Sanchez</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>US13</td>
+    <td>Reportar incidencia</td>
+    <td>T4.3</td>
+    <td>Enviar notificación al gestor</td>
+    <td>Programar sistema de notificación inmediata al gestor tras un nuevo reporte.</td>
+    <td>3</td>
+    <td>Guillermo Tantaleán</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>US14</td>
+    <td>Información del vehículo</td>
+    <td>T4.4</td>
+    <td>Crear vista de estado técnico</td>
+    <td>Diseñar vista con información técnica del vehículo asignado.</td>
+    <td>3</td>
+    <td>Ariana Ramírez</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>US14</td>
+    <td>Información del vehículo</td>
+    <td>T4.5</td>
+    <td>Vincular estado con base de datos</td>
+    <td>Mostrar datos en tiempo real desde el historial de mantenimiento.</td>
+    <td>5</td>
+    <td>Renato Calvo</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>US17</td>
+    <td>Confirmación de evidencia</td>
+    <td>T4.6</td>
+    <td>Crear mensaje de confirmación</td>
+    <td>Programar notificación de éxito o error al subir evidencia.</td>
+    <td>2</td>
+    <td>José Diego Huamani</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>US19</td>
+    <td>Resolver incidencias</td>
+    <td>T4.7</td>
+    <td>Vista de listado de incidencias</td>
+    <td>Implementar vista para que el gestor revise y marque incidencias como resueltas.</td>
+    <td>4</td>
+    <td>Stephano Moscoso</td>
+    <td>Done</td>
+  </tr>
+  <tr>
+    <td>US19</td>
+    <td>Resolver incidencias</td>
+    <td>T4.8</td>
+    <td>Filtro y cambio de estado</td>
+    <
+
+
 </table>
 
 <h4 id="developmentEvidenceSprint4">5.2.4.4. Development Evidence for Sprint Review</h4>
