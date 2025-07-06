@@ -1248,7 +1248,130 @@ Adicional a la información presentada, se compartirá el resumen de nuestro pro
 
 <h4 id="sprintBacklog3">5.2.3.3. Sprint Backlog 3</h4>
 
-En esta sección se presentará el sprint backlog que se ha administrado en la plataforma **Trello**. Luego se muestra la tabla de las tareas que los miembros del equipo fueron asignados para su implementación.
+<table border="1" cellpadding="5" cellspacing="0">
+  <tr>
+    <td><strong>Sprint #</strong></td>
+    <td colspan="7"><strong>Sprint 3</strong></td>
+  </tr>
+  <tr>
+    <td colspan="2"><strong>User Story</strong></td>
+    <td colspan="6"><strong>Work-item/Task</strong></td>
+  </tr>
+  <tr>
+    <td><strong>ID</strong></td>
+    <td><strong>Title</strong></td>
+    <td><strong>ID</strong></td>
+    <td><strong>Title</strong></td>
+    <td><strong>Description</strong></td>
+    <td><strong>Estimation (Hours)</strong></td>
+    <td><strong>Assigned To</strong></td>
+    <td><strong>Status (To-do/In-Process/To-Review/Done)</strong></td>
+  </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>US34</td>
+      <td>Inicio de sesión con validación</td>
+      <td>EPic07</td>
+      <td>Validación de ingreso</td>
+      <td>Implementar Validación para ingresar de forma correcta.</td>
+      <td>6</td>
+      <td>Renato Calvo</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>US35</td>
+      <td>Registro de usuarios</td>
+      <td>EPic07</td>
+      <td>Validar Registro</td>
+      <td>Implementar validación para que se registre de forma correcta.</td>
+      <td>6</td>
+      <td>Stephano Moscoso</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>US36</td>
+      <td>Inicio de sesión con JWT</td>
+      <td>EPic07</td>
+      <td>Implementar token</td>
+      <td>Implementar token para poder ingresar a los EndPoints</td>
+      <td>10</td>
+      <td>Ariana Ramirez</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>US37</td>
+      <td>Middleware de autenticación</td>
+      <td>EPic07</td>
+      <td>Implementar el middleware de autenticación</td>
+      <td>desarrollar el middleware de autenticación </td>
+      <td>10</td>
+      <td>Raul Sanchez</td>
+      <td>Done</td>
+    </tr>
+  <tr>
+  <td>US38</td>
+  <td>CRUD de vehículos</td>
+  <td>EPic07</td>
+  <td>Implementar el CRUD para vehiculos </td>
+  <td>desarrollar el CRUD para vehiculos </td>
+  <td>16</td>
+  <td>Jose Huamani y Renato Calvo</td>
+  <td>Done</td>
+</tr>
+    <tr>
+      <td>US39</td>
+      <td>Asignación de vehículo a conductor</td>
+      <td>EPIC07</td>
+      <td>Desarrollar para asignación</td>
+      <td>Desarollar función para asignar conductor. </td>
+      <td>10</td>
+      <td>Raul Sanchez</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>US40</td>
+      <td>Historial de incidencias</td>
+      <td>EPIC07</td>
+      <td>Implementar un historial de incidencias</td>
+      <td>desarrollar una función para poder ver el historial de incidencias.</td>
+      <td>6</td>
+      <td>Renato Calvo y Ariana Ramirez</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>US41</td>
+      <td>Reporte de consumo de combustible</td>
+      <td>EPIC07</td>
+      <td>Desarrollar funcion para reporte combustible</td>
+      <td>Implementar función para que puedan reportar el consumo de combustible</td>
+      <td>10</td>
+      <td>Stephano y Jose Huamani</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>US42</td>
+      <td>Historial de mantenimientos</td>
+      <td>EPIC07</td>
+      <td>Implementar historial</td>
+      <td>Desarrollar función para poder ver el historial de mantenimientos  </td>
+      <td>10</td>
+      <td>Stephano</td>
+      <td>Done</td>
+    </tr>
+    <tr>
+      <td>US43</td>
+      <td>Exportación de reportes (Excel o PDF)</td>
+      <td>EPIC07</td>
+      <td>Implementar exportación</td>
+      <td> Implementar función para exportar reporte a pdf o excel</td>
+      <td>10</td>
+      <td>Ariana Ramirez y Raul Sanchez</td>
+      <td>Done</td>
+    </tr>   
+  </tbody>
+</table>
+
 
 Link al board en **Trello**: <a herf="">trello</a>
 
@@ -1449,6 +1572,115 @@ Para el caso de nuestro backend RESTFul API, se han implementado cada uno de los
 
 Asimismo, se preseta el Gitflow de las distintas ramas que se han trabajado para la implementación de features.
 
+<h4 id="sprint3">5.2.4. Sprint 4</h4>
+
+<h4 id="sprintPlanning3">5.2.4.1. Sprint Planning 4</h4>
+
+<table>
+    <thead>
+        <tr>
+            <th>Sprint #</th>
+            <th>Sprint 4</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td colspan="2"><b>Sprint Planning Background</b></td>
+        </tr>
+        <tr>
+            <td>Date</td>
+            <td>2025/07/06</td>
+        </tr>
+        <tr>
+            <td>Time</td>
+            <td>11:31 pm</td>
+        </tr>
+        <tr>
+            <td>Location</td>
+            <td>Remoto - Discord</td>
+        </tr>
+        <tr>
+            <td>Prepared by</td>
+            <td>José Diego Huamani Sánchez</td>
+        </tr>
+        <tr>
+            <td>Attendees (to planning meeting)</td>
+            <td>
+                Todos los miembros del equipo VSC-Visionaries
+            </td>
+        </tr>
+        <tr>
+            <td>Sprint 3 Review Summary</td>
+            <td>
+                En el Sprint 3,
+            </td>
+        </tr>
+        <tr>
+            <td>Sprint 4 Retrospective Summary</td>
+            <td>
+            </td>
+        </tr>
+        <tr>
+            <td colspan="2"><b>Sprint Goal & User Stories</b></td>
+        </tr>
+        <tr>
+            <td>Sprint 4 Velocity</td>
+            <td>
+                -
+            </td>
+        </tr>
+        <tr>
+            <td>Sum of story points</td>
+            <td>
+                -
+            </td>
+        </tr>
+    </tbody>
+</table>
+
+<h4 id="aspectLeader">5.2.4.2. Aspect Leader and Collaborators</h4>
+
+<h4 id="sprintBacklog3">5.2.4.3. Sprint Backlog 4</h4>
+
+<table border="1" cellpadding="5" cellspacing="0">
+  <tr>
+    <td><strong>Sprint #</strong></td>
+    <td colspan="7"><strong>Sprint 4</strong></td>
+  </tr>
+  <tr>
+    <td colspan="2"><strong>User Story</strong></td>
+    <td colspan="6"><strong>Work-item/Task</strong></td>
+  </tr>
+  <tr>
+    <td><strong>ID</strong></td>
+    <td><strong>Title</strong></td>
+    <td><strong>ID</strong></td>
+    <td><strong>Title</strong></td>
+    <td><strong>Description</strong></td>
+    <td><strong>Estimation (Hours)</strong></td>
+    <td><strong>Assigned To</strong></td>
+    <td><strong>Status (To-do/In-Process/To-Review/Done)</strong></td>
+  </tr>
+
+</table>
+
+
+Link al board en **Trello**: <a herf="">trello</a>
+
+<h4 id="developmentEvidenceSprint3">5.2.4.4. Development Evidence for Sprint Review</h4>
+
+
+
+
+<h4 id="executionEvidenceSprint3">5.2.4.5. Execution Evidence for Sprint Review</h4>
+
+
+
+<h4 id="servicesDocumentationSprint3">5.2.4.6. Services Documentation Evidence for Sprint Review</h4>
+
+<h4 id="softwareDeploymentEvidenceSprint3">5.2.4.7. Software Deployment Evidence for Sprint Review</h4>
+
+<h4 id="teamCollaborationInsights3">5.2.4.8. Team Collaboration Insights during Sprint</h4>
 
 <h3 id="validationInterviews">5.3. Validation Interviews</h3>
 
@@ -1531,33 +1763,33 @@ Es por ello que, a continuación, se detallarán las preguntas y los principales
 
 <table border="1" cellpadding="8" cellspacing="0">
     <tr><th colspan="2">Entrevista 2</th></tr>
-    <tr><td>Segmento Objetivo</td><td>...	</td></tr>
-    <tr><td>Fecha Entrevista</td><td>00/06/2025</td></tr>
-    <tr><td>Entrevistador</td><td>...</td></tr>
-    <tr><td>Entrevistado</td><td>...</td></tr>
-    <tr><td>Edad</td><td>... años</td></tr>
-    <tr><td>Distrito</td><td>....</td></tr>
-    <tr><td>Link del Video</td><td><a href="link">Ver Video</a></td></tr>
-    <tr><td>Minuto de Inicio</td><td>00:01</td></tr>
-    <tr><td>Duración</td><td>08:52 minutos</td></tr>
-    <tr><td>Imagen</td><td><img src="../images/Entrevista2_validation.png" alt="Entrevista 1" height="380"/></td></tr>
-    <tr><td>Resumen</td><td>El entrevistado .....</td></tr>
+    <tr><td>Segmento Objetivo</td><td>Gestores de flota</td></tr>
+    <tr><td>Fecha Entrevista</td><td>29/06/2025</td></tr>
+    <tr><td>Entrevistador</td><td>Stephano Moscoso</td></tr>
+    <tr><td>Entrevistado</td><td>Stephano Espinoza Cueva</td></tr>
+    <tr><td>Edad</td><td>23 años</td></tr>
+    <tr><td>Distrito</td><td>Callao</td></tr>
+    <tr><td>Link del Video</td><td><a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211g499_upc_edu_pe/EWu-5XL0Io1IvE_0BP2pT3oB6OjHXWKRIh-bgNyuQ8GQfg?e=NWQxqk&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D">Ver Video</a></td></tr>
+    <tr><td>Minuto de Inicio</td><td>0:02</td></tr>
+    <tr><td>Duración</td><td>7:27</td></tr>
+    <tr><td>Imagen</td><td><img src="../images/Entrevista_Espinoza.jpeg" alt="Entrevista Stephano Espinoza" height="360"/></td></tr>
+    <tr><td>Resumen</td><td>El entrevistado, Stephano Espinoza, proporcionó una validación muy positiva de Flota365, describiéndola como una plataforma profesional, funcional e intuitiva cuyo propósito entendió claramente. Aunque elogió el diseño balanceado y la facilidad de navegación, identificó un punto de confusión en la sección "Analytics" y ofreció sugerencias de mejora de alto valor para aumentar la eficiencia: implementar un buscador rápido por placa o conductor, añadir un sistema de alertas visuales para mantenimiento, y automatizar el registro de kilometraje mediante reconocimiento de texto (OCR) desde una foto. En conjunto, su feedback confirma que la herramienta es muy relevante para los gestores de flota y proporciona una hoja de ruta clara con mejoras concretas y accionables.</td></tr>
 </table><br>
 
 
 <table border="1" cellpadding="8" cellspacing="0">
     <tr><th colspan="2">Entrevista 3</th></tr>
-    <tr><td>Segmento Objetivo</td><td>...	</td></tr>
-    <tr><td>Fecha Entrevista</td><td>00/06/2025</td></tr>
-    <tr><td>Entrevistador</td><td>...</td></tr>
-    <tr><td>Entrevistado</td><td>...</td></tr>
-    <tr><td>Edad</td><td>... años</td></tr>
-    <tr><td>Distrito</td><td>....</td></tr>
-    <tr><td>Link del Video</td><td><a href="link">Ver Video</a></td></tr>
-    <tr><td>Minuto de Inicio</td><td>00:01</td></tr>
-    <tr><td>Duración</td><td>08:52 minutos</td></tr>
-    <tr><td>Imagen</td><td><img src="../assets/Foto_Entrevista111.png" alt="Entrevista 1" height="380"/></td></tr>
-    <tr><td>Resumen</td><td>El entrevistado .....</td></tr>
+    <tr><td>Segmento Objetivo</td><td>Gestores de flota</td></tr>
+    <tr><td>Fecha Entrevista</td><td>29/06/2025</td></tr>
+    <tr><td>Entrevistador</td><td>Stephano Moscoso</td></tr>
+    <tr><td>Entrevistado</td><td>Raul Mamani</td></tr>
+    <tr><td>Edad</td><td>24 años</td></tr>
+    <tr><td>Distrito</td><td>San Miguel</td></tr>
+    <tr><td>Link del Video</td><td><a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211g499_upc_edu_pe/EYZrP25bT9RGjq0nXuXxAdoBtiOCFlErR_gckiLSoy2eBQ?e=BXirTi">Ver Video</a></td></tr>
+    <tr><td>Minuto de Inicio</td><td>0:00</td></tr>
+    <tr><td>Duración</td><td>7:38</td></tr>
+    <tr><td>Imagen</td><td><img src="../images/Entrevista_Raul.jpeg" alt="Entrevista Raul Mamani" height="360"/></td></tr>
+    <tr><td>Resumen</td><td>El entrevistado, Raul Mamani, percibió la plataforma como ordenada y fácil de navegar, comprendiendo rápidamente su función para controlar las actividades de la flota. Considera que la herramienta le ahorraría tiempo en su día a día, destacando como diferenciadores clave el monitoreo en tiempo real con mapa y los análisis con IA, características que no ha visto en otras plataformas que utiliza. Si bien encontró el registro de actividades y la carga de fotos de kilometraje como procesos sencillos, identificó una confusión en el apartado de "Performance", sugiriendo que se debería detallar el origen de esos datos. Propuso mejoras concretas como añadir una opción de cambio de idioma (inglés/español) y la posibilidad de tener un tema con fondo blanco. Finalmente, expresó su disposición a colaborar en futuras mejoras como tester, validando el potencial de la aplicación.</td></tr>
 </table><br>
 
 
