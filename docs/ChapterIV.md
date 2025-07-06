@@ -636,6 +636,14 @@ Video de la aplicación web: https://drive.google.com/file/d/1_MWoiid6MOtvUOxqcH
   <a href="https://drive.google.com/file/d/1CoJWwKOyQEobL_niTVLO8VRutMjTNgBk/view?usp=sharing">Ver Diagrama de Componentes - Vehicle Context</a>
 </p>
 
+<h4 id="containerDiagram">4.6.4. Software Architecture Frontend Diagram</h4>
+
+<p>Diagrama del Frontend:</p>
+<img src="../images/diagram-frontend.png" alt="diagrama del frontend" style="display: block; margin: 50 auto 0 auto;"/>
+<p align="center">
+  <a href="https://acortar.link/kid3a6">Ver Diagrama del Frontend - PlantUML</a>
+</p>
+
 <h3 id="softwareObjectOrientedDesign">4.7. Software Object-Oriented Design</h3>
 
 <h4 id="classDiagram">4.7.1. Class Diagrams</h4>
