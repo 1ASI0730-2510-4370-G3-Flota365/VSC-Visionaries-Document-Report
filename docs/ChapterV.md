@@ -1950,13 +1950,64 @@ Es por ello que, a continuación, se detallarán las preguntas y los principales
 <p>Vernon, V. (s.f.). Domain-driven design reference: Definitions and pattern summaries. https://domainlanguage.com/ddd/reference/</p>
 <p>Martin, R. C. (2017). Clean architecture: A craftsman's guide to software structure and design. Prentice Hall.</p>
 <h3 id="anexo">Anexos</h3>
-<p>About-the-Product: https://youtu.be/sV1-ry60vWQ</p>
-<p>About-the-Team:</p>
-<p>Deploy Landing Page:</p>
-<p>Deploy Frontend:</p>
-<p>Deploy Backend:</p>
-<p>Entrevistas:https://upcedupe-my.sharepoint.com/:v:/g/personal/u202110458_upc_edu_pe/Ede82TDtmpJKu7161WvAJToBrQZtT6ThjJrDnHf1YUjVQg?e=QdZZPn&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D</p>
-<p>Validación de entrevistas:</p>
-<p>Diagrama c4:</p>
-<p>Diagrama de clases del frontend:</p>
-<p>Diagrama de clases del Backend:</p>
+
+<p>About-the-Product: 
+  <a href="https://youtu.be/sV1-ry60vWQ" target="_blank">
+    Ver About the Product
+  </a>
+</p>
+
+<p>About-the-Team: 
+  <a href="<!-- Agrega aquí el enlace -->" target="_blank">
+    Ver About the Team
+  </a>
+</p>
+
+<p>Deploy Landing Page: 
+  <a href="<!-- Agrega aquí el enlace -->" target="_blank">
+    Ver Landing Page
+  </a>
+</p>
+
+<p>Deploy Frontend: 
+  <a href="<!-- Agrega aquí el enlace -->" target="_blank">
+    Ver Frontend
+  </a>
+</p>
+
+<p>Deploy Backend: 
+  <a href="<!-- Agrega aquí el enlace -->" target="_blank">
+    Ver Backend
+  </a>
+</p>
+
+<p>Entrevistas: 
+  <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202110458_upc_edu_pe/Ede82TDtmpJKu7161WvAJToBrQZtT6ThjJrDnHf1YUjVQg?e=QdZZPn&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D" target="_blank">
+    Ver Entrevistas
+  </a>
+</p>
+
+<p>Validación de entrevistas: 
+  <a href="<!-- Agrega aquí el enlace -->" target="_blank">
+    Ver Validación
+  </a>
+</p>
+
+<p>Diagrama C4: 
+  <a href="<!-- Agrega aquí el enlace -->" target="_blank">
+    Ver Diagrama C4
+  </a>
+</p>
+
+<p>Diagrama de clases del frontend: 
+  <a href="<!-- Agrega aquí el enlace -->" target="_blank">
+    Ver Diagrama del Frontend
+  </a>
+</p>
+
+<p>Diagrama de clases del backend: 
+  <a href="<!-- Agrega aquí el enlace -->" target="_blank">
+    Ver Diagrama del Backend
+  </a>
+</p>
+
