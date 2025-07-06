@@ -1531,33 +1531,33 @@ Es por ello que, a continuación, se detallarán las preguntas y los principales
 
 <table border="1" cellpadding="8" cellspacing="0">
     <tr><th colspan="2">Entrevista 2</th></tr>
-    <tr><td>Segmento Objetivo</td><td>...	</td></tr>
-    <tr><td>Fecha Entrevista</td><td>00/06/2025</td></tr>
-    <tr><td>Entrevistador</td><td>...</td></tr>
-    <tr><td>Entrevistado</td><td>...</td></tr>
-    <tr><td>Edad</td><td>... años</td></tr>
-    <tr><td>Distrito</td><td>....</td></tr>
-    <tr><td>Link del Video</td><td><a href="link">Ver Video</a></td></tr>
-    <tr><td>Minuto de Inicio</td><td>00:01</td></tr>
-    <tr><td>Duración</td><td>08:52 minutos</td></tr>
-    <tr><td>Imagen</td><td><img src="../images/Entrevista2_validation.png" alt="Entrevista 1" height="380"/></td></tr>
-    <tr><td>Resumen</td><td>El entrevistado .....</td></tr>
+    <tr><td>Segmento Objetivo</td><td>Gestores de flota</td></tr>
+    <tr><td>Fecha Entrevista</td><td>29/06/2025</td></tr>
+    <tr><td>Entrevistador</td><td>Stephano Moscoso</td></tr>
+    <tr><td>Entrevistado</td><td>Stephano Espinoza Cueva</td></tr>
+    <tr><td>Edad</td><td>23 años</td></tr>
+    <tr><td>Distrito</td><td>Callao</td></tr>
+    <tr><td>Link del Video</td><td><a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211g499_upc_edu_pe/EWu-5XL0Io1IvE_0BP2pT3oB6OjHXWKRIh-bgNyuQ8GQfg?e=NWQxqk&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D">Ver Video</a></td></tr>
+    <tr><td>Minuto de Inicio</td><td>0:02</td></tr>
+    <tr><td>Duración</td><td>7:27</td></tr>
+    <tr><td>Imagen</td><td><img src="../images/Entrevista_Espinoza.jpeg" alt="Entrevista Stephano Espinoza" height="360"/></td></tr>
+    <tr><td>Resumen</td><td>El entrevistado, Stephano Espinoza, proporcionó una validación muy positiva de Flota365, describiéndola como una plataforma profesional, funcional e intuitiva cuyo propósito entendió claramente. Aunque elogió el diseño balanceado y la facilidad de navegación, identificó un punto de confusión en la sección "Analytics" y ofreció sugerencias de mejora de alto valor para aumentar la eficiencia: implementar un buscador rápido por placa o conductor, añadir un sistema de alertas visuales para mantenimiento, y automatizar el registro de kilometraje mediante reconocimiento de texto (OCR) desde una foto. En conjunto, su feedback confirma que la herramienta es muy relevante para los gestores de flota y proporciona una hoja de ruta clara con mejoras concretas y accionables.</td></tr>
 </table><br>
 
 
 <table border="1" cellpadding="8" cellspacing="0">
     <tr><th colspan="2">Entrevista 3</th></tr>
-    <tr><td>Segmento Objetivo</td><td>...	</td></tr>
-    <tr><td>Fecha Entrevista</td><td>00/06/2025</td></tr>
-    <tr><td>Entrevistador</td><td>...</td></tr>
-    <tr><td>Entrevistado</td><td>...</td></tr>
-    <tr><td>Edad</td><td>... años</td></tr>
-    <tr><td>Distrito</td><td>....</td></tr>
-    <tr><td>Link del Video</td><td><a href="link">Ver Video</a></td></tr>
-    <tr><td>Minuto de Inicio</td><td>00:01</td></tr>
-    <tr><td>Duración</td><td>08:52 minutos</td></tr>
-    <tr><td>Imagen</td><td><img src="../assets/Foto_Entrevista111.png" alt="Entrevista 1" height="380"/></td></tr>
-    <tr><td>Resumen</td><td>El entrevistado .....</td></tr>
+    <tr><td>Segmento Objetivo</td><td>Gestores de flota</td></tr>
+    <tr><td>Fecha Entrevista</td><td>29/06/2025</td></tr>
+    <tr><td>Entrevistador</td><td>Stephano Moscoso</td></tr>
+    <tr><td>Entrevistado</td><td>Raul Mamani</td></tr>
+    <tr><td>Edad</td><td>24 años</td></tr>
+    <tr><td>Distrito</td><td>San Miguel</td></tr>
+    <tr><td>Link del Video</td><td><a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211g499_upc_edu_pe/EYZrP25bT9RGjq0nXuXxAdoBtiOCFlErR_gckiLSoy2eBQ?e=BXirTi">Ver Video</a></td></tr>
+    <tr><td>Minuto de Inicio</td><td>0:00</td></tr>
+    <tr><td>Duración</td><td>7:38</td></tr>
+    <tr><td>Imagen</td><td><img src="../images/Entrevista_Raul.jpeg" alt="Entrevista Raul Mamani" height="360"/></td></tr>
+    <tr><td>Resumen</td><td>El entrevistado, Raul Mamani, percibió la plataforma como ordenada y fácil de navegar, comprendiendo rápidamente su función para controlar las actividades de la flota. Considera que la herramienta le ahorraría tiempo en su día a día, destacando como diferenciadores clave el monitoreo en tiempo real con mapa y los análisis con IA, características que no ha visto en otras plataformas que utiliza. Si bien encontró el registro de actividades y la carga de fotos de kilometraje como procesos sencillos, identificó una confusión en el apartado de "Performance", sugiriendo que se debería detallar el origen de esos datos. Propuso mejoras concretas como añadir una opción de cambio de idioma (inglés/español) y la posibilidad de tener un tema con fondo blanco. Finalmente, expresó su disposición a colaborar en futuras mejoras como tester, validando el potencial de la aplicación.</td></tr>
 </table><br>
 
 
