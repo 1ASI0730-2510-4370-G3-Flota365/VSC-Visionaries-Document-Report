@@ -488,7 +488,57 @@ Esta arquitectura de navegación garantiza que los usuarios puedan moverse efici
  <img src="../images/report.jpg" alt="Primary Color Palette" width="500px" height="auto"/>
 
 <h4 id="webAppUserFlow">4.4.4. Web Applications User Flow Diagrams</h4>
+<section>
+  
+  <p>
+    Esta sección presenta los <strong>User Flows</strong> desarrollados para la aplicación web <strong>Flota365</strong>. Cada flujo corresponde a un objetivo específico (<strong>User Goal</strong>) identificado a partir de los perfiles de usuario definidos (<strong>User Personas</strong>).
+    <br><br>
+    Los diagramas ilustran tanto los <strong>"Happy Paths"</strong> (rutas ideales donde todo ocurre como se espera sin errores) como los <strong>"Unhappy Paths"</strong> (rutas alternativas donde ocurren fallos o errores del sistema). Ambos casos fueron diseñados para anticipar el comportamiento de la aplicación frente a escenarios reales de uso, y se alinean con los <strong>wireframes</strong> previamente diseñados.
+  </p>
 
+  <!-- User Persona 1 -->
+  <h3>User Persona 1: Conductores de vehículos pesados</h3>
+
+  <h4>User Goal 1: Reportar una incidencia durante el turno</h4>
+  <ul>
+    <li><strong>Happy Path:</strong> El conductor accede a la aplicación, ingresa al formulario de reporte, llena los campos correctamente y sube una imagen como evidencia. El sistema valida la información y envía el reporte sin inconvenientes.</li>
+    <li><strong>Unhappy Path:</strong> Durante el proceso, el conductor omite algún campo obligatorio o no adjunta la imagen requerida. El sistema detecta el error y bloquea el envío hasta que se corrijan los problemas.</li>
+  </ul>
+
+  <h4>User Goal 2: Ver el estado de su vehículo asignado</h4>
+  <ul>
+    <li><strong>Happy Path:</strong> El conductor inicia sesión correctamente, accede a su panel principal y consulta la información del vehículo asignado, visualizando su estado actual sin inconvenientes.</li>
+    <li><strong>Unhappy Path:</strong> El conductor no tiene un vehículo asignado o el sistema arroja un error al consultar los datos. En ese caso, se notifica la situación en pantalla.</li>
+  </ul>
+
+  <!-- User Persona 2 -->
+  <h3>User Persona 2: Gestores de flota</h3>
+
+  <h4>User Goal 1: Asignar un vehículo a un conductor disponible</h4>
+  <ul>
+    <li><strong>Happy Path:</strong> El gestor de flota accede correctamente a la aplicación, visualiza la lista de conductores disponibles y selecciona uno sin asignación previa. Luego elige un vehículo activo y no asignado, y completa exitosamente la operación de asignación.</li>
+    <li><strong>Unhappy Path:</strong> El gestor intenta asignar un vehículo pero el conductor ya tiene uno asignado, el vehículo está en mantenimiento o ya fue asignado a otro conductor. En cualquiera de estos casos, el sistema emite un mensaje de error y la operación no se completa.</li>
+  </ul>
+
+  <h4>User Goal 2: Consultar reportes de incidencias enviadas por conductores</h4>
+  <ul>
+    <li><strong>Happy Path:</strong> El gestor inicia sesión correctamente y accede al módulo de reportes. El sistema muestra los registros de incidencias enviados por los conductores, junto con su evidencia correspondiente. El gestor puede visualizarlos sin problemas.</li>
+    <li><strong>Unhappy Path:</strong> El gestor accede al módulo, pero no hay reportes disponibles en el sistema o alguno presenta errores como falta de evidencia o campos incompletos. En este caso, el sistema notifica la situación al usuario.</li>
+  </ul>
+</section>
+
+<img src="../images/enlace1.png" alt="Primary Color Palette" width="500px" height="auto"/>
+<img src="../images/enlace2.png" alt="Primary Color Palette" width="500px" height="auto"/>
+<img src="../images/enlace3.png" alt="Primary Color Palette" width="500px" height="auto"/>
+<img src="../images/enlace4.png" alt="Primary Color Palette" width="500px" height="auto"/>
+<img src="../images/enlace5.png" alt="Primary Color Palette" width="500px" height="auto"/>
+<img src="../images/enlace6.png" alt="Primary Color Palette" width="500px" height="auto"/>
+<img src="../images/enlace7.png" alt="Primary Color Palette" width="500px" height="auto"/>
+<img src="../images/enlace8.png" alt="Primary Color Palette" width="500px" height="auto"/>
+<img src="../images/enlace9.png" alt="Primary Color Palette" width="500px" height="auto"/>
+<img src="../images/enlace10.png" alt="Primary Color Palette" width="500px" height="auto"/>
+<img src="../images/enlace11.png" alt="Primary Color Palette" width="500px" height="auto"/>
+<img src="../images/enlace12.png" alt="Primary Color Palette" width="500px" height="auto"/>
 <h3 id="webAppPrototyping">4.5. Web Applications Prototyping</h3>
 Video de la aplicación web: https://drive.google.com/file/d/1_MWoiid6MOtvUOxqcHGoC-sVwGr-2juM/view?usp=sharing
 
