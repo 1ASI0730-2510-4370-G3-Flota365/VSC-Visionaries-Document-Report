@@ -176,32 +176,32 @@
     <tbody>
         <tr>
             <td rowspan="14">TF</td>
-            <td>/07/2025</td>
+            <td>03/07/2025</td>
             <td>José Diego Huamani Sánchez</td>
             <td>Desarrollo del Sprint Planning, descripción del Team Collaboration Insights</td>
         </tr>
         <tr>
-            <td>/07/2025</td>
+            <td>03/07/2025</td>
             <td>Ariana Ramirez Carrasco</td>
             <td>Desarrollo del subcapítulo: 5.3 Validation Interviews - Diseño de Entrevistas. </td>
         </tr>
         <tr>
-            <td>/07/2025</td>
+            <td>04/07/2025</td>
             <td>Renato Calvo Yalan</td>
             <td>Mejora continua en el capítulo IV, actualización Backlog y actualización de Diagrama de clases.</td>
         </tr>
         <tr>
-            <td>/07/2025</td>
+            <td>05/07/2025</td>
             <td>Raul Cruz Sanchez</td>
             <td>Mejora continua en las historias de usuario y sprint planning.</td>
         </tr>
         <tr>
-            <td>/07/2025</td>
+            <td>05/07/2025</td>
             <td>Stephano Moscoso</td>
             <td>Redacción del análisis de heurísticas de la aplicación.</td>
         </tr> 
         <tr>
-            <td>04/07/2025</td>
+            <td>06/07/2025</td>
             <td>Guillermo Tantaleán</td>
             <td>Correcciones del informe y agregados del sprint 4.</td>
         </tr> 
@@ -244,6 +244,12 @@ Para esta segunda entrega (TP), nuestro objetivo principal fue el desarrollo e i
 **Reporte de colaboración de la entrega del TB2:**
 
 Para esta tercera entrega (TB2), nuestro objetivo principal fue el desarrollo e implementación de nuestra primera versión del **RESTFul API**. Todos los miembros del equipo VSC-Visionaries participaron activamente en la elaboración del informe; lo cual, mediante el siguiente organigrama, veremos el progreso obtenido hasta la fecha del día de hoy:
+
+<div align="center">
+    <img src="./images/Registro-Historial-TB2.png" alt="Indicators progress - Report VSC-Visionaries - Sprint 3" style="width:500px;" />
+</div>
+
+<br>
 
 Este gráfico muestra la cantidad de *commits* realizados por cada integrante durante la elaboración del TB2.
 
@@ -490,10 +496,7 @@ Para esta cuarta y última entrega (TF), nuestro objetivo principal fue la imple
 
 <a href="#anexos">Anexos</a>
 
-
-
 ## ABET – EAC - Student Outcome 5
-
 
 **Criterio:** *La capacidad de funcionar efectivamente en un equipo cuyos miembros juntos proporcionan liderazgo, crean un entorno de colaboración e inclusivo, establecen objetivos, planifican tareas y cumplen objetivos.*
 
@@ -569,7 +572,9 @@ Contribuyó en las correcciones técnicas del frontend, asegurando que el diseñ
         <strong>TB2:</strong><br>
         En una entrevista acerca de nuestra aplicación, es fundamental estar abiertos a críticas y opiniones sinceras. Al escuchar activamente a los usuarios y permitirles expresar sus puntos de vista, podemos identificar áreas de mejora y realizar ajustes para satisfacer mejor sus necesidades. La retroalimentación constructiva es una oportunidad valiosa para fortalecer nuestra aplicación y brindar una experiencia de usuario excepcional.<br><br>
         <strong>TF:</strong><br>
-        Completar.<br><br>
+        En el desarrollo del backend con ASP.NET Core, adoptamos un enfoque de liderazgo compartido, donde cada integrante asumió la responsabilidad de guiar y apoyar en diferentes etapas del proyecto, según sus fortalezas técnicas y experiencia. Esta dinámica nos permitió tomar decisiones consensuadas, resolver bloqueos de manera oportuna y fomentar una cultura de confianza y aprendizaje mutuo.
+        El trabajo conjunto no solo favoreció el cumplimiento de nuestros objetivos técnicos —como la mejora de la autenticación y la evolución del diseño basado en DDD—, sino que también fortaleció nuestras habilidades de comunicación, escucha activa y liderazgo colaborativo. Esta experiencia nos demostró que cuando el liderazgo se distribuye y se ejerce desde el compromiso colectivo, los resultados son más sólidos, sostenibles y enriquecedores para todo el equipo.
+        <br><br>
       </td>
     </tr>
     <tr>
@@ -633,7 +638,11 @@ Participó en la organización y ejecución de las tareas de frontend y en la re
         La retroalimentación de los usuarios en la entrevista ha sido valiosa para mejorar nuestra aplicación y cumplir con
 sus necesidades. La comunicación interna y la priorización de tareas son clave para un desarrollo exitoso. El video about the product nos permitirá presentar un demo de nuestro producto a nuestros clientes potenciales, por lo que resulta indispensable al ser una primera vista de la aplicación.<br><br>        
 <strong>TF:</strong><br>
-        COMPLETAR.<br><br>        
+        Durante el desarrollo del backend con ASP.NET Core, trabajamos de manera colaborativa e inclusiva, valorando las ideas y fortalezas de cada integrante del equipo. Desde el inicio, nos enfocamos en establecer metas claras y dividir las tareas de forma equitativa, lo que nos permitió optimizar tiempos y fomentar el aprendizaje conjunto.
+
+Uno de los principales logros fue la actualización del sistema de autenticación, migrando hacia una estructura más robusta y segura que garantice la protección de los datos de los usuarios. Además, realizamos ajustes estratégicos al modelo de DDD (Domain-Driven Design), lo cual nos permitió mejorar la separación de responsabilidades, aumentar la escalabilidad del sistema y facilitar el mantenimiento a futuro.
+
+Este trabajo no solo consolidó nuestro dominio técnico en ASP.NET Core, sino también fortaleció nuestras habilidades para planificar, comunicar y cumplir objetivos comunes dentro de un entorno donde se promovió la inclusión, el respeto por la diversidad de ideas y la mejora continua como equipo.<br><br>        
       </td>
     </tr>
   </tbody>
