@@ -1685,13 +1685,13 @@ Asimismo, se preseta el Gitflow de las distintas ramas que se han trabajado para
         <tr>
             <td>Sprint 4 Velocity</td>
             <td>
-                -
+                10
             </td>
         </tr>
         <tr>
             <td>Sum of story points</td>
             <td>
-                -
+                10
             </td>
         </tr>
     </tbody>
@@ -1721,7 +1721,11 @@ Asimismo, se preseta el Gitflow de las distintas ramas que se han trabajado para
     <td><strong>Status (To-do/In-Process/To-Review/Done)</strong></td>
   </tr>
 
+
+ 
+
 </table>
+
 
 <h4 id="developmentEvidenceSprint4">5.2.4.4. Development Evidence for Sprint Review</h4>
 
@@ -1994,7 +1998,7 @@ Es por ello que, a continuación, se detallarán las preguntas y los principales
     <tr><td>Entrevistado</td><td>Billy Ruiz Madrid</td></tr>
     <tr><td>Edad</td><td>27 años</td></tr>
     <tr><td>Distrito</td><td>Chorrillos </td></tr>
-    <tr><td>Link del Video</td><td><a href="link">Ver Video</a></td></tr>
+    <tr><td>Link del Video</td><td><a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202312932_upc_edu_pe/EUbtNBAQol5Lp8cETYY3RkIBCyzh_HcAdJkuU3xfMtJ7Pw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=s4Vrud">Ver Video</a></td></tr>
     <tr><td>Minuto de Inicio</td><td>00:00</td></tr>
     <tr><td>Duración</td><td>08:06 minutos</td></tr>
     <tr><td>Imagen</td><td><img src="../images/Entrevista1_validation.png" alt="Entrevista 1" height="360"/></td></tr>
@@ -2010,7 +2014,7 @@ Es por ello que, a continuación, se detallarán las preguntas y los principales
     <tr><td>Entrevistado</td><td>Stephano Espinoza Cueva</td></tr>
     <tr><td>Edad</td><td>23 años</td></tr>
     <tr><td>Distrito</td><td>Callao</td></tr>
-    <tr><td>Link del Video</td><td><a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211g499_upc_edu_pe/EWu-5XL0Io1IvE_0BP2pT3oB6OjHXWKRIh-bgNyuQ8GQfg?e=NWQxqk&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D">Ver Video</a></td></tr>
+    <tr><td>Link del Video</td><td><a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202312932_upc_edu_pe/EUbtNBAQol5Lp8cETYY3RkIBCyzh_HcAdJkuU3xfMtJ7Pw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=s4Vrud">Ver Video</a></td></tr>
     <tr><td>Minuto de Inicio</td><td>0:02</td></tr>
     <tr><td>Duración</td><td>7:27</td></tr>
     <tr><td>Imagen</td><td><img src="../images/Entrevista_Espinoza.jpeg" alt="Entrevista Stephano Espinoza" height="360"/></td></tr>
@@ -2026,7 +2030,7 @@ Es por ello que, a continuación, se detallarán las preguntas y los principales
     <tr><td>Entrevistado</td><td>Raul Mamani</td></tr>
     <tr><td>Edad</td><td>24 años</td></tr>
     <tr><td>Distrito</td><td>San Miguel</td></tr>
-    <tr><td>Link del Video</td><td><a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211g499_upc_edu_pe/EYZrP25bT9RGjq0nXuXxAdoBtiOCFlErR_gckiLSoy2eBQ?e=BXirTi">Ver Video</a></td></tr>
+    <tr><td>Link del Video</td><td><a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202312932_upc_edu_pe/EUbtNBAQol5Lp8cETYY3RkIBCyzh_HcAdJkuU3xfMtJ7Pw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=s4Vrud">Ver Video</a></td></tr>
     <tr><td>Minuto de Inicio</td><td>0:00</td></tr>
     <tr><td>Duración</td><td>7:38</td></tr>
     <tr><td>Imagen</td><td><img src="../images/Entrevista_Raul.jpeg" alt="Entrevista Raul Mamani" height="360"/></td></tr>
@@ -2034,36 +2038,7 @@ Es por ello que, a continuación, se detallarán las preguntas y los principales
 </table><br>
 
 
-<table border="1" cellpadding="8" cellspacing="0">
-    <tr><th colspan="2">Entrevista 4</th></tr>
-    <tr><td>Segmento Objetivo</td><td>...	</td></tr>
-    <tr><td>Fecha Entrevista</td><td>00/06/2025</td></tr>
-    <tr><td>Entrevistador</td><td>...</td></tr>
-    <tr><td>Entrevistado</td><td>...</td></tr>
-    <tr><td>Edad</td><td>... años</td></tr>
-    <tr><td>Distrito</td><td>....</td></tr>
-    <tr><td>Link del Video</td><td><a href="link">Ver Video</a></td></tr>
-    <tr><td>Minuto de Inicio</td><td>00:01</td></tr>
-    <tr><td>Duración</td><td>08:52 minutos</td></tr>
-    <tr><td>Imagen</td><td><img src="../assets/Foto_Entrevista111.png" alt="Entrevista 1" height="380"/></td></tr>
-    <tr><td>Resumen</td><td>El entrevistado .....</td></tr>
-</table><br>
 
-
-<table border="1" cellpadding="8" cellspacing="0">
-    <tr><th colspan="2">Entrevista 5</th></tr>
-    <tr><td>Segmento Objetivo</td><td>...	</td></tr>
-    <tr><td>Fecha Entrevista</td><td>00/06/2025</td></tr>
-    <tr><td>Entrevistador</td><td>...</td></tr>
-    <tr><td>Entrevistado</td><td>...</td></tr>
-    <tr><td>Edad</td><td>... años</td></tr>
-    <tr><td>Distrito</td><td>....</td></tr>
-    <tr><td>Link del Video</td><td><a href="link">Ver Video</a></td></tr>
-    <tr><td>Minuto de Inicio</td><td>00:01</td></tr>
-    <tr><td>Duración</td><td>08:52 minutos</td></tr>
-    <tr><td>Imagen</td><td><img src="../assets/Foto_Entrevista111.png" alt="Entrevista 1" height="380"/></td></tr>
-    <tr><td>Resumen</td><td>El entrevistado .....</td></tr>
-</table><br>
 
 
 <h4 id="heuristicEvaluation">5.3.3. Evaluaciones según heurísticas</h4>
@@ -2437,19 +2412,19 @@ Es por ello que, a continuación, se detallarán las preguntas y los principales
 </p>
 
 <p>Deploy Landing Page: 
-  <a href="<!-- Agrega aquí el enlace -->" target="_blank">
+  <a href="https://flota365.ilabperu.pro/" target="_blank">
     Ver Landing Page
   </a>
 </p>
 
 <p>Deploy Frontend: 
-  <a href="<!-- Agrega aquí el enlace -->" target="_blank">
+  <a href="https://frontflota365.ilabperu.pro/" target="_blank">
     Ver Frontend
   </a>
 </p>
 
 <p>Deploy Backend: 
-  <a href="<!-- Agrega aquí el enlace -->" target="_blank">
+  <a href="https://backendflota365.ilabperu.pro/swagger/index.html" target="_blank">
     Ver Backend
   </a>
 </p>
@@ -2461,27 +2436,38 @@ Es por ello que, a continuación, se detallarán las preguntas y los principales
 </p>
 
 <p>Validación de entrevistas: 
-  <a href="<!-- Agrega aquí el enlace -->" target="_blank">
+  <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202312932_upc_edu_pe/EUbtNBAQol5Lp8cETYY3RkIBCyzh_HcAdJkuU3xfMtJ7Pw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=s4Vrud" target="_blank">
     Ver Validación
   </a>
 </p>
 
 <p>Diagrama C4: 
-  <a href="<!-- Agrega aquí el enlace -->" target="_blank">
+  <a href="https://drive.google.com/drive/folders/1Ft4NjopaKmb9WYoccefFxKgwgvtDOoaU?usp=sharing" target="_blank">
     Ver Diagrama C4
   </a>
 </p>
 
 <p>Diagrama de clases del frontend: 
-  <a href="<!-- Agrega aquí el enlace -->" target="_blank">
+  <a href="https://acortar.link/kid3a6" target="_blank">
     Ver Diagrama del Frontend
   </a>
 </p>
 
-<p>Diagrama de clases del backend: 
-  <a href="<!-- Agrega aquí el enlace -->" target="_blank">
-    Ver Diagrama del Backend
+<p>Diagrama de clases del boundend context IAM: 
+  <a href="https://editor.plantuml.com/uml/dLVBRjim4BmRy3_erbDqATfJOCH9d5Q7eAuTeqU3bMXR24KA99N2QFtl5VKo9N59oW628EJCBhdQn_11ICHbaP7vB4VnEphYW329Fd_z4gu9aWV6it2vZW8aslLzkxvNwt_diw3yQRdHyhLTqfUNUKxI6CcKqJ2Y4dEAY39PmlVQthxRqspeTfvObY6QR37_I6CiXZ3r4nCaHB1DZtINxmJc3ULx-Kimj-4Zwe_VvGcIME7Nd1rIWlreJoT4ZpMj_FSFuuaVxncZMAOVZKiRvs8EtCy2yxCxRD-mL0uUpr5ICHp7wk2h3AN4ax4aH964BrnT73iOsgqlu-nxPkNnQFZA4jnbNRsshzU0R5iUZnmVow1R8gOE5jpVTz0DOtAnyFecpMUSaiNUwJirRoSdxAHCzKxHT4foJiXAttISa8St9E06vqoaafckcQhETq1nsKALZmvwjXgEw84Z8NaHouBZS5qUBXKIqnY7gvSdgyDh-dhxQauemirg-mQtQ2ev8sM9Egf6N95U-R71WXNSshxgszGmUwdue7Qv2rLNKrD9Bd1TIcqPkT3BGfumbMemuWI-5n2hDuweK3FQBrOld6MhqfayBuN0sM_7eDpbJLqhNcl3YndHMvYzCDzYe1zwVmlZgYx_z0NFzeGuJiBUYD5YhfNrg1TgUrf7kTZiGmMjcNf40figMcymD9K_3hyOV-zSLlVwLCctsbLGNsM3IQNCn2dDnNnMJRimN9WcKszlC8owFNZ-T13BoEamm9IPpmRDi_Ofr7STRVnRZ5jj6mDDamQT9Xt40fAOK7n0_DsTuIIG88KY3EADrXtorVMf76oZIvVqTNrx9z_erIQSRPbavHazpMU0UAxSZBKBX3OQXuLstxgkU2mSo8T9chSE1Ze9GeEcpJA-ipvILnOE4F-sU3kX4bGwnT32DEbH6ODVYn3Q_5OqePqlHHF9_KuqiUolH1C3VEzPmORN7e0tl_KWCFJI6pEkBVOgYo2CBlPC6434cQ2GX3EQxMas4y8YyTffOPCgzZdZoRowTCip--ZnP6eXyLLrNjDecftHr_PNY7vpQg8bSqfPv3cGOZuCUptPnJ5SOzDv4rIzknPlSEzw_wXnKgllW3kKNwCcOJ4s143PFCI1UJO46bl_43GM7Gq2LWmZGA-ZZtS7BRmFCCbpjJryiXWqVE_DCfyzO9eK6VaF" target="_blank">
+    Ver Diagrama del boundend context IAM
   </a>
+</p>
+<p>Diagrama de clases del boundend context Personnel: 
+  <a href="https://editor.plantuml.com/uml/fLXDZzCm4BrNwd_8ZHEv83YX5TqFeD8YbXROO-LDlLs3OrUsKwXW_pjEawPECkEFiX92gj-RiUCPpxnvfmrHfYhvTB8bnK-oeHcNXhnwypg_uyGyIbNcixjvHlJnzzNnzrNz-v_f9BD_H-uTLLeAGVbnmLsSRRUS5SGmAVAvC5G9mcl37Mdb85OTmh7aMhkIPKd4UadLZXLK3s7rNy69rjc2RfYsjguLsr7LqZxQVvmgZFDjkoQ6dijO6c8g7SUxfgGmR9VeRK45_TKGRktfXQO-tZFy1RzKLEt3t-y3DJFE6sVwm0bipX8QzEL-leuapEgFGCznKd_iD8Q-P-RfvlUMAIOsIob5-mazLfml-3mEx6jP4YRoJt9D1m7ThAoQ5IIGPvkDeXiR09uxQ3QUlNtRWHTIcekBg7jkGoCrHH9o8p6uCVWi1OmcN7BEO8HbfRTKh3sxyIGMIqkf-5oAG5xPS0jXnmdd0-y8u-I1n-9RsEM-kPX8U9UMTDtBoFzCw8GN9EP8razzkwAWjtH7ES13ek8xuHNz_F235YQOwUq1CD2L5CPcrbpKTVXGBZ7aOBT-htNSdF7kBUXMQcOa5FEihkAFfA3PlF7HWVTUq_PeYcYZgi9KYkRrYrg_KFOS-StxAwzBzqJHtjfTwdnni_oAjnp2ACbjTGXUe3vXeu9ZGRMibBSE7q_K0EEUyX3QVKHJi4rUX_TYNzmsb4FOtcCR0Zjv6mUzjTzaRcW9ev4x-Qg8q7M6nTx9UoNB6s6OsS-qfkM3ju43AcxDFzeAMW3AyDdyNlrCik9USJn__ApO__fAOlb4R1t8UwsLSmtEkpAgpCwQype_--nZxubZwfBKGJn-JXp8Dy7CvyTxgNvsBW_dUk7eeiPXrXneGVdXzTPFRAkdaxRBo_CBh2Dp460RvgoZlPU3GHeknCkWo-hj5csj71JSJxbRxjS-PmKgUCxogCgDZ3QbRJePLI47SwJr5lzUG9MhVwUERCqwsJguMvyAzTsub_Vo9RWxNBtYaUFXH7Y156yeVe9ynAzVCGTYtyz5F8RKTYW7Wdp4xtI2Qk-3IqX6u0p42QhMZov6-WDdu2vGVTyT1D0ZNbxeEAEvGFyyRjFluOIyHCqI-fv3QYNHDXexxWlLDRZPeRy5wuxJiXwC-kTcCCStDmipuBaPp0lDpR0pXUPcCCyp0qC9s0mCzu3Fm09EW1bOW14v0uFiZ8lLgQk6qR3A26E7AWFR2wGoO2oYCc1m2cgWHNpGiHP1gZpOI2Vt2h5MJjk9LHP9pKIS1NWJONboTg-HOksqkLZL4zKO9Db1ujoZG3sX7CUAVGNyyY-SxV_BZn6nuHVa77x45A0knutap5I4C6Y5Xo-XXX2a80vXeEJpkUjzrY4GZUqX4D9-GmpKlBOOjFD4rxiP-0WnBhDZ23JlHbprfzmO29jj1_5GUKP8fou0toeqlUwZOOrS0uOJ451AzuOWx-oLLoN_1m00" target="_blank">
+    Ver Diagrama del Personnel
+  </a>
+</p>
+<p>Diagrama de clases del boundend context FleetManagment: 
+  <a href="https://editor.plantuml.com/uml/fLbBRnit4BuBq7_OMq_PIz6U0Y7ognLG8wxi94U1MOtaRQXTWQGC2At_U_SjBdU672e631lBxniE7pCSVloaZL3cT93psL5aFyGU4baQyUlllwLFKfXTgGxfyccL2Dr_t_JVD_NtV-UpfFhfkGyIm3oAelh_08Nfcst8ydYKUIPCNXRfgZ2W2Y5hymvrO-4s0ywoPzkyBGy7KMoVGRtb6MWNLlzaKcYTt2eG1fgkEiwVrQy4HH6-7BTnX3kG44LeNVeAhtac8SQfACfIwtnVT9INCkZVEpxHVvz0dSFJ_0UOfPHD9xgX1Bohy0tuvhpQCl7BpEHlxJp7zV1oFWAt3ocx6UEEeeD7ZAFluERS-1VDMnMF8g_2en15nXrNpxqxmKEfkkMakTPUU9_6yrrvg1n87yije77Sjc_QTY9-b_kzWdsrfprxgh6RVFmuODTbQHOB2jwDCKGWzdaN6b6PX9z2-BaZ9cd4P0k_1poi9wKmANUg2c4Lu_vZBg5Q7vH2BENzMxKBFGlP3xQPqMs3PgV2F2e9HcGQbWTVXJp1v-__GEORtrzLR1SQwbCRlB5L9yR093qV8SjttQbCORirkYA7hE5OwjoKsBpMEKxjH0R9gl5sm9v9NESqXaHyM1Kx9RHHfyoS5AHFe7IkgxoQGNh_SElrpPf4ogtHDB8zweQYq_NzymjT_1H6bR9Asw7igI_Gm4AJI68hha6N9-Mj2RhfQN6Ch1g2Mcar11scdTCv4pnAIo7mAE_nB7THX8E9LNXHej1rQSvSXGTL7kuBavjpvI0SlWUhL3l7r-JUK90-FGEZwCxCHVizFj2kyFmd38pM_deFnYSVmy0qurP_nhUrvrUXO9kEAZXhvrYfT7BWMctMWVNkiqzbKClKZT1eShGWNuhSVDvzAzMFeSjcNBzq1Q9r-MpxJTfnhK4sfvP-pOzwFcl1QRf02xbBArQyNLgnWcq-wqlFYtMteB8HU7bc8_2Yp4PuIp4Fq2d0IBVSiii6ZkiBkmKl6cp4K2hq7pzyMDZ5o7pc7lODhVbMjKsEKxlRRfr6ZVyjaEe1ir83aSCQtMQMK94CGeMptKZTWTo2DAEUe-aeIA62tCOq0--1L3R8KA0PU0_zg55bmnDEFbRJ4xAK7Wt54vO-5jLJM7e9np33nazqJwq69UCq_YBN6nAFTq2fFZIS47s2zbtD9p1YJFInnkpSr3mSQarefOX1mQKY3f7KYZXaKYmYoMYs72urINEdmOvbw_BHsFQ8jYZUezcYU8zaY-9fTPE24-8cQPtIDWFsfz8cGd4EdCi50qMYjomKwM2m4mojMYDEG1R_uWBpqX5nGBBupZnvBYtOlF4vdDNrNnT2Atu5Eto_70ekFCo9Lms2utq98JYSfn22wdiJe2daeq2GGhqAX8cUPu4msVCkWD8dbTbbEnDeGZqXq8HyuhKzqKy8zCGgNaw6KW-d96NQS1COrmY_OcNQk3Z2rZ0YAzauK-x4C2IHy5Ns6bFKtWgbRMe7CtdSwFEdRKv4NcKXGkZYHEvL5ZX2OLsMjifKeaAtz4uAy9G4Bc9QJBe8RAtmVlmOJ1PoCPvG3417qf3NlV5wkL3aLjX1wElJ682AG7MxgnQYUX06n3IbaR282qiZo2SejgU3_1y0" target="_blank">
+    Ver Diagrama del FleetManagment
+  </a>
+</p>
     <p>Diagrama de clases de la base de datos: 
   <a href="https://editor.plantuml.com/uml/pLXDRziu4BqRy7_GRRDO5qYpo1wCegYgC8uGHp9a9rU2fcYR24MffEHDqFQ_xr2o8rccbJHsWRqayioG6hxvUjGNdHEL5udezrOyPWxbYWhMx_LxJEOyVtRMRCL1eftl_PxZ_CLZP-XmcJkVFarkFtysiaoGd85qJHHT4NLsSVwd4SyLaN53V5c9apHcObzCKv6gXlZlIipaaak6DLCSNDXVLIW5VkA42qQMnecOKPuGSVRnV71HcWYYGK_0PIQ9f0p7bRVcdz5BzhIhVqnisomA9d3-d9cbJ1R9sOZeL81l0-SAN6DYu8mdeu7Z1QFI7c3D2xqr3YSeScT-6BZZWHE40TuHtBc1Eq9tA9ZLhw8a8zJWR_65AWREnvZaeCrvmk1bIMOqHHPRDJyR0MsSjIEe5CAq7rDBg67DzMPD4qK35MxikxKfqwqP0-Db5UdO9ixJd00QgSvjIEoYFFLkqDNz65qD73_0aoWSHMWwXPY4TvCncXcvvmOU0ejoTJg7l5gJdAVIx9539fGWWjJc-ibWBy7fm5wIf0don_CA_9XfgdXct6ruUpgl5ACCjkzmh6bj0MYpmKwP-C53w7jeu7prnv3g4VAGFvaDd71sWw8gXktQljXs1AXjo3U-Plk5huii4zmU9rtCowon9SoQMFFeeFrnw6wzx81qNcXe8bhZLj0lBYyhpyXJTSOMEYIE5Inh94AsIgKjRHX4JLZaD9KveJdEmByoeze6pJ1E9sw4CFoPGJrDKVG0COMdhn16Io6wtin_GAOAgwVJTYsS4_tu_YpD6Lr9JZcHDgszo7QFDq71bH-C3dMP3RhsZdKS2hNl7UTV54BifzC_LPmoS8Y8Sgwqu_sh2VJROsuQyJlFASkk3fF3LZig5I-9JUA4IwvpHV9K3HoYDVmWCXz06acW522B5RGWLK44-dzJ5LiAzRYZbZDVfCkEuswdOcj0jWRrvLi6jKXfcgIcisvxTNsQce80_1RmNcSdhtCojbX04ZD9hHiKaaDNKfnQrnvirLqZGR455xlyBOpyaQdVq0zW75tVep6Eq7KvfEhPT80X71Vh3QF6SKgB16I_HgsRdQpPe4CNZZ53tatWU-uO-y5qWZp3CA4p-P5tFoxf9lRS26YGqVbW1Ipqpf-PeftUHuOQDG-_zG_3_dEcB1s0Qrti4Mhsb75LGjRM67CkbtY3mtuDGP1iC_2tHA4v9OXWwZHXc4Je0NWyz3zyvq9ceM23gZ_6teqRZ0mJYjnR1B-GTmiHyoCpIAz2x_xb0j1HEQMdRLmFJASWdFdNlc6zy8fm_B37VuyaDnbH36U6plz_-6pjrAdyQHtJrbsw6zQs7-eyfO_LsYh8aYT5qXQNUwKBd32Y2sLpyvI4_rl15Nkb1xr2fnhuMBJV2h8jzkO13uBLnTsFp0owOd7H-I5ZQzAkh_VSXMj-lfTc9PsmyQaLppAh1YvMF8DvcLkprc0FgO8tvA3bfccTd1xIrgljdps80c-1HjcrQmvDcMhxc8Pv2wE0ISsi1YADbp0CRAhJzli_dAYyHi9c0B3kzrw-QFtuyU53-dttWyYmkXTnQJ7S7zn3PqKiXZMR6vRFtI_TZfzXrTqjndNk3kldVc_7SSk-BnVwZPklsLVtgg6pwGjlUaEZWmmToLYyksep6WuWBGpTNd3pfkRDfiCrg8z5gX9OK5qEx1ilcMH0GSo-zHMy6w2IojZicx7SA8rPU_Xj8zMOF-27Iejin_ejA1hUZUVF_TuN9kCY4Vy1" target="_blank">
     Ver Diagrama de la base de datos
