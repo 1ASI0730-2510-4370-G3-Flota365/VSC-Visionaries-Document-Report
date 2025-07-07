@@ -1796,10 +1796,13 @@ Asimismo, se preseta el Gitflow de las distintas ramas que se han trabajado para
     <td>Resolver incidencias</td>
     <td>T4.8</td>
     <td>Filtro y cambio de estado</td>
-    <
-
-
+    <td>Agregar filtros y opción de cambiar estado a "resuelto" o "pendiente".</td>
+    <td>3</td>
+    <td>Guillermo Tantaleán</td>
+    <td>Done</td>
+  </tr>
 </table>
+
 
 <h4 id="developmentEvidenceSprint4">5.2.4.4. Development Evidence for Sprint Review</h4>
 
