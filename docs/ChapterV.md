@@ -2474,3 +2474,4 @@ Es por ello que, a continuación, se detallarán las preguntas y los principales
   </a>
 </p>
 
+Video - Exposición TF - VSC Visionaries: <a href="https://youtu.be/ie8oINAaRW8">https://youtu.be/ie8oINAaRW8</a>
